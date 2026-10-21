@@ -1,0 +1,617 @@
+elementId,uniqueId,category,family,type,changes,locationBefore,locationAfter,locationDistanceMm,volumeM3Before,volumeM3After,faceCountBefore,faceCountAfter
+31,933c4a06-93b8-11d3-80f8-00c04f8efc32-0000001f,<none>,Floor Plan,Architectural Plan,parameters,,,,0.0,0.0,0,0
+35,933c4a06-93b8-11d3-80f8-00c04f8efc32-00000023,<none>,Ceiling Plan,Architectural Ceiling Plan,parameters,,,,0.0,0.0,0,0
+29152,5f835dbc-9347-11d5-93d5-0000863f27ad-000071e0,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+29153,5f835dbc-9347-11d5-93d5-0000863f27ad-000071e1,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+29157,5f835dbc-9347-11d5-93d5-0000863f27ad-000071e5,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+29162,5f835dbc-9347-11d5-93d5-0000863f27ad-000071ea,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+29167,5f835dbc-9347-11d5-93d5-0000863f27ad-000071ef,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+29176,5f835dbc-9347-11d5-93d5-0000863f27ad-000071f8,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+29185,5f835dbc-9347-11d5-93d5-0000863f27ad-00007201,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+29194,5f835dbc-9347-11d5-93d5-0000863f27ad-0000720a,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+29236,d98f349a-9aef-11d5-93e2-0000863f27ad-00007234,<none>,Floor Plan,Roof Plan,parameters,,,,0.0,0.0,0,0
+137421,afa12384-935a-4c35-855a-9f34dd2153ec-000218cd,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137422,afa12384-935a-4c35-855a-9f34dd2153ec-000218ce,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137423,afa12384-935a-4c35-855a-9f34dd2153ec-000218cf,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137424,afa12384-935a-4c35-855a-9f34dd2153ec-000218d0,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137425,afa12384-935a-4c35-855a-9f34dd2153ec-000218d1,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137426,afa12384-935a-4c35-855a-9f34dd2153ec-000218d2,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137427,afa12384-935a-4c35-855a-9f34dd2153ec-000218d3,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137428,afa12384-935a-4c35-855a-9f34dd2153ec-000218d4,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137429,afa12384-935a-4c35-855a-9f34dd2153ec-000218d5,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137430,afa12384-935a-4c35-855a-9f34dd2153ec-000218d6,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137431,afa12384-935a-4c35-855a-9f34dd2153ec-000218d7,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137432,afa12384-935a-4c35-855a-9f34dd2153ec-000218d8,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137433,afa12384-935a-4c35-855a-9f34dd2153ec-000218d9,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137434,afa12384-935a-4c35-855a-9f34dd2153ec-000218da,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137435,afa12384-935a-4c35-855a-9f34dd2153ec-000218db,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137436,afa12384-935a-4c35-855a-9f34dd2153ec-000218dc,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137437,afa12384-935a-4c35-855a-9f34dd2153ec-000218dd,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137438,afa12384-935a-4c35-855a-9f34dd2153ec-000218de,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137439,afa12384-935a-4c35-855a-9f34dd2153ec-000218df,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137440,afa12384-935a-4c35-855a-9f34dd2153ec-000218e0,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137441,afa12384-935a-4c35-855a-9f34dd2153ec-000218e1,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137442,afa12384-935a-4c35-855a-9f34dd2153ec-000218e2,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137443,afa12384-935a-4c35-855a-9f34dd2153ec-000218e3,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137444,afa12384-935a-4c35-855a-9f34dd2153ec-000218e4,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137445,afa12384-935a-4c35-855a-9f34dd2153ec-000218e5,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137446,afa12384-935a-4c35-855a-9f34dd2153ec-000218e6,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137447,afa12384-935a-4c35-855a-9f34dd2153ec-000218e7,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137448,afa12384-935a-4c35-855a-9f34dd2153ec-000218e8,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137449,afa12384-935a-4c35-855a-9f34dd2153ec-000218e9,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137450,afa12384-935a-4c35-855a-9f34dd2153ec-000218ea,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137451,afa12384-935a-4c35-855a-9f34dd2153ec-000218eb,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137452,afa12384-935a-4c35-855a-9f34dd2153ec-000218ec,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137453,afa12384-935a-4c35-855a-9f34dd2153ec-000218ed,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137454,afa12384-935a-4c35-855a-9f34dd2153ec-000218ee,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137455,afa12384-935a-4c35-855a-9f34dd2153ec-000218ef,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137456,afa12384-935a-4c35-855a-9f34dd2153ec-000218f0,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137457,afa12384-935a-4c35-855a-9f34dd2153ec-000218f1,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137458,afa12384-935a-4c35-855a-9f34dd2153ec-000218f2,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137459,afa12384-935a-4c35-855a-9f34dd2153ec-000218f3,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137460,afa12384-935a-4c35-855a-9f34dd2153ec-000218f4,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137461,afa12384-935a-4c35-855a-9f34dd2153ec-000218f5,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137462,afa12384-935a-4c35-855a-9f34dd2153ec-000218f6,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137463,afa12384-935a-4c35-855a-9f34dd2153ec-000218f7,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137464,afa12384-935a-4c35-855a-9f34dd2153ec-000218f8,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137465,afa12384-935a-4c35-855a-9f34dd2153ec-000218f9,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137466,afa12384-935a-4c35-855a-9f34dd2153ec-000218fa,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137467,afa12384-935a-4c35-855a-9f34dd2153ec-000218fb,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137468,afa12384-935a-4c35-855a-9f34dd2153ec-000218fc,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137469,afa12384-935a-4c35-855a-9f34dd2153ec-000218fd,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137470,afa12384-935a-4c35-855a-9f34dd2153ec-000218fe,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137471,afa12384-935a-4c35-855a-9f34dd2153ec-000218ff,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137472,afa12384-935a-4c35-855a-9f34dd2153ec-00021900,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137473,afa12384-935a-4c35-855a-9f34dd2153ec-00021901,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137474,afa12384-935a-4c35-855a-9f34dd2153ec-00021902,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137475,afa12384-935a-4c35-855a-9f34dd2153ec-00021903,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137476,afa12384-935a-4c35-855a-9f34dd2153ec-00021904,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137477,afa12384-935a-4c35-855a-9f34dd2153ec-00021905,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137478,afa12384-935a-4c35-855a-9f34dd2153ec-00021906,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137479,afa12384-935a-4c35-855a-9f34dd2153ec-00021907,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137480,afa12384-935a-4c35-855a-9f34dd2153ec-00021908,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137481,afa12384-935a-4c35-855a-9f34dd2153ec-00021909,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137482,afa12384-935a-4c35-855a-9f34dd2153ec-0002190a,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137483,afa12384-935a-4c35-855a-9f34dd2153ec-0002190b,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137484,afa12384-935a-4c35-855a-9f34dd2153ec-0002190c,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137485,afa12384-935a-4c35-855a-9f34dd2153ec-0002190d,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137486,afa12384-935a-4c35-855a-9f34dd2153ec-0002190e,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137487,afa12384-935a-4c35-855a-9f34dd2153ec-0002190f,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137488,afa12384-935a-4c35-855a-9f34dd2153ec-00021910,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137489,afa12384-935a-4c35-855a-9f34dd2153ec-00021911,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137490,afa12384-935a-4c35-855a-9f34dd2153ec-00021912,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137491,afa12384-935a-4c35-855a-9f34dd2153ec-00021913,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137492,afa12384-935a-4c35-855a-9f34dd2153ec-00021914,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137493,afa12384-935a-4c35-855a-9f34dd2153ec-00021915,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137494,afa12384-935a-4c35-855a-9f34dd2153ec-00021916,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137495,afa12384-935a-4c35-855a-9f34dd2153ec-00021917,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137496,afa12384-935a-4c35-855a-9f34dd2153ec-00021918,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137497,afa12384-935a-4c35-855a-9f34dd2153ec-00021919,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137498,afa12384-935a-4c35-855a-9f34dd2153ec-0002191a,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137499,afa12384-935a-4c35-855a-9f34dd2153ec-0002191b,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137500,afa12384-935a-4c35-855a-9f34dd2153ec-0002191c,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137501,afa12384-935a-4c35-855a-9f34dd2153ec-0002191d,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137502,afa12384-935a-4c35-855a-9f34dd2153ec-0002191e,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137503,afa12384-935a-4c35-855a-9f34dd2153ec-0002191f,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137504,afa12384-935a-4c35-855a-9f34dd2153ec-00021920,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137505,afa12384-935a-4c35-855a-9f34dd2153ec-00021921,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137506,afa12384-935a-4c35-855a-9f34dd2153ec-00021922,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137507,afa12384-935a-4c35-855a-9f34dd2153ec-00021923,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137508,afa12384-935a-4c35-855a-9f34dd2153ec-00021924,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137509,afa12384-935a-4c35-855a-9f34dd2153ec-00021925,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137510,afa12384-935a-4c35-855a-9f34dd2153ec-00021926,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137511,afa12384-935a-4c35-855a-9f34dd2153ec-00021927,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137512,afa12384-935a-4c35-855a-9f34dd2153ec-00021928,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137513,afa12384-935a-4c35-855a-9f34dd2153ec-00021929,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137514,afa12384-935a-4c35-855a-9f34dd2153ec-0002192a,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137515,afa12384-935a-4c35-855a-9f34dd2153ec-0002192b,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137516,afa12384-935a-4c35-855a-9f34dd2153ec-0002192c,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137517,afa12384-935a-4c35-855a-9f34dd2153ec-0002192d,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137518,afa12384-935a-4c35-855a-9f34dd2153ec-0002192e,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137519,afa12384-935a-4c35-855a-9f34dd2153ec-0002192f,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137520,afa12384-935a-4c35-855a-9f34dd2153ec-00021930,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137521,afa12384-935a-4c35-855a-9f34dd2153ec-00021931,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137522,afa12384-935a-4c35-855a-9f34dd2153ec-00021932,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137523,afa12384-935a-4c35-855a-9f34dd2153ec-00021933,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137524,afa12384-935a-4c35-855a-9f34dd2153ec-00021934,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137525,afa12384-935a-4c35-855a-9f34dd2153ec-00021935,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137526,afa12384-935a-4c35-855a-9f34dd2153ec-00021936,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137527,afa12384-935a-4c35-855a-9f34dd2153ec-00021937,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137528,afa12384-935a-4c35-855a-9f34dd2153ec-00021938,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137529,afa12384-935a-4c35-855a-9f34dd2153ec-00021939,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137530,afa12384-935a-4c35-855a-9f34dd2153ec-0002193a,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137531,afa12384-935a-4c35-855a-9f34dd2153ec-0002193b,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137532,afa12384-935a-4c35-855a-9f34dd2153ec-0002193c,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137533,afa12384-935a-4c35-855a-9f34dd2153ec-0002193d,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137534,afa12384-935a-4c35-855a-9f34dd2153ec-0002193e,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137535,afa12384-935a-4c35-855a-9f34dd2153ec-0002193f,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137536,afa12384-935a-4c35-855a-9f34dd2153ec-00021940,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137537,afa12384-935a-4c35-855a-9f34dd2153ec-00021941,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137538,afa12384-935a-4c35-855a-9f34dd2153ec-00021942,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137539,afa12384-935a-4c35-855a-9f34dd2153ec-00021943,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137540,afa12384-935a-4c35-855a-9f34dd2153ec-00021944,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137541,afa12384-935a-4c35-855a-9f34dd2153ec-00021945,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137542,afa12384-935a-4c35-855a-9f34dd2153ec-00021946,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137543,afa12384-935a-4c35-855a-9f34dd2153ec-00021947,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137544,afa12384-935a-4c35-855a-9f34dd2153ec-00021948,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137545,afa12384-935a-4c35-855a-9f34dd2153ec-00021949,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137546,afa12384-935a-4c35-855a-9f34dd2153ec-0002194a,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137547,afa12384-935a-4c35-855a-9f34dd2153ec-0002194b,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137548,afa12384-935a-4c35-855a-9f34dd2153ec-0002194c,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137549,afa12384-935a-4c35-855a-9f34dd2153ec-0002194d,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137550,afa12384-935a-4c35-855a-9f34dd2153ec-0002194e,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137551,afa12384-935a-4c35-855a-9f34dd2153ec-0002194f,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137552,afa12384-935a-4c35-855a-9f34dd2153ec-00021950,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137553,afa12384-935a-4c35-855a-9f34dd2153ec-00021951,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137554,afa12384-935a-4c35-855a-9f34dd2153ec-00021952,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137555,afa12384-935a-4c35-855a-9f34dd2153ec-00021953,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137556,afa12384-935a-4c35-855a-9f34dd2153ec-00021954,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137557,afa12384-935a-4c35-855a-9f34dd2153ec-00021955,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137558,afa12384-935a-4c35-855a-9f34dd2153ec-00021956,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137559,afa12384-935a-4c35-855a-9f34dd2153ec-00021957,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137560,afa12384-935a-4c35-855a-9f34dd2153ec-00021958,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137561,afa12384-935a-4c35-855a-9f34dd2153ec-00021959,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137562,afa12384-935a-4c35-855a-9f34dd2153ec-0002195a,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137563,afa12384-935a-4c35-855a-9f34dd2153ec-0002195b,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137564,afa12384-935a-4c35-855a-9f34dd2153ec-0002195c,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137565,afa12384-935a-4c35-855a-9f34dd2153ec-0002195d,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137566,afa12384-935a-4c35-855a-9f34dd2153ec-0002195e,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137567,afa12384-935a-4c35-855a-9f34dd2153ec-0002195f,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137568,afa12384-935a-4c35-855a-9f34dd2153ec-00021960,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137569,afa12384-935a-4c35-855a-9f34dd2153ec-00021961,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137570,afa12384-935a-4c35-855a-9f34dd2153ec-00021962,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137571,afa12384-935a-4c35-855a-9f34dd2153ec-00021963,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137572,afa12384-935a-4c35-855a-9f34dd2153ec-00021964,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137573,afa12384-935a-4c35-855a-9f34dd2153ec-00021965,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137574,afa12384-935a-4c35-855a-9f34dd2153ec-00021966,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137575,afa12384-935a-4c35-855a-9f34dd2153ec-00021967,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137576,afa12384-935a-4c35-855a-9f34dd2153ec-00021968,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137577,afa12384-935a-4c35-855a-9f34dd2153ec-00021969,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137578,afa12384-935a-4c35-855a-9f34dd2153ec-0002196a,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+147648,81e8c055-feb8-47ec-83c2-0a9c04e72d9b-000240c0,<none>,,,parameters,,,,0.0,0.0,0,0
+359503,6b9d0ab2-a90b-4bab-9042-0933c471b66b-00057c4f,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+359507,6b9d0ab2-a90b-4bab-9042-0933c471b66b-00057c53,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+359517,6b9d0ab2-a90b-4bab-9042-0933c471b66b-00057c5d,Viewports,Viewport,Title Only,parameters,,,,0.0,0.0,0,0
+1248670,d981e43c-c914-4f17-9d3c-8d49fef2226e-00130d9e,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+1248674,d981e43c-c914-4f17-9d3c-8d49fef2226e-00130da2,Title Blocks,TLB_TFCF_Cover_30x42,TLB_TFCF_Cover_30x42,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+1249314,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-00131022,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+1249318,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-00131026,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+1249342,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-0013103e,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+1249346,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-00131042,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+1249370,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-0013105a,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+1249405,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-0013107d,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+1249410,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-00131082,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+1249415,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-00131087,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+1249420,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-0013108c,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+1252620,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d0c,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+1252629,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d15,Viewports,Viewport,Title Only,parameters,,,,0.0,0.0,0,0
+1252630,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d16,Viewports,Viewport,Title Only,parameters,,,,0.0,0.0,0,0
+1252631,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d17,Viewports,Viewport,Title Only,parameters,,,,0.0,0.0,0,0
+1252632,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d18,Viewports,Viewport,Title Only,parameters,,,,0.0,0.0,0,0
+1252633,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d19,Viewports,Viewport,Title Only,parameters,,,,0.0,0.0,0,0
+1254991,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-0013264f,<none>,Floor Plan,Architectural Plan,parameters,,,,0.0,0.0,0,0
+1255004,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-0013265c,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+1255008,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-00132660,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+1255009,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-00132661,Viewports,Viewport,Title Only,parameters,,,,0.0,0.0,0,0
+1322003,071749e9-d4a0-4622-bea0-3ca18248a7e0-00142c13,Walls,Basic Wall,Exterior - Stucco on Wood Stud,geometry,"[3881.117, 12191.6785, 0.0]","[3881.117, 12191.6785, 0.0]",0.0,3.103,3.103,21,21
+1322005,071749e9-d4a0-4622-bea0-3ca18248a7e0-00142c15,Walls,Basic Wall,Exterior - Stucco on Wood Stud,geometry,"[-1643.383, 4479.6035, 0.0]","[-1643.383, 4479.6035, 0.0]",0.0,4.582,4.582,25,25
+1322006,071749e9-d4a0-4622-bea0-3ca18248a7e0-00142c16,Walls,Basic Wall,Exterior - Stucco on Wood Stud,geometry,"[1839.592, -694.059, 0.0]","[1839.592, -694.059, 0.0]",0.0,2.552,2.552,22,22
+1322007,071749e9-d4a0-4622-bea0-3ca18248a7e0-00142c17,Walls,Basic Wall,Exterior - Stucco on Wood Stud,geometry,"[5322.567, -3689.6715, 0.0]","[5322.567, -3689.6715, 0.0]",0.0,3.918,3.918,21,21
+1328978,03e64940-634d-4290-9377-e05befb8b6fd-00144752,<none>,Floor Plan,Roof Plan,parameters,,,,0.0,0.0,0,0
+1328988,03e64940-634d-4290-9377-e05befb8b6fd-0014475c,<none>,Floor Plan,Roof Plan,parameters,,,,0.0,0.0,0,0
+1351419,93bc5a3b-427c-4736-8176-9cfedd2bef7c-00149efb,<none>,Floor Plan,Architectural Plan,parameters,,,,0.0,0.0,0,0
+1351476,93bc5a3b-427c-4736-8176-9cfedd2bef7c-00149f34,<none>,Floor Plan,Architectural Plan,parameters,,,,0.0,0.0,0,0
+1402528,9946db8c-a7b1-4550-b8ae-4577dfb3e660-001566a0,Views,Section,Building Section,parameters,,,,0.0,0.0,0,0
+1451579,bdd98716-ce7e-41fd-a26a-cdd21a286ac3-0016263b,Elevations,Elevation,Interior Elevation,parameters,,,,0.0,0.0,0,0
+1451580,bdd98716-ce7e-41fd-a26a-cdd21a286ac3-0016263c,Views,Elevation,Interior Elevation,parameters,,,,0.0,0.0,0,0
+1481877,5d7a6188-4ee0-4944-989f-a5d0600141c5-00169c95,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1481878,5d7a6188-4ee0-4944-989f-a5d0600141c5-00169c96,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1623833,ce41fcb1-184e-47c1-8270-7317318941f6-0018c719,Title Blocks,TLB_TFCF_30x42 - CD w Grid,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+1623840,ce41fcb1-184e-47c1-8270-7317318941f6-0018c720,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+1623841,ce41fcb1-184e-47c1-8270-7317318941f6-0018c721,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+1623842,ce41fcb1-184e-47c1-8270-7317318941f6-0018c722,Title Blocks,TLB_TFCF_30x42 - CD w Grid,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+1809977,4ec5e200-7ca2-4b18-9279-2b0d9d4393b7-001b9e39,Elevations,Elevation,Interior Elevation,parameters,,,,0.0,0.0,0,0
+1809978,4ec5e200-7ca2-4b18-9279-2b0d9d4393b7-001b9e3a,Views,Elevation,Interior Elevation,parameters,,,,0.0,0.0,0,0
+1884714,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc22a,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1884715,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc22b,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1884729,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc239,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1884730,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc23a,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1884740,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc244,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+1884744,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc248,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+1884753,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc251,Viewports,Viewport,Title Only,parameters,,,,0.0,0.0,0,0
+1884754,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc252,Viewports,Viewport,Title Only,parameters,,,,0.0,0.0,0,0
+1884763,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc25b,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1884764,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc25c,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1884778,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc26a,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1884779,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc26b,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1884789,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc275,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+1884793,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc279,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+1884802,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc282,Viewports,Viewport,Title Only,parameters,,,,0.0,0.0,0,0
+1884803,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc283,Viewports,Viewport,Title Only,parameters,,,,0.0,0.0,0,0
+1884812,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc28c,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1884813,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc28d,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1884822,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc296,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1884823,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc297,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1884832,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2a0,Viewports,Viewport,Title Only,parameters,,,,0.0,0.0,0,0
+1884833,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2a1,Viewports,Viewport,Title Only,parameters,,,,0.0,0.0,0,0
+1884856,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2b8,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1884857,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2b9,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1884866,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2c2,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1884867,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2c3,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+1884876,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2cc,Viewports,Viewport,Title Only,parameters,,,,0.0,0.0,0,0
+1884877,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2cd,Viewports,Viewport,Title Only,parameters,,,,0.0,0.0,0,0
+1934770,4c2e3bc4-c692-4d51-80d9-a503a8f55fc3-001d85b2,Elevations,Elevation,Interior Elevation,parameters,,,,0.0,0.0,0,0
+1934771,4c2e3bc4-c692-4d51-80d9-a503a8f55fc3-001d85b3,Views,Elevation,Interior Elevation,parameters,,,,0.0,0.0,0,0
+1945245,c3967d20-7da6-4a4e-af8c-56f9e4bb1ee9-001dae9d,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+1945248,c3967d20-7da6-4a4e-af8c-56f9e4bb1ee9-001daea0,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+1965173,de944760-147d-42dc-972e-82a6e8e04edb-001dfc75,Walls,Basic Wall,"Interior - 6"" Shaft - WD Stud GWB 1 Side",geometry,"[-1156.7675, -8465.6185, 0.0]","[-1156.7675, -8465.6185, 0.0]",0.0,0.261,0.261,10,10
+1974638,e901d7aa-b640-4399-bdd4-2113816d4471-001e216e,Views,Elevation,Interior Elevation,parameters,,,,0.0,0.0,0,0
+2014643,ce25f105-9bb9-4e2c-9aa0-58eff2828607-001ebdb3,Walls,Basic Wall,Exterior - Stucco on Wood Stud,geometry,"[3881.117, 12191.6785, 0.0]","[3881.117, 12191.6785, 0.0]",0.0,3.982,3.982,18,18
+2014648,ce25f105-9bb9-4e2c-9aa0-58eff2828607-001ebdb8,Walls,Basic Wall,Exterior - Stucco on Wood Stud,geometry,"[3469.9545, -6685.284, 0.0]","[3469.9545, -6685.284, 0.0]",0.0,1.644,1.644,23,23
+2033718,3f2ea3b7-6a28-4d03-9223-cace66aa20f6-001f0836,Walls,Basic Wall,Exterior - Stucco on Wood Stud,geometry,"[-1419.5454999999997, 14730.091, 0.0]","[-1419.5454999999997, 14730.091, 0.0]",0.0,5.407,5.407,20,20
+2033719,3f2ea3b7-6a28-4d03-9223-cace66aa20f6-001f0837,Walls,Basic Wall,Exterior - Stucco on Wood Stud,geometry,"[3881.117, 12191.6785, 0.0]","[3881.117, 12191.6785, 0.0]",0.0,3.776,3.776,19,19
+2033721,3f2ea3b7-6a28-4d03-9223-cace66aa20f6-001f0839,Walls,Basic Wall,Exterior - Stucco on Wood Stud,geometry,"[-1643.383, 4479.6035, 0.0]","[-1643.383, 4479.6035, 0.0]",0.0,4.603,4.603,30,30
+2033722,3f2ea3b7-6a28-4d03-9223-cace66aa20f6-001f083a,Walls,Basic Wall,Exterior - Stucco on Wood Stud,geometry,"[1839.592, -694.059, 0.0]","[1839.592, -694.059, 0.0]",0.0,2.908,2.908,20,20
+2104903,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e47,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+2104906,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e4a,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+2104917,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e55,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+2104920,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e58,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+2104930,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e62,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2104931,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e63,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2113637,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204065,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+2113640,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204068,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+2113651,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204073,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+2113654,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204076,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+2113664,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204080,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2113665,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204081,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2113670,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204086,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+2113673,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204089,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+2113683,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204093,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2114254,85cf3eea-0c67-45e9-83b6-2d53ade063d3-002042ce,<none>,Ceiling Plan,Architectural Ceiling Plan,parameters,,,,0.0,0.0,0,0
+2115927,85cf3eea-0c67-45e9-83b6-2d53ade063d3-00204957,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2116072,bba81d42-0a94-434c-8b81-65a24db7322a-002049e8,Views,Section,Building Section,parameters,,,,0.0,0.0,0,0
+2116084,bba81d42-0a94-434c-8b81-65a24db7322a-002049f4,Views,Section,Building Section,parameters,,,,0.0,0.0,0,0
+2116096,bba81d42-0a94-434c-8b81-65a24db7322a-00204a00,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2116097,bba81d42-0a94-434c-8b81-65a24db7322a-00204a01,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2116098,bba81d42-0a94-434c-8b81-65a24db7322a-00204a02,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2169013,5fb731a2-7971-486c-9f4b-7633a37ae3f7-002118b5,Views,Elevation,Interior Elevation,parameters,,,,0.0,0.0,0,0
+2393513,049b68f4-3b73-4f4d-901f-6a27906707e4-002485a9,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2393514,049b68f4-3b73-4f4d-901f-6a27906707e4-002485aa,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2393515,049b68f4-3b73-4f4d-901f-6a27906707e4-002485ab,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2393516,049b68f4-3b73-4f4d-901f-6a27906707e4-002485ac,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2393517,049b68f4-3b73-4f4d-901f-6a27906707e4-002485ad,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2670292,0dc6df93-9be1-4387-802b-ed2e79d4231d-0028bed4,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+2670295,0dc6df93-9be1-4387-802b-ed2e79d4231d-0028bed7,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+2701071,8bebd045-9069-4ef2-a198-e0bc3e10b352-0029370f,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+2701072,8bebd045-9069-4ef2-a198-e0bc3e10b352-00293710,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+2785015,69dbd822-03aa-4422-bbb6-e4c13815d286-002a7ef7,Toposolid,Toposolid,"Grassland - 16""","geometry,parameters",,,,8697.539,8797.132,405,433
+2785467,9174545e-0d35-43ac-9910-2fcfa6641753-002a80bb,Sub-divisions,Toposolid,"Path - 12"" Asphalt","category,level,parameters",,,,168.217,168.217,81,81
+2786184,99be27a2-81ff-4649-b5db-1b806932ebba-002a8388,Floors,Floor,"Generic - 48""",parameters,,,,293.306,293.306,12,12
+2786373,99be27a2-81ff-4649-b5db-1b806932ebba-002a8445,Floors,Floor,"Generic - 48""",parameters,,,,327.116,327.116,10,10
+2786712,99be27a2-81ff-4649-b5db-1b806932ebba-002a8598,Floors,Floor,"Concrete 10""",parameters,,,,25.175,25.175,6,6
+2789713,1446d317-ed1a-48ed-be17-9659417a3c74-002a9151,<Sketch>,,,parameters,"[5.673999999999978, -9090.346, 0.0]","[5.673999999999978, -9090.346, 0.0]",0.0,0.0,0.0,0,0
+2790315,1446d317-ed1a-48ed-be17-9659417a3c74-002a93ab,Floors,Floor,"Concrete 6""",parameters,,,,1.555,1.555,10,10
+2804381,14f82e1d-3629-4549-9a48-624cad0fa56f-002aca9d,Cameras,3D View,3D View,parameters,,,,0.0,0.0,0,0
+2804391,14f82e1d-3629-4549-9a48-624cad0fa56f-002acaa7,Cameras,3D View,3D View,parameters,,,,0.0,0.0,0,0
+2804401,14f82e1d-3629-4549-9a48-624cad0fa56f-002acab1,Cameras,3D View,3D View,parameters,,,,0.0,0.0,0,0
+2805214,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002acdde,<none>,Floor Plan,Architectural Plan,parameters,,,,0.0,0.0,0,0
+2805224,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002acde8,<none>,Floor Plan,Architectural Plan,parameters,,,,0.0,0.0,0,0
+2805234,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002acdf2,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2805256,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace08,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+2805260,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace0c,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+2805261,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace0d,Viewports,Viewport,Title Only,parameters,,,,0.0,0.0,0,0
+2805271,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace17,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2805301,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace35,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+2805305,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace39,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+2805306,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace3a,Viewports,Viewport,Title Only,parameters,,,,0.0,0.0,0,0
+2805316,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace44,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2822774,93d78f33-c0bb-4066-b270-b1b6671eb894-002b1276,Views,Section,Building Section,parameters,,,,0.0,0.0,0,0
+2824211,3a45c619-2acb-4b51-97d1-fbebdbc244ff-002b1813,Views,Section,Building Section,parameters,,,,0.0,0.0,0,0
+2836757,33ce253c-5524-4498-a964-73d54094e344-002b4915,Views,Section,Building Section,parameters,,,,0.0,0.0,0,0
+2839396,33ce253c-5524-4498-a964-73d54094e344-002b5364,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+2839399,33ce253c-5524-4498-a964-73d54094e344-002b5367,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+2839409,33ce253c-5524-4498-a964-73d54094e344-002b5371,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2839410,33ce253c-5524-4498-a964-73d54094e344-002b5372,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2839411,33ce253c-5524-4498-a964-73d54094e344-002b5373,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2899924,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c3fd4,Elevations,Elevation,Interior Elevation,parameters,,,,0.0,0.0,0,0
+2899925,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c3fd5,Views,Elevation,Interior Elevation,parameters,,,,0.0,0.0,0,0
+2899948,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c3fec,Views,Elevation,Interior Elevation,parameters,,,,0.0,0.0,0,0
+2900592,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c4270,Views,Elevation,Interior Elevation,parameters,,,,0.0,0.0,0,0
+2901399,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c4597,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2901400,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c4598,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2901401,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c4599,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2901402,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c459a,Elevations,Elevation,Interior Elevation,parameters,,,,0.0,0.0,0,0
+2901403,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c459b,Views,Elevation,Interior Elevation,parameters,,,,0.0,0.0,0,0
+2901424,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c45b0,Views,Elevation,Interior Elevation,parameters,,,,0.0,0.0,0,0
+2901775,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c470f,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2902363,b43093e4-805f-451a-85ea-bb741f42cbdd-002c495b,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2902856,b43093e4-805f-451a-85ea-bb741f42cbdd-002c4b48,<none>,Floor Plan,Site Plan,parameters,,,,0.0,0.0,0,0
+2902950,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4ba6,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2902954,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4baa,<none>,Floor Plan,Site Plan,parameters,,,,0.0,0.0,0,0
+2902965,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4bb5,<none>,Floor Plan,Site Plan,parameters,,,,0.0,0.0,0,0
+2902974,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4bbe,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2902975,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4bbf,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2905864,18eae490-c9b3-42ff-a6bb-9ce012d8483d-002c5708,Views,Section,Building Section,parameters,,,,0.0,0.0,0,0
+2909810,535cdd36-61b1-4420-bed0-0b1787ad7adf-002c6672,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2910230,e1d9ad60-5956-4745-8d99-2c6b52056298-002c6816,Elevations,Elevation,Interior Elevation,parameters,,,,0.0,0.0,0,0
+2910231,e1d9ad60-5956-4745-8d99-2c6b52056298-002c6817,Views,Elevation,Interior Elevation,parameters,,,,0.0,0.0,0,0
+2910446,e1d9ad60-5956-4745-8d99-2c6b52056298-002c68ee,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+2950598,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05c6,Analytical Spaces,,,parameters,,,,27.883,27.883,11,11
+2950599,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05c7,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950600,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05c8,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950601,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05c9,Analytical Spaces,,,parameters,,,,25.94,25.94,12,12
+2950602,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05ca,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950603,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05cb,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950604,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05cc,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950606,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05ce,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950607,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05cf,Analytical Spaces,,,parameters,,,,30.212,30.212,11,11
+2950608,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d0,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950609,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d1,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950610,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d2,Analytical Spaces,,,parameters,,,,21.32,21.32,6,6
+2950611,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d3,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950612,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d4,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950613,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d5,Analytical Spaces,,,parameters,,,,29.75,29.75,8,8
+2950614,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d6,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950615,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d7,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950616,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d8,Analytical Spaces,,,parameters,,,,29.104,29.104,8,8
+2950617,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d9,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950618,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05da,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950619,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05db,Analytical Spaces,,,parameters,,,,12.893,12.893,6,6
+2950620,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05dc,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950621,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05dd,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950622,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05de,Analytical Spaces,,,parameters,,,,14.523,14.523,6,6
+2950623,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05df,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950624,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e0,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950626,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e2,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950628,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e4,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950629,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e5,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950630,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e6,Analytical Spaces,,,parameters,,,,71.721,71.721,9,9
+2950631,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e7,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950632,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e8,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950633,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e9,Analytical Spaces,,,parameters,,,,7.58,7.58,6,6
+2950634,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05ea,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950635,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05eb,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950636,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05ec,Analytical Spaces,,,parameters,,,,3.234,3.234,5,5
+2950637,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05ed,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950638,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05ee,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950639,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05ef,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950640,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f0,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950641,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f1,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950642,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f2,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950643,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f3,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950644,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f4,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950645,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f5,Analytical Spaces,,,parameters,,,,24.864,24.864,12,12
+2950646,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f6,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950647,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f7,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950648,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f8,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950649,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f9,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950650,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05fa,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950651,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05fb,Analytical Spaces,,,parameters,,,,4.218,4.218,6,6
+2950652,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05fc,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950653,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05fd,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950654,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05fe,Analytical Spaces,,,parameters,,,,8.263,8.263,9,9
+2950655,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05ff,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950656,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0600,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950657,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0601,Analytical Spaces,,,parameters,,,,27.202,27.202,10,10
+2950658,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0602,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950659,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0603,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950660,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0604,Analytical Spaces,,,parameters,,,,12.036,12.036,8,8
+2950661,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0605,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950662,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0606,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950663,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0607,Analytical Spaces,,,parameters,,,,5.438,5.438,5,5
+2950664,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0608,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950665,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0609,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950666,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d060a,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950667,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d060b,Analytical Spaces,,,parameters,,,,4.887,4.887,10,10
+2950668,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d060c,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950669,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d060d,Analytical Spaces,,,parameters,,,,1.829,1.829,4,4
+2950670,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d060e,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950671,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d060f,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950672,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0610,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950673,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0611,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950674,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0612,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950675,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0613,Analytical Spaces,,,parameters,,,,5.154,5.154,6,6
+2950676,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0614,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950677,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0615,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950678,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0616,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950679,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0617,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950680,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0618,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950681,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0619,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950682,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d061a,Analytical Spaces,,,parameters,,,,2.286,2.286,5,5
+2950683,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d061b,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950684,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d061c,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950685,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d061d,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950686,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d061e,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950687,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d061f,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950688,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0620,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950689,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0621,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950690,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0622,Analytical Spaces,,,parameters,,,,8.954,8.954,11,11
+2950691,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0623,Analytical Spaces,,,parameters,,,,13.967,13.967,13,13
+2950692,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0624,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950693,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0625,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950694,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0626,Analytical Spaces,,,parameters,,,,12.671,12.671,7,7
+2950695,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0627,Analytical Spaces,,,parameters,,,,5.956,5.956,5,5
+2950696,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0628,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950697,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0629,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950698,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d062a,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950699,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d062b,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950700,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d062c,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950701,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d062d,Analytical Spaces,,,parameters,,,,0.947,0.947,4,4
+2950702,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d062e,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950703,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d062f,Analytical Spaces,,,parameters,,,,3.749,3.749,6,6
+2950704,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0630,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950705,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0631,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950706,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0632,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950707,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0633,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950708,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0634,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950709,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0635,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950710,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0636,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950711,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0637,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950712,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0638,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950713,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0639,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950714,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d063a,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950715,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d063b,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950716,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d063c,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950717,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d063d,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950718,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d063e,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950719,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d063f,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950720,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0640,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950721,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0641,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950722,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0642,Analytical Spaces,,,parameters,,,,2.883,2.883,4,4
+2950723,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0643,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950724,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0644,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950725,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0645,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950726,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0646,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950727,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0647,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950728,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0648,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950729,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0649,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950730,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d064a,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950731,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d064b,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950732,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d064c,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950733,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d064d,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950734,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d064e,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950735,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d064f,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950736,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0650,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950737,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0651,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950738,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0652,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950739,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0653,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950740,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0654,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950741,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0655,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950742,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0656,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950743,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0657,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950744,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0658,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950745,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0659,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950746,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d065a,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950747,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d065b,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950748,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d065c,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950749,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d065d,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950750,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d065e,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950751,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d065f,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950752,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0660,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950753,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0661,Analytical Spaces,,,parameters,,,,0.468,0.468,12,12
+2950754,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0662,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950755,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0663,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950756,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0664,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950757,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0665,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950758,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0666,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950759,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0667,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950760,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0668,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950761,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0669,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950762,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d066a,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950763,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d066b,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950765,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d066d,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950766,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d066e,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950767,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d066f,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950768,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0670,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950769,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0671,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950770,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0672,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950771,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0673,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950772,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0674,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950773,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0675,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950774,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0676,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950776,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0678,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950777,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0679,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950778,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d067a,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950779,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d067b,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950780,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d067c,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950782,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d067e,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950783,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d067f,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950785,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0681,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950787,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0683,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950788,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0684,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950789,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0685,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950790,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0686,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950791,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0687,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950792,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0688,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950793,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0689,Analytical Spaces,,,parameters,,,,7.423,7.423,11,11
+2950794,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d068a,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950795,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d068b,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950796,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d068c,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950797,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d068d,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950798,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d068e,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950799,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d068f,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950800,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0690,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950801,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0691,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950802,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0692,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950803,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0693,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950804,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0694,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950805,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0695,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950806,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0696,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950807,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0697,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950808,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0698,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950809,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0699,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950810,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d069a,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950811,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d069b,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950812,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d069c,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950813,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d069d,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950814,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d069e,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950815,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d069f,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950816,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a0,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950817,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a1,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950818,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a2,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950819,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a3,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950820,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a4,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950821,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a5,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950822,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a6,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950823,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a7,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950824,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a8,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950825,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a9,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950826,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06aa,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950827,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06ab,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950828,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06ac,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950829,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06ad,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950830,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06ae,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950831,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06af,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950832,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b0,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950833,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b1,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950834,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b2,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950835,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b3,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950836,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b4,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950837,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b5,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950838,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b6,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950839,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b7,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950840,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b8,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950841,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b9,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950842,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06ba,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950843,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06bb,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950844,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06bc,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950845,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06bd,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950846,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06be,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950847,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06bf,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950848,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c0,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950849,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c1,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950850,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c2,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950851,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c3,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950852,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c4,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950853,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c5,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950854,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c6,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950855,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c7,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950857,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c9,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950875,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06db,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950903,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06f7,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950904,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06f8,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950905,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06f9,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950906,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06fa,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950907,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06fb,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950908,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06fc,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950909,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06fd,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950910,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06fe,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950911,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06ff,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950912,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0700,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950913,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0701,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950914,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0702,Analytical Surfaces,,,parameters,,,,0.0,0.0,0,0
+2950915,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0703,Analytical Surfaces,,,parameters,,,,0.0,0.0,1,1
+2950917,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0705,<none>,,,parameters,,,,0.0,0.0,0,0
+2950918,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0706,<none>,,,parameters,,,,0.0,0.0,0,0
+2950919,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0707,<none>,,,parameters,,,,0.0,0.0,0,0
+2950920,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0708,<none>,,,parameters,,,,0.0,0.0,0,0
+2950921,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0709,<none>,,,parameters,,,,0.0,0.0,0,0
+2950922,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d070a,<none>,,,parameters,,,,0.0,0.0,0,0
+2950923,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d070b,<none>,,,parameters,,,,0.0,0.0,0,0
+2950924,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d070c,<none>,,,parameters,,,,0.0,0.0,0,0
+2950930,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0712,<none>,,,parameters,,,,0.0,0.0,0,0
+2950931,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0713,<none>,,,parameters,,,,0.0,0.0,0,0
+2950933,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0715,<none>,,,parameters,,,,0.0,0.0,0,0
+2950935,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0717,<none>,,,parameters,,,,0.0,0.0,0,0
+2950937,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0719,<none>,,,parameters,,,,0.0,0.0,0,0
+2950940,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d071c,<none>,,,parameters,,,,0.0,0.0,0,0

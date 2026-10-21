@@ -1,0 +1,67 @@
+parameterName,kind,count
+Concrete Cantilever,added,574
+Steel Cantilever,added,574
+Lighting Schedule,changed,158
+Occupancy Schedule,changed,158
+Power Schedule,changed,158
+Host,missing,69
+Sheet Collection,missing,49
+Alignment Method,added,38
+In-Plane Projection,added,38
+Manually Adjusted,added,38
+Keep Concentric,missing,37
+Shear perpendicular to grain,missing,35
+Tension perpendicular to grain,added,35
+Sheet Name,missing,33
+Excavation Volume on Toposolid,missing,28
+Referencing Sheet Collection,missing,24
+Saved Position,missing,22
+View Anchor,missing,22
+View Position X,missing,22
+View Position Y,missing,22
+Level,added,16
+Cut,added,12
+Fill,added,12
+Net cut/fill,added,12
+Hosted,missing,10
+Reference Label,added,10
+Area,changed,8
+Height Offset From Level,added,8
+Related to Mass,added,8
+Sub-divide Offset,missing,8
+Thickness,added,8
+Elevation from Level,changed,6
+File Path,changed,6
+Scale Override (Multiple Values),missing,6
+Individual Excavation Volume,missing,4
+Total Excavation Volume,missing,4
+Viewport Positioning,added,4
+Primary Title Block,missing,3
+Rotation on Sheet,missing,3
+Sheet Height,missing,3
+Sheet Width,missing,3
+Power Factor State,missing,2
+Analytical Grid Cell Size,missing,1
+Building Envelope,missing,1
+Building Infiltration Class,missing,1
+Building Operating Schedule,missing,1
+Building Service,missing,1
+Building Type,missing,1
+Conceptual Types,missing,1
+Detailed Elements,missing,1
+Export Category,missing,1
+Export Complexity,missing,1
+Glazing is Shaded,missing,1
+HVAC System,missing,1
+Other Options,added,1
+Outdoor Air Information,missing,1
+Resize Rows,missing,1
+Row Height,missing,1
+Schematic Types,missing,1
+Shade Depth,missing,1
+Skylight Width & Depth,missing,1
+Sliver Space Tolerance,missing,1
+Target Percentage Glazing,missing,1
+Target Percentage Skylights,missing,1
+Target Sill Height,missing,1
+Use Only Elements Visible In Current View,missing,1

@@ -1,0 +1,18 @@
+parameterName,kind,count
+Lighting Schedule,changed,158
+Occupancy Schedule,changed,158
+Power Schedule,changed,158
+Level,added,16
+Area,changed,8
+Height Offset From Level,added,8
+Related to Mass,added,8
+Sub-divide Offset,missing,8
+Thickness,added,8
+Elevation from Level,changed,6
+File Path,changed,6
+Excavation Volume on Toposolid,changed,2
+Total Excavation Volume,changed,2
+Cut,added,1
+Fill,added,1
+Net cut/fill,added,1
+Volume,changed,1

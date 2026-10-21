@@ -1,0 +1,4 @@
+| Section | Name | Kind | 2027 | 2023 |
+| --- | --- | --- | --- | --- |
+| parameter | Thermal Transmittance (U) | missing | {"formula": null, "groupName": "Analytical Properties", "guid": null, "isDeterminedByFormula": false, "isInstance": false, "isReporting": false, "isShared": false, "name": "Thermal Transmittance (U)", "storageType": "Double", "valuesByType": {"85\" x 92\" Charmant": "0.5511 BTU/(h·ft²·°F)", "85\" x 92\" El Cabrillo": "0.5511 BTU/(h·ft²·°F)"}} |  |
+| parameter | Heat Transfer Coefficient (U) | added |  | {"formula": null, "groupName": "Analytical Properties", "guid": null, "isDeterminedByFormula": false, "isInstance": false, "isReporting": false, "isShared": false, "name": "Heat Transfer Coefficient (U)", "storageType": "Double", "valuesByType": {"85\" x 92\" Charmant": "0.5511 BTU/(h·ft²·°F)", "85\" x 92\" El Cabrillo": "0.5511 BTU/(h·ft²·°F)"}} |

@@ -1,0 +1,100 @@
+parameterName,kind,count
+Lighting Schedule,changed,158
+Occupancy Schedule,changed,158
+Power Schedule,changed,158
+Host,added,143
+Sheet Collection,added,117
+Leader End,added,68
+Leader Start,added,68
+Sheet Name,added,57
+Hosted,added,56
+Leader Type,missing,54
+Alignment Method,missing,51
+In-Plane Projection,missing,51
+Manually Adjusted,missing,51
+Saved Position,added,47
+View Anchor,added,47
+View Position X,added,47
+View Position Y,added,47
+Referencing Sheet Collection,added,43
+Reference Label,missing,31
+Shear perpendicular to grain,added,26
+Tension perpendicular to grain,missing,26
+Level,changed,21
+Viewport Positioning,missing,20
+Apparent Load Phase A,missing,12
+Apparent Load Phase B,missing,12
+Apparent Load Phase C,missing,12
+Apparent Power Phase A,added,12
+Apparent Power Phase B,added,12
+Apparent Power Phase C,added,12
+Branch Circuit Apparent Load Phase A,missing,12
+Branch Circuit Apparent Load Phase B,missing,12
+Branch Circuit Apparent Load Phase C,missing,12
+Branch Circuit Apparent Power Phase A,added,12
+Branch Circuit Apparent Power Phase B,added,12
+Branch Circuit Apparent Power Phase C,added,12
+Feed Through Lugs,changed,12
+Feed Through Lugs Apparent Load Phase A,missing,12
+Feed Through Lugs Apparent Load Phase B,missing,12
+Feed Through Lugs Apparent Load Phase C,missing,12
+Feed Through Lugs Apparent Power Phase A,added,12
+Feed Through Lugs Apparent Power Phase B,added,12
+Feed Through Lugs Apparent Power Phase C,added,12
+Scale Override (Multiple Values),added,12
+Short Circuit Rating,missing,12
+Short Circuit Rating Comments,added,12
+SubFeed Lugs,changed,12
+Total Connected,missing,12
+Total Connected Apparent Power,added,12
+Total Demand Apparent Power,added,12
+Total Estimated Demand,missing,12
+Height Correction,added,10
+Slope,added,10
+Concrete Cantilever,missing,8
+Steel Cantilever,missing,8
+Primary Title Block,added,6
+Sheet Height,added,6
+Sheet Width,added,6
+Can Be Hosted,added,4
+Node Type,added,4
+Length,missing,3
+System Length,added,3
+Exact Weight,added,2
+Paint Area,added,2
+Perimeter,changed,2
+Resize Rows,added,2
+Rotation on Sheet,added,2
+Row Height,added,2
+Weight,added,2
+# of Other Conductors,added,1
+# of Runs,added,1
+Analytical Grid Cell Size,added,1
+Building Envelope,added,1
+Building Infiltration Class,added,1
+Building Operating Schedule,added,1
+Building Service,added,1
+Building Type,added,1
+Cable Size,added,1
+Cable Type,added,1
+Circuit State,added,1
+Conceptual Types,added,1
+Core Type,added,1
+Detailed Elements,added,1
+Export Category,added,1
+Export Complexity,added,1
+Glazing is Shaded,added,1
+HVAC System,added,1
+Keep Concentric,added,1
+Other Connected Apparent Power,added,1
+Other Options,missing,1
+Outdoor Air Information,added,1
+Schematic Types,added,1
+Shade Depth,added,1
+Size of Other Conductor,added,1
+Skylight Width & Depth,added,1
+Sliver Space Tolerance,added,1
+Target Percentage Glazing,added,1
+Target Percentage Skylights,added,1
+Target Sill Height,added,1
+Use Only Elements Visible In Current View,added,1

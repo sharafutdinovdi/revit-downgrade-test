@@ -1,0 +1,104 @@
+elementId,uniqueId,category,family,type,parameterName,before,after,kind
+22,da0cea1e-82fa-11d3-a7db-00105aa73639-00000016,<none>,Floor Plan,Floor Plan,Referencing Sheet Collection,,,missing
+22,da0cea1e-82fa-11d3-a7db-00105aa73639-00000016,<none>,Floor Plan,Floor Plan,Saved Position,-1,,missing
+22,da0cea1e-82fa-11d3-a7db-00105aa73639-00000016,<none>,Floor Plan,Floor Plan,Sheet Collection,-1,,missing
+22,da0cea1e-82fa-11d3-a7db-00105aa73639-00000016,<none>,Floor Plan,Floor Plan,Sheet Name,---,,missing
+22,da0cea1e-82fa-11d3-a7db-00105aa73639-00000016,<none>,Floor Plan,Floor Plan,View Anchor,,,missing
+22,da0cea1e-82fa-11d3-a7db-00105aa73639-00000016,<none>,Floor Plan,Floor Plan,View Position X,,,missing
+22,da0cea1e-82fa-11d3-a7db-00105aa73639-00000016,<none>,Floor Plan,Floor Plan,View Position Y,,,missing
+26,da0cea1e-82fa-11d3-a7db-00105aa73639-0000001a,<none>,Ceiling Plan,Ceiling Plan,Referencing Sheet Collection,,,missing
+26,da0cea1e-82fa-11d3-a7db-00105aa73639-0000001a,<none>,Ceiling Plan,Ceiling Plan,Saved Position,-1,,missing
+26,da0cea1e-82fa-11d3-a7db-00105aa73639-0000001a,<none>,Ceiling Plan,Ceiling Plan,Sheet Collection,-1,,missing
+26,da0cea1e-82fa-11d3-a7db-00105aa73639-0000001a,<none>,Ceiling Plan,Ceiling Plan,Sheet Name,---,,missing
+26,da0cea1e-82fa-11d3-a7db-00105aa73639-0000001a,<none>,Ceiling Plan,Ceiling Plan,View Anchor,,,missing
+26,da0cea1e-82fa-11d3-a7db-00105aa73639-0000001a,<none>,Ceiling Plan,Ceiling Plan,View Position X,,,missing
+26,da0cea1e-82fa-11d3-a7db-00105aa73639-0000001a,<none>,Ceiling Plan,Ceiling Plan,View Position Y,,,missing
+30,da0cea1e-82fa-11d3-a7db-00105aa73639-0000001e,<none>,Elevation,Elevation 1,Referencing Sheet Collection,,,missing
+30,da0cea1e-82fa-11d3-a7db-00105aa73639-0000001e,<none>,Elevation,Elevation 1,Saved Position,-1,,missing
+30,da0cea1e-82fa-11d3-a7db-00105aa73639-0000001e,<none>,Elevation,Elevation 1,Sheet Collection,-1,,missing
+30,da0cea1e-82fa-11d3-a7db-00105aa73639-0000001e,<none>,Elevation,Elevation 1,Sheet Name,---,,missing
+30,da0cea1e-82fa-11d3-a7db-00105aa73639-0000001e,<none>,Elevation,Elevation 1,View Anchor,,,missing
+30,da0cea1e-82fa-11d3-a7db-00105aa73639-0000001e,<none>,Elevation,Elevation 1,View Position X,,,missing
+30,da0cea1e-82fa-11d3-a7db-00105aa73639-0000001e,<none>,Elevation,Elevation 1,View Position Y,,,missing
+34,da0cea1e-82fa-11d3-a7db-00105aa73639-00000022,<none>,Elevation,Elevation 1,Referencing Sheet Collection,,,missing
+34,da0cea1e-82fa-11d3-a7db-00105aa73639-00000022,<none>,Elevation,Elevation 1,Saved Position,-1,,missing
+34,da0cea1e-82fa-11d3-a7db-00105aa73639-00000022,<none>,Elevation,Elevation 1,Sheet Collection,-1,,missing
+34,da0cea1e-82fa-11d3-a7db-00105aa73639-00000022,<none>,Elevation,Elevation 1,Sheet Name,---,,missing
+34,da0cea1e-82fa-11d3-a7db-00105aa73639-00000022,<none>,Elevation,Elevation 1,View Anchor,,,missing
+34,da0cea1e-82fa-11d3-a7db-00105aa73639-00000022,<none>,Elevation,Elevation 1,View Position X,,,missing
+34,da0cea1e-82fa-11d3-a7db-00105aa73639-00000022,<none>,Elevation,Elevation 1,View Position Y,,,missing
+38,da0cea1e-82fa-11d3-a7db-00105aa73639-00000026,<none>,Elevation,Elevation 1,Referencing Sheet Collection,,,missing
+38,da0cea1e-82fa-11d3-a7db-00105aa73639-00000026,<none>,Elevation,Elevation 1,Saved Position,-1,,missing
+38,da0cea1e-82fa-11d3-a7db-00105aa73639-00000026,<none>,Elevation,Elevation 1,Sheet Collection,-1,,missing
+38,da0cea1e-82fa-11d3-a7db-00105aa73639-00000026,<none>,Elevation,Elevation 1,Sheet Name,---,,missing
+38,da0cea1e-82fa-11d3-a7db-00105aa73639-00000026,<none>,Elevation,Elevation 1,View Anchor,,,missing
+38,da0cea1e-82fa-11d3-a7db-00105aa73639-00000026,<none>,Elevation,Elevation 1,View Position X,,,missing
+38,da0cea1e-82fa-11d3-a7db-00105aa73639-00000026,<none>,Elevation,Elevation 1,View Position Y,,,missing
+42,da0cea1e-82fa-11d3-a7db-00105aa73639-0000002a,<none>,Elevation,Elevation 1,Referencing Sheet Collection,,,missing
+42,da0cea1e-82fa-11d3-a7db-00105aa73639-0000002a,<none>,Elevation,Elevation 1,Saved Position,-1,,missing
+42,da0cea1e-82fa-11d3-a7db-00105aa73639-0000002a,<none>,Elevation,Elevation 1,Sheet Collection,-1,,missing
+42,da0cea1e-82fa-11d3-a7db-00105aa73639-0000002a,<none>,Elevation,Elevation 1,Sheet Name,---,,missing
+42,da0cea1e-82fa-11d3-a7db-00105aa73639-0000002a,<none>,Elevation,Elevation 1,View Anchor,,,missing
+42,da0cea1e-82fa-11d3-a7db-00105aa73639-0000002a,<none>,Elevation,Elevation 1,View Position X,,,missing
+42,da0cea1e-82fa-11d3-a7db-00105aa73639-0000002a,<none>,Elevation,Elevation 1,View Position Y,,,missing
+51,2e0d4c6b-eaf6-11d3-9191-0000863f27ad-00000033,Cameras,3D View,3D View,Saved Position,-1,,missing
+51,2e0d4c6b-eaf6-11d3-9191-0000863f27ad-00000033,Cameras,3D View,3D View,Sheet Collection,-1,,missing
+51,2e0d4c6b-eaf6-11d3-9191-0000863f27ad-00000033,Cameras,3D View,3D View,Sheet Name,---,,missing
+51,2e0d4c6b-eaf6-11d3-9191-0000863f27ad-00000033,Cameras,3D View,3D View,View Anchor,,,missing
+51,2e0d4c6b-eaf6-11d3-9191-0000863f27ad-00000033,Cameras,3D View,3D View,View Position X,,,missing
+51,2e0d4c6b-eaf6-11d3-9191-0000863f27ad-00000033,Cameras,3D View,3D View,View Position Y,,,missing
+59,b8f3cbad-a6a5-11d3-911d-0000863f27ad-0000003b,<none>,,,Sheet Collection,-1,,missing
+59,b8f3cbad-a6a5-11d3-911d-0000863f27ad-0000003b,<none>,,,Sheet Name,---,,missing
+423,1393a049-fe64-11d3-883b-0000863de970-000001a7,Constraints,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+442,1393a049-fe64-11d3-883b-0000863de970-000001ba,Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+472,1393a049-fe64-11d3-883b-0000863de970-000001d8,Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+3626,dbc3bc2b-00fd-11d4-883f-0000863de970-00000e2a,<Sketch>,,,Keep Concentric,1,,missing
+3631,dbc3bc2b-00fd-11d4-883f-0000863de970-00000e2f,<Sketch>,,,Keep Concentric,1,,missing
+3637,dbc3bc2b-00fd-11d4-883f-0000863de970-00000e35,<Sketch>,,,Keep Concentric,1,,missing
+3644,dbc3bc2b-00fd-11d4-883f-0000863de970-00000e3c,<Sketch>,,,Keep Concentric,1,,missing
+3671,dbc3bc2b-00fd-11d4-883f-0000863de970-00000e57,Dimensions,Radial Dimension Style,Linear,Is Type Parameter,1,,missing
+3673,dbc3bc2b-00fd-11d4-883f-0000863de970-00000e59,Dimensions,Radial Dimension Style,Linear,Is Type Parameter,1,,missing
+3675,dbc3bc2b-00fd-11d4-883f-0000863de970-00000e5b,Dimensions,Radial Dimension Style,Linear,Is Type Parameter,1,,missing
+3677,dbc3bc2b-00fd-11d4-883f-0000863de970-00000e5d,Dimensions,Radial Dimension Style,Linear,Is Type Parameter,1,,missing
+3736,dbc3bc2b-00fd-11d4-883f-0000863de970-00000e98,<Sketch>,,,Keep Concentric,1,,missing
+3741,dbc3bc2b-00fd-11d4-883f-0000863de970-00000e9d,<Sketch>,,,Keep Concentric,1,,missing
+3746,dbc3bc2b-00fd-11d4-883f-0000863de970-00000ea2,<Sketch>,,,Keep Concentric,1,,missing
+3747,dbc3bc2b-00fd-11d4-883f-0000863de970-00000ea3,<Sketch>,,,Keep Concentric,1,,missing
+3757,dbc3bc2b-00fd-11d4-883f-0000863de970-00000ead,<Sketch>,,,Keep Concentric,1,,missing
+3758,dbc3bc2b-00fd-11d4-883f-0000863de970-00000eae,<Sketch>,,,Keep Concentric,1,,missing
+3771,dbc3bc2b-00fd-11d4-883f-0000863de970-00000ebb,<Sketch>,,,Keep Concentric,1,,missing
+3772,dbc3bc2b-00fd-11d4-883f-0000863de970-00000ebc,<Sketch>,,,Keep Concentric,1,,missing
+3789,dbc3bc2b-00fd-11d4-883f-0000863de970-00000ecd,Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+3823,dbc3bc2b-00fd-11d4-883f-0000863de970-00000eef,Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+3845,dbc3bc2b-00fd-11d4-883f-0000863de970-00000f05,Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+3882,dbc3bc2b-00fd-11d4-883f-0000863de970-00000f2a,Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+3922,dbc3bc2b-00fd-11d4-883f-0000863de970-00000f52,Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+3939,dbc3bc2b-00fd-11d4-883f-0000863de970-00000f63,Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+3961,dbc3bc2b-00fd-11d4-883f-0000863de970-00000f79,Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+3971,dbc3bc2b-00fd-11d4-883f-0000863de970-00000f83,Automatic Sketch Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+3972,dbc3bc2b-00fd-11d4-883f-0000863de970-00000f84,Automatic Sketch Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+3974,dbc3bc2b-00fd-11d4-883f-0000863de970-00000f86,Automatic Sketch Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+3975,dbc3bc2b-00fd-11d4-883f-0000863de970-00000f87,Automatic Sketch Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+3988,dbc3bc2b-00fd-11d4-883f-0000863de970-00000f94,Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+4224,4c055ecb-e005-4873-a16a-df54401bd00a-00001080,Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+4240,4c055ecb-e005-4873-a16a-df54401bd00a-00001090,Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+4424,4c055ecb-e005-4873-a16a-df54401bd00a-00001148,Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+4492,4c055ecb-e005-4873-a16a-df54401bd00a-0000118c,Automatic Sketch Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+4494,4c055ecb-e005-4873-a16a-df54401bd00a-0000118e,Constraints,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+4520,4c055ecb-e005-4873-a16a-df54401bd00a-000011a8,Automatic Sketch Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+4527,4c055ecb-e005-4873-a16a-df54401bd00a-000011af,Automatic Sketch Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+4618,4c055ecb-e005-4873-a16a-df54401bd00a-0000120a,Dimensions,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+4701,4c055ecb-e005-4873-a16a-df54401bd00a-0000125d,Constraints,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+6691,44ee5814-2074-4c30-b366-a9c52a42c623-00001a23,Constraints,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+6693,44ee5814-2074-4c30-b366-a9c52a42c623-00001a25,Constraints,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+6695,44ee5814-2074-4c30-b366-a9c52a42c623-00001a27,Constraints,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+6697,44ee5814-2074-4c30-b366-a9c52a42c623-00001a29,Constraints,Linear Dimension Style,Linear,Is Type Parameter,1,,missing
+6700,44ee5814-2074-4c30-b366-a9c52a42c623-00001a2c,<Sketch>,,,Keep Concentric,1,,missing
+6704,44ee5814-2074-4c30-b366-a9c52a42c623-00001a30,Automatic Sketch Dimensions,Linear Dimension Style,Linear Dimension Style,Is Type Parameter,1,,missing
+6713,44ee5814-2074-4c30-b366-a9c52a42c623-00001a39,<Sketch>,,,Keep Concentric,1,,missing
+6717,44ee5814-2074-4c30-b366-a9c52a42c623-00001a3d,Automatic Sketch Dimensions,Linear Dimension Style,Linear Dimension Style,Is Type Parameter,1,,missing
+6726,44ee5814-2074-4c30-b366-a9c52a42c623-00001a46,<Sketch>,,,Keep Concentric,1,,missing
+6739,44ee5814-2074-4c30-b366-a9c52a42c623-00001a53,<Sketch>,,,Keep Concentric,1,,missing
+6740,44ee5814-2074-4c30-b366-a9c52a42c623-00001a54,Constraints,Radial Dimension Style,Radial,Is Type Parameter,1,,missing
+6743,44ee5814-2074-4c30-b366-a9c52a42c623-00001a57,Automatic Sketch Dimensions,Linear Dimension Style,Linear Dimension Style,Is Type Parameter,1,,missing
+6765,44ee5814-2074-4c30-b366-a9c52a42c623-00001a6d,Automatic Sketch Dimensions,Linear Dimension Style,Linear Dimension Style,Is Type Parameter,1,,missing

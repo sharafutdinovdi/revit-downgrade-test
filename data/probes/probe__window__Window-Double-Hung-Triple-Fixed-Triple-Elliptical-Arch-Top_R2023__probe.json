@@ -1,0 +1,497 @@
+{
+  "errors": [], 
+  "lengthChange": {
+    "volumeBeforeM3": 1.5692669461702438, 
+    "before": 0.041666666666673624, 
+    "dependentParametersChanged": {}, 
+    "volumeDeltaM3": -0.00011550513705271825, 
+    "after": 0.045833333333340991, 
+    "parameterName": "Exterior Wall Closure", 
+    "typeName": "85\" x 92\" El Cabrillo"
+  }, 
+  "persistedAfterReopen": {}, 
+  "isFamilyDocument": true, 
+  "saved": true, 
+  "inspectionRolledBack": true, 
+  "savedFile": "Window-Double-Hung-Triple-Fixed-Triple-Elliptical-Arch-Top_R2023__probe.rfa", 
+  "lookupTables": [], 
+  "steps": {}, 
+  "types": {
+    "85\" x 92\" Charmant": {
+      "volumeM3": 1.5692669461702438, 
+      "parameters": {
+        "Define Thermal Properties by": {
+          "value": 1, 
+          "valueString": null
+        }, 
+        "Chord Height": {
+          "value": 2.5, 
+          "valueString": "2' - 6\""
+        }, 
+        "Heat Transfer Coefficient (U)": {
+          "value": 3.1292907393000005, 
+          "valueString": "0.5511 BTU/(h·ft²·°F)"
+        }, 
+        "Exterior Wall Closure": {
+          "value": 0.041666666666673624, 
+          "valueString": "0' - 0 1/2\""
+        }, 
+        "Exterior Trim Visibility": {
+          "value": 1, 
+          "valueString": null
+        }, 
+        "Arch Muntin Pattern": {
+          "value": 2941481, 
+          "valueString": null
+        }, 
+        "Rough Width": {
+          "value": 7.125, 
+          "valueString": "7' - 1 1/2\""
+        }, 
+        "Fire Rating": {
+          "value": "0.5h", 
+          "valueString": null
+        }, 
+        "Model": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Exterior Frame Material": {
+          "value": 336821, 
+          "valueString": null
+        }, 
+        "Type Image": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Exterior Trim Material": {
+          "value": 336821, 
+          "valueString": null
+        }, 
+        "Shoulder Height": {
+          "value": 5.166666666666667, 
+          "valueString": "5' - 2\""
+        }, 
+        "Construction Type": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Exterior Trim": {
+          "value": 2941195, 
+          "valueString": null
+        }, 
+        "Rough Height": {
+          "value": 7.7083333333333339, 
+          "valueString": "7' - 8 1/2\""
+        }, 
+        "Description": {
+          "value": "Triple Double Hung w Transom", 
+          "valueString": null
+        }, 
+        "Bottom Muntin Visibility": {
+          "value": 1, 
+          "valueString": null
+        }, 
+        "Muntin Width": {
+          "value": 3.046875, 
+          "valueString": "3' - 0 9/16\""
+        }, 
+        "Interior Trim": {
+          "value": 2941210, 
+          "valueString": null
+        }, 
+        "Height": {
+          "value": 7.666666666666667, 
+          "valueString": "7' - 8\""
+        }, 
+        "Cost": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Glass Panel Material": {
+          "value": 18439, 
+          "valueString": null
+        }, 
+        "Export Type to IFC As": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Frame Extension": {
+          "value": 0.10416666666666666, 
+          "valueString": "0' - 1 1/4\""
+        }, 
+        "Arch Muntin Rec": {
+          "value": 0, 
+          "valueString": null
+        }, 
+        "Width": {
+          "value": 7.083333333333333, 
+          "valueString": "7' - 1\""
+        }, 
+        "Top Sash Muntin Pattern": {
+          "value": 2940851, 
+          "valueString": null
+        }, 
+        "Window Inset": {
+          "value": 0.0, 
+          "valueString": "0' - 0\""
+        }, 
+        "Top Muntin Visibility": {
+          "value": 1, 
+          "valueString": null
+        }, 
+        "Manufacturer": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Indicator Visibility": {
+          "value": 1, 
+          "valueString": null
+        }, 
+        "Visual Light Transmittance": {
+          "value": 0.81000000000000005, 
+          "valueString": "0.810000"
+        }, 
+        "Arch Muntin Diamond": {
+          "value": 1, 
+          "valueString": null
+        }, 
+        "Interior Frame Material": {
+          "value": 336822, 
+          "valueString": null
+        }, 
+        "Wall Closure": {
+          "value": 0, 
+          "valueString": null
+        }, 
+        "Wall Thickness": {
+          "value": 0.5, 
+          "valueString": "0' - 6\""
+        }, 
+        "One Third Width": {
+          "value": 2.3611111111111112, 
+          "valueString": "2' - 4 85/256\""
+        }, 
+        "Keynote": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Construction Type Id": {
+          "value": "DG-DR", 
+          "valueString": null
+        }, 
+        "Window Inset Transom": {
+          "value": 0.083333333333333329, 
+          "valueString": "0' - 1\""
+        }, 
+        "Extension Jamb Visibility": {
+          "value": 1, 
+          "valueString": null
+        }, 
+        "Type Comments": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Extension Jamb": {
+          "value": 0.125, 
+          "valueString": "0' - 1 1/2\""
+        }, 
+        "Type IFC Predefined Type": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Muntin Height": {
+          "value": 3.5104166666666665, 
+          "valueString": "3' - 6 1/8\""
+        }, 
+        "Interior Trim Visibility": {
+          "value": 1, 
+          "valueString": null
+        }, 
+        "Solar Heat Gain Coefficient": {
+          "value": 0.76000000000000001, 
+          "valueString": "0.760000"
+        }, 
+        "Analytic Construction": {
+          "value": "Double glazing - domestic", 
+          "valueString": null
+        }, 
+        "Interior Wall Closure": {
+          "value": 0.12499999999997002, 
+          "valueString": "0' - 1 1/2\""
+        }, 
+        "Interior Trim Material": {
+          "value": 336822, 
+          "valueString": null
+        }, 
+        "Bottom Sash Muntin Pattern": {
+          "value": 2940851, 
+          "valueString": null
+        }, 
+        "URL": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Operation": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Sash Width": {
+          "value": 2.1597222222222223, 
+          "valueString": "2' - 1 235/256\""
+        }, 
+        "Assembly Code": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Default Sill Height": {
+          "value": 3.0, 
+          "valueString": "3' - 0\""
+        }, 
+        "Thermal Resistance (R)": {
+          "value": 0.31956949874462742, 
+          "valueString": "1.8146 (h·ft²·°F)/BTU"
+        }
+      }
+    }, 
+    "85\" x 92\" El Cabrillo": {
+      "volumeM3": 1.5692669461702438, 
+      "parameters": {
+        "Define Thermal Properties by": {
+          "value": 1, 
+          "valueString": null
+        }, 
+        "Chord Height": {
+          "value": 2.5, 
+          "valueString": "2' - 6\""
+        }, 
+        "Heat Transfer Coefficient (U)": {
+          "value": 3.1292907393000005, 
+          "valueString": "0.5511 BTU/(h·ft²·°F)"
+        }, 
+        "Exterior Wall Closure": {
+          "value": 0.041666666666673624, 
+          "valueString": "0' - 0 1/2\""
+        }, 
+        "Exterior Trim Visibility": {
+          "value": 1, 
+          "valueString": null
+        }, 
+        "Arch Muntin Pattern": {
+          "value": 2940851, 
+          "valueString": null
+        }, 
+        "Rough Width": {
+          "value": 7.125, 
+          "valueString": "7' - 1 1/2\""
+        }, 
+        "Fire Rating": {
+          "value": "0.5h", 
+          "valueString": null
+        }, 
+        "Model": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Exterior Frame Material": {
+          "value": 336821, 
+          "valueString": null
+        }, 
+        "Type Image": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Exterior Trim Material": {
+          "value": 336821, 
+          "valueString": null
+        }, 
+        "Shoulder Height": {
+          "value": 5.166666666666667, 
+          "valueString": "5' - 2\""
+        }, 
+        "Construction Type": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Exterior Trim": {
+          "value": 2941195, 
+          "valueString": null
+        }, 
+        "Rough Height": {
+          "value": 7.7083333333333339, 
+          "valueString": "7' - 8 1/2\""
+        }, 
+        "Description": {
+          "value": "Triple Double Hung w Transom", 
+          "valueString": null
+        }, 
+        "Bottom Muntin Visibility": {
+          "value": 1, 
+          "valueString": null
+        }, 
+        "Muntin Width": {
+          "value": 3.046875, 
+          "valueString": "3' - 0 9/16\""
+        }, 
+        "Interior Trim": {
+          "value": 2941210, 
+          "valueString": null
+        }, 
+        "Height": {
+          "value": 7.666666666666667, 
+          "valueString": "7' - 8\""
+        }, 
+        "Cost": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Glass Panel Material": {
+          "value": 18439, 
+          "valueString": null
+        }, 
+        "Export Type to IFC As": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Frame Extension": {
+          "value": 0.10416666666666666, 
+          "valueString": "0' - 1 1/4\""
+        }, 
+        "Arch Muntin Rec": {
+          "value": 1, 
+          "valueString": null
+        }, 
+        "Width": {
+          "value": 7.083333333333333, 
+          "valueString": "7' - 1\""
+        }, 
+        "Top Sash Muntin Pattern": {
+          "value": 2940851, 
+          "valueString": null
+        }, 
+        "Window Inset": {
+          "value": 0.0, 
+          "valueString": "0' - 0\""
+        }, 
+        "Top Muntin Visibility": {
+          "value": 1, 
+          "valueString": null
+        }, 
+        "Manufacturer": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Indicator Visibility": {
+          "value": 1, 
+          "valueString": null
+        }, 
+        "Visual Light Transmittance": {
+          "value": 0.81000000000000005, 
+          "valueString": "0.810000"
+        }, 
+        "Arch Muntin Diamond": {
+          "value": 0, 
+          "valueString": null
+        }, 
+        "Interior Frame Material": {
+          "value": 336822, 
+          "valueString": null
+        }, 
+        "Wall Closure": {
+          "value": 0, 
+          "valueString": null
+        }, 
+        "Wall Thickness": {
+          "value": 0.5, 
+          "valueString": "0' - 6\""
+        }, 
+        "One Third Width": {
+          "value": 2.3611111111111112, 
+          "valueString": "2' - 4 85/256\""
+        }, 
+        "Keynote": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Construction Type Id": {
+          "value": "DG-DR", 
+          "valueString": null
+        }, 
+        "Window Inset Transom": {
+          "value": 0.083333333333333329, 
+          "valueString": "0' - 1\""
+        }, 
+        "Extension Jamb Visibility": {
+          "value": 1, 
+          "valueString": null
+        }, 
+        "Type Comments": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Extension Jamb": {
+          "value": 0.125, 
+          "valueString": "0' - 1 1/2\""
+        }, 
+        "Type IFC Predefined Type": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Muntin Height": {
+          "value": 3.5104166666666665, 
+          "valueString": "3' - 6 1/8\""
+        }, 
+        "Interior Trim Visibility": {
+          "value": 1, 
+          "valueString": null
+        }, 
+        "Solar Heat Gain Coefficient": {
+          "value": 0.76000000000000001, 
+          "valueString": "0.760000"
+        }, 
+        "Analytic Construction": {
+          "value": "Double glazing - domestic", 
+          "valueString": null
+        }, 
+        "Interior Wall Closure": {
+          "value": 0.12499999999997002, 
+          "valueString": "0' - 1 1/2\""
+        }, 
+        "Interior Trim Material": {
+          "value": 336822, 
+          "valueString": null
+        }, 
+        "Bottom Sash Muntin Pattern": {
+          "value": 2940851, 
+          "valueString": null
+        }, 
+        "URL": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Operation": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Sash Width": {
+          "value": 2.1597222222222223, 
+          "valueString": "2' - 1 235/256\""
+        }, 
+        "Assembly Code": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Default Sill Height": {
+          "value": 3.0, 
+          "valueString": "3' - 0\""
+        }, 
+        "Thermal Resistance (R)": {
+          "value": 0.31956949874462742, 
+          "valueString": "1.8146 (h·ft²·°F)/BTU"
+        }
+      }
+    }
+  }, 
+  "reopened": true, 
+  "reopenSkipped": false
+}

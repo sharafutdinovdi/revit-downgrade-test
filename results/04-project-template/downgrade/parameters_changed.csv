@@ -1,0 +1,660 @@
+elementId,uniqueId,category,family,type,parameterName,before,after,kind
+231,e3e052f9-0156-11d5-9301-0000863f27ad-000000e7,<none>,,,Sheet Collection,-1,,missing
+231,e3e052f9-0156-11d5-9301-0000863f27ad-000000e7,<none>,,,Sheet Name,---,,missing
+313,e3e052f9-0156-11d5-9301-0000863f27ad-00000139,<none>,Floor Plan,Floor Plan,Referencing Sheet Collection,-1,,missing
+313,e3e052f9-0156-11d5-9301-0000863f27ad-00000139,<none>,Floor Plan,Floor Plan,Saved Position,-1,,missing
+313,e3e052f9-0156-11d5-9301-0000863f27ad-00000139,<none>,Floor Plan,Floor Plan,Sheet Collection,-1,,missing
+313,e3e052f9-0156-11d5-9301-0000863f27ad-00000139,<none>,Floor Plan,Floor Plan,Sheet Name,---,,missing
+313,e3e052f9-0156-11d5-9301-0000863f27ad-00000139,<none>,Floor Plan,Floor Plan,View Anchor,,,missing
+313,e3e052f9-0156-11d5-9301-0000863f27ad-00000139,<none>,Floor Plan,Floor Plan,View Position X,,,missing
+313,e3e052f9-0156-11d5-9301-0000863f27ad-00000139,<none>,Floor Plan,Floor Plan,View Position Y,,,missing
+317,e3e052f9-0156-11d5-9301-0000863f27ad-0000013d,<none>,Ceiling Plan,Ceiling Plan,Referencing Sheet Collection,-1,,missing
+317,e3e052f9-0156-11d5-9301-0000863f27ad-0000013d,<none>,Ceiling Plan,Ceiling Plan,Saved Position,-1,,missing
+317,e3e052f9-0156-11d5-9301-0000863f27ad-0000013d,<none>,Ceiling Plan,Ceiling Plan,Sheet Collection,-1,,missing
+317,e3e052f9-0156-11d5-9301-0000863f27ad-0000013d,<none>,Ceiling Plan,Ceiling Plan,Sheet Name,---,,missing
+317,e3e052f9-0156-11d5-9301-0000863f27ad-0000013d,<none>,Ceiling Plan,Ceiling Plan,View Anchor,,,missing
+317,e3e052f9-0156-11d5-9301-0000863f27ad-0000013d,<none>,Ceiling Plan,Ceiling Plan,View Position X,,,missing
+317,e3e052f9-0156-11d5-9301-0000863f27ad-0000013d,<none>,Ceiling Plan,Ceiling Plan,View Position Y,,,missing
+696,458c0e49-01bb-11d5-9302-0000863f27ad-000002b8,<none>,Floor Plan,Floor Plan,Referencing Sheet Collection,-1,,missing
+696,458c0e49-01bb-11d5-9302-0000863f27ad-000002b8,<none>,Floor Plan,Floor Plan,Saved Position,-1,,missing
+696,458c0e49-01bb-11d5-9302-0000863f27ad-000002b8,<none>,Floor Plan,Floor Plan,Sheet Collection,-1,,missing
+696,458c0e49-01bb-11d5-9302-0000863f27ad-000002b8,<none>,Floor Plan,Floor Plan,Sheet Name,---,,missing
+696,458c0e49-01bb-11d5-9302-0000863f27ad-000002b8,<none>,Floor Plan,Floor Plan,View Anchor,,,missing
+696,458c0e49-01bb-11d5-9302-0000863f27ad-000002b8,<none>,Floor Plan,Floor Plan,View Position X,,,missing
+696,458c0e49-01bb-11d5-9302-0000863f27ad-000002b8,<none>,Floor Plan,Floor Plan,View Position Y,,,missing
+700,458c0e49-01bb-11d5-9302-0000863f27ad-000002bc,<none>,Ceiling Plan,Ceiling Plan,Referencing Sheet Collection,-1,,missing
+700,458c0e49-01bb-11d5-9302-0000863f27ad-000002bc,<none>,Ceiling Plan,Ceiling Plan,Saved Position,-1,,missing
+700,458c0e49-01bb-11d5-9302-0000863f27ad-000002bc,<none>,Ceiling Plan,Ceiling Plan,Sheet Collection,-1,,missing
+700,458c0e49-01bb-11d5-9302-0000863f27ad-000002bc,<none>,Ceiling Plan,Ceiling Plan,Sheet Name,---,,missing
+700,458c0e49-01bb-11d5-9302-0000863f27ad-000002bc,<none>,Ceiling Plan,Ceiling Plan,View Anchor,,,missing
+700,458c0e49-01bb-11d5-9302-0000863f27ad-000002bc,<none>,Ceiling Plan,Ceiling Plan,View Position X,,,missing
+700,458c0e49-01bb-11d5-9302-0000863f27ad-000002bc,<none>,Ceiling Plan,Ceiling Plan,View Position Y,,,missing
+8142,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fce,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,-1,,missing
+8142,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fce,Elevations,Elevation,Building Elevation,Sheet Collection,-1,,missing
+8142,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fce,Elevations,Elevation,Building Elevation,Reference Label,,,added
+8152,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fd8,Views,Elevation,Building Elevation,Referencing Sheet Collection,-1,,missing
+8152,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fd8,Views,Elevation,Building Elevation,Saved Position,-1,,missing
+8152,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fd8,Views,Elevation,Building Elevation,Sheet Collection,-1,,missing
+8152,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fd8,Views,Elevation,Building Elevation,Sheet Name,---,,missing
+8152,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fd8,Views,Elevation,Building Elevation,View Anchor,,,missing
+8152,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fd8,Views,Elevation,Building Elevation,View Position X,,,missing
+8152,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fd8,Views,Elevation,Building Elevation,View Position Y,,,missing
+8152,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fd8,Views,Elevation,Building Elevation,Reference Label,,,added
+8174,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fee,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,-1,,missing
+8174,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fee,Elevations,Elevation,Building Elevation,Sheet Collection,-1,,missing
+8174,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fee,Elevations,Elevation,Building Elevation,Reference Label,,,added
+8175,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fef,Views,Elevation,Building Elevation,Referencing Sheet Collection,-1,,missing
+8175,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fef,Views,Elevation,Building Elevation,Saved Position,-1,,missing
+8175,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fef,Views,Elevation,Building Elevation,Sheet Collection,-1,,missing
+8175,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fef,Views,Elevation,Building Elevation,Sheet Name,---,,missing
+8175,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fef,Views,Elevation,Building Elevation,View Anchor,,,missing
+8175,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fef,Views,Elevation,Building Elevation,View Position X,,,missing
+8175,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fef,Views,Elevation,Building Elevation,View Position Y,,,missing
+8175,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fef,Views,Elevation,Building Elevation,Reference Label,,,added
+8208,f9c62406-7c50-11d5-93b8-0000863f27ad-00002010,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,-1,,missing
+8208,f9c62406-7c50-11d5-93b8-0000863f27ad-00002010,Elevations,Elevation,Building Elevation,Sheet Collection,-1,,missing
+8208,f9c62406-7c50-11d5-93b8-0000863f27ad-00002010,Elevations,Elevation,Building Elevation,Reference Label,,,added
+8231,f9c62406-7c50-11d5-93b8-0000863f27ad-00002027,Views,Elevation,Building Elevation,Referencing Sheet Collection,-1,,missing
+8231,f9c62406-7c50-11d5-93b8-0000863f27ad-00002027,Views,Elevation,Building Elevation,Saved Position,-1,,missing
+8231,f9c62406-7c50-11d5-93b8-0000863f27ad-00002027,Views,Elevation,Building Elevation,Sheet Collection,-1,,missing
+8231,f9c62406-7c50-11d5-93b8-0000863f27ad-00002027,Views,Elevation,Building Elevation,Sheet Name,---,,missing
+8231,f9c62406-7c50-11d5-93b8-0000863f27ad-00002027,Views,Elevation,Building Elevation,View Anchor,,,missing
+8231,f9c62406-7c50-11d5-93b8-0000863f27ad-00002027,Views,Elevation,Building Elevation,View Position X,,,missing
+8231,f9c62406-7c50-11d5-93b8-0000863f27ad-00002027,Views,Elevation,Building Elevation,View Position Y,,,missing
+8231,f9c62406-7c50-11d5-93b8-0000863f27ad-00002027,Views,Elevation,Building Elevation,Reference Label,,,added
+8252,f9c62406-7c50-11d5-93b8-0000863f27ad-0000203c,<none>,Floor Plan,Floor Plan,Referencing Sheet Collection,-1,,missing
+8252,f9c62406-7c50-11d5-93b8-0000863f27ad-0000203c,<none>,Floor Plan,Floor Plan,Saved Position,-1,,missing
+8252,f9c62406-7c50-11d5-93b8-0000863f27ad-0000203c,<none>,Floor Plan,Floor Plan,Sheet Collection,-1,,missing
+8252,f9c62406-7c50-11d5-93b8-0000863f27ad-0000203c,<none>,Floor Plan,Floor Plan,Sheet Name,---,,missing
+8252,f9c62406-7c50-11d5-93b8-0000863f27ad-0000203c,<none>,Floor Plan,Floor Plan,View Anchor,,,missing
+8252,f9c62406-7c50-11d5-93b8-0000863f27ad-0000203c,<none>,Floor Plan,Floor Plan,View Position X,,,missing
+8252,f9c62406-7c50-11d5-93b8-0000863f27ad-0000203c,<none>,Floor Plan,Floor Plan,View Position Y,,,missing
+69852,ae2fa8e5-0195-4f7a-b1fa-be87416d34f4-000110dc,<none>,,,Sheet Collection,-1,,missing
+69852,ae2fa8e5-0195-4f7a-b1fa-be87416d34f4-000110dc,<none>,,,Sheet Name,---,,missing
+98746,627ad902-4aae-46a6-beef-a49c31eda294-000181ba,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,-1,,missing
+98746,627ad902-4aae-46a6-beef-a49c31eda294-000181ba,Elevations,Elevation,Building Elevation,Sheet Collection,-1,,missing
+98746,627ad902-4aae-46a6-beef-a49c31eda294-000181ba,Elevations,Elevation,Building Elevation,Reference Label,,,added
+98977,627ad902-4aae-46a6-beef-a49c31eda294-000182a1,Views,Elevation,Building Elevation,Referencing Sheet Collection,-1,,missing
+98977,627ad902-4aae-46a6-beef-a49c31eda294-000182a1,Views,Elevation,Building Elevation,Saved Position,-1,,missing
+98977,627ad902-4aae-46a6-beef-a49c31eda294-000182a1,Views,Elevation,Building Elevation,Sheet Collection,-1,,missing
+98977,627ad902-4aae-46a6-beef-a49c31eda294-000182a1,Views,Elevation,Building Elevation,Sheet Name,---,,missing
+98977,627ad902-4aae-46a6-beef-a49c31eda294-000182a1,Views,Elevation,Building Elevation,View Anchor,,,missing
+98977,627ad902-4aae-46a6-beef-a49c31eda294-000182a1,Views,Elevation,Building Elevation,View Position X,,,missing
+98977,627ad902-4aae-46a6-beef-a49c31eda294-000182a1,Views,Elevation,Building Elevation,View Position Y,,,missing
+98977,627ad902-4aae-46a6-beef-a49c31eda294-000182a1,Views,Elevation,Building Elevation,Reference Label,,,added
+105557,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c55,Building Type Settings,,,Lighting Schedule,352640,105554,changed
+105557,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c55,Building Type Settings,,,Occupancy Schedule,352637,105551,changed
+105557,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c55,Building Type Settings,,,Power Schedule,352640,105554,changed
+105558,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c56,Building Type Settings,,,Lighting Schedule,352640,105554,changed
+105558,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c56,Building Type Settings,,,Occupancy Schedule,352629,105543,changed
+105558,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c56,Building Type Settings,,,Power Schedule,352640,105554,changed
+105559,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c57,Building Type Settings,,,Lighting Schedule,352638,105552,changed
+105559,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c57,Building Type Settings,,,Occupancy Schedule,352629,105543,changed
+105559,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c57,Building Type Settings,,,Power Schedule,352638,105552,changed
+105560,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c58,Building Type Settings,,,Lighting Schedule,352640,105554,changed
+105560,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c58,Building Type Settings,,,Occupancy Schedule,352634,105548,changed
+105560,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c58,Building Type Settings,,,Power Schedule,352640,105554,changed
+105561,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c59,Building Type Settings,,,Lighting Schedule,352640,105554,changed
+105561,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c59,Building Type Settings,,,Occupancy Schedule,352634,105548,changed
+105561,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c59,Building Type Settings,,,Power Schedule,352640,105554,changed
+105562,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5a,Building Type Settings,,,Lighting Schedule,352640,105554,changed
+105562,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5a,Building Type Settings,,,Occupancy Schedule,352634,105548,changed
+105562,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5a,Building Type Settings,,,Power Schedule,352640,105554,changed
+105563,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5b,Building Type Settings,,,Lighting Schedule,352638,105552,changed
+105563,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5b,Building Type Settings,,,Occupancy Schedule,352633,105547,changed
+105563,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5b,Building Type Settings,,,Power Schedule,352638,105552,changed
+105564,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5c,Building Type Settings,,,Lighting Schedule,352640,105554,changed
+105564,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5c,Building Type Settings,,,Occupancy Schedule,352635,105549,changed
+105564,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5c,Building Type Settings,,,Power Schedule,352640,105554,changed
+105565,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5d,Building Type Settings,,,Lighting Schedule,352638,105552,changed
+105565,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5d,Building Type Settings,,,Occupancy Schedule,352630,105544,changed
+105565,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5d,Building Type Settings,,,Power Schedule,352638,105552,changed
+105566,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5e,Building Type Settings,,,Lighting Schedule,352640,105554,changed
+105566,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5e,Building Type Settings,,,Occupancy Schedule,352636,105550,changed
+105566,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5e,Building Type Settings,,,Power Schedule,352640,105554,changed
+105567,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5f,Building Type Settings,,,Lighting Schedule,352638,105552,changed
+105567,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5f,Building Type Settings,,,Occupancy Schedule,352630,105544,changed
+105567,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5f,Building Type Settings,,,Power Schedule,352638,105552,changed
+105568,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c60,Building Type Settings,,,Lighting Schedule,352638,105552,changed
+105568,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c60,Building Type Settings,,,Occupancy Schedule,352631,105545,changed
+105568,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c60,Building Type Settings,,,Power Schedule,352638,105552,changed
+105569,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c61,Building Type Settings,,,Lighting Schedule,352638,105552,changed
+105569,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c61,Building Type Settings,,,Occupancy Schedule,352632,105546,changed
+105569,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c61,Building Type Settings,,,Power Schedule,352638,105552,changed
+105570,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c62,Building Type Settings,,,Lighting Schedule,352638,105552,changed
+105570,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c62,Building Type Settings,,,Occupancy Schedule,352637,105551,changed
+105570,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c62,Building Type Settings,,,Power Schedule,352638,105552,changed
+105571,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c63,Building Type Settings,,,Lighting Schedule,352638,105552,changed
+105571,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c63,Building Type Settings,,,Occupancy Schedule,352631,105545,changed
+105571,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c63,Building Type Settings,,,Power Schedule,352638,105552,changed
+105572,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c64,Building Type Settings,,,Lighting Schedule,352640,105554,changed
+105572,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c64,Building Type Settings,,,Occupancy Schedule,352629,105543,changed
+105572,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c64,Building Type Settings,,,Power Schedule,352640,105554,changed
+105573,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c65,Building Type Settings,,,Lighting Schedule,352638,105552,changed
+105573,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c65,Building Type Settings,,,Occupancy Schedule,352633,105547,changed
+105573,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c65,Building Type Settings,,,Power Schedule,352638,105552,changed
+105574,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c66,Building Type Settings,,,Lighting Schedule,352640,105554,changed
+105574,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c66,Building Type Settings,,,Occupancy Schedule,352635,105549,changed
+105574,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c66,Building Type Settings,,,Power Schedule,352640,105554,changed
+105575,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c67,Building Type Settings,,,Lighting Schedule,352638,105552,changed
+105575,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c67,Building Type Settings,,,Occupancy Schedule,352632,105546,changed
+105575,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c67,Building Type Settings,,,Power Schedule,352638,105552,changed
+105576,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c68,Building Type Settings,,,Lighting Schedule,352642,105556,changed
+105576,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c68,Building Type Settings,,,Occupancy Schedule,352637,105551,changed
+105576,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c68,Building Type Settings,,,Power Schedule,352642,105556,changed
+105577,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c69,Building Type Settings,,,Lighting Schedule,352638,105552,changed
+105577,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c69,Building Type Settings,,,Occupancy Schedule,352634,105548,changed
+105577,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c69,Building Type Settings,,,Power Schedule,352638,105552,changed
+105578,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6a,Building Type Settings,,,Lighting Schedule,352640,105554,changed
+105578,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6a,Building Type Settings,,,Occupancy Schedule,352629,105543,changed
+105578,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6a,Building Type Settings,,,Power Schedule,352640,105554,changed
+105579,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6b,Building Type Settings,,,Lighting Schedule,352638,105552,changed
+105579,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6b,Building Type Settings,,,Occupancy Schedule,352632,105546,changed
+105579,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6b,Building Type Settings,,,Power Schedule,352638,105552,changed
+105580,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6c,Building Type Settings,,,Lighting Schedule,352638,105552,changed
+105580,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6c,Building Type Settings,,,Occupancy Schedule,352632,105546,changed
+105580,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6c,Building Type Settings,,,Power Schedule,352638,105552,changed
+105581,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6d,Building Type Settings,,,Lighting Schedule,352640,105554,changed
+105581,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6d,Building Type Settings,,,Occupancy Schedule,352629,105543,changed
+105581,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6d,Building Type Settings,,,Power Schedule,352640,105554,changed
+105582,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6e,Building Type Settings,,,Lighting Schedule,352640,105554,changed
+105582,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6e,Building Type Settings,,,Occupancy Schedule,352635,105549,changed
+105582,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6e,Building Type Settings,,,Power Schedule,352640,105554,changed
+105583,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6f,Building Type Settings,,,Lighting Schedule,352641,105555,changed
+105583,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6f,Building Type Settings,,,Occupancy Schedule,352636,105550,changed
+105583,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6f,Building Type Settings,,,Power Schedule,352641,105555,changed
+105584,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c70,Building Type Settings,,,Lighting Schedule,352639,105553,changed
+105584,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c70,Building Type Settings,,,Occupancy Schedule,352633,105547,changed
+105584,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c70,Building Type Settings,,,Power Schedule,352639,105553,changed
+105585,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c71,Building Type Settings,,,Lighting Schedule,352640,105554,changed
+105585,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c71,Building Type Settings,,,Occupancy Schedule,352629,105543,changed
+105585,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c71,Building Type Settings,,,Power Schedule,352640,105554,changed
+105586,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c72,Building Type Settings,,,Lighting Schedule,352638,105552,changed
+105586,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c72,Building Type Settings,,,Occupancy Schedule,352632,105546,changed
+105586,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c72,Building Type Settings,,,Power Schedule,352638,105552,changed
+105587,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c73,Building Type Settings,,,Lighting Schedule,352640,105554,changed
+105587,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c73,Building Type Settings,,,Occupancy Schedule,352629,105543,changed
+105587,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c73,Building Type Settings,,,Power Schedule,352640,105554,changed
+105588,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c74,Building Type Settings,,,Lighting Schedule,352642,105556,changed
+105588,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c74,Building Type Settings,,,Occupancy Schedule,352637,105551,changed
+105588,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c74,Building Type Settings,,,Power Schedule,352642,105556,changed
+105589,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c75,Building Type Settings,,,Lighting Schedule,352638,105552,changed
+105589,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c75,Building Type Settings,,,Occupancy Schedule,352637,105551,changed
+105589,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c75,Building Type Settings,,,Power Schedule,352638,105552,changed
+105590,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c76,Space Type Settings,,,Lighting Schedule,352642,105556,changed
+105590,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c76,Space Type Settings,,,Occupancy Schedule,352637,105551,changed
+105590,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c76,Space Type Settings,,,Power Schedule,352642,105556,changed
+105591,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c77,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105591,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c77,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105591,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c77,Space Type Settings,,,Power Schedule,352638,105552,changed
+105592,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c78,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105592,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c78,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105592,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c78,Space Type Settings,,,Power Schedule,352640,105554,changed
+105593,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c79,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105593,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c79,Space Type Settings,,,Occupancy Schedule,352629,105543,changed
+105593,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c79,Space Type Settings,,,Power Schedule,352640,105554,changed
+105594,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7a,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105594,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7a,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105594,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7a,Space Type Settings,,,Power Schedule,352638,105552,changed
+105595,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7b,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105595,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7b,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105595,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7b,Space Type Settings,,,Power Schedule,352638,105552,changed
+105596,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7c,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105596,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7c,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105596,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7c,Space Type Settings,,,Power Schedule,352638,105552,changed
+105597,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7d,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105597,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7d,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105597,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7d,Space Type Settings,,,Power Schedule,352640,105554,changed
+105598,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7e,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105598,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7e,Space Type Settings,,,Occupancy Schedule,352628,105542,changed
+105598,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7e,Space Type Settings,,,Power Schedule,352640,105554,changed
+105599,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7f,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105599,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7f,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105599,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7f,Space Type Settings,,,Power Schedule,352640,105554,changed
+105600,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c80,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105600,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c80,Space Type Settings,,,Occupancy Schedule,352629,105543,changed
+105600,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c80,Space Type Settings,,,Power Schedule,352638,105552,changed
+105601,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c81,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105601,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c81,Space Type Settings,,,Occupancy Schedule,352629,105543,changed
+105601,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c81,Space Type Settings,,,Power Schedule,352640,105554,changed
+105602,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c82,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105602,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c82,Space Type Settings,,,Occupancy Schedule,352629,105543,changed
+105602,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c82,Space Type Settings,,,Power Schedule,352640,105554,changed
+105603,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c83,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105603,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c83,Space Type Settings,,,Occupancy Schedule,352629,105543,changed
+105603,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c83,Space Type Settings,,,Power Schedule,352640,105554,changed
+105604,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c84,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105604,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c84,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105604,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c84,Space Type Settings,,,Power Schedule,352638,105552,changed
+105605,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c85,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105605,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c85,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105605,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c85,Space Type Settings,,,Power Schedule,352638,105552,changed
+105606,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c86,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105606,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c86,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105606,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c86,Space Type Settings,,,Power Schedule,352640,105554,changed
+105607,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c87,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105607,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c87,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105607,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c87,Space Type Settings,,,Power Schedule,352638,105552,changed
+105608,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c88,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105608,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c88,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105608,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c88,Space Type Settings,,,Power Schedule,352638,105552,changed
+105609,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c89,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105609,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c89,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105609,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c89,Space Type Settings,,,Power Schedule,352640,105554,changed
+105610,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8a,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105610,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8a,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105610,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8a,Space Type Settings,,,Power Schedule,352640,105554,changed
+105611,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8b,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105611,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8b,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105611,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8b,Space Type Settings,,,Power Schedule,352638,105552,changed
+105612,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8c,Space Type Settings,,,Lighting Schedule,352641,105555,changed
+105612,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8c,Space Type Settings,,,Occupancy Schedule,352636,105550,changed
+105612,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8c,Space Type Settings,,,Power Schedule,352641,105555,changed
+105613,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8d,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105613,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8d,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105613,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8d,Space Type Settings,,,Power Schedule,352638,105552,changed
+105614,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8e,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105614,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8e,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105614,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8e,Space Type Settings,,,Power Schedule,352638,105552,changed
+105615,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8f,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105615,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8f,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105615,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8f,Space Type Settings,,,Power Schedule,352638,105552,changed
+105616,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c90,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105616,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c90,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105616,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c90,Space Type Settings,,,Power Schedule,352638,105552,changed
+105617,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c91,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105617,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c91,Space Type Settings,,,Occupancy Schedule,352637,105551,changed
+105617,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c91,Space Type Settings,,,Power Schedule,352638,105552,changed
+105618,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c92,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105618,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c92,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105618,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c92,Space Type Settings,,,Power Schedule,352638,105552,changed
+105619,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c93,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105619,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c93,Space Type Settings,,,Occupancy Schedule,352629,105543,changed
+105619,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c93,Space Type Settings,,,Power Schedule,352640,105554,changed
+105620,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c94,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105620,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c94,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105620,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c94,Space Type Settings,,,Power Schedule,352638,105552,changed
+105621,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c95,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105621,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c95,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105621,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c95,Space Type Settings,,,Power Schedule,352640,105554,changed
+105622,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c96,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105622,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c96,Space Type Settings,,,Occupancy Schedule,352637,105551,changed
+105622,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c96,Space Type Settings,,,Power Schedule,352638,105552,changed
+105623,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c97,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105623,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c97,Space Type Settings,,,Occupancy Schedule,352634,105548,changed
+105623,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c97,Space Type Settings,,,Power Schedule,352640,105554,changed
+105624,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c98,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105624,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c98,Space Type Settings,,,Occupancy Schedule,352634,105548,changed
+105624,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c98,Space Type Settings,,,Power Schedule,352638,105552,changed
+105625,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c99,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105625,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c99,Space Type Settings,,,Occupancy Schedule,352634,105548,changed
+105625,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c99,Space Type Settings,,,Power Schedule,352640,105554,changed
+105626,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9a,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105626,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9a,Space Type Settings,,,Occupancy Schedule,352634,105548,changed
+105626,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9a,Space Type Settings,,,Power Schedule,352640,105554,changed
+105627,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9b,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105627,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9b,Space Type Settings,,,Occupancy Schedule,352631,105545,changed
+105627,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9b,Space Type Settings,,,Power Schedule,352638,105552,changed
+105628,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9c,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105628,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9c,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105628,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9c,Space Type Settings,,,Power Schedule,352640,105554,changed
+105629,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9d,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105629,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9d,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105629,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9d,Space Type Settings,,,Power Schedule,352638,105552,changed
+105630,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9e,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105630,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9e,Space Type Settings,,,Occupancy Schedule,352634,105548,changed
+105630,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9e,Space Type Settings,,,Power Schedule,352640,105554,changed
+105631,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9f,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105631,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9f,Space Type Settings,,,Occupancy Schedule,352633,105547,changed
+105631,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9f,Space Type Settings,,,Power Schedule,352638,105552,changed
+105632,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca0,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105632,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca0,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105632,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca0,Space Type Settings,,,Power Schedule,352638,105552,changed
+105633,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca1,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105633,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca1,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105633,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca1,Space Type Settings,,,Power Schedule,352640,105554,changed
+105634,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca2,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105634,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca2,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105634,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca2,Space Type Settings,,,Power Schedule,352638,105552,changed
+105635,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca3,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105635,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca3,Space Type Settings,,,Occupancy Schedule,352629,105543,changed
+105635,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca3,Space Type Settings,,,Power Schedule,352640,105554,changed
+105636,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca4,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105636,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca4,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105636,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca4,Space Type Settings,,,Power Schedule,352640,105554,changed
+105637,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca5,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105637,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca5,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105637,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca5,Space Type Settings,,,Power Schedule,352640,105554,changed
+105638,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca6,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105638,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca6,Space Type Settings,,,Occupancy Schedule,352634,105548,changed
+105638,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca6,Space Type Settings,,,Power Schedule,352638,105552,changed
+105639,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca7,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105639,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca7,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105639,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca7,Space Type Settings,,,Power Schedule,352638,105552,changed
+105640,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca8,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105640,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca8,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105640,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca8,Space Type Settings,,,Power Schedule,352638,105552,changed
+105641,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca9,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105641,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca9,Space Type Settings,,,Occupancy Schedule,352637,105551,changed
+105641,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca9,Space Type Settings,,,Power Schedule,352638,105552,changed
+105642,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019caa,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105642,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019caa,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105642,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019caa,Space Type Settings,,,Power Schedule,352638,105552,changed
+105643,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cab,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105643,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cab,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105643,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cab,Space Type Settings,,,Power Schedule,352640,105554,changed
+105644,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cac,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105644,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cac,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105644,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cac,Space Type Settings,,,Power Schedule,352640,105554,changed
+105645,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cad,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105645,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cad,Space Type Settings,,,Occupancy Schedule,352629,105543,changed
+105645,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cad,Space Type Settings,,,Power Schedule,352638,105552,changed
+105646,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cae,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105646,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cae,Space Type Settings,,,Occupancy Schedule,352629,105543,changed
+105646,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cae,Space Type Settings,,,Power Schedule,352640,105554,changed
+105647,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019caf,Space Type Settings,,,Lighting Schedule,352642,105556,changed
+105647,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019caf,Space Type Settings,,,Occupancy Schedule,352637,105551,changed
+105647,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019caf,Space Type Settings,,,Power Schedule,352642,105556,changed
+105648,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb0,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105648,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb0,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105648,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb0,Space Type Settings,,,Power Schedule,352640,105554,changed
+105649,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb1,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105649,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb1,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105649,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb1,Space Type Settings,,,Power Schedule,352638,105552,changed
+105650,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb2,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105650,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb2,Space Type Settings,,,Occupancy Schedule,352634,105548,changed
+105650,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb2,Space Type Settings,,,Power Schedule,352638,105552,changed
+105651,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb3,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105651,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb3,Space Type Settings,,,Occupancy Schedule,352637,105551,changed
+105651,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb3,Space Type Settings,,,Power Schedule,352638,105552,changed
+105652,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb4,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105652,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb4,Space Type Settings,,,Occupancy Schedule,352637,105551,changed
+105652,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb4,Space Type Settings,,,Power Schedule,352638,105552,changed
+105653,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb5,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105653,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb5,Space Type Settings,,,Occupancy Schedule,352637,105551,changed
+105653,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb5,Space Type Settings,,,Power Schedule,352638,105552,changed
+105654,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb6,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105654,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb6,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105654,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb6,Space Type Settings,,,Power Schedule,352640,105554,changed
+105655,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb7,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105655,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb7,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105655,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb7,Space Type Settings,,,Power Schedule,352638,105552,changed
+105656,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb8,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105656,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb8,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105656,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb8,Space Type Settings,,,Power Schedule,352638,105552,changed
+105657,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb9,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105657,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb9,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105657,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb9,Space Type Settings,,,Power Schedule,352638,105552,changed
+105658,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cba,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105658,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cba,Space Type Settings,,,Occupancy Schedule,352631,105545,changed
+105658,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cba,Space Type Settings,,,Power Schedule,352638,105552,changed
+105659,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbb,Space Type Settings,,,Lighting Schedule,352642,105556,changed
+105659,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbb,Space Type Settings,,,Occupancy Schedule,352637,105551,changed
+105659,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbb,Space Type Settings,,,Power Schedule,352642,105556,changed
+105660,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbc,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105660,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbc,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105660,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbc,Space Type Settings,,,Power Schedule,352638,105552,changed
+105661,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbd,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105661,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbd,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105661,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbd,Space Type Settings,,,Power Schedule,352638,105552,changed
+105662,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbe,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105662,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbe,Space Type Settings,,,Occupancy Schedule,352637,105551,changed
+105662,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbe,Space Type Settings,,,Power Schedule,352638,105552,changed
+105663,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbf,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105663,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbf,Space Type Settings,,,Occupancy Schedule,352637,105551,changed
+105663,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbf,Space Type Settings,,,Power Schedule,352638,105552,changed
+105664,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc0,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105664,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc0,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105664,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc0,Space Type Settings,,,Power Schedule,352640,105554,changed
+105665,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc1,Space Type Settings,,,Lighting Schedule,352639,105553,changed
+105665,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc1,Space Type Settings,,,Occupancy Schedule,352631,105545,changed
+105665,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc1,Space Type Settings,,,Power Schedule,352639,105553,changed
+105666,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc2,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105666,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc2,Space Type Settings,,,Occupancy Schedule,352631,105545,changed
+105666,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc2,Space Type Settings,,,Power Schedule,352638,105552,changed
+105667,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc3,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105667,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc3,Space Type Settings,,,Occupancy Schedule,352631,105545,changed
+105667,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc3,Space Type Settings,,,Power Schedule,352638,105552,changed
+105668,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc4,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105668,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc4,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105668,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc4,Space Type Settings,,,Power Schedule,352638,105552,changed
+105669,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc5,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105669,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc5,Space Type Settings,,,Occupancy Schedule,352629,105543,changed
+105669,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc5,Space Type Settings,,,Power Schedule,352640,105554,changed
+105670,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc6,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105670,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc6,Space Type Settings,,,Occupancy Schedule,352629,105543,changed
+105670,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc6,Space Type Settings,,,Power Schedule,352640,105554,changed
+105671,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc7,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105671,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc7,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105671,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc7,Space Type Settings,,,Power Schedule,352640,105554,changed
+105672,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc8,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105672,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc8,Space Type Settings,,,Occupancy Schedule,352629,105543,changed
+105672,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc8,Space Type Settings,,,Power Schedule,352640,105554,changed
+105673,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc9,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105673,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc9,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105673,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc9,Space Type Settings,,,Power Schedule,352638,105552,changed
+105674,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cca,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105674,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cca,Space Type Settings,,,Occupancy Schedule,352631,105545,changed
+105674,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cca,Space Type Settings,,,Power Schedule,352638,105552,changed
+105675,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ccb,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105675,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ccb,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105675,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ccb,Space Type Settings,,,Power Schedule,352638,105552,changed
+105676,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ccc,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105676,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ccc,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105676,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ccc,Space Type Settings,,,Power Schedule,352640,105554,changed
+105677,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ccd,Space Type Settings,,,Lighting Schedule,352642,105556,changed
+105677,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ccd,Space Type Settings,,,Occupancy Schedule,352637,105551,changed
+105677,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ccd,Space Type Settings,,,Power Schedule,352642,105556,changed
+105678,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cce,Space Type Settings,,,Lighting Schedule,352642,105556,changed
+105678,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cce,Space Type Settings,,,Occupancy Schedule,352637,105551,changed
+105678,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cce,Space Type Settings,,,Power Schedule,352642,105556,changed
+105679,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ccf,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105679,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ccf,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105679,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ccf,Space Type Settings,,,Power Schedule,352640,105554,changed
+105680,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd0,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105680,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd0,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105680,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd0,Space Type Settings,,,Power Schedule,352640,105554,changed
+105681,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd1,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105681,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd1,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105681,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd1,Space Type Settings,,,Power Schedule,352638,105552,changed
+105682,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd2,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105682,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd2,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105682,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd2,Space Type Settings,,,Power Schedule,352638,105552,changed
+105683,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd3,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105683,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd3,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105683,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd3,Space Type Settings,,,Power Schedule,352638,105552,changed
+105684,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd4,Space Type Settings,,,Lighting Schedule,352642,105556,changed
+105684,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd4,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105684,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd4,Space Type Settings,,,Power Schedule,352642,105556,changed
+105685,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd5,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105685,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd5,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105685,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd5,Space Type Settings,,,Power Schedule,352638,105552,changed
+105686,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd6,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105686,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd6,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105686,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd6,Space Type Settings,,,Power Schedule,352640,105554,changed
+105687,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd7,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105687,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd7,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105687,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd7,Space Type Settings,,,Power Schedule,352638,105552,changed
+105688,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd8,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105688,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd8,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105688,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd8,Space Type Settings,,,Power Schedule,352638,105552,changed
+105689,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd9,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105689,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd9,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105689,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd9,Space Type Settings,,,Power Schedule,352638,105552,changed
+105690,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cda,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105690,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cda,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105690,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cda,Space Type Settings,,,Power Schedule,352640,105554,changed
+105691,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cdb,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105691,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cdb,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105691,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cdb,Space Type Settings,,,Power Schedule,352638,105552,changed
+105692,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cdc,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105692,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cdc,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105692,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cdc,Space Type Settings,,,Power Schedule,352638,105552,changed
+105693,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cdd,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105693,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cdd,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105693,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cdd,Space Type Settings,,,Power Schedule,352640,105554,changed
+105694,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cde,Space Type Settings,,,Lighting Schedule,352618,105532,changed
+105694,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cde,Space Type Settings,,,Occupancy Schedule,352618,105532,changed
+105694,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cde,Space Type Settings,,,Power Schedule,352618,105532,changed
+105695,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cdf,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105695,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cdf,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105695,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cdf,Space Type Settings,,,Power Schedule,352638,105552,changed
+105696,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce0,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105696,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce0,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105696,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce0,Space Type Settings,,,Power Schedule,352638,105552,changed
+105697,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce1,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105697,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce1,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105697,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce1,Space Type Settings,,,Power Schedule,352640,105554,changed
+105698,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce2,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105698,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce2,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105698,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce2,Space Type Settings,,,Power Schedule,352640,105554,changed
+105699,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce3,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105699,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce3,Space Type Settings,,,Occupancy Schedule,352631,105545,changed
+105699,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce3,Space Type Settings,,,Power Schedule,352638,105552,changed
+105700,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce4,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105700,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce4,Space Type Settings,,,Occupancy Schedule,352631,105545,changed
+105700,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce4,Space Type Settings,,,Power Schedule,352638,105552,changed
+105701,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce5,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105701,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce5,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105701,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce5,Space Type Settings,,,Power Schedule,352638,105552,changed
+105702,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce6,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105702,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce6,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105702,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce6,Space Type Settings,,,Power Schedule,352640,105554,changed
+105703,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce7,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105703,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce7,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105703,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce7,Space Type Settings,,,Power Schedule,352638,105552,changed
+105704,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce8,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105704,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce8,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105704,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce8,Space Type Settings,,,Power Schedule,352640,105554,changed
+105705,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce9,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105705,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce9,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105705,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce9,Space Type Settings,,,Power Schedule,352638,105552,changed
+105706,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cea,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105706,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cea,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105706,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cea,Space Type Settings,,,Power Schedule,352638,105552,changed
+105707,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ceb,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105707,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ceb,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105707,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ceb,Space Type Settings,,,Power Schedule,352640,105554,changed
+105708,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cec,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105708,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cec,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105708,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cec,Space Type Settings,,,Power Schedule,352640,105554,changed
+105709,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ced,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105709,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ced,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105709,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ced,Space Type Settings,,,Power Schedule,352638,105552,changed
+105710,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cee,Space Type Settings,,,Lighting Schedule,352638,105552,changed
+105710,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cee,Space Type Settings,,,Occupancy Schedule,352632,105546,changed
+105710,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cee,Space Type Settings,,,Power Schedule,352638,105552,changed
+105711,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cef,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105711,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cef,Space Type Settings,,,Occupancy Schedule,352635,105549,changed
+105711,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cef,Space Type Settings,,,Power Schedule,352640,105554,changed
+105712,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cf0,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105712,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cf0,Space Type Settings,,,Occupancy Schedule,352630,105544,changed
+105712,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cf0,Space Type Settings,,,Power Schedule,352640,105554,changed
+105713,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cf1,Space Type Settings,,,Lighting Schedule,352642,105556,changed
+105713,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cf1,Space Type Settings,,,Occupancy Schedule,352637,105551,changed
+105713,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cf1,Space Type Settings,,,Power Schedule,352642,105556,changed
+105714,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cf2,Space Type Settings,,,Lighting Schedule,352640,105554,changed
+105714,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cf2,Space Type Settings,,,Occupancy Schedule,352629,105543,changed
+105714,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cf2,Space Type Settings,,,Power Schedule,352640,105554,changed
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Analytical Grid Cell Size,914.4,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Building Envelope,0,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Building Infiltration Class,3,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Building Operating Schedule,0,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Building Service,10,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Building Type,105575,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Conceptual Types,,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Detailed Elements,0,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Export Category,-2000160,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Export Complexity,1,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Glazing is Shaded,0,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,HVAC System,2,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Outdoor Air Information,,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Schematic Types,-1,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Shade Depth,457.2,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Skylight Width & Depth,650.0,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Sliver Space Tolerance,304.8,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Target Percentage Glazing,0.0,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Target Percentage Skylights,0.0,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Target Sill Height,750.0,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Use Only Elements Visible In Current View,0,,missing
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,Other Options,,,added
+174475,88566e0d-6daf-48ce-b050-ac0348546712-0002a98b,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174475,88566e0d-6daf-48ce-b050-ac0348546712-0002a98b,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174478,88566e0d-6daf-48ce-b050-ac0348546712-0002a98e,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174478,88566e0d-6daf-48ce-b050-ac0348546712-0002a98e,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174481,88566e0d-6daf-48ce-b050-ac0348546712-0002a991,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174481,88566e0d-6daf-48ce-b050-ac0348546712-0002a991,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174484,88566e0d-6daf-48ce-b050-ac0348546712-0002a994,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174484,88566e0d-6daf-48ce-b050-ac0348546712-0002a994,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174487,88566e0d-6daf-48ce-b050-ac0348546712-0002a997,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174487,88566e0d-6daf-48ce-b050-ac0348546712-0002a997,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174490,88566e0d-6daf-48ce-b050-ac0348546712-0002a99a,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174490,88566e0d-6daf-48ce-b050-ac0348546712-0002a99a,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174495,88566e0d-6daf-48ce-b050-ac0348546712-0002a99f,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174495,88566e0d-6daf-48ce-b050-ac0348546712-0002a99f,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174500,88566e0d-6daf-48ce-b050-ac0348546712-0002a9a4,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174500,88566e0d-6daf-48ce-b050-ac0348546712-0002a9a4,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174503,88566e0d-6daf-48ce-b050-ac0348546712-0002a9a7,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174503,88566e0d-6daf-48ce-b050-ac0348546712-0002a9a7,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174506,88566e0d-6daf-48ce-b050-ac0348546712-0002a9aa,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174506,88566e0d-6daf-48ce-b050-ac0348546712-0002a9aa,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174509,88566e0d-6daf-48ce-b050-ac0348546712-0002a9ad,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174509,88566e0d-6daf-48ce-b050-ac0348546712-0002a9ad,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174512,88566e0d-6daf-48ce-b050-ac0348546712-0002a9b0,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174512,88566e0d-6daf-48ce-b050-ac0348546712-0002a9b0,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174515,88566e0d-6daf-48ce-b050-ac0348546712-0002a9b3,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174515,88566e0d-6daf-48ce-b050-ac0348546712-0002a9b3,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174524,88566e0d-6daf-48ce-b050-ac0348546712-0002a9bc,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174524,88566e0d-6daf-48ce-b050-ac0348546712-0002a9bc,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174527,88566e0d-6daf-48ce-b050-ac0348546712-0002a9bf,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174527,88566e0d-6daf-48ce-b050-ac0348546712-0002a9bf,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174530,88566e0d-6daf-48ce-b050-ac0348546712-0002a9c2,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174530,88566e0d-6daf-48ce-b050-ac0348546712-0002a9c2,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174539,88566e0d-6daf-48ce-b050-ac0348546712-0002a9cb,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174539,88566e0d-6daf-48ce-b050-ac0348546712-0002a9cb,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174545,88566e0d-6daf-48ce-b050-ac0348546712-0002a9d1,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174545,88566e0d-6daf-48ce-b050-ac0348546712-0002a9d1,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174548,88566e0d-6daf-48ce-b050-ac0348546712-0002a9d4,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174548,88566e0d-6daf-48ce-b050-ac0348546712-0002a9d4,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174553,88566e0d-6daf-48ce-b050-ac0348546712-0002a9d9,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174553,88566e0d-6daf-48ce-b050-ac0348546712-0002a9d9,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174559,88566e0d-6daf-48ce-b050-ac0348546712-0002a9df,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174559,88566e0d-6daf-48ce-b050-ac0348546712-0002a9df,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174562,88566e0d-6daf-48ce-b050-ac0348546712-0002a9e2,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174562,88566e0d-6daf-48ce-b050-ac0348546712-0002a9e2,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174565,88566e0d-6daf-48ce-b050-ac0348546712-0002a9e5,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174565,88566e0d-6daf-48ce-b050-ac0348546712-0002a9e5,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174568,88566e0d-6daf-48ce-b050-ac0348546712-0002a9e8,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174568,88566e0d-6daf-48ce-b050-ac0348546712-0002a9e8,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174571,88566e0d-6daf-48ce-b050-ac0348546712-0002a9eb,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174571,88566e0d-6daf-48ce-b050-ac0348546712-0002a9eb,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174574,88566e0d-6daf-48ce-b050-ac0348546712-0002a9ee,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174574,88566e0d-6daf-48ce-b050-ac0348546712-0002a9ee,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174577,88566e0d-6daf-48ce-b050-ac0348546712-0002a9f1,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174577,88566e0d-6daf-48ce-b050-ac0348546712-0002a9f1,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174580,88566e0d-6daf-48ce-b050-ac0348546712-0002a9f4,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174580,88566e0d-6daf-48ce-b050-ac0348546712-0002a9f4,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174586,88566e0d-6daf-48ce-b050-ac0348546712-0002a9fa,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174586,88566e0d-6daf-48ce-b050-ac0348546712-0002a9fa,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174589,88566e0d-6daf-48ce-b050-ac0348546712-0002a9fd,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174589,88566e0d-6daf-48ce-b050-ac0348546712-0002a9fd,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174592,88566e0d-6daf-48ce-b050-ac0348546712-0002aa00,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174592,88566e0d-6daf-48ce-b050-ac0348546712-0002aa00,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174595,88566e0d-6daf-48ce-b050-ac0348546712-0002aa03,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174595,88566e0d-6daf-48ce-b050-ac0348546712-0002aa03,Material Assets,,,Tension perpendicular to grain,,731.52,added
+174598,88566e0d-6daf-48ce-b050-ac0348546712-0002aa06,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+174598,88566e0d-6daf-48ce-b050-ac0348546712-0002aa06,Material Assets,,,Tension perpendicular to grain,,731.52,added
+180979,1ed02f92-e52e-488b-8f64-3aaefd427d26-0002c2f3,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+180979,1ed02f92-e52e-488b-8f64-3aaefd427d26-0002c2f3,Material Assets,,,Tension perpendicular to grain,,731.52,added
+304728,b2ff8c25-eeb2-4017-814e-64f906383262-0004a658,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+304728,b2ff8c25-eeb2-4017-814e-64f906383262-0004a658,Material Assets,,,Tension perpendicular to grain,,731.52,added
+350556,6c83b6f0-f882-4fc8-b4cf-b7a0d71ed037-0005595c,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+350556,6c83b6f0-f882-4fc8-b4cf-b7a0d71ed037-0005595c,Material Assets,,,Tension perpendicular to grain,,731.52,added
+350637,6c83b6f0-f882-4fc8-b4cf-b7a0d71ed037-000559ad,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+350637,6c83b6f0-f882-4fc8-b4cf-b7a0d71ed037-000559ad,Material Assets,,,Tension perpendicular to grain,,731.52,added
+350745,6c83b6f0-f882-4fc8-b4cf-b7a0d71ed037-00055a19,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+350745,6c83b6f0-f882-4fc8-b4cf-b7a0d71ed037-00055a19,Material Assets,,,Tension perpendicular to grain,,731.52,added
+350749,6c83b6f0-f882-4fc8-b4cf-b7a0d71ed037-00055a1d,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+350749,6c83b6f0-f882-4fc8-b4cf-b7a0d71ed037-00055a1d,Material Assets,,,Tension perpendicular to grain,,731.52,added
+350824,6c83b6f0-f882-4fc8-b4cf-b7a0d71ed037-00055a68,Material Assets,,,Shear perpendicular to grain,731.52,,missing
+350824,6c83b6f0-f882-4fc8-b4cf-b7a0d71ed037-00055a68,Material Assets,,,Tension perpendicular to grain,,731.52,added

@@ -1,0 +1,140 @@
+parameterName,kind,count
+Sheet Collection,missing,499
+Host,missing,454
+Leader End,missing,329
+Leader Start,missing,329
+Name,missing,308
+Height,missing,283
+Analytic Construction,missing,280
+Originating Element,missing,280
+Width,missing,280
+Sheet Name,missing,277
+Concrete Cantilever,added,265
+Steel Cantilever,added,265
+Leader Type,added,251
+Thermal Transmittance (U),missing,230
+Heat Transfer Coefficient (U),added,223
+Saved Position,missing,208
+View Anchor,missing,208
+View Position X,missing,208
+View Position Y,missing,208
+Thermal Mass,changed,200
+Thermal Resistance (R),changed,200
+Referencing Sheet Collection,missing,199
+Hosted,missing,186
+Design Option,missing,185
+Lighting Schedule,changed,158
+Occupancy Schedule,changed,158
+Power Schedule,changed,158
+Surface Type,changed,126
+Alignment Method,added,110
+In-Plane Projection,added,110
+Manually Adjusted,added,110
+Reference Label,added,98
+Viewport Positioning,added,84
+Keep Concentric,missing,70
+Shear perpendicular to grain,missing,56
+Tension perpendicular to grain,added,56
+File Path,changed,44
+Scale Override (Multiple Values),missing,44
+Analytical Surface,missing,42
+Analytical Zone,missing,30
+Composed Name,missing,30
+Condition Type,missing,30
+JSON data for Analytical Spaces,missing,30
+Number,missing,30
+Number of People,missing,30
+Rotation on Sheet,missing,30
+Space Type (gbXML),missing,30
+Excavation Volume on Toposolid,missing,26
+Solar Heat Gain Coefficient,changed,23
+Visual Light Transmittance,changed,23
+Primary Title Block,missing,22
+Sheet Height,missing,22
+Sheet Width,missing,22
+Thermal Resistance (R),missing,20
+Density,missing,14
+Description,missing,14
+Design Option,added,14
+Specific Heat Capacity,missing,14
+Thermal Conductivity,missing,14
+Thickness,missing,14
+Resize Rows,missing,9
+Row Height,missing,9
+Keep Ratio,missing,8
+Length,added,8
+System Length,missing,8
+Air Changes per Hour,missing,7
+Design Temperature for Cooling,missing,7
+Design Temperature for Heating,missing,7
+Energy analysis zone data json,missing,7
+Outside Air Flow per Area,missing,7
+Outside Air Flow per Person,missing,7
+Schematic,missing,7
+JSON data for Analytical Constructions,missing,6
+Thermal Mass,missing,6
+Cut,added,3
+Fill,added,3
+Net cut/fill,added,3
+Critical Path,added,2
+Elevation from Level,missing,2
+Individual Excavation Volume,missing,2
+Level,added,2
+Power Factor State,missing,2
+Total Excavation Volume,missing,2
+Adjacent Analytical Space,added,1
+Analytical Grid Cell Size,missing,1
+Apparent Load Phase A,added,1
+Apparent Load Phase B,added,1
+Apparent Load Phase C,added,1
+Apparent Power Phase A,missing,1
+Apparent Power Phase B,missing,1
+Apparent Power Phase C,missing,1
+Area,changed,1
+Branch Circuit Apparent Load Phase A,added,1
+Branch Circuit Apparent Load Phase B,added,1
+Branch Circuit Apparent Load Phase C,added,1
+Branch Circuit Apparent Power Phase A,missing,1
+Branch Circuit Apparent Power Phase B,missing,1
+Branch Circuit Apparent Power Phase C,missing,1
+Building Envelope,missing,1
+Building Infiltration Class,missing,1
+Building Operating Schedule,missing,1
+Building Service,missing,1
+Building Type,missing,1
+Conceptual Types,missing,1
+Detailed Elements,missing,1
+Export Category,missing,1
+Export Complexity,missing,1
+Feed Through Lugs Apparent Load Phase A,added,1
+Feed Through Lugs Apparent Load Phase B,added,1
+Feed Through Lugs Apparent Load Phase C,added,1
+Feed Through Lugs Apparent Power Phase A,missing,1
+Feed Through Lugs Apparent Power Phase B,missing,1
+Feed Through Lugs Apparent Power Phase C,missing,1
+Glazing is Shaded,missing,1
+HVAC System,missing,1
+Height Offset From Level,added,1
+JSON data for Window Types,missing,1
+Other Options,added,1
+Outdoor Air Information,missing,1
+Related to Mass,added,1
+Schematic Types,missing,1
+Shade Depth,missing,1
+Short Circuit Rating,added,1
+Short Circuit Rating Comments,missing,1
+Skylight Width & Depth,missing,1
+Sliver Space Tolerance,missing,1
+Solar Heat Gain Coefficient,missing,1
+Sub-divide Offset,missing,1
+Target Percentage Glazing,missing,1
+Target Percentage Skylights,missing,1
+Target Sill Height,missing,1
+Thickness,added,1
+Total Connected,added,1
+Total Connected Apparent Power,missing,1
+Total Demand Apparent Power,missing,1
+Total Estimated Demand,added,1
+Use Only Elements Visible In Current View,missing,1
+Visual Light Transmittance,missing,1
+Volume,changed,1

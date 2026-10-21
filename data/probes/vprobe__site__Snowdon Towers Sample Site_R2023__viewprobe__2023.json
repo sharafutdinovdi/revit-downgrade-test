@@ -1,0 +1,417 @@
+{
+  "views": [
+    {
+      "errors": [], 
+      "viewType": "FloorPlan", 
+      "temporaryHideIsolateActive": false, 
+      "totalCount": 136, 
+      "boundingBoxErrors": {}, 
+      "exports": {
+        "fit": "Site__2023__fit.png", 
+        "crop": "Site__2023__crop.png"
+      }, 
+      "scale": 240, 
+      "viewTemplateId": 30275, 
+      "hiddenElements": {
+        "checkedCount": 163, 
+        "capped": false, 
+        "errors": {}, 
+        "cap": 50000, 
+        "count": 0
+      }, 
+      "cropBoxTransform": {
+        "originMm": [
+          0.0, 
+          0.0, 
+          0.0
+        ], 
+        "basisY": [
+          0.4386150901577861, 
+          0.89867502618347939, 
+          0.0
+        ], 
+        "basisZ": [
+          -0.0, 
+          -0.0, 
+          1.0
+        ], 
+        "basisX": [
+          0.89867502618347939, 
+          -0.4386150901577861, 
+          0.0
+        ]
+      }, 
+      "cropBoxMm": {
+        "max": [
+          99939.865999999995, 
+          70518.115999999995, 
+          -0.0
+        ], 
+        "min": [
+          -97504.024999999994, 
+          -94045.587, 
+          -30480.0
+        ]
+      }, 
+      "phaseFilter": "Show Complete", 
+      "discipline": "Architectural", 
+      "outliers": [
+        {
+          "category": "Survey Point", 
+          "distanceFromMedianCentreMm": 243112.51699999999, 
+          "id": 143297, 
+          "bboxMm": {
+            "max": [
+              -800.23699999999997, 
+              -88.385999999999996, 
+              -241554.0
+            ], 
+            "min": [
+              -800.23699999999997, 
+              -88.385999999999996, 
+              -241554.0
+            ]
+          }
+        }, 
+        {
+          "category": "Cameras", 
+          "distanceFromMedianCentreMm": 238812.55300000001, 
+          "id": 410133, 
+          "bboxMm": {
+            "max": [
+              101066.49000000001, 
+              77616.168000000005, 
+              173638.571
+            ], 
+            "min": [
+              -88583.160000000003, 
+              -163741.93799999999, 
+              -48574.955999999998
+            ]
+          }
+        }, 
+        {
+          "category": "Cameras", 
+          "distanceFromMedianCentreMm": 226492.83300000001, 
+          "id": 1127025, 
+          "bboxMm": {
+            "max": [
+              82512.270999999993, 
+              172559.95800000001, 
+              -601.47400000000005
+            ], 
+            "min": [
+              11584.877, 
+              -30346.763999999999, 
+              -105727.18700000001
+            ]
+          }
+        }, 
+        {
+          "category": "Model Groups", 
+          "distanceFromMedianCentreMm": 211076.065, 
+          "id": 1139270, 
+          "bboxMm": {
+            "max": [
+              153051.80600000001, 
+              85438.324999999997, 
+              25929.32
+            ], 
+            "min": [
+              -125199.985, 
+              -186571.02100000001, 
+              -4622.8000000000002
+            ]
+          }
+        }, 
+        {
+          "category": "Generic Annotations", 
+          "distanceFromMedianCentreMm": 137026.182, 
+          "id": 1351096, 
+          "bboxMm": {
+            "max": [
+              54274.623, 
+              -119925.262, 
+              60960.0
+            ], 
+            "min": [
+              48084.673000000003, 
+              -127263.61900000001, 
+              60960.0
+            ]
+          }
+        }, 
+        {
+          "category": "Site", 
+          "distanceFromMedianCentreMm": 130550.38400000001, 
+          "id": 1190916, 
+          "bboxMm": {
+            "max": [
+              97841.520999999993, 
+              18602.526000000002, 
+              15863.437
+            ], 
+            "min": [
+              37494.978999999999, 
+              -34917.620999999999, 
+              -1066.8
+            ]
+          }
+        }, 
+        {
+          "category": "Toposolid", 
+          "distanceFromMedianCentreMm": 129251.014, 
+          "id": 1264746, 
+          "bboxMm": {
+            "max": [
+              71847.384999999995, 
+              59571.487999999998, 
+              7215.2460000000001
+            ], 
+            "min": [
+              -74456.615000000005, 
+              -77588.512000000002, 
+              -17881.599999999999
+            ]
+          }
+        }, 
+        {
+          "category": "Toposolid", 
+          "distanceFromMedianCentreMm": 129001.621, 
+          "id": 1320892, 
+          "bboxMm": {
+            "max": [
+              71847.384999999995, 
+              59571.487999999998, 
+              -3048.0
+            ], 
+            "min": [
+              -74456.615000000005, 
+              30289.641, 
+              -11582.4
+            ]
+          }
+        }, 
+        {
+          "category": "Generic Annotations", 
+          "distanceFromMedianCentreMm": 127540.838, 
+          "id": 1351092, 
+          "bboxMm": {
+            "max": [
+              46686.743999999999, 
+              -114855.333, 
+              60960.0
+            ], 
+            "min": [
+              32848.245999999999, 
+              -124123.93700000001, 
+              60960.0
+            ]
+          }
+        }, 
+        {
+          "category": "Lines", 
+          "distanceFromMedianCentreMm": 117120.447, 
+          "id": 1389260, 
+          "bboxMm": {
+            "max": [
+              71847.384999999995, 
+              40864.714, 
+              0.0
+            ], 
+            "min": [
+              -24841.598999999998, 
+              33087.913, 
+              0.0
+            ]
+          }
+        }
+      ], 
+      "name": "Site", 
+      "boundingBoxCount": 135, 
+      "countsByCategory": {
+        "Toposolid": 11, 
+        "Parking": 43, 
+        "Walls": 10, 
+        "Generic Annotations": 2, 
+        "<none>": 1, 
+        "Railings": 4, 
+        "Survey Point": 1, 
+        "Model Groups": 1, 
+        "Top Rails": 2, 
+        "Floors": 6, 
+        "Planting": 14, 
+        "Handrails": 4, 
+        "Site": 12, 
+        "Project Base Point": 1, 
+        "Cameras": 2, 
+        "Lines": 21, 
+        "Generic Models": 1
+      }, 
+      "medianCentreMm": [
+        -22980.650000000001, 
+        -27864.696, 
+        -1054.0999999999999
+      ], 
+      "detailLevel": "Coarse", 
+      "id": 29237, 
+      "phase": "New Construction", 
+      "cropBoxActive": true, 
+      "unionBoundingBoxMm": {
+        "max": [
+          153051.80600000001, 
+          172559.95800000001, 
+          173638.571
+        ], 
+        "min": [
+          -125199.985, 
+          -186571.02100000001, 
+          -241554.0
+        ]
+      }, 
+      "displayStyle": "HLR"
+    }, 
+    {
+      "errors": [
+        "discipline: View must have a Discipline property"
+      ], 
+      "viewType": "DrawingSheet", 
+      "temporaryHideIsolateActive": false, 
+      "totalCount": 3, 
+      "boundingBoxErrors": {}, 
+      "exports": {
+        "cropSkipped": "Forced crop applies to plan views only", 
+        "fit": "Site Plan__2023__fit.png"
+      }, 
+      "scale": 1, 
+      "viewTemplateId": -1, 
+      "hiddenElements": {
+        "checkedCount": 10, 
+        "capped": false, 
+        "errors": {}, 
+        "cap": 50000, 
+        "count": 0
+      }, 
+      "cropBoxTransform": {
+        "originMm": [
+          0.0, 
+          0.0, 
+          0.0
+        ], 
+        "basisY": [
+          0.0, 
+          1.0, 
+          0.0
+        ], 
+        "basisZ": [
+          0.0, 
+          0.0, 
+          1.0
+        ], 
+        "basisX": [
+          1.0, 
+          0.0, 
+          0.0
+        ]
+      }, 
+      "cropBoxMm": {
+        "max": [
+          30480.0, 
+          30480.0, 
+          -30.48
+        ], 
+        "min": [
+          -30480.0, 
+          -30480.0, 
+          -304800.0
+        ]
+      }, 
+      "phaseFilter": null, 
+      "discipline": null, 
+      "outliers": [
+        {
+          "category": "Viewports", 
+          "distanceFromMedianCentreMm": 1166.2550000000001, 
+          "id": 1330290, 
+          "bboxMm": {
+            "max": [
+              899.29999999999995, 
+              728.82100000000003, 
+              257.048
+            ], 
+            "min": [
+              61.481999999999999, 
+              37.042000000000002, 
+              -1009.523
+            ]
+          }
+        }, 
+        {
+          "category": "Title Blocks", 
+          "distanceFromMedianCentreMm": 655.49699999999996, 
+          "id": 359507, 
+          "bboxMm": {
+            "max": [
+              1066.8, 
+              762.0, 
+              0.0
+            ], 
+            "min": [
+              0.0, 
+              -0.0, 
+              0.0
+            ]
+          }
+        }, 
+        {
+          "category": "Schedule Graphics", 
+          "distanceFromMedianCentreMm": 514.60199999999998, 
+          "id": 1473864, 
+          "bboxMm": {
+            "max": [
+              1046.6869999999999, 
+              344.23599999999999, 
+              0.0
+            ], 
+            "min": [
+              915.45799999999997, 
+              195.715, 
+              0.0
+            ]
+          }
+        }
+      ], 
+      "name": "Site Plan", 
+      "boundingBoxCount": 3, 
+      "countsByCategory": {
+        "Schedule Graphics": 1, 
+        "Viewports": 1, 
+        "Title Blocks": 1
+      }, 
+      "medianCentreMm": [
+        533.39999999999998, 
+        381.0, 
+        0.0
+      ], 
+      "detailLevel": "Undefined", 
+      "id": 359502, 
+      "phase": null, 
+      "cropBoxActive": false, 
+      "unionBoundingBoxMm": {
+        "max": [
+          1066.8, 
+          762.0, 
+          257.048
+        ], 
+        "min": [
+          0.0, 
+          -0.0, 
+          -1009.523
+        ]
+      }, 
+      "displayStyle": "Wireframe"
+    }
+  ], 
+  "title": "Snowdon Towers Sample Site_R2023", 
+  "tag": "2023"
+}

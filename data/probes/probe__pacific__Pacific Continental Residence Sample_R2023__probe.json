@@ -1,0 +1,182 @@
+{
+  "errors": [
+    {
+      "step": "instanceComments", 
+      "error": "No instance comments parameter found"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "An insert in the main model cannot be hosted by an element in a Design Option.", 
+      "severity": "Error"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "An insert in the main model cannot be hosted by an element in a Design Option.", 
+      "severity": "Error"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "An insert in the main model cannot be hosted by an element in a Design Option.", 
+      "severity": "Error"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Highlighted geometry no longer determines a plane", 
+      "severity": "Warning"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Highlighted geometry no longer determines a plane", 
+      "severity": "Warning"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Highlighted geometry no longer determines a plane", 
+      "severity": "Warning"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Option Conflict between Rooms.\r\nRoom boundary in the Main Model differs from the apparent boundary in view \"Level 01  (The Charmant)\".\r\nTo resolve, select the Main Model Room and use the Add to Design Option Set command.", 
+      "severity": "Warning"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Option Conflict between Rooms.\r\nRoom boundary in the Main Model differs from the apparent boundary in view \"Level 01  (The Charmant)\".\r\nTo resolve, select the Main Model Room and use the Add to Design Option Set command.", 
+      "severity": "Warning"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Option Conflict between Rooms.\r\nRoom boundary in the Main Model differs from the apparent boundary in view \"Level 01  (The Charmant)\".\r\nTo resolve, select the Main Model Room and use the Add to Design Option Set command.", 
+      "severity": "Warning"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Option Conflict between Rooms.\r\nRoom boundary in the Main Model differs from the apparent boundary in view \"Level 01  (The Charmant)\".\r\nTo resolve, select the Main Model Room and use the Add to Design Option Set command.", 
+      "severity": "Warning"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Option Conflict between Rooms.\r\nRoom boundary in the Main Model differs from the apparent boundary in view \"Level 01  (The Charmant)\".\r\nTo resolve, select the Main Model Room and use the Add to Design Option Set command.", 
+      "severity": "Warning"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Option Conflict between Rooms.\r\nRoom boundary in the Main Model differs from the apparent boundary in view \"Level 01  (The Charmant)\".\r\nTo resolve, select the Main Model Room and use the Add to Design Option Set command.", 
+      "severity": "Warning"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Option Conflict between Rooms.\r\nRoom boundary in the Main Model differs from the apparent boundary in view \"Level 01  (The Dover)\".\r\nTo resolve, select the Main Model Room and use the Add to Design Option Set command.", 
+      "severity": "Warning"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Option Conflict between Rooms.\r\nRoom boundary in the Main Model differs from the apparent boundary in view \"Level 01  (The Dover)\".\r\nTo resolve, select the Main Model Room and use the Add to Design Option Set command.", 
+      "severity": "Warning"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Option Conflict between Rooms.\r\nRoom boundary in the Main Model differs from the apparent boundary in view \"Level 01  (The Dover)\".\r\nTo resolve, select the Main Model Room and use the Add to Design Option Set command.", 
+      "severity": "Warning"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Option Conflict between Rooms.\r\nRoom boundary in the Main Model differs from the apparent boundary in view \"Level 01  (The Dover)\".\r\nTo resolve, select the Main Model Room and use the Add to Design Option Set command.", 
+      "severity": "Warning"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Option Conflict between Rooms.\r\nRoom boundary in the Main Model differs from the apparent boundary in view \"Level 01  (The Dover)\".\r\nTo resolve, select the Main Model Room and use the Add to Design Option Set command.", 
+      "severity": "Warning"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Option Conflict between Rooms.\r\nRoom boundary in the Main Model differs from the apparent boundary in view \"Level 01  (The Dover)\".\r\nTo resolve, select the Main Model Room and use the Add to Design Option Set command.", 
+      "severity": "Warning"
+    }
+  ], 
+  "persistedAfterReopen": {
+    "wallComments": false, 
+    "toposolidComments": false, 
+    "moveWall": false, 
+    "createWall": false, 
+    "copyInstance": false, 
+    "instanceComments": false, 
+    "moveToposolid": false
+  }, 
+  "isFamilyDocument": false, 
+  "saved": true, 
+  "savedFile": "Pacific Continental Residence Sample_R2023__probe.rvt", 
+  "warningsCount": 15, 
+  "movedWallLocation": {
+    "endMm": [
+      -6720.2078536890922, 
+      -12501.883785870092, 
+      0.0
+    ], 
+    "startMm": [
+      -6720.2078536889558, 
+      14730.091214129907, 
+      0.0
+    ]
+  }, 
+  "steps": {
+    "wallComments": {
+      "succeeded": true, 
+      "value": "probe-20261020T224519979000Z", 
+      "elementId": 1321999
+    }, 
+    "toposolidComments": {
+      "succeeded": true, 
+      "value": "probe-20261020T224519979000Z", 
+      "elementId": 2785015
+    }, 
+    "moveWall": {
+      "succeeded": true, 
+      "location": {
+        "endMm": [
+          -6620.2078536890922, 
+          -12501.883785870092, 
+          0.0
+        ], 
+        "startMm": [
+          -6620.2078536889558, 
+          14730.091214129907, 
+          0.0
+        ]
+      }, 
+      "elementId": 1321999
+    }, 
+    "createWall": {
+      "succeeded": true, 
+      "elementId": 2950978
+    }, 
+    "copyInstance": {
+      "succeeded": true, 
+      "elementIds": [
+        2950979
+      ], 
+      "sourceId": 359507
+    }, 
+    "instanceComments": {
+      "succeeded": false
+    }, 
+    "moveToposolid": {
+      "succeeded": true, 
+      "bboxMinBeforeMm": [
+        -28156.220353688816, 
+        -38167.823658553491, 
+        -4064.0000000000005
+      ], 
+      "bboxMinAfterMm": [
+        -28056.220353688816, 
+        -38167.823658553491, 
+        -4064.0000000000005
+      ], 
+      "elementId": 2785015
+    }
+  }, 
+  "transactionCommitted": false, 
+  "reopened": true, 
+  "reopenSkipped": false
+}

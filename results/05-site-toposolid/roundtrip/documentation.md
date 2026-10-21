@@ -1,0 +1,9 @@
+| Section | Name | Kind | 2027 | roundtrip |
+| --- | --- | --- | --- | --- |
+| types | Default | parameters | [["Insulation", 1381381], ["Material", 1381391], ["Temperature Rating", 1381334]] | [["Insulation", 1474413, "changed"], ["Material", 1474423, "changed"], ["Temperature Rating", 1474366, "changed"]] |
+| types | THWN | parameters | [["Insulation", 1381379], ["Material", 1381333], ["Temperature Rating", 1381334]] | [["Insulation", 1474411, "changed"], ["Material", 1474365, "changed"], ["Temperature Rating", 1474366, "changed"]] |
+| types | XHHW | parameters | [["Insulation", 1381386], ["Material", 1381333], ["Temperature Rating", 1381334]] | [["Insulation", 1474418, "changed"], ["Material", 1474365, "changed"], ["Temperature Rating", 1474366, "changed"]] |
+| types | Default | parameters | [["Insulation", 1381381], ["Material", 1381391], ["Temperature Rating", 1381334], ["Type IfcGUID", "3PIDGsqkT9lRZ5cNs3DDhQ"]] | [["Insulation", 1474413, "changed"], ["Material", 1474423, "changed"], ["Temperature Rating", 1474366, "changed"], ["Type IfcGUID", "3RoYL3m_LEhwEUXcBKK1e5", "changed"]] |
+| types | THWN | parameters | [["Insulation", 1381379], ["Material", 1381333], ["Temperature Rating", 1381334], ["Type IfcGUID", "3PIDGsqkT9lRZ5cNs3DDhR"]] | [["Insulation", 1474411, "changed"], ["Material", 1474365, "changed"], ["Temperature Rating", 1474366, "changed"], ["Type IfcGUID", "3RoYL3m_LEhwEUXcBKK1e4", "changed"]] |
+| types | XHHW | parameters | [["Insulation", 1381386], ["Material", 1381333], ["Temperature Rating", 1381334], ["Type IfcGUID", "3PIDGsqkT9lRZ5cNs3DDhS"]] | [["Insulation", 1474418, "changed"], ["Material", 1474365, "changed"], ["Temperature Rating", 1474366, "changed"], ["Type IfcGUID", "3RoYL3m_LEhwEUXcBKK1e3", "changed"]] |
+| links | Snowdon Towers Sample Architectural.rvt | changed | {"isLoaded": true, "status": "Loaded"} | {"isLoaded": false, "status": "Unloaded"} |

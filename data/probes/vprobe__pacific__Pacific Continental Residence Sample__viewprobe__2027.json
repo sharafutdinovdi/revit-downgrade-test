@@ -1,0 +1,525 @@
+{
+  "title": "Pacific Continental Residence Sample", 
+  "tag": "2027", 
+  "views": [
+    {
+      "name": "El Cabrillo - Floor Plan - Level 01", 
+      "phaseFilter": null, 
+      "medianCentreMm": [
+        715.85799999999995, 
+        342.21800000000002, 
+        0.0
+      ], 
+      "outliers": [
+        {
+          "id": 359507, 
+          "bboxMm": {
+            "min": [
+              0.317, 
+              0.317, 
+              0.0
+            ], 
+            "max": [
+              1067.1179999999999, 
+              762.31700000000001, 
+              0.0
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 793.02800000000002, 
+          "category": "Title Blocks"
+        }, 
+        {
+          "id": 359517, 
+          "bboxMm": {
+            "min": [
+              49.582000000000001, 
+              20.988000000000000, 
+              -22.097999999999999
+            ], 
+            "max": [
+              458.13700000000000, 
+              718.88000000000000, 
+              184.47900000000001
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 740.0, 
+          "category": "Viewports"
+        }, 
+        {
+          "id": 2386662, 
+          "bboxMm": {
+            "min": [
+              489.24599999999998, 
+              334.17899999999997, 
+              -14.359000000000000
+            ], 
+            "max": [
+              966.84900000000005, 
+              647.97400000000005, 
+              14.359000000000000
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 395.83999999999997, 
+          "category": "Viewports"
+        }, 
+        {
+          "id": 2386642, 
+          "bboxMm": {
+            "min": [
+              487.47399999999999, 
+              505.91100000000000, 
+              0.0
+            ], 
+            "max": [
+              926.39900000000000, 
+              664.59100000000001, 
+              0.0
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 385.03500000000003, 
+          "category": "Schedule Graphics"
+        }, 
+        {
+          "id": 2904930, 
+          "bboxMm": {
+            "min": [
+              991.60299999999995, 
+              168.74900000000000, 
+              0.0
+            ], 
+            "max": [
+              1057.9910000000000, 
+              190.52500000000001, 
+              0.0
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 374.25400000000002, 
+          "category": "Schedule Graphics"
+        }, 
+        {
+          "id": 2671150, 
+          "bboxMm": {
+            "min": [
+              844.90099999999995, 
+              3.6480000000000001, 
+              0.0
+            ], 
+            "max": [
+              982.54200000000003, 
+              140.28100000000001, 
+              0.0
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 362.32799999999997, 
+          "category": "Generic Annotations"
+        }, 
+        {
+          "id": 2113146, 
+          "bboxMm": {
+            "min": [
+              489.24599999999998, 
+              152.02300000000000, 
+              -5.3630000000000004
+            ], 
+            "max": [
+              960.31200000000001, 
+              256.71400000000000, 
+              6.7859999999999996
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 295.89800000000002, 
+          "category": "Viewports"
+        }, 
+        {
+          "id": 2107057, 
+          "bboxMm": {
+            "min": [
+              487.47399999999999, 
+              273.47100000000000, 
+              0.0
+            ], 
+            "max": [
+              857.04700000000003, 
+              355.53199999999998, 
+              0.0
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 238.50600000000000, 
+          "category": "Schedule Graphics"
+        }
+      ], 
+      "boundingBoxErrors": {}, 
+      "detailLevel": "Undefined", 
+      "viewTemplateId": -1, 
+      "discipline": null, 
+      "unionBoundingBoxMm": {
+        "min": [
+          0.317, 
+          0.317, 
+          -22.097999999999999
+        ], 
+        "max": [
+          1067.1179999999999, 
+          762.31700000000001, 
+          184.47900000000001
+        ]
+      }, 
+      "displayStyle": "Wireframe", 
+      "totalCount": 8, 
+      "id": 359502, 
+      "hiddenElements": {
+        "errors": {}, 
+        "count": 0, 
+        "checkedCount": 0, 
+        "cap": 50000, 
+        "capped": false
+      }, 
+      "viewType": "DrawingSheet", 
+      "scale": 1, 
+      "exports": {}, 
+      "cropBoxActive": false, 
+      "boundingBoxCount": 8, 
+      "errors": [
+        "discipline: View must have a Discipline property", 
+        "Multiple targets could match: ElementId(BuiltInParameter), ElementId(BuiltInCategory), ElementId(Int64)"
+      ], 
+      "temporaryHideIsolateActive": false, 
+      "cropBoxMm": {
+        "min": [
+          -30480.0, 
+          -30480.0, 
+          -304800.0
+        ], 
+        "max": [
+          30480.0, 
+          30480.0, 
+          -30.480000000000000
+        ]
+      }, 
+      "cropBoxTransform": {
+        "basisX": [
+          1.0, 
+          0.0, 
+          0.0
+        ], 
+        "basisZ": [
+          0.0, 
+          0.0, 
+          1.0
+        ], 
+        "originMm": [
+          0.0, 
+          0.0, 
+          0.0
+        ], 
+        "basisY": [
+          0.0, 
+          1.0, 
+          0.0
+        ]
+      }, 
+      "phase": null, 
+      "countsByCategory": {
+        "Title Blocks": 1, 
+        "Viewports": 3, 
+        "Schedule Graphics": 3, 
+        "Generic Annotations": 1
+      }
+    }, 
+    {
+      "name": "WV_Site", 
+      "phaseFilter": "Show All", 
+      "medianCentreMm": [
+        -746.90899999999999, 
+        -5757.3900000000003, 
+        1379.5370000000000
+      ], 
+      "outliers": [
+        {
+          "id": 410133, 
+          "bboxMm": {
+            "min": [
+              -48491.493999999999, 
+              -130219.38300000000, 
+              -15840.760000000000
+            ], 
+            "max": [
+              44103.252000000000, 
+              1330.1340000000000, 
+              39769.070000000000
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 134413.06400000001, 
+          "category": "Cameras"
+        }, 
+        {
+          "id": 2802248, 
+          "bboxMm": {
+            "min": [
+              -82799.948999999993, 
+              -94458.941999999995, 
+              -4064.0
+            ], 
+            "max": [
+              87447.508000000002, 
+              75788.514999999999, 
+              60024.913999999997
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 133668.50800000000, 
+          "category": "Sun Path"
+        }, 
+        {
+          "id": 2802249, 
+          "bboxMm": {
+            "min": [
+              -76708.739000000001, 
+              -88692.243000000002, 
+              -4064.0
+            ], 
+            "max": [
+              81849.369000000006, 
+              69977.339000000007, 
+              28372.583999999999
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 115267.16400000000, 
+          "category": "Sun Path"
+        }, 
+        {
+          "id": 2895914, 
+          "bboxMm": {
+            "min": [
+              61379.785000000003, 
+              31522.382000000001, 
+              60960.0
+            ], 
+            "max": [
+              62264.534000000000, 
+              32443.654999999999, 
+              60960.0
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 94760.716000000000, 
+          "category": "Generic Annotations"
+        }, 
+        {
+          "id": 2780076, 
+          "bboxMm": {
+            "min": [
+              -31021.695000000000, 
+              -24561.999000000000, 
+              60960.0
+            ], 
+            "max": [
+              39247.040000000001, 
+              -24561.999000000000, 
+              61199.212000000000
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 74374.206999999995, 
+          "category": "Reference Planes"
+        }, 
+        {
+          "id": 2895923, 
+          "bboxMm": {
+            "min": [
+              -26737.376000000000, 
+              -39833.487999999998, 
+              60960.0
+            ], 
+            "max": [
+              -25852.627000000000, 
+              -38912.214999999997, 
+              60960.0
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 73392.889999999999, 
+          "category": "Generic Annotations"
+        }, 
+        {
+          "id": 2804277, 
+          "bboxMm": {
+            "min": [
+              -63607.498000000000, 
+              -23818.540000000001, 
+              -18923.684000000001
+            ], 
+            "max": [
+              10266.548000000001, 
+              62288.016000000003, 
+              21061.319000000000
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 71685.744999999995, 
+          "category": "Cameras"
+        }, 
+        {
+          "id": 2804381, 
+          "bboxMm": {
+            "min": [
+              -63607.498000000000, 
+              -23818.540000000001, 
+              -18923.684000000001
+            ], 
+            "max": [
+              10266.548000000001, 
+              62288.016000000003, 
+              21061.319000000000
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 71685.744999999995, 
+          "category": "Cameras"
+        }, 
+        {
+          "id": 2009472, 
+          "bboxMm": {
+            "min": [
+              6394.4840000000004, 
+              -23748.420999999998, 
+              24077.021000000001
+            ], 
+            "max": [
+              52104.504999999997, 
+              1301.7860000000001, 
+              42889.150000000001
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 67573.307000000001, 
+          "category": "Cameras"
+        }, 
+        {
+          "id": 1313837, 
+          "bboxMm": {
+            "min": [
+              -36677.072999999997, 
+              914.30799999999999, 
+              24077.021000000001
+            ], 
+            "max": [
+              6787.4229999999998, 
+              25799.869999999999, 
+              58477.116999999998
+            ]
+          }, 
+          "distanceFromMedianCentreMm": 65671.610000000001, 
+          "category": "Cameras"
+        }
+      ], 
+      "boundingBoxErrors": {}, 
+      "detailLevel": "Coarse", 
+      "viewTemplateId": -1, 
+      "discipline": "Architectural", 
+      "unionBoundingBoxMm": {
+        "min": [
+          -82799.948999999993, 
+          -130219.38300000000, 
+          -24511.442999999999
+        ], 
+        "max": [
+          87447.508000000002, 
+          75788.514999999999, 
+          61199.212000000000
+        ]
+      }, 
+      "displayStyle": "HLR", 
+      "totalCount": 479, 
+      "id": 2802245, 
+      "hiddenElements": {
+        "errors": {}, 
+        "count": 0, 
+        "checkedCount": 0, 
+        "cap": 50000, 
+        "capped": false
+      }, 
+      "viewType": "FloorPlan", 
+      "scale": 64, 
+      "exports": {}, 
+      "cropBoxActive": false, 
+      "boundingBoxCount": 478, 
+      "errors": [
+        "Multiple targets could match: ElementId(BuiltInParameter), ElementId(BuiltInCategory), ElementId(Int64)"
+      ], 
+      "temporaryHideIsolateActive": false, 
+      "cropBoxMm": {
+        "min": [
+          -30480.0, 
+          -30480.0, 
+          -304800.0
+        ], 
+        "max": [
+          30480.0, 
+          30480.0, 
+          -30.480000000000000
+        ]
+      }, 
+      "cropBoxTransform": {
+        "basisX": [
+          -0.86602540378444059, 
+          -0.49999999999999672, 
+          0.0
+        ], 
+        "basisZ": [
+          -0.0, 
+          -0.0, 
+          1.0
+        ], 
+        "originMm": [
+          0.0, 
+          0.0, 
+          0.0
+        ], 
+        "basisY": [
+          0.49999999999999672, 
+          -0.86602540378444059, 
+          0.0
+        ]
+      }, 
+      "phase": "New Construction", 
+      "countsByCategory": {
+        "Project Base Point": 1, 
+        "Mechanical Equipment": 1, 
+        "Runs": 1, 
+        "Wall Sweeps": 4, 
+        "Property Line Segments": 5, 
+        "Generic Models": 19, 
+        "<none>": 1, 
+        "Sub-divisions": 1, 
+        "Survey Point": 1, 
+        "Site": 4, 
+        "Curtain Wall Grids": 4, 
+        "Reference Planes": 41, 
+        "Lines": 8, 
+        "Generic Annotations": 5, 
+        "Entourage": 3, 
+        "Curtain Panels": 6, 
+        "Sun Path": 2, 
+        "Model Groups": 1, 
+        "Toposolid": 2, 
+        "Lighting Fixtures": 51, 
+        "Railings": 2, 
+        "Section Boxes": 11, 
+        "Handrails": 2, 
+        "Furniture": 40, 
+        "Scope Boxes": 3, 
+        "Supports": 38, 
+        "Planting": 34, 
+        "Cameras": 21, 
+        "Views": 1, 
+        "Property Lines": 1, 
+        "Walls": 106, 
+        "Stairs": 1, 
+        "Hardscape": 2, 
+        "Top Rails": 2, 
+        "Roofs": 8, 
+        "Plumbing Equipment": 1, 
+        "Floors": 16, 
+        "Gutters": 13, 
+        "Fascias": 12, 
+        "Slab Edges": 1, 
+        "Roof opening cut": 1, 
+        "<Room Separation>": 2
+      }
+    }
+  ]
+}

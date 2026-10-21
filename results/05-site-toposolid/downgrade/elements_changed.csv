@@ -1,0 +1,957 @@
+elementId,uniqueId,category,family,type,changes,locationBefore,locationAfter,locationDistanceMm,volumeM3Before,volumeM3After,faceCountBefore,faceCountAfter
+31,933c4a06-93b8-11d3-80f8-00c04f8efc32-0000001f,<none>,Floor Plan,Architectural Plan,parameters,,,,0.0,0.0,0,0
+3650,ddecd777-a6a6-11d3-911d-0000863f27ad-00000e42,<none>,,,parameters,,,,0.0,0.0,0,0
+9947,6341822b-d4f3-11d3-a039-0000863f1523-000026db,<none>,Floor Plan,Architectural Plan,parameters,,,,0.0,0.0,0,0
+29157,5f835dbc-9347-11d5-93d5-0000863f27ad-000071e5,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+29167,5f835dbc-9347-11d5-93d5-0000863f27ad-000071ef,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+29176,5f835dbc-9347-11d5-93d5-0000863f27ad-000071f8,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+29194,5f835dbc-9347-11d5-93d5-0000863f27ad-0000720a,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+29236,d98f349a-9aef-11d5-93e2-0000863f27ad-00007234,<none>,Floor Plan,Site Plan,parameters,,,,0.0,0.0,0,0
+101015,659a11ee-7741-4af9-8788-01ff6d4e2fa5-00018a97,<none>,,,parameters,,,,0.0,0.0,0,0
+137421,afa12384-935a-4c35-855a-9f34dd2153ec-000218cd,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137422,afa12384-935a-4c35-855a-9f34dd2153ec-000218ce,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137423,afa12384-935a-4c35-855a-9f34dd2153ec-000218cf,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137424,afa12384-935a-4c35-855a-9f34dd2153ec-000218d0,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137425,afa12384-935a-4c35-855a-9f34dd2153ec-000218d1,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137426,afa12384-935a-4c35-855a-9f34dd2153ec-000218d2,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137427,afa12384-935a-4c35-855a-9f34dd2153ec-000218d3,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137428,afa12384-935a-4c35-855a-9f34dd2153ec-000218d4,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137429,afa12384-935a-4c35-855a-9f34dd2153ec-000218d5,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137430,afa12384-935a-4c35-855a-9f34dd2153ec-000218d6,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137431,afa12384-935a-4c35-855a-9f34dd2153ec-000218d7,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137432,afa12384-935a-4c35-855a-9f34dd2153ec-000218d8,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137433,afa12384-935a-4c35-855a-9f34dd2153ec-000218d9,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137434,afa12384-935a-4c35-855a-9f34dd2153ec-000218da,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137435,afa12384-935a-4c35-855a-9f34dd2153ec-000218db,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137436,afa12384-935a-4c35-855a-9f34dd2153ec-000218dc,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137437,afa12384-935a-4c35-855a-9f34dd2153ec-000218dd,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137438,afa12384-935a-4c35-855a-9f34dd2153ec-000218de,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137439,afa12384-935a-4c35-855a-9f34dd2153ec-000218df,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137440,afa12384-935a-4c35-855a-9f34dd2153ec-000218e0,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137441,afa12384-935a-4c35-855a-9f34dd2153ec-000218e1,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137442,afa12384-935a-4c35-855a-9f34dd2153ec-000218e2,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137443,afa12384-935a-4c35-855a-9f34dd2153ec-000218e3,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137444,afa12384-935a-4c35-855a-9f34dd2153ec-000218e4,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137445,afa12384-935a-4c35-855a-9f34dd2153ec-000218e5,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137446,afa12384-935a-4c35-855a-9f34dd2153ec-000218e6,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137447,afa12384-935a-4c35-855a-9f34dd2153ec-000218e7,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137448,afa12384-935a-4c35-855a-9f34dd2153ec-000218e8,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137449,afa12384-935a-4c35-855a-9f34dd2153ec-000218e9,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137450,afa12384-935a-4c35-855a-9f34dd2153ec-000218ea,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137451,afa12384-935a-4c35-855a-9f34dd2153ec-000218eb,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137452,afa12384-935a-4c35-855a-9f34dd2153ec-000218ec,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137453,afa12384-935a-4c35-855a-9f34dd2153ec-000218ed,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+137454,afa12384-935a-4c35-855a-9f34dd2153ec-000218ee,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137455,afa12384-935a-4c35-855a-9f34dd2153ec-000218ef,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137456,afa12384-935a-4c35-855a-9f34dd2153ec-000218f0,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137457,afa12384-935a-4c35-855a-9f34dd2153ec-000218f1,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137458,afa12384-935a-4c35-855a-9f34dd2153ec-000218f2,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137459,afa12384-935a-4c35-855a-9f34dd2153ec-000218f3,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137460,afa12384-935a-4c35-855a-9f34dd2153ec-000218f4,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137461,afa12384-935a-4c35-855a-9f34dd2153ec-000218f5,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137462,afa12384-935a-4c35-855a-9f34dd2153ec-000218f6,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137463,afa12384-935a-4c35-855a-9f34dd2153ec-000218f7,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137464,afa12384-935a-4c35-855a-9f34dd2153ec-000218f8,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137465,afa12384-935a-4c35-855a-9f34dd2153ec-000218f9,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137466,afa12384-935a-4c35-855a-9f34dd2153ec-000218fa,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137467,afa12384-935a-4c35-855a-9f34dd2153ec-000218fb,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137468,afa12384-935a-4c35-855a-9f34dd2153ec-000218fc,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137469,afa12384-935a-4c35-855a-9f34dd2153ec-000218fd,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137470,afa12384-935a-4c35-855a-9f34dd2153ec-000218fe,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137471,afa12384-935a-4c35-855a-9f34dd2153ec-000218ff,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137472,afa12384-935a-4c35-855a-9f34dd2153ec-00021900,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137473,afa12384-935a-4c35-855a-9f34dd2153ec-00021901,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137474,afa12384-935a-4c35-855a-9f34dd2153ec-00021902,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137475,afa12384-935a-4c35-855a-9f34dd2153ec-00021903,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137476,afa12384-935a-4c35-855a-9f34dd2153ec-00021904,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137477,afa12384-935a-4c35-855a-9f34dd2153ec-00021905,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137478,afa12384-935a-4c35-855a-9f34dd2153ec-00021906,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137479,afa12384-935a-4c35-855a-9f34dd2153ec-00021907,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137480,afa12384-935a-4c35-855a-9f34dd2153ec-00021908,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137481,afa12384-935a-4c35-855a-9f34dd2153ec-00021909,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137482,afa12384-935a-4c35-855a-9f34dd2153ec-0002190a,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137483,afa12384-935a-4c35-855a-9f34dd2153ec-0002190b,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137484,afa12384-935a-4c35-855a-9f34dd2153ec-0002190c,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137485,afa12384-935a-4c35-855a-9f34dd2153ec-0002190d,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137486,afa12384-935a-4c35-855a-9f34dd2153ec-0002190e,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137487,afa12384-935a-4c35-855a-9f34dd2153ec-0002190f,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137488,afa12384-935a-4c35-855a-9f34dd2153ec-00021910,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137489,afa12384-935a-4c35-855a-9f34dd2153ec-00021911,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137490,afa12384-935a-4c35-855a-9f34dd2153ec-00021912,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137491,afa12384-935a-4c35-855a-9f34dd2153ec-00021913,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137492,afa12384-935a-4c35-855a-9f34dd2153ec-00021914,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137493,afa12384-935a-4c35-855a-9f34dd2153ec-00021915,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137494,afa12384-935a-4c35-855a-9f34dd2153ec-00021916,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137495,afa12384-935a-4c35-855a-9f34dd2153ec-00021917,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137496,afa12384-935a-4c35-855a-9f34dd2153ec-00021918,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137497,afa12384-935a-4c35-855a-9f34dd2153ec-00021919,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137498,afa12384-935a-4c35-855a-9f34dd2153ec-0002191a,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137499,afa12384-935a-4c35-855a-9f34dd2153ec-0002191b,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137500,afa12384-935a-4c35-855a-9f34dd2153ec-0002191c,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137501,afa12384-935a-4c35-855a-9f34dd2153ec-0002191d,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137502,afa12384-935a-4c35-855a-9f34dd2153ec-0002191e,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137503,afa12384-935a-4c35-855a-9f34dd2153ec-0002191f,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137504,afa12384-935a-4c35-855a-9f34dd2153ec-00021920,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137505,afa12384-935a-4c35-855a-9f34dd2153ec-00021921,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137506,afa12384-935a-4c35-855a-9f34dd2153ec-00021922,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137507,afa12384-935a-4c35-855a-9f34dd2153ec-00021923,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137508,afa12384-935a-4c35-855a-9f34dd2153ec-00021924,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137509,afa12384-935a-4c35-855a-9f34dd2153ec-00021925,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137510,afa12384-935a-4c35-855a-9f34dd2153ec-00021926,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137511,afa12384-935a-4c35-855a-9f34dd2153ec-00021927,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137512,afa12384-935a-4c35-855a-9f34dd2153ec-00021928,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137513,afa12384-935a-4c35-855a-9f34dd2153ec-00021929,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137514,afa12384-935a-4c35-855a-9f34dd2153ec-0002192a,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137515,afa12384-935a-4c35-855a-9f34dd2153ec-0002192b,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137516,afa12384-935a-4c35-855a-9f34dd2153ec-0002192c,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137517,afa12384-935a-4c35-855a-9f34dd2153ec-0002192d,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137518,afa12384-935a-4c35-855a-9f34dd2153ec-0002192e,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137519,afa12384-935a-4c35-855a-9f34dd2153ec-0002192f,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137520,afa12384-935a-4c35-855a-9f34dd2153ec-00021930,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137521,afa12384-935a-4c35-855a-9f34dd2153ec-00021931,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137522,afa12384-935a-4c35-855a-9f34dd2153ec-00021932,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137523,afa12384-935a-4c35-855a-9f34dd2153ec-00021933,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137524,afa12384-935a-4c35-855a-9f34dd2153ec-00021934,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137525,afa12384-935a-4c35-855a-9f34dd2153ec-00021935,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137526,afa12384-935a-4c35-855a-9f34dd2153ec-00021936,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137527,afa12384-935a-4c35-855a-9f34dd2153ec-00021937,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137528,afa12384-935a-4c35-855a-9f34dd2153ec-00021938,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137529,afa12384-935a-4c35-855a-9f34dd2153ec-00021939,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137530,afa12384-935a-4c35-855a-9f34dd2153ec-0002193a,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137531,afa12384-935a-4c35-855a-9f34dd2153ec-0002193b,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137532,afa12384-935a-4c35-855a-9f34dd2153ec-0002193c,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137533,afa12384-935a-4c35-855a-9f34dd2153ec-0002193d,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137534,afa12384-935a-4c35-855a-9f34dd2153ec-0002193e,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137535,afa12384-935a-4c35-855a-9f34dd2153ec-0002193f,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137536,afa12384-935a-4c35-855a-9f34dd2153ec-00021940,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137537,afa12384-935a-4c35-855a-9f34dd2153ec-00021941,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137538,afa12384-935a-4c35-855a-9f34dd2153ec-00021942,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137539,afa12384-935a-4c35-855a-9f34dd2153ec-00021943,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137540,afa12384-935a-4c35-855a-9f34dd2153ec-00021944,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137541,afa12384-935a-4c35-855a-9f34dd2153ec-00021945,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137542,afa12384-935a-4c35-855a-9f34dd2153ec-00021946,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137543,afa12384-935a-4c35-855a-9f34dd2153ec-00021947,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137544,afa12384-935a-4c35-855a-9f34dd2153ec-00021948,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137545,afa12384-935a-4c35-855a-9f34dd2153ec-00021949,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137546,afa12384-935a-4c35-855a-9f34dd2153ec-0002194a,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137547,afa12384-935a-4c35-855a-9f34dd2153ec-0002194b,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137548,afa12384-935a-4c35-855a-9f34dd2153ec-0002194c,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137549,afa12384-935a-4c35-855a-9f34dd2153ec-0002194d,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137550,afa12384-935a-4c35-855a-9f34dd2153ec-0002194e,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137551,afa12384-935a-4c35-855a-9f34dd2153ec-0002194f,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137552,afa12384-935a-4c35-855a-9f34dd2153ec-00021950,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137553,afa12384-935a-4c35-855a-9f34dd2153ec-00021951,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137554,afa12384-935a-4c35-855a-9f34dd2153ec-00021952,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137555,afa12384-935a-4c35-855a-9f34dd2153ec-00021953,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137556,afa12384-935a-4c35-855a-9f34dd2153ec-00021954,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137557,afa12384-935a-4c35-855a-9f34dd2153ec-00021955,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137558,afa12384-935a-4c35-855a-9f34dd2153ec-00021956,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137559,afa12384-935a-4c35-855a-9f34dd2153ec-00021957,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137560,afa12384-935a-4c35-855a-9f34dd2153ec-00021958,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137561,afa12384-935a-4c35-855a-9f34dd2153ec-00021959,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137562,afa12384-935a-4c35-855a-9f34dd2153ec-0002195a,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137563,afa12384-935a-4c35-855a-9f34dd2153ec-0002195b,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137564,afa12384-935a-4c35-855a-9f34dd2153ec-0002195c,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137565,afa12384-935a-4c35-855a-9f34dd2153ec-0002195d,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137566,afa12384-935a-4c35-855a-9f34dd2153ec-0002195e,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137567,afa12384-935a-4c35-855a-9f34dd2153ec-0002195f,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137568,afa12384-935a-4c35-855a-9f34dd2153ec-00021960,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137569,afa12384-935a-4c35-855a-9f34dd2153ec-00021961,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137570,afa12384-935a-4c35-855a-9f34dd2153ec-00021962,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137571,afa12384-935a-4c35-855a-9f34dd2153ec-00021963,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137572,afa12384-935a-4c35-855a-9f34dd2153ec-00021964,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137573,afa12384-935a-4c35-855a-9f34dd2153ec-00021965,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137574,afa12384-935a-4c35-855a-9f34dd2153ec-00021966,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137575,afa12384-935a-4c35-855a-9f34dd2153ec-00021967,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137576,afa12384-935a-4c35-855a-9f34dd2153ec-00021968,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137577,afa12384-935a-4c35-855a-9f34dd2153ec-00021969,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+137578,afa12384-935a-4c35-855a-9f34dd2153ec-0002196a,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+147648,81e8c055-feb8-47ec-83c2-0a9c04e72d9b-000240c0,<none>,,,parameters,,,,0.0,0.0,0,0
+179459,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd03,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179462,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd06,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179465,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd09,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179468,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd0c,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179471,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd0f,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179477,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd15,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179483,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd1b,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179489,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd21,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179495,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd27,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179498,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd2a,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179506,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd32,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179511,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd37,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179517,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd3d,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179528,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd48,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179537,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd51,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179540,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd54,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179549,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd5d,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179552,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd60,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179567,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd6f,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179570,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd72,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179573,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd75,Material Assets,,,parameters,,,,0.0,0.0,0,0
+179576,adb6bf9d-d0c5-4bea-9c4c-2e20c731a923-0002bd78,Material Assets,,,parameters,,,,0.0,0.0,0,0
+359503,6b9d0ab2-a90b-4bab-9042-0933c471b66b-00057c4f,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+359507,6b9d0ab2-a90b-4bab-9042-0933c471b66b-00057c53,Title Blocks,E1 30 x 42 Horizontal,E1 30 x 42 Horizontal,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+410133,96e1c023-0263-49c7-821e-59791afb3d61-00064215,Cameras,3D View,3D View,parameters,,,,0.0,0.0,0,0
+435518,e9c651d5-743c-4fdc-958d-c56ad452c7cf-0006a53e,Material Assets,,,parameters,,,,0.0,0.0,0,0
+435541,e9c651d5-743c-4fdc-958d-c56ad452c7cf-0006a555,Material Assets,,,parameters,,,,0.0,0.0,0,0
+435588,e9c651d5-743c-4fdc-958d-c56ad452c7cf-0006a584,Material Assets,,,parameters,,,,0.0,0.0,0,0
+435603,e9c651d5-743c-4fdc-958d-c56ad452c7cf-0006a593,Material Assets,,,parameters,,,,0.0,0.0,0,0
+438739,9b94e38d-20a4-435c-8cf5-d9b56b839bae-0006b1d3,Material Assets,,,parameters,,,,0.0,0.0,0,0
+785651,7ccefde8-a42b-4252-a1a9-373efcf49a84-000bfcf3,Area Based Load Type,,,parameters,,,,0.0,0.0,0,0
+785652,7ccefde8-a42b-4252-a1a9-373efcf49a84-000bfcf4,Area Based Load Type,,,parameters,,,,0.0,0.0,0,0
+821550,7ccefde8-a42b-4252-a1a9-373efcf49a84-000c892e,<none>,Schedule,Schedule,parameters,,,,0.0,0.0,0,0
+821565,c319d1f5-60d1-4609-8077-2735b3498567-000c893d,<none>,Schedule,Schedule,parameters,,,,0.0,0.0,0,0
+821577,c319d1f5-60d1-4609-8077-2735b3498567-000c8949,<none>,Schedule,Schedule,parameters,,,,0.0,0.0,0,0
+829309,13055464-9f45-4981-bf16-c9678b00ab26-000ca77d,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+829313,13055464-9f45-4981-bf16-c9678b00ab26-000ca781,Title Blocks,E1 30 x 42 Cover_Snowdon,E1 30 x 42 Cover_Snowdon,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+829323,1d980297-78c1-4ef4-b9bb-d76086b91d3a-000ca78b,Schedule Graphics,,,parameters,,,,0.0,0.0,0,0
+916549,17b18c47-dac3-4373-a714-49ef882726fc-000dfc45,<none>,Schedule,Schedule,parameters,,,,0.0,0.0,0,0
+945085,c021ddb5-fe18-49c6-b6e3-78bc1bce5950-000e6bbd,Material Assets,,,parameters,,,,0.0,0.0,0,0
+952776,4f0a4cbf-0a98-4bb1-bfa0-c8c0e1e06f2c-000e89c8,Viewports,Viewport,No Title,parameters,,,,0.0,0.0,0,0
+1126899,9168d1c0-85f7-4fc9-ba26-40a4466873f8-001131f3,<none>,Floor Plan,Architectural Plan,parameters,,,,0.0,0.0,0,0
+1127025,9214dfd8-57e5-4f1f-b663-f8d67fb8b726-00113271,Cameras,3D View,3D View,parameters,,,,0.0,0.0,0,0
+1127198,9214dfd8-57e5-4f1f-b663-f8d67fb8b726-0011331e,Material Assets,,,parameters,,,,0.0,0.0,0,0
+1132390,9214dfd8-57e5-4f1f-b663-f8d67fb8b726-00114766,Site,Brownsville Arch,Brownsville Arch,parameters,"[-8184.597, -34016.381, -1244.6]","[-8184.597, -34016.381, -1244.6]",0.0,1.17,1.17,1408,1408
+1132664,41b33ca1-64b7-4214-b570-1f976236f18f-00114878,Material Assets,,,parameters,,,,0.0,0.0,0,0
+1133262,d9797366-9102-411d-9c23-67cada0d591d-00114ace,<none>,Floor Plan,Architectural Plan,parameters,,,,0.0,0.0,0,0
+1134079,d9797366-9102-411d-9c23-67cada0d591d-00114dff,Material Assets,,,parameters,,,,0.0,0.0,0,0
+1139274,d9797366-9102-411d-9c23-67cada0d591d-0011624a,Site,Block 31,Block 31,parameters,"[-33985.2, -8892.534, -1803.757]","[-33985.2, -8892.534, -1803.757]",0.0,2985.284,2985.284,126,126
+1139388,d9797366-9102-411d-9c23-67cada0d591d-001162bc,Walls,Basic Wall,"Retaining - 12"" Concrete",parameters,"[-20648.9, 15392.353, 0.0]","[-20648.9, 15392.353, 0.0]",0.0,4.984,4.984,6,6
+1139389,d9797366-9102-411d-9c23-67cada0d591d-001162bd,Walls,Basic Wall,"Retaining - 12"" Concrete",parameters,"[360.2024999999994, 17754.553, 0.0]","[360.2024999999994, 17754.553, 0.0]",0.0,42.784,42.784,6,6
+1139398,d9797366-9102-411d-9c23-67cada0d591d-001162c6,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-71421.445, -68011.056, -2510.791]","[-71421.445, -68011.056, -2510.791]",0.0,0.002,0.002,6,6
+1139399,d9797366-9102-411d-9c23-67cada0d591d-001162c7,Parking,Parking Space - ADA,9' x 18' (5' Aisle),parameters,"[-53197.644, -61415.457, -2189.203]","[-53197.644, -61415.457, -2189.203]",0.0,0.003,0.003,28,28
+1139400,d9797366-9102-411d-9c23-67cada0d591d-001162c8,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-52506.225, -68443.865, -2002.381]","[-52506.225, -68443.865, -2002.381]",0.0,0.002,0.002,6,6
+1139401,d9797366-9102-411d-9c23-67cada0d591d-001162c9,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-49060.229, -40417.228, -2451.311]","[-49060.229, -40417.228, -2451.311]",0.0,0.002,0.002,6,6
+1139402,d9797366-9102-411d-9c23-67cada0d591d-001162ca,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-60900.387, -21354.041, -2788.33]","[-60900.387, -21354.041, -2788.33]",0.0,0.002,0.002,6,6
+1139403,d9797366-9102-411d-9c23-67cada0d591d-001162cb,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-52273.092, -58693.58, -2216.106]","[-52273.092, -58693.58, -2216.106]",0.0,0.002,0.002,6,6
+1139404,d9797366-9102-411d-9c23-67cada0d591d-001162cc,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-58158.702, -21445.182, -2673.139]","[-58158.702, -21445.182, -2673.139]",0.0,0.002,0.002,6,6
+1139405,d9797366-9102-411d-9c23-67cada0d591d-001162cd,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-55417.016, -21536.323, -2636.365]","[-55417.016, -21536.323, -2636.365]",0.0,0.002,0.002,6,6
+1139406,d9797366-9102-411d-9c23-67cada0d591d-001162ce,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-52675.331, -21627.464, -2548.662]","[-52675.331, -21627.464, -2548.662]",0.0,0.002,0.002,6,6
+1139407,d9797366-9102-411d-9c23-67cada0d591d-001162cf,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-49933.645, -21718.604, -2465.74]","[-49933.645, -21718.604, -2465.74]",0.0,0.002,0.002,6,6
+1139408,d9797366-9102-411d-9c23-67cada0d591d-001162d0,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-47191.96, -21809.745, -2381.306]","[-47191.96, -21809.745, -2381.306]",0.0,0.002,0.002,6,6
+1139409,d9797366-9102-411d-9c23-67cada0d591d-001162d1,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-44450.274, -21900.886, -2304.054]","[-44450.274, -21900.886, -2304.054]",0.0,0.002,0.002,6,6
+1139410,d9797366-9102-411d-9c23-67cada0d591d-001162d2,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-41708.589, -21992.027, -2223.228]","[-41708.589, -21992.027, -2223.228]",0.0,0.002,0.002,6,6
+1139411,d9797366-9102-411d-9c23-67cada0d591d-001162d3,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-38966.903, -22083.167, -2164.948]","[-38966.903, -22083.167, -2164.948]",0.0,0.002,0.002,6,6
+1139412,d9797366-9102-411d-9c23-67cada0d591d-001162d4,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-36225.218, -22174.308, -2050.857]","[-36225.218, -22174.308, -2050.857]",0.0,0.002,0.002,6,6
+1139413,d9797366-9102-411d-9c23-67cada0d591d-001162d5,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-33483.532, -22265.449, -1984.8]","[-33483.532, -22265.449, -1984.8]",0.0,0.002,0.002,6,6
+1139414,d9797366-9102-411d-9c23-67cada0d591d-001162d6,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-30741.846, -22356.59, -1967.999]","[-30741.846, -22356.59, -1967.999]",0.0,0.002,0.002,6,6
+1139415,d9797366-9102-411d-9c23-67cada0d591d-001162d7,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-46317.669, -40476.461, -2388.771]","[-46317.669, -40476.461, -2388.771]",0.0,0.002,0.002,6,6
+1139416,d9797366-9102-411d-9c23-67cada0d591d-001162d8,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-43575.109, -40535.695, -2346.487]","[-43575.109, -40535.695, -2346.487]",0.0,0.002,0.002,6,6
+1139417,d9797366-9102-411d-9c23-67cada0d591d-001162d9,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-40832.548, -40594.928, -2235.2]","[-40832.548, -40594.928, -2235.2]",0.0,0.002,0.002,6,6
+1139418,d9797366-9102-411d-9c23-67cada0d591d-001162da,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-38089.988, -40654.162, -2126.005]","[-38089.988, -40654.162, -2126.005]",0.0,0.002,0.002,6,6
+1139419,d9797366-9102-411d-9c23-67cada0d591d-001162db,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-52207.52, -55951.164, -2273.12]","[-52207.52, -55951.164, -2273.12]",0.0,0.002,0.002,6,6
+1139420,d9797366-9102-411d-9c23-67cada0d591d-001162dc,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-52141.947, -53208.747, -2346.582]","[-52141.947, -53208.747, -2346.582]",0.0,0.002,0.002,6,6
+1139421,d9797366-9102-411d-9c23-67cada0d591d-001162dd,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-52076.375, -50466.331, -2398.37]","[-52076.375, -50466.331, -2398.37]",0.0,0.002,0.002,6,6
+1139422,d9797366-9102-411d-9c23-67cada0d591d-001162de,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-52010.803, -47723.915, -2407.182]","[-52010.803, -47723.915, -2407.182]",0.0,0.002,0.002,6,6
+1139423,d9797366-9102-411d-9c23-67cada0d591d-001162df,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-51945.23, -44981.499, -2438.308]","[-51945.23, -44981.499, -2438.308]",0.0,0.002,0.002,6,6
+1139424,d9797366-9102-411d-9c23-67cada0d591d-001162e0,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-51879.658, -42239.083, -2516.267]","[-51879.658, -42239.083, -2516.267]",0.0,0.002,0.002,6,6
+1139425,d9797366-9102-411d-9c23-67cada0d591d-001162e1,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-51814.086, -39496.667, -2630.888]","[-51814.086, -39496.667, -2630.888]",0.0,0.002,0.002,6,6
+1139426,d9797366-9102-411d-9c23-67cada0d591d-001162e2,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-51748.514, -36754.25, -2626.641]","[-51748.514, -36754.25, -2626.641]",0.0,0.002,0.002,6,6
+1139427,d9797366-9102-411d-9c23-67cada0d591d-001162e3,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-71358.201, -65268.585, -2633.559]","[-71358.201, -65268.585, -2633.559]",0.0,0.002,0.002,6,6
+1139428,d9797366-9102-411d-9c23-67cada0d591d-001162e4,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-71294.956, -62526.114, -2789.647]","[-71294.956, -62526.114, -2789.647]",0.0,0.002,0.002,6,6
+1139429,d9797366-9102-411d-9c23-67cada0d591d-001162e5,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-71231.712, -59783.644, -2989.58]","[-71231.712, -59783.644, -2989.58]",0.0,0.002,0.002,6,6
+1139430,d9797366-9102-411d-9c23-67cada0d591d-001162e6,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-71168.467, -57041.173, -3151.327]","[-71168.467, -57041.173, -3151.327]",0.0,0.002,0.002,6,6
+1139431,d9797366-9102-411d-9c23-67cada0d591d-001162e7,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-71105.223, -54298.702, -3251.13]","[-71105.223, -54298.702, -3251.13]",0.0,0.002,0.002,6,6
+1139432,d9797366-9102-411d-9c23-67cada0d591d-001162e8,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-71041.978, -51556.231, -3336.277]","[-71041.978, -51556.231, -3336.277]",0.0,0.002,0.002,6,6
+1139433,d9797366-9102-411d-9c23-67cada0d591d-001162e9,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-70978.734, -48813.76, -3374.525]","[-70978.734, -48813.76, -3374.525]",0.0,0.002,0.002,6,6
+1139434,d9797366-9102-411d-9c23-67cada0d591d-001162ea,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-70915.489, -46071.289, -3368.995]","[-70915.489, -46071.289, -3368.995]",0.0,0.002,0.002,6,6
+1139435,d9797366-9102-411d-9c23-67cada0d591d-001162eb,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-70852.245, -43328.818, -3307.323]","[-70852.245, -43328.818, -3307.323]",0.0,0.002,0.002,6,6
+1139436,d9797366-9102-411d-9c23-67cada0d591d-001162ec,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-70789.0, -40586.348, -3290.647]","[-70789.0, -40586.348, -3290.647]",0.0,0.002,0.002,6,6
+1139437,d9797366-9102-411d-9c23-67cada0d591d-001162ed,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-70725.756, -37843.877, -3248.765]","[-70725.756, -37843.877, -3248.765]",0.0,0.002,0.002,6,6
+1139438,d9797366-9102-411d-9c23-67cada0d591d-001162ee,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-70662.511, -35101.406, -3173.482]","[-70662.511, -35101.406, -3173.482]",0.0,0.002,0.002,6,6
+1139439,d9797366-9102-411d-9c23-67cada0d591d-001162ef,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-70599.267, -32358.935, -3149.6]","[-70599.267, -32358.935, -3149.6]",0.0,0.002,0.002,6,6
+1139440,d9797366-9102-411d-9c23-67cada0d591d-001162f0,Parking,Parking Space1,9' x 18' - 90 deg,parameters,"[-70536.022, -29616.464, -3151.637]","[-70536.022, -29616.464, -3151.637]",0.0,0.002,0.002,6,6
+1144933,660b20a9-d61b-4910-ba49-9ea2e1aa0a46-00117865,Site,Block 29,Block 29,parameters,"[-43472.1, -8892.534, -2144.398]","[-43472.1, -8892.534, -2144.398]",0.0,3059.91,3059.91,95,95
+1145014,660b20a9-d61b-4910-ba49-9ea2e1aa0a46-001178b6,Material Assets,,,parameters,,,,0.0,0.0,0,0
+1151701,422ae244-d1a9-43f6-a064-daeda1efcc24-001192d5,Site,Block 27,Block 27,parameters,"[-52616.1, -8892.534, -2540.0]","[-52616.1, -8892.534, -2540.0]",0.0,2658.809,2658.809,100,100
+1152979,448fa672-9155-4162-a7d6-8fabd12b9c36-001197d3,Site,Block 25,Block 25,parameters,"[-61760.1, -8892.534, -2794.0]","[-61760.1, -8892.534, -2794.0]",0.0,2675.193,2675.193,173,173
+1160010,604cb493-0c98-4f43-8862-01ad4f23d4ac-0011b34a,Site,Brownsville 141,Brownsville 141,parameters,"[-16891.654, -65036.698, -1143.0]","[-16891.654, -65036.698, -1143.0]",0.0,1954.25,1954.25,165,165
+1161214,604cb493-0c98-4f43-8862-01ad4f23d4ac-0011b7fe,Site,Brownsville 133,Brownsville 133,parameters,"[-16385.429, -57433.532, -1295.4]","[-16385.429, -57433.532, -1295.4]",0.0,1702.437,1702.437,96,96
+1167266,907b0424-918c-4191-bc4a-5e45fc449c4c-0011cfa2,Material Assets,,,parameters,,,,0.0,0.0,0,0
+1182596,17304b3f-0e31-4bcd-9a40-84617b498cba-00120b84,Site,Block 50,Block 50,parameters,"[8184.722, -22989.044, -914.4]","[8184.722, -22989.044, -914.4]",0.0,9356.651,9356.651,644,644
+1184656,1561a926-8e7c-4298-8c55-93ffc3bf3d12-00121390,Site,Block 62,Block 62,parameters,"[57837.265, -31309.194, 2260.6]","[57837.265, -31309.194, 2260.6]",0.0,3102.311,3102.311,295,295
+1187457,45c5149b-954d-4f07-a607-3ded0212d121-00121e81,Site,Block 56,Block 56,parameters,"[31235.445, -24443.002, -228.6]","[31235.445, -24443.002, -228.6]",0.0,15758.372,15758.372,720,720
+1190916,74e2f807-4a4a-48a0-ba79-d01dd9200404-00122c04,Site,Block 69,Block 69,parameters,"[79453.549, -19675.028, 3200.4]","[79453.549, -19675.028, 3200.4]",0.0,871.766,871.766,119,119
+1228932,f9da0ce5-9182-4e8b-80d4-e509326a1852-0012c084,Material Assets,,,parameters,,,,0.0,0.0,0,0
+1241703,f7b8c052-f040-4daf-9644-57d0512e2c28-0012f267,Views,Section,Building Section,parameters,,,,0.0,0.0,0,0
+1256060,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00132a7c,Views,Section,Building Section,parameters,,,,0.0,0.0,0,0
+1264743,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c67,Walls,Basic Wall,"Foundation - 24"" Concrete (Tunnel)",parameters,"[-16483.444499999998, -46192.205, -0.0]","[-16483.444499999998, -46192.205, -0.0]",0.0,9.617,9.617,6,6
+1264746,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c6a,Toposolid,Toposolid,Grassland,parameters,,,,291519.0,291519.0,4058,4058
+1264747,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c6b,<Sketch>,,,parameters,"[-237.8884999999973, 59571.488, -241706.4]","[-237.8884999999973, 59571.488, -241706.4]",0.0,0.0,0.0,0,0
+1264748,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c6c,<Sketch>,,,parameters,"[-59937.262, 59571.488, -241706.4]","[-59937.262, 59571.488, -241706.4]",0.0,0.0,0.0,0,0
+1264749,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c6d,<Sketch>,,,parameters,"[-62257.411, 59571.488, -241706.4]","[-62257.411, 59571.488, -241706.4]",0.0,0.0,0.0,0,0
+1264750,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c6e,<Sketch>,,,parameters,"[-64876.913499999995, 59571.488, -241706.4]","[-64876.913499999995, 59571.488, -241706.4]",0.0,0.0,0.0,0,0
+1264751,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c6f,<Sketch>,,,parameters,"[-70539.36600000001, 59571.488, -241706.4]","[-70539.36600000001, 59571.488, -241706.4]",0.0,0.0,0.0,0,0
+1264752,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c70,<Sketch>,,,parameters,"[-74456.615, 49068.0115, -241706.4]","[-74456.615, 49068.0115, -241706.4]",0.0,0.0,0.0,0,0
+1264753,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c71,<Sketch>,,,parameters,"[-74456.615, 38330.719, -241706.4]","[-74456.615, 38330.719, -241706.4]",0.0,0.0,0.0,0,0
+1264754,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c72,<Sketch>,,,parameters,"[-74456.615, 37776.561, -241706.4]","[-74456.615, 37776.561, -241706.4]",0.0,0.0,0.0,0,0
+1264755,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c73,<Sketch>,,,parameters,"[-74456.615, 37411.134, -241706.4]","[-74456.615, 37411.134, -241706.4]",0.0,0.0,0.0,0,0
+1264756,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c74,<Sketch>,,,parameters,"[-74456.615, 36541.098, -241706.4]","[-74456.615, 36541.098, -241706.4]",0.0,0.0,0.0,0,0
+1264757,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c75,<Sketch>,,,parameters,"[-74456.615, 35235.278, -241706.4]","[-74456.615, 35235.278, -241706.4]",0.0,0.0,0.0,0,0
+1264758,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c76,<Sketch>,,,parameters,"[-74456.615, 33655.9825, -241706.4]","[-74456.615, 33655.9825, -241706.4]",0.0,0.0,0.0,0,0
+1264759,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c77,<Sketch>,,,parameters,"[-74456.615, 32400.268, -241706.4]","[-74456.615, 32400.268, -241706.4]",0.0,0.0,0.0,0,0
+1264760,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c78,<Sketch>,,,parameters,"[-74456.615, 31372.092, -241706.4]","[-74456.615, 31372.092, -241706.4]",0.0,0.0,0.0,0,0
+1264761,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c79,<Sketch>,,,parameters,"[-74456.615, 30169.324500000002, -241706.4]","[-74456.615, 30169.324500000002, -241706.4]",0.0,0.0,0.0,0,0
+1264762,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c7a,<Sketch>,,,parameters,"[-74456.615, 29436.8665, -241706.4]","[-74456.615, 29436.8665, -241706.4]",0.0,0.0,0.0,0,0
+1264763,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c7b,<Sketch>,,,parameters,"[-74456.615, 28840.357, -241706.4]","[-74456.615, 28840.357, -241706.4]",0.0,0.0,0.0,0,0
+1264764,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c7c,<Sketch>,,,parameters,"[-74456.615, 28180.362, -241706.4]","[-74456.615, 28180.362, -241706.4]",0.0,0.0,0.0,0,0
+1264765,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c7d,<Sketch>,,,parameters,"[-74456.615, 27418.047, -241706.4]","[-74456.615, 27418.047, -241706.4]",0.0,0.0,0.0,0,0
+1264766,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c7e,<Sketch>,,,parameters,"[-74456.615, 26491.4015, -241706.4]","[-74456.615, 26491.4015, -241706.4]",0.0,0.0,0.0,0,0
+1264767,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c7f,<Sketch>,,,parameters,"[-74456.615, 24867.793, -241706.4]","[-74456.615, 24867.793, -241706.4]",0.0,0.0,0.0,0,0
+1264768,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c80,<Sketch>,,,parameters,"[-74456.615, 21846.025, -241706.4]","[-74456.615, 21846.025, -241706.4]",0.0,0.0,0.0,0,0
+1264769,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c81,<Sketch>,,,parameters,"[-74456.615, 19581.052000000003, -241706.4]","[-74456.615, 19581.052000000003, -241706.4]",0.0,0.0,0.0,0,0
+1264770,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c82,<Sketch>,,,parameters,"[-74456.615, 17953.160000000003, -241706.4]","[-74456.615, 17953.160000000003, -241706.4]",0.0,0.0,0.0,0,0
+1264771,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c83,<Sketch>,,,parameters,"[-74456.615, 16309.871000000001, -241706.4]","[-74456.615, 16309.871000000001, -241706.4]",0.0,0.0,0.0,0,0
+1264772,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c84,<Sketch>,,,parameters,"[-74456.615, 15758.5585, -241706.4]","[-74456.615, 15758.5585, -241706.4]",0.0,0.0,0.0,0,0
+1264773,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c85,<Sketch>,,,parameters,"[-74456.615, 14779.2145, -241706.4]","[-74456.615, 14779.2145, -241706.4]",0.0,0.0,0.0,0,0
+1264774,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c86,<Sketch>,,,parameters,"[-74456.615, 13457.236499999999, -241706.4]","[-74456.615, 13457.236499999999, -241706.4]",0.0,0.0,0.0,0,0
+1264775,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c87,<Sketch>,,,parameters,"[-74456.615, 11117.386999999999, -241706.4]","[-74456.615, 11117.386999999999, -241706.4]",0.0,0.0,0.0,0,0
+1264776,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c88,<Sketch>,,,parameters,"[-74456.615, 9335.312, -241706.4]","[-74456.615, 9335.312, -241706.4]",0.0,0.0,0.0,0,0
+1264777,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c89,<Sketch>,,,parameters,"[-74456.615, 6780.341, -241706.4]","[-74456.615, 6780.341, -241706.4]",0.0,0.0,0.0,0,0
+1264778,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c8a,<Sketch>,,,parameters,"[-74456.615, 4035.2934999999998, -241706.4]","[-74456.615, 4035.2934999999998, -241706.4]",0.0,0.0,0.0,0,0
+1264779,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c8b,<Sketch>,,,parameters,"[-74456.615, 24.465999999999894, -241706.4]","[-74456.615, 24.465999999999894, -241706.4]",0.0,0.0,0.0,0,0
+1264780,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c8c,<Sketch>,,,parameters,"[-74456.615, -4480.5765, -241706.4]","[-74456.615, -4480.5765, -241706.4]",0.0,0.0,0.0,0,0
+1264781,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c8d,<Sketch>,,,parameters,"[-74456.615, -13541.224999999999, -241706.4]","[-74456.615, -13541.224999999999, -241706.4]",0.0,0.0,0.0,0,0
+1264782,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c8e,<Sketch>,,,parameters,"[-74456.615, -26379.4915, -241706.4]","[-74456.615, -26379.4915, -241706.4]",0.0,0.0,0.0,0,0
+1264783,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c8f,<Sketch>,,,parameters,"[-74456.615, -31952.561500000003, -241706.4]","[-74456.615, -31952.561500000003, -241706.4]",0.0,0.0,0.0,0,0
+1264784,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c90,<Sketch>,,,parameters,"[-74456.615, -33252.7965, -241706.4]","[-74456.615, -33252.7965, -241706.4]",0.0,0.0,0.0,0,0
+1264785,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c91,<Sketch>,,,parameters,"[-74456.615, -35264.43, -241706.4]","[-74456.615, -35264.43, -241706.4]",0.0,0.0,0.0,0,0
+1264786,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c92,<Sketch>,,,parameters,"[-74456.615, -38175.705, -241706.4]","[-74456.615, -38175.705, -241706.4]",0.0,0.0,0.0,0,0
+1264787,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c93,<Sketch>,,,parameters,"[-74456.615, -40060.3925, -241706.4]","[-74456.615, -40060.3925, -241706.4]",0.0,0.0,0.0,0,0
+1264788,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c94,<Sketch>,,,parameters,"[-74456.615, -43173.879, -241706.4]","[-74456.615, -43173.879, -241706.4]",0.0,0.0,0.0,0,0
+1264789,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c95,<Sketch>,,,parameters,"[-74456.615, -46716.0175, -241706.4]","[-74456.615, -46716.0175, -241706.4]",0.0,0.0,0.0,0,0
+1264790,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c96,<Sketch>,,,parameters,"[-74456.615, -50704.885, -241706.4]","[-74456.615, -50704.885, -241706.4]",0.0,0.0,0.0,0,0
+1264791,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c97,<Sketch>,,,parameters,"[-74456.615, -54401.172999999995, -241706.4]","[-74456.615, -54401.172999999995, -241706.4]",0.0,0.0,0.0,0,0
+1264792,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c98,<Sketch>,,,parameters,"[-74456.615, -56516.148499999996, -241706.4]","[-74456.615, -56516.148499999996, -241706.4]",0.0,0.0,0.0,0,0
+1264793,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c99,<Sketch>,,,parameters,"[-74456.615, -58080.371, -241706.4]","[-74456.615, -58080.371, -241706.4]",0.0,0.0,0.0,0,0
+1264794,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c9a,<Sketch>,,,parameters,"[-74456.615, -60403.804000000004, -241706.4]","[-74456.615, -60403.804000000004, -241706.4]",0.0,0.0,0.0,0,0
+1264795,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c9b,<Sketch>,,,parameters,"[-74456.615, -63728.977, -241706.4]","[-74456.615, -63728.977, -241706.4]",0.0,0.0,0.0,0,0
+1264796,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c9c,<Sketch>,,,parameters,"[-74456.615, -65253.583, -241706.4]","[-74456.615, -65253.583, -241706.4]",0.0,0.0,0.0,0,0
+1264797,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c9d,<Sketch>,,,parameters,"[-74456.615, -67074.46, -241706.4]","[-74456.615, -67074.46, -241706.4]",0.0,0.0,0.0,0,0
+1264798,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c9e,<Sketch>,,,parameters,"[-74456.615, -71933.5255, -241706.4]","[-74456.615, -71933.5255, -241706.4]",0.0,0.0,0.0,0,0
+1264799,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134c9f,<Sketch>,,,parameters,"[-74456.615, -76392.0785, -241706.4]","[-74456.615, -76392.0785, -241706.4]",0.0,0.0,0.0,0,0
+1264800,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ca0,<Sketch>,,,parameters,"[-74130.753, -77588.512, -241706.4]","[-74130.753, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264801,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ca1,<Sketch>,,,parameters,"[-69647.6585, -77588.512, -241706.4]","[-69647.6585, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264802,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ca2,<Sketch>,,,parameters,"[-61391.156, -77588.512, -241706.4]","[-61391.156, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264803,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ca3,<Sketch>,,,parameters,"[-56201.163499999995, -77588.512, -241706.4]","[-56201.163499999995, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264804,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ca4,<Sketch>,,,parameters,"[-53899.3925, -77588.512, -241706.4]","[-53899.3925, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264805,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ca5,<Sketch>,,,parameters,"[-50832.111999999994, -77588.512, -241706.4]","[-50832.111999999994, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264806,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ca6,<Sketch>,,,parameters,"[-47817.564, -77588.512, -241706.4]","[-47817.564, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264807,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ca7,<Sketch>,,,parameters,"[-44198.037, -77588.512, -241706.4]","[-44198.037, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264808,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ca8,<Sketch>,,,parameters,"[-38965.9355, -77588.512, -241706.4]","[-38965.9355, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264809,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ca9,<Sketch>,,,parameters,"[-34683.352, -77588.512, -241706.4]","[-34683.352, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264810,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134caa,<Sketch>,,,parameters,"[-32721.506, -77588.512, -241706.4]","[-32721.506, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264811,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cab,<Sketch>,,,parameters,"[-25073.123, -77588.512, -241706.4]","[-25073.123, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264812,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cac,<Sketch>,,,parameters,"[-10015.484, -77588.512, -241706.4]","[-10015.484, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264813,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cad,<Sketch>,,,parameters,"[-1977.2169999999999, -77588.512, -241706.4]","[-1977.2169999999999, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264814,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cae,<Sketch>,,,parameters,"[845.5735, -77588.512, -241706.4]","[845.5735, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264815,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134caf,<Sketch>,,,parameters,"[7095.3575, -77588.512, -241706.4]","[7095.3575, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264816,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cb0,<Sketch>,,,parameters,"[10835.191, -77588.512, -241706.4]","[10835.191, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264817,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cb1,<Sketch>,,,parameters,"[16598.379, -77588.512, -241706.4]","[16598.379, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264818,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cb2,<Sketch>,,,parameters,"[25075.176, -77588.512, -241706.4]","[25075.176, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264819,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cb3,<Sketch>,,,parameters,"[29407.052, -77588.512, -241706.4]","[29407.052, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264820,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cb4,<Sketch>,,,parameters,"[33816.182499999995, -77588.512, -241706.4]","[33816.182499999995, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264821,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cb5,<Sketch>,,,parameters,"[37311.993, -77588.512, -241706.4]","[37311.993, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264822,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cb6,<Sketch>,,,parameters,"[41288.327000000005, -77588.512, -241706.4]","[41288.327000000005, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264823,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cb7,<Sketch>,,,parameters,"[47932.388000000006, -77588.512, -241706.4]","[47932.388000000006, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264824,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cb8,<Sketch>,,,parameters,"[51335.851500000004, -77588.512, -241706.4]","[51335.851500000004, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264825,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cb9,<Sketch>,,,parameters,"[51725.035, -77588.512, -241706.4]","[51725.035, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264826,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cba,<Sketch>,,,parameters,"[53009.604999999996, -77588.512, -241706.4]","[53009.604999999996, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264827,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cbb,<Sketch>,,,parameters,"[54788.335999999996, -77588.512, -241706.4]","[54788.335999999996, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264828,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cbc,<Sketch>,,,parameters,"[55910.3485, -77588.512, -241706.4]","[55910.3485, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264829,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cbd,<Sketch>,,,parameters,"[56909.6845, -77588.512, -241706.4]","[56909.6845, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264830,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cbe,<Sketch>,,,parameters,"[57832.5245, -77588.512, -241706.4]","[57832.5245, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264831,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cbf,<Sketch>,,,parameters,"[58690.7125, -77588.512, -241706.4]","[58690.7125, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264832,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cc0,<Sketch>,,,parameters,"[59911.629, -77588.512, -241706.4]","[59911.629, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264833,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cc1,<Sketch>,,,parameters,"[60861.5155, -77588.512, -241706.4]","[60861.5155, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264834,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cc2,<Sketch>,,,parameters,"[61327.188500000004, -77588.512, -241706.4]","[61327.188500000004, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264835,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cc3,<Sketch>,,,parameters,"[63098.57, -77588.512, -241706.4]","[63098.57, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264836,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cc4,<Sketch>,,,parameters,"[65032.0305, -77588.512, -241706.4]","[65032.0305, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264837,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cc5,<Sketch>,,,parameters,"[65806.5105, -77588.512, -241706.4]","[65806.5105, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264838,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cc6,<Sketch>,,,parameters,"[66271.0945, -77588.512, -241706.4]","[66271.0945, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264839,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cc7,<Sketch>,,,parameters,"[66668.778, -77588.512, -241706.4]","[66668.778, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264840,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cc8,<Sketch>,,,parameters,"[67682.3635, -77588.512, -241706.4]","[67682.3635, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264841,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cc9,<Sketch>,,,parameters,"[68430.8675, -77588.512, -241706.4]","[68430.8675, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264842,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cca,<Sketch>,,,parameters,"[68615.06649999999, -77588.512, -241706.4]","[68615.06649999999, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264843,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ccb,<Sketch>,,,parameters,"[69421.88699999999, -77588.512, -241706.4]","[69421.88699999999, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264844,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ccc,<Sketch>,,,parameters,"[70356.25, -77588.512, -241706.4]","[70356.25, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264845,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ccd,<Sketch>,,,parameters,"[70738.89, -77588.512, -241706.4]","[70738.89, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264846,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cce,<Sketch>,,,parameters,"[70976.6305, -77588.512, -241706.4]","[70976.6305, -77588.512, -241706.4]",0.0,0.0,0.0,0,0
+1264847,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ccf,<Sketch>,,,parameters,"[71457.9485, -77573.1455, -241706.4]","[71457.9485, -77573.1455, -241706.4]",0.0,0.0,0.0,0,0
+1264848,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cd0,<Sketch>,,,parameters,"[71847.385, -77336.649, -241706.4]","[71847.385, -77336.649, -241706.4]",0.0,0.0,0.0,0,0
+1264849,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cd1,<Sketch>,,,parameters,"[71847.385, -76502.3395, -241706.4]","[71847.385, -76502.3395, -241706.4]",0.0,0.0,0.0,0,0
+1264850,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cd2,<Sketch>,,,parameters,"[71847.385, -75623.9325, -241706.4]","[71847.385, -75623.9325, -241706.4]",0.0,0.0,0.0,0,0
+1264851,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cd3,<Sketch>,,,parameters,"[71847.385, -74711.524, -241706.4]","[71847.385, -74711.524, -241706.4]",0.0,0.0,0.0,0,0
+1264852,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cd4,<Sketch>,,,parameters,"[71847.385, -73788.20749999999, -241706.4]","[71847.385, -73788.20749999999, -241706.4]",0.0,0.0,0.0,0,0
+1264853,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cd5,<Sketch>,,,parameters,"[71847.385, -73238.6065, -241706.4]","[71847.385, -73238.6065, -241706.4]",0.0,0.0,0.0,0,0
+1264854,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cd6,<Sketch>,,,parameters,"[71847.385, -72801.2185, -241706.4]","[71847.385, -72801.2185, -241706.4]",0.0,0.0,0.0,0,0
+1264855,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cd7,<Sketch>,,,parameters,"[71847.385, -72314.5295, -241706.4]","[71847.385, -72314.5295, -241706.4]",0.0,0.0,0.0,0,0
+1264856,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cd8,<Sketch>,,,parameters,"[71847.385, -71375.90650000001, -241706.4]","[71847.385, -71375.90650000001, -241706.4]",0.0,0.0,0.0,0,0
+1264857,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cd9,<Sketch>,,,parameters,"[71847.385, -70518.177, -241706.4]","[71847.385, -70518.177, -241706.4]",0.0,0.0,0.0,0,0
+1264858,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cda,<Sketch>,,,parameters,"[71847.385, -70044.2225, -241706.4]","[71847.385, -70044.2225, -241706.4]",0.0,0.0,0.0,0,0
+1264859,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cdb,<Sketch>,,,parameters,"[71847.385, -69611.1725, -241706.4]","[71847.385, -69611.1725, -241706.4]",0.0,0.0,0.0,0,0
+1264860,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cdc,<Sketch>,,,parameters,"[71847.385, -69175.525, -241706.4]","[71847.385, -69175.525, -241706.4]",0.0,0.0,0.0,0,0
+1264861,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cdd,<Sketch>,,,parameters,"[71847.385, -68865.9225, -241706.4]","[71847.385, -68865.9225, -241706.4]",0.0,0.0,0.0,0,0
+1264862,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cde,<Sketch>,,,parameters,"[71847.385, -68478.98749999999, -241706.4]","[71847.385, -68478.98749999999, -241706.4]",0.0,0.0,0.0,0,0
+1264863,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cdf,<Sketch>,,,parameters,"[71847.385, -67684.758, -241706.4]","[71847.385, -67684.758, -241706.4]",0.0,0.0,0.0,0,0
+1264864,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ce0,<Sketch>,,,parameters,"[71847.385, -66382.7875, -241706.4]","[71847.385, -66382.7875, -241706.4]",0.0,0.0,0.0,0,0
+1264865,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ce1,<Sketch>,,,parameters,"[71847.385, -65101.393, -241706.4]","[71847.385, -65101.393, -241706.4]",0.0,0.0,0.0,0,0
+1264866,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ce2,<Sketch>,,,parameters,"[71847.385, -62805.123, -241706.4]","[71847.385, -62805.123, -241706.4]",0.0,0.0,0.0,0,0
+1264867,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ce3,<Sketch>,,,parameters,"[71847.385, -52024.2715, -241706.4]","[71847.385, -52024.2715, -241706.4]",0.0,0.0,0.0,0,0
+1264868,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ce4,<Sketch>,,,parameters,"[71847.385, -42762.12, -241706.4]","[71847.385, -42762.12, -241706.4]",0.0,0.0,0.0,0,0
+1264869,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ce5,<Sketch>,,,parameters,"[71847.385, -41492.9555, -241706.4]","[71847.385, -41492.9555, -241706.4]",0.0,0.0,0.0,0,0
+1264870,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ce6,<Sketch>,,,parameters,"[71847.385, -39275.3055, -241706.4]","[71847.385, -39275.3055, -241706.4]",0.0,0.0,0.0,0,0
+1264871,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ce7,<Sketch>,,,parameters,"[71847.385, -37262.845499999996, -241706.4]","[71847.385, -37262.845499999996, -241706.4]",0.0,0.0,0.0,0,0
+1264872,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ce8,<Sketch>,,,parameters,"[71847.385, -36195.167, -241706.4]","[71847.385, -36195.167, -241706.4]",0.0,0.0,0.0,0,0
+1264873,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ce9,<Sketch>,,,parameters,"[71847.385, -35229.9865, -241706.4]","[71847.385, -35229.9865, -241706.4]",0.0,0.0,0.0,0,0
+1264874,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cea,<Sketch>,,,parameters,"[71847.385, -28645.217, -241706.4]","[71847.385, -28645.217, -241706.4]",0.0,0.0,0.0,0,0
+1264875,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ceb,<Sketch>,,,parameters,"[71847.385, -21000.3405, -241706.4]","[71847.385, -21000.3405, -241706.4]",0.0,0.0,0.0,0,0
+1264876,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cec,<Sketch>,,,parameters,"[71847.385, -18196.489500000003, -241706.4]","[71847.385, -18196.489500000003, -241706.4]",0.0,0.0,0.0,0,0
+1264877,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ced,<Sketch>,,,parameters,"[71847.385, -15961.339500000002, -241706.4]","[71847.385, -15961.339500000002, -241706.4]",0.0,0.0,0.0,0,0
+1264878,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cee,<Sketch>,,,parameters,"[71847.385, -13688.493999999999, -241706.4]","[71847.385, -13688.493999999999, -241706.4]",0.0,0.0,0.0,0,0
+1264879,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cef,<Sketch>,,,parameters,"[71847.385, -11156.3295, -241706.4]","[71847.385, -11156.3295, -241706.4]",0.0,0.0,0.0,0,0
+1264880,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cf0,<Sketch>,,,parameters,"[71847.385, -9349.855500000001, -241706.4]","[71847.385, -9349.855500000001, -241706.4]",0.0,0.0,0.0,0,0
+1264881,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cf1,<Sketch>,,,parameters,"[71847.385, -8494.1955, -241706.4]","[71847.385, -8494.1955, -241706.4]",0.0,0.0,0.0,0,0
+1264882,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cf2,<Sketch>,,,parameters,"[71847.385, -1207.495, -241706.4]","[71847.385, -1207.495, -241706.4]",0.0,0.0,0.0,0,0
+1264883,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cf3,<Sketch>,,,parameters,"[71847.385, 5988.8015, -241706.4]","[71847.385, 5988.8015, -241706.4]",0.0,0.0,0.0,0,0
+1264884,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cf4,<Sketch>,,,parameters,"[71847.385, 14581.008, -241706.4]","[71847.385, 14581.008, -241706.4]",0.0,0.0,0.0,0,0
+1264885,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cf5,<Sketch>,,,parameters,"[71847.385, 24427.764, -241706.4]","[71847.385, 24427.764, -241706.4]",0.0,0.0,0.0,0,0
+1264886,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cf6,<Sketch>,,,parameters,"[71847.385, 26614.103, -241706.4]","[71847.385, 26614.103, -241706.4]",0.0,0.0,0.0,0,0
+1264887,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cf7,<Sketch>,,,parameters,"[71847.385, 27388.641, -241706.4]","[71847.385, 27388.641, -241706.4]",0.0,0.0,0.0,0,0
+1264888,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cf8,<Sketch>,,,parameters,"[71847.385, 27912.550499999998, -241706.4]","[71847.385, 27912.550499999998, -241706.4]",0.0,0.0,0.0,0,0
+1264889,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cf9,<Sketch>,,,parameters,"[71847.385, 28692.273, -241706.4]","[71847.385, 28692.273, -241706.4]",0.0,0.0,0.0,0,0
+1264890,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cfa,<Sketch>,,,parameters,"[71847.385, 33046.4925, -241706.4]","[71847.385, 33046.4925, -241706.4]",0.0,0.0,0.0,0,0
+1264891,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cfb,<Sketch>,,,parameters,"[71847.385, 37645.8385, -241706.4]","[71847.385, 37645.8385, -241706.4]",0.0,0.0,0.0,0,0
+1264892,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cfc,<Sketch>,,,parameters,"[71847.385, 38488.636, -241706.4]","[71847.385, 38488.636, -241706.4]",0.0,0.0,0.0,0,0
+1264893,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cfd,<Sketch>,,,parameters,"[71847.385, 38960.002, -241706.4]","[71847.385, 38960.002, -241706.4]",0.0,0.0,0.0,0,0
+1264894,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cfe,<Sketch>,,,parameters,"[71847.385, 39367.992, -241706.4]","[71847.385, 39367.992, -241706.4]",0.0,0.0,0.0,0,0
+1264895,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134cff,<Sketch>,,,parameters,"[71847.385, 39644.869999999995, -241706.4]","[71847.385, 39644.869999999995, -241706.4]",0.0,0.0,0.0,0,0
+1264896,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d00,<Sketch>,,,parameters,"[71847.385, 40142.3615, -241706.4]","[71847.385, 40142.3615, -241706.4]",0.0,0.0,0.0,0,0
+1264897,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d01,<Sketch>,,,parameters,"[71847.385, 40654.1835, -241706.4]","[71847.385, 40654.1835, -241706.4]",0.0,0.0,0.0,0,0
+1264898,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d02,<Sketch>,,,parameters,"[71847.385, 40906.945, -241706.4]","[71847.385, 40906.945, -241706.4]",0.0,0.0,0.0,0,0
+1264899,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d03,<Sketch>,,,parameters,"[71847.385, 41497.479, -241706.4]","[71847.385, 41497.479, -241706.4]",0.0,0.0,0.0,0,0
+1264900,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d04,<Sketch>,,,parameters,"[71847.385, 42279.444, -241706.4]","[71847.385, 42279.444, -241706.4]",0.0,0.0,0.0,0,0
+1264901,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d05,<Sketch>,,,parameters,"[71847.385, 42552.0305, -241706.4]","[71847.385, 42552.0305, -241706.4]",0.0,0.0,0.0,0,0
+1264902,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d06,<Sketch>,,,parameters,"[71847.385, 42786.857, -241706.4]","[71847.385, 42786.857, -241706.4]",0.0,0.0,0.0,0,0
+1264903,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d07,<Sketch>,,,parameters,"[71847.385, 43926.433999999994, -241706.4]","[71847.385, 43926.433999999994, -241706.4]",0.0,0.0,0.0,0,0
+1264904,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d08,<Sketch>,,,parameters,"[71847.385, 44979.254499999995, -241706.4]","[71847.385, 44979.254499999995, -241706.4]",0.0,0.0,0.0,0,0
+1264905,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d09,<Sketch>,,,parameters,"[71847.385, 45218.0315, -241706.4]","[71847.385, 45218.0315, -241706.4]",0.0,0.0,0.0,0,0
+1264906,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d0a,<Sketch>,,,parameters,"[71847.385, 45488.042, -241706.4]","[71847.385, 45488.042, -241706.4]",0.0,0.0,0.0,0,0
+1264907,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d0b,<Sketch>,,,parameters,"[71847.385, 45934.236000000004, -241706.4]","[71847.385, 45934.236000000004, -241706.4]",0.0,0.0,0.0,0,0
+1264908,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d0c,<Sketch>,,,parameters,"[71847.385, 46491.051, -241706.4]","[71847.385, 46491.051, -241706.4]",0.0,0.0,0.0,0,0
+1264909,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d0d,<Sketch>,,,parameters,"[71847.385, 46943.718, -241706.4]","[71847.385, 46943.718, -241706.4]",0.0,0.0,0.0,0,0
+1264910,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d0e,<Sketch>,,,parameters,"[71847.385, 47828.2025, -241706.4]","[71847.385, 47828.2025, -241706.4]",0.0,0.0,0.0,0,0
+1264911,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d0f,<Sketch>,,,parameters,"[71847.385, 49014.0525, -241706.4]","[71847.385, 49014.0525, -241706.4]",0.0,0.0,0.0,0,0
+1264912,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d10,<Sketch>,,,parameters,"[71847.385, 49562.5405, -241706.4]","[71847.385, 49562.5405, -241706.4]",0.0,0.0,0.0,0,0
+1264913,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d11,<Sketch>,,,parameters,"[71847.385, 49877.6285, -241706.4]","[71847.385, 49877.6285, -241706.4]",0.0,0.0,0.0,0,0
+1264914,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d12,<Sketch>,,,parameters,"[71847.385, 50349.182, -241706.4]","[71847.385, 50349.182, -241706.4]",0.0,0.0,0.0,0,0
+1264915,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d13,<Sketch>,,,parameters,"[71847.385, 51239.442500000005, -241706.4]","[71847.385, 51239.442500000005, -241706.4]",0.0,0.0,0.0,0,0
+1264916,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d14,<Sketch>,,,parameters,"[71847.385, 52374.2135, -241706.4]","[71847.385, 52374.2135, -241706.4]",0.0,0.0,0.0,0,0
+1264917,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d15,<Sketch>,,,parameters,"[64931.509999999995, 56196.0665, -241706.4]","[64931.509999999995, 56196.0665, -241706.4]",0.0,0.0,0.0,0,0
+1264941,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d2d,Sub-divisions,Toposolid,"Asphalt, Pavement, Light Grey 1' - 0""","category,level,parameters",,,,119.764,119.764,356,356
+1264942,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d2e,<Sketch>,,,parameters,"[71847.385, 5986.724, -11582.4]","[71847.385, 5986.724, -11582.4]",0.0,0.0,0.0,0,0
+1264943,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d2f,<Sketch>,,,parameters,"[71748.563, 6297.015, -11582.4]","[71748.563, 6297.015, -11582.4]",0.0,0.0,0.0,0,0
+1264944,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d30,<Sketch>,,,parameters,"[71606.843, 6235.798000000001, -11582.4]","[71606.843, 6235.798000000001, -11582.4]",0.0,0.0,0.0,0,0
+1264945,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d31,<Sketch>,,,parameters,"[70369.569, 5701.347, -11582.4]","[70369.569, 5701.347, -11582.4]",0.0,0.0,0.0,0,0
+1264953,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d39,<Sketch>,,,parameters,"[26909.554, -7173.5975, -11582.4]","[26909.554, -7173.5975, -11582.4]",0.0,0.0,0.0,0,0
+1264967,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d47,<Sketch>,,,parameters,"[-34242.116500000004, -8915.4, -11582.4]","[-34242.116500000004, -8915.4, -11582.4]",0.0,0.0,0.0,0,0
+1264968,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d48,<Sketch>,,,parameters,"[-37363.7635, -8915.4, -11582.4]","[-37363.7635, -8915.4, -11582.4]",0.0,0.0,0.0,0,0
+1264969,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d49,<Sketch>,,,parameters,"[-39751.216499999995, -8915.4, -11582.4]","[-39751.216499999995, -8915.4, -11582.4]",0.0,0.0,0.0,0,0
+1264979,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d53,<Sketch>,,,parameters,"[-74456.615, 945.2545, -11582.4]","[-74456.615, 945.2545, -11582.4]",0.0,0.0,0.0,0,0
+1264980,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d54,<Sketch>,,,parameters,"[-54220.9075, -11313.550500000001, -11582.4]","[-54220.9075, -11313.550500000001, -11582.4]",0.0,0.0,0.0,0,0
+1265008,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d70,<Sketch>,,,parameters,"[58561.0095, -2160.0105000000003, -11582.4]","[58561.0095, -2160.0105000000003, -11582.4]",0.0,0.0,0.0,0,0
+1265009,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d71,<Sketch>,,,parameters,"[71847.385, 4139.242, -11582.4]","[71847.385, 4139.242, -11582.4]",0.0,0.0,0.0,0,0
+1265012,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d74,Sub-divisions,Toposolid,"Asphalt, Pavement, Light Grey 1' - 0""","category,level,parameters",,,,26.326,26.326,112,112
+1265013,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d75,<Sketch>,,,parameters,"[71847.385, -18196.489500000003, -11582.4]","[71847.385, -18196.489500000003, -11582.4]",0.0,0.0,0.0,0,0
+1265014,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d76,<Sketch>,,,parameters,"[71847.385, -15961.339500000002, -11582.4]","[71847.385, -15961.339500000002, -11582.4]",0.0,0.0,0.0,0,0
+1265015,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d77,<Sketch>,,,parameters,"[71847.385, -13688.493999999999, -11582.4]","[71847.385, -13688.493999999999, -11582.4]",0.0,0.0,0.0,0,0
+1265016,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d78,<Sketch>,,,parameters,"[71847.385, -11156.3295, -11582.4]","[71847.385, -11156.3295, -11582.4]",0.0,0.0,0.0,0,0
+1265017,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d79,<Sketch>,,,parameters,"[71847.385, -9349.855500000001, -11582.4]","[71847.385, -9349.855500000001, -11582.4]",0.0,0.0,0.0,0,0
+1265018,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d7a,<Sketch>,,,parameters,"[71847.385, -8494.1955, -11582.4]","[71847.385, -8494.1955, -11582.4]",0.0,0.0,0.0,0,0
+1265019,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d7b,<Sketch>,,,parameters,"[71847.385, -6642.505499999999, -11582.4]","[71847.385, -6642.505499999999, -11582.4]",0.0,0.0,0.0,0,0
+1265020,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d7c,<Sketch>,,,parameters,"[69842.39600000001, -6331.3565, -11582.4]","[69842.39600000001, -6331.3565, -11582.4]",0.0,0.0,0.0,0,0
+1265021,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d7d,<Sketch>,,,parameters,"[65984.4755, -8438.468499999999, -11582.4]","[65984.4755, -8438.468499999999, -11582.4]",0.0,0.0,0.0,0,0
+1265022,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d7e,<Sketch>,,,parameters,"[63136.478, -9993.982, -11582.4]","[63136.478, -9993.982, -11582.4]",0.0,0.0,0.0,0,0
+1265023,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d7f,<Sketch>,,,parameters,"[61989.9275, -10620.203000000001, -11582.4]","[61989.9275, -10620.203000000001, -11582.4]",0.0,0.0,0.0,0,0
+1265024,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d80,<Sketch>,,,parameters,"[60226.3875, -11583.41, -11582.4]","[60226.3875, -11583.41, -11582.4]",0.0,0.0,0.0,0,0
+1265025,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d81,<Sketch>,,,parameters,"[58540.2275, -12504.353500000001, -11582.4]","[58540.2275, -12504.353500000001, -11582.4]",0.0,0.0,0.0,0,0
+1265026,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d82,<Sketch>,,,parameters,"[58320.706999999995, -13461.1655, -11582.4]","[58320.706999999995, -13461.1655, -11582.4]",0.0,0.0,0.0,0,0
+1265027,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d83,<Sketch>,,,parameters,"[58118.3575, -14736.2705, -11582.4]","[58118.3575, -14736.2705, -11582.4]",0.0,0.0,0.0,0,0
+1265028,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d84,<Sketch>,,,parameters,"[57983.963, -15601.786, -11582.4]","[57983.963, -15601.786, -11582.4]",0.0,0.0,0.0,0,0
+1265029,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d85,<Sketch>,,,parameters,"[57890.379, -16322.377, -11582.4]","[57890.379, -16322.377, -11582.4]",0.0,0.0,0.0,0,0
+1265030,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d86,<Sketch>,,,parameters,"[57896.479, -16785.2675, -11582.4]","[57896.479, -16785.2675, -11582.4]",0.0,0.0,0.0,0,0
+1265031,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d87,<Sketch>,,,parameters,"[57981.3485, -17276.377, -11582.4]","[57981.3485, -17276.377, -11582.4]",0.0,0.0,0.0,0,0
+1265032,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d88,<Sketch>,,,parameters,"[58145.378500000006, -17746.999499999998, -11582.4]","[58145.378500000006, -17746.999499999998, -11582.4]",0.0,0.0,0.0,0,0
+1265033,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d89,<Sketch>,,,parameters,"[58384.154, -18184.466500000002, -11582.4]","[58384.154, -18184.466500000002, -11582.4]",0.0,0.0,0.0,0,0
+1265034,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d8a,<Sketch>,,,parameters,"[58691.248, -18577.002500000002, -11582.4]","[58691.248, -18577.002500000002, -11582.4]",0.0,0.0,0.0,0,0
+1265035,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d8b,<Sketch>,,,parameters,"[59058.3935, -18914.042, -11582.4]","[59058.3935, -18914.042, -11582.4]",0.0,0.0,0.0,0,0
+1265036,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d8c,<Sketch>,,,parameters,"[59475.708, -19186.512000000002, -11582.4]","[59475.708, -19186.512000000002, -11582.4]",0.0,0.0,0.0,0,0
+1265037,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d8d,<Sketch>,,,parameters,"[59931.959, -19387.078, -11582.4]","[59931.959, -19387.078, -11582.4]",0.0,0.0,0.0,0,0
+1265038,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d8e,<Sketch>,,,parameters,"[60809.858, -19632.335, -11582.4]","[60809.858, -19632.335, -11582.4]",0.0,0.0,0.0,0,0
+1265039,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d8f,<Sketch>,,,parameters,"[62643.172999999995, -20100.297, -11582.4]","[62643.172999999995, -20100.297, -11582.4]",0.0,0.0,0.0,0,0
+1265040,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d90,<Sketch>,,,parameters,"[63882.9375, -20416.752500000002, -11582.4]","[63882.9375, -20416.752500000002, -11582.4]",0.0,0.0,0.0,0,0
+1265041,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d91,<Sketch>,,,parameters,"[64514.101500000004, -20570.561, -11582.4]","[64514.101500000004, -20570.561, -11582.4]",0.0,0.0,0.0,0,0
+1265042,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d92,<Sketch>,,,parameters,"[65826.6145, -20889.158, -11582.4]","[65826.6145, -20889.158, -11582.4]",0.0,0.0,0.0,0,0
+1265043,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d93,<Sketch>,,,parameters,"[67875.5895, -21353.766, -11582.4]","[67875.5895, -21353.766, -11582.4]",0.0,0.0,0.0,0,0
+1265044,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d94,<Sketch>,,,parameters,"[69905.899, -21778.744, -11582.4]","[69905.899, -21778.744, -11582.4]",0.0,0.0,0.0,0,0
+1265045,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d95,<Sketch>,,,parameters,"[71231.968, -22035.1365, -11582.4]","[71231.968, -22035.1365, -11582.4]",0.0,0.0,0.0,0,0
+1265046,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d96,<Sketch>,,,parameters,"[71847.385, -20724.4055, -11582.4]","[71847.385, -20724.4055, -11582.4]",0.0,0.0,0.0,0,0
+1265049,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134d99,Sub-divisions,Toposolid,"Asphalt, Pavement, Light Grey 1' - 0""","category,level,parameters",,,,91.143,91.143,75,75
+1265064,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134da8,<Sketch>,,,parameters,"[1571.6004999999998, -54150.444, -11582.4]","[1571.6004999999998, -54150.444, -11582.4]",0.0,0.0,0.0,0,0
+1265069,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134dad,Sub-divisions,Toposolid,"Asphalt, Pavement, Light Grey 1' - 0""","category,level,parameters",,,,207.859,207.859,488,488
+1265074,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134db2,<Sketch>,,,parameters,"[-14393.2905, -30020.0645, -11582.4]","[-14393.2905, -30020.0645, -11582.4]",0.0,0.0,0.0,0,0
+1265091,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134dc3,<Sketch>,,,parameters,"[-11617.519, -26280.7295, -11582.4]","[-11617.519, -26280.7295, -11582.4]",0.0,0.0,0.0,0,0
+1265104,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134dd0,<Sketch>,,,parameters,"[-44439.343, -18188.7655, -11582.4]","[-44439.343, -18188.7655, -11582.4]",0.0,0.0,0.0,0,0
+1265115,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ddb,<Sketch>,,,parameters,"[-74456.615, -18415.0575, -11582.4]","[-74456.615, -18415.0575, -11582.4]",0.0,0.0,0.0,0,0
+1265124,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134de4,<Sketch>,,,parameters,"[-44580.7695, -20623.819, -11582.4]","[-44580.7695, -20623.819, -11582.4]",0.0,0.0,0.0,0,0
+1265135,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134def,<Sketch>,,,parameters,"[71847.385, -33027.9735, -11582.4]","[71847.385, -33027.9735, -11582.4]",0.0,0.0,0.0,0,0
+1265136,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134df0,<Sketch>,,,parameters,"[70374.1195, -29309.034, -11582.4]","[70374.1195, -29309.034, -11582.4]",0.0,0.0,0.0,0,0
+1265137,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134df1,<Sketch>,,,parameters,"[68478.5435, -28954.214500000002, -11582.4]","[68478.5435, -28954.214500000002, -11582.4]",0.0,0.0,0.0,0,0
+1265138,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134df2,<Sketch>,,,parameters,"[66751.237, -28590.356, -11582.4]","[66751.237, -28590.356, -11582.4]",0.0,0.0,0.0,0,0
+1265139,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134df3,<Sketch>,,,parameters,"[63783.959, -27916.095999999998, -11582.4]","[63783.959, -27916.095999999998, -11582.4]",0.0,0.0,0.0,0,0
+1265140,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134df4,<Sketch>,,,parameters,"[61163.028000000006, -27272.233500000002, -11582.4]","[61163.028000000006, -27272.233500000002, -11582.4]",0.0,0.0,0.0,0,0
+1265141,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134df5,<Sketch>,,,parameters,"[59834.1285, -26933.025999999998, -11582.4]","[59834.1285, -26933.025999999998, -11582.4]",0.0,0.0,0.0,0,0
+1265142,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134df6,<Sketch>,,,parameters,"[59120.7835, -26750.9415, -11582.4]","[59120.7835, -26750.9415, -11582.4]",0.0,0.0,0.0,0,0
+1265143,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134df7,<Sketch>,,,parameters,"[57337.1075, -26295.65, -11582.4]","[57337.1075, -26295.65, -11582.4]",0.0,0.0,0.0,0,0
+1265144,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134df8,<Sketch>,,,parameters,"[55563.8485, -25843.0175, -11582.4]","[55563.8485, -25843.0175, -11582.4]",0.0,0.0,0.0,0,0
+1265145,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134df9,<Sketch>,,,parameters,"[54240.1345, -25505.133, -11582.4]","[54240.1345, -25505.133, -11582.4]",0.0,0.0,0.0,0,0
+1265146,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134dfa,<Sketch>,,,parameters,"[52917.2295, -25167.4555, -11582.4]","[52917.2295, -25167.4555, -11582.4]",0.0,0.0,0.0,0,0
+1265147,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134dfb,<Sketch>,,,parameters,"[51589.195, -24828.468999999997, -11582.4]","[51589.195, -24828.468999999997, -11582.4]",0.0,0.0,0.0,0,0
+1265148,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134dfc,<Sketch>,,,parameters,"[49477.4945, -24289.447500000002, -11582.4]","[49477.4945, -24289.447500000002, -11582.4]",0.0,0.0,0.0,0,0
+1265149,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134dfd,<Sketch>,,,parameters,"[47123.7035, -23688.631500000003, -11582.4]","[47123.7035, -23688.631500000003, -11582.4]",0.0,0.0,0.0,0,0
+1265150,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134dfe,<Sketch>,,,parameters,"[43358.1875, -22727.466500000002, -11582.4]","[43358.1875, -22727.466500000002, -11582.4]",0.0,0.0,0.0,0,0
+1265151,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134dff,<Sketch>,,,parameters,"[40741.409, -22061.578, -11582.4]","[40741.409, -22061.578, -11582.4]",0.0,0.0,0.0,0,0
+1265152,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e00,<Sketch>,,,parameters,"[39775.8465, -21837.2945, -11582.4]","[39775.8465, -21837.2945, -11582.4]",0.0,0.0,0.0,0,0
+1265153,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e01,<Sketch>,,,parameters,"[37925.425, -21451.5925, -11582.4]","[37925.425, -21451.5925, -11582.4]",0.0,0.0,0.0,0,0
+1265154,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e02,<Sketch>,,,parameters,"[35677.5215, -21100.8155, -11582.4]","[35677.5215, -21100.8155, -11582.4]",0.0,0.0,0.0,0,0
+1265155,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e03,<Sketch>,,,parameters,"[33709.6605, -20863.891, -11582.4]","[33709.6605, -20863.891, -11582.4]",0.0,0.0,0.0,0,0
+1265156,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e04,<Sketch>,,,parameters,"[32025.542499999996, -20741.2655, -11582.4]","[32025.542499999996, -20741.2655, -11582.4]",0.0,0.0,0.0,0,0
+1265157,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e05,<Sketch>,,,parameters,"[15008.795999999998, -20156.5055, -11582.4]","[15008.795999999998, -20156.5055, -11582.4]",0.0,0.0,0.0,0,0
+1265173,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e15,<Sketch>,,,parameters,"[-5146.5380000000005, -50076.095, -11582.4]","[-5146.5380000000005, -50076.095, -11582.4]",0.0,0.0,0.0,0,0
+1265182,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e1e,<Sketch>,,,parameters,"[-4908.0365, -77588.512, -11582.4]","[-4908.0365, -77588.512, -11582.4]",0.0,0.0,0.0,0,0
+1265190,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e26,<Sketch>,,,parameters,"[-2707.6335, -50105.429000000004, -11582.4]","[-2707.6335, -50105.429000000004, -11582.4]",0.0,0.0,0.0,0,0
+1265228,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e4c,Sub-divisions,Toposolid,"Asphalt, Pavement, Dark Grey 0' - 6""","category,level,parameters",,,,604.849,604.849,897,897
+1265229,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e4d,<Sketch>,,,parameters,"[-74456.615, -74159.31049999999, -11582.4]","[-74456.615, -74159.31049999999, -11582.4]",0.0,0.0,0.0,0,0
+1265242,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e5a,<Sketch>,,,parameters,"[-40292.313500000004, -77588.512, -11582.4]","[-40292.313500000004, -77588.512, -11582.4]",0.0,0.0,0.0,0,0
+1265290,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e8a,<Sketch>,,,parameters,"[71847.385, -26140.544, -11582.4]","[71847.385, -26140.544, -11582.4]",0.0,0.0,0.0,0,0
+1265291,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e8b,<Sketch>,,,parameters,"[71847.385, -22425.248, -11582.4]","[71847.385, -22425.248, -11582.4]",0.0,0.0,0.0,0,0
+1265292,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e8c,<Sketch>,,,parameters,"[71232.633, -22030.750500000002, -11582.4]","[71232.633, -22030.750500000002, -11582.4]",0.0,0.0,0.0,0,0
+1265293,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e8d,<Sketch>,,,parameters,"[70267.2595, -21852.124499999998, -11582.4]","[70267.2595, -21852.124499999998, -11582.4]",0.0,0.0,0.0,0,0
+1265294,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e8e,<Sketch>,,,parameters,"[68415.6575, -21467.725, -11582.4]","[68415.6575, -21467.725, -11582.4]",0.0,0.0,0.0,0,0
+1265295,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e8f,<Sketch>,,,parameters,"[66005.94099999999, -20929.161, -11582.4]","[66005.94099999999, -20929.161, -11582.4]",0.0,0.0,0.0,0,0
+1265296,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e90,<Sketch>,,,parameters,"[64514.0555, -20569.5585, -11582.4]","[64514.0555, -20569.5585, -11582.4]",0.0,0.0,0.0,0,0
+1265297,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e91,<Sketch>,,,parameters,"[63882.9375, -20416.752500000002, -11582.4]","[63882.9375, -20416.752500000002, -11582.4]",0.0,0.0,0.0,0,0
+1265298,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e92,<Sketch>,,,parameters,"[62643.172999999995, -20100.297, -11582.4]","[62643.172999999995, -20100.297, -11582.4]",0.0,0.0,0.0,0,0
+1265299,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e93,<Sketch>,,,parameters,"[60809.858, -19632.335, -11582.4]","[60809.858, -19632.335, -11582.4]",0.0,0.0,0.0,0,0
+1265309,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134e9d,<Sketch>,,,parameters,"[58118.561, -14734.991, -11582.4]","[58118.561, -14734.991, -11582.4]",0.0,0.0,0.0,0,0
+1265313,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ea1,<Sketch>,,,parameters,"[65551.116, -8675.1595, -11582.4]","[65551.116, -8675.1595, -11582.4]",0.0,0.0,0.0,0,0
+1265318,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ea6,<Sketch>,,,parameters,"[71847.385, -1295.7685, -11582.4]","[71847.385, -1295.7685, -11582.4]",0.0,0.0,0.0,0,0
+1265350,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ec6,<Sketch>,,,parameters,"[-74456.615, -14178.8735, -11582.4]","[-74456.615, -14178.8735, -11582.4]",0.0,0.0,0.0,0,0
+1265388,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134eec,<Sketch>,,,parameters,"[-45797.3865, -21856.104, -11582.4]","[-45797.3865, -21856.104, -11582.4]",0.0,0.0,0.0,0,0
+1265389,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134eed,<Sketch>,,,parameters,"[-63737.8815, -24144.999000000003, -11582.4]","[-63737.8815, -24144.999000000003, -11582.4]",0.0,0.0,0.0,0,0
+1265391,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134eef,<Sketch>,,,parameters,"[-67153.2335, -26950.5455, -11582.4]","[-67153.2335, -26950.5455, -11582.4]",0.0,0.0,0.0,0,0
+1265392,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134ef0,<Sketch>,,,parameters,"[-70947.697, -47467.918, -11582.4]","[-70947.697, -47467.918, -11582.4]",0.0,0.0,0.0,0,0
+1265407,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134eff,<Sketch>,,,parameters,"[-61965.069, -68279.9445, -11582.4]","[-61965.069, -68279.9445, -11582.4]",0.0,0.0,0.0,0,0
+1265409,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134f01,<Sketch>,,,parameters,"[-52171.0925, -54427.676, -11582.4]","[-52171.0925, -54427.676, -11582.4]",0.0,0.0,0.0,0,0
+1265419,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134f0b,<Sketch>,,,parameters,"[-44598.6835, -40513.587499999994, -11582.4]","[-44598.6835, -40513.587499999994, -11582.4]",0.0,0.0,0.0,0,0
+1265420,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134f0c,<Sketch>,,,parameters,"[-37477.816, -45254.553499999995, -11582.4]","[-37477.816, -45254.553499999995, -11582.4]",0.0,0.0,0.0,0,0
+1265438,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134f1e,<Sketch>,,,parameters,"[-46133.9175, -60707.0255, -11582.4]","[-46133.9175, -60707.0255, -11582.4]",0.0,0.0,0.0,0,0
+1265440,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134f20,<Sketch>,,,parameters,"[-45669.2925, -68019.2305, -11582.4]","[-45669.2925, -68019.2305, -11582.4]",0.0,0.0,0.0,0,0
+1265445,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134f25,<Sketch>,,,parameters,"[-53464.105500000005, -71758.457, -11582.4]","[-53464.105500000005, -71758.457, -11582.4]",0.0,0.0,0.0,0,0
+1265448,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00134f28,<Sketch>,,,parameters,"[-67793.262, -70915.36249999999, -11582.4]","[-67793.262, -70915.36249999999, -11582.4]",0.0,0.0,0.0,0,0
+1266683,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-001353fb,Mass,Excavation Tunnel Void,Excavation Tunnel Void,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+1266993,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00135531,<Sketch>,,,parameters,"[-27343.1, -16562.0685, 0.0]","[-27343.1, -16562.0685, 0.0]",0.0,0.0,0.0,0,0
+1266994,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00135532,<Sketch>,,,parameters,"[-23685.5, -8915.4, 0.0]","[-23685.5, -8915.4, 0.0]",0.0,0.0,0.0,0,0
+1266995,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00135533,<Sketch>,,,parameters,"[-23685.5, -24208.737, 0.0]","[-23685.5, -24208.737, 0.0]",0.0,0.0,0.0,0,0
+1266996,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00135534,<Sketch>,,,parameters,"[-20027.9, -16562.0685, 0.0]","[-20027.9, -16562.0685, 0.0]",0.0,0.0,0.0,0,0
+1267253,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00135635,Walls,Basic Wall,"Foundation - 24"" Concrete (Tunnel)",parameters,"[-19723.1, -15326.7935, 0.0]","[-19723.1, -15326.7935, 0.0]",0.0,23.826,23.826,6,6
+1267254,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00135636,Walls,Basic Wall,"Foundation - 24"" Concrete (Tunnel)",parameters,"[-27647.9, -15211.4895, 0.0]","[-27647.9, -15211.4895, 0.0]",0.0,23.397,23.397,6,6
+1267474,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00135712,Walls,Basic Wall,"Foundation - 24"" Concrete (Tunnel)",parameters,"[-22923.5, -41467.805, -0.0]","[-22923.5, -41467.805, -0.0]",0.0,41.596,41.596,6,6
+1267475,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00135713,Walls,Basic Wall,"Foundation - 24"" Concrete (Tunnel)",parameters,"[-17151.485, -36196.1855, -0.0]","[-17151.485, -36196.1855, -0.0]",0.0,20.825,20.825,6,6
+1267476,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00135714,Walls,Basic Wall,"Foundation - 24"" Concrete (Tunnel)",parameters,"[-27647.9, -29125.492, 0.0]","[-27647.9, -29125.492, 0.0]",0.0,42.988,42.988,8,8
+1267477,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00135715,Walls,Basic Wall,"Foundation - 24"" Concrete (Tunnel)",parameters,"[-19723.1, -28021.595999999998, 0.0]","[-19723.1, -28021.595999999998, 0.0]",0.0,35.507,35.507,8,8
+1267479,f6e2fbe7-c51b-477c-b76d-14b764cf3ee9-00135717,Walls,Basic Wall,"Foundation - 24"" Concrete (Tunnel)",parameters,"[-23685.5, -21622.883, 0.0]","[-23685.5, -21622.883, 0.0]",0.0,7.048,7.048,6,6
+1268169,54f0b4d6-fed8-4321-ba81-4741afecd950-001359c9,<Sketch>,,,parameters,"[-62115.7, -8994.134, -11582.4]","[-62115.7, -8994.134, -11582.4]",0.0,0.0,0.0,0,0
+1268174,54f0b4d6-fed8-4321-ba81-4741afecd950-001359ce,<Sketch>,,,parameters,"[-69278.5, -8943.333999999999, -11582.4]","[-69278.5, -8943.333999999999, -11582.4]",0.0,0.0,0.0,0,0
+1268179,54f0b4d6-fed8-4321-ba81-4741afecd950-001359d3,<Sketch>,,,parameters,"[-62496.7, -8892.534, -11582.4]","[-62496.7, -8892.534, -11582.4]",0.0,0.0,0.0,0,0
+1268184,54f0b4d6-fed8-4321-ba81-4741afecd950-001359d8,<Sketch>,,,parameters,"[-69227.7, -8841.734, -11582.4]","[-69227.7, -8841.734, -11582.4]",0.0,0.0,0.0,0,0
+1268189,54f0b4d6-fed8-4321-ba81-4741afecd950-001359dd,<Sketch>,,,parameters,"[-68866.45749999999, -8659.4525, -11582.4]","[-68866.45749999999, -8659.4525, -11582.4]",0.0,0.0,0.0,0,0
+1268194,54f0b4d6-fed8-4321-ba81-4741afecd950-001359e2,<Sketch>,,,parameters,"[-68161.543, -8103.5715, -11582.4]","[-68161.543, -8103.5715, -11582.4]",0.0,0.0,0.0,0,0
+1268199,54f0b4d6-fed8-4321-ba81-4741afecd950-001359e7,<Sketch>,,,parameters,"[-67314.9135, -7544.405, -11582.4]","[-67314.9135, -7544.405, -11582.4]",0.0,0.0,0.0,0,0
+1268204,54f0b4d6-fed8-4321-ba81-4741afecd950-001359ec,<Sketch>,,,parameters,"[-66811.956, -7338.286, -11582.4]","[-66811.956, -7338.286, -11582.4]",0.0,0.0,0.0,0,0
+1268209,54f0b4d6-fed8-4321-ba81-4741afecd950-001359f1,<Sketch>,,,parameters,"[-65139.672, -7266.934, -11582.4]","[-65139.672, -7266.934, -11582.4]",0.0,0.0,0.0,0,0
+1268214,54f0b4d6-fed8-4321-ba81-4741afecd950-001359f6,<Sketch>,,,parameters,"[-66408.3, -7216.134, -11582.4]","[-66408.3, -7216.134, -11582.4]",0.0,0.0,0.0,0,0
+1268219,54f0b4d6-fed8-4321-ba81-4741afecd950-001359fb,<Sketch>,,,parameters,"[-65874.9, -7165.334, -11582.4]","[-65874.9, -7165.334, -11582.4]",0.0,0.0,0.0,0,0
+1268224,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a00,<Sketch>,,,parameters,"[-65341.5, -7216.134, -11582.4]","[-65341.5, -7216.134, -11582.4]",0.0,0.0,0.0,0,0
+1268229,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a05,<Sketch>,,,parameters,"[-64937.844, -7338.286, -11582.4]","[-64937.844, -7338.286, -11582.4]",0.0,0.0,0.0,0,0
+1268234,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a0a,<Sketch>,,,parameters,"[-64434.88649999999, -7544.405, -11582.4]","[-64434.88649999999, -7544.405, -11582.4]",0.0,0.0,0.0,0,0
+1268239,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a0f,<Sketch>,,,parameters,"[-63588.257, -8103.5715, -11582.4]","[-63588.257, -8103.5715, -11582.4]",0.0,0.0,0.0,0,0
+1268244,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a14,<Sketch>,,,parameters,"[-62883.3425, -8659.4525, -11582.4]","[-62883.3425, -8659.4525, -11582.4]",0.0,0.0,0.0,0,0
+1268249,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a19,<Sketch>,,,parameters,"[-62522.1, -8841.734, -11582.4]","[-62522.1, -8841.734, -11582.4]",0.0,0.0,0.0,0,0
+1268254,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a1e,<Sketch>,,,parameters,"[-62471.3, -8943.333999999999, -11582.4]","[-62471.3, -8943.333999999999, -11582.4]",0.0,0.0,0.0,0,0
+1268259,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a23,<Sketch>,,,parameters,"[-61760.1, -8943.333999999999, -11582.4]","[-61760.1, -8943.333999999999, -11582.4]",0.0,0.0,0.0,0,0
+1268269,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a2d,<Sketch>,,,parameters,"[-61506.1, -8282.934, -11582.4]","[-61506.1, -8282.934, -11582.4]",0.0,0.0,0.0,0,0
+1268274,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a32,<Sketch>,,,parameters,"[-61048.899999999994, -7673.334, -11582.4]","[-61048.899999999994, -7673.334, -11582.4]",0.0,0.0,0.0,0,0
+1268279,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a37,<Sketch>,,,parameters,"[-60591.7, -8282.934, -11582.4]","[-60591.7, -8282.934, -11582.4]",0.0,0.0,0.0,0,0
+1268284,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a3c,<Sketch>,,,parameters,"[-60312.3, -8130.534, -11582.4]","[-60312.3, -8130.534, -11582.4]",0.0,0.0,0.0,0,0
+1268289,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a41,<Sketch>,,,parameters,"[-58597.8, -7368.534, -11582.4]","[-58597.8, -7368.534, -11582.4]",0.0,0.0,0.0,0,0
+1268294,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a46,<Sketch>,,,parameters,"[-56883.3, -8130.534, -11582.4]","[-56883.3, -8130.534, -11582.4]",0.0,0.0,0.0,0,0
+1268299,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a4b,<Sketch>,,,parameters,"[-56222.9, -8790.934000000001, -11582.4]","[-56222.9, -8790.934000000001, -11582.4]",0.0,0.0,0.0,0,0
+1268304,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a50,<Sketch>,,,parameters,"[-54521.100000000006, -8689.334, -11582.4]","[-54521.100000000006, -8689.334, -11582.4]",0.0,0.0,0.0,0,0
+1268309,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a55,<Sketch>,,,parameters,"[-52819.3, -8790.934000000001, -11582.4]","[-52819.3, -8790.934000000001, -11582.4]",0.0,0.0,0.0,0,0
+1268314,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a5a,<Sketch>,,,parameters,"[-49850.49, -8524.5165, -11582.4]","[-49850.49, -8524.5165, -11582.4]",0.0,0.0,0.0,0,0
+1268319,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a5f,<Sketch>,,,parameters,"[-48044.1, -8156.499, -11582.4]","[-48044.1, -8156.499, -11582.4]",0.0,0.0,0.0,0,0
+1268324,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a64,<Sketch>,,,parameters,"[-46237.71, -8524.5165, -11582.4]","[-46237.71, -8524.5165, -11582.4]",0.0,0.0,0.0,0,0
+1268329,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a69,<Sketch>,,,parameters,"[-44500.8, -8892.534, -11582.4]","[-44500.8, -8892.534, -11582.4]",0.0,0.0,0.0,0,0
+1268335,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a6f,<Sketch>,,,parameters,"[-41741.354999999996, -8156.499, -11582.4]","[-41741.354999999996, -8156.499, -11582.4]",0.0,0.0,0.0,0,0
+1268340,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a74,<Sketch>,,,parameters,"[-40715.7565, -8535.949499999999, -11582.4]","[-40715.7565, -8535.949499999999, -11582.4]",0.0,0.0,0.0,0,0
+1268345,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a79,<Sketch>,,,parameters,"[-42763.89, -8524.5165, -11582.4]","[-42763.89, -8524.5165, -11582.4]",0.0,0.0,0.0,0,0
+1268350,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a7e,<Sketch>,,,parameters,"[-38888.35, -8599.167, -11582.4]","[-38888.35, -8599.167, -11582.4]",0.0,0.0,0.0,0,0
+1268355,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a83,<Sketch>,,,parameters,"[-37973.95, -8599.167, -11582.4]","[-37973.95, -8599.167, -11582.4]",0.0,0.0,0.0,0,0
+1268360,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a88,<Sketch>,,,parameters,"[-38431.149999999994, -8282.934, -11582.4]","[-38431.149999999994, -8282.934, -11582.4]",0.0,0.0,0.0,0,0
+1268365,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a8d,<Sketch>,,,parameters,"[-36651.9035, -8535.949499999999, -11582.4]","[-36651.9035, -8535.949499999999, -11582.4]",0.0,0.0,0.0,0,0
+1268370,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a92,<Sketch>,,,parameters,"[-35626.305, -8156.499, -11582.4]","[-35626.305, -8156.499, -11582.4]",0.0,0.0,0.0,0,0
+1268375,54f0b4d6-fed8-4321-ba81-4741afecd950-00135a97,<Sketch>,,,parameters,"[-34600.7065, -8535.949499999999, -11582.4]","[-34600.7065, -8535.949499999999, -11582.4]",0.0,0.0,0.0,0,0
+1268450,54f0b4d6-fed8-4321-ba81-4741afecd950-00135ae2,<Sketch>,,,parameters,"[-61633.1, -8892.534, -11582.4]","[-61633.1, -8892.534, -11582.4]",0.0,0.0,0.0,0,0
+1268470,54f0b4d6-fed8-4321-ba81-4741afecd950-00135af6,<Sketch>,,,parameters,"[-60452.0, -8892.534, -11582.4]","[-60452.0, -8892.534, -11582.4]",0.0,0.0,0.0,0,0
+1268481,54f0b4d6-fed8-4321-ba81-4741afecd950-00135b01,<Sketch>,,,parameters,"[-56553.100000000006, -8892.534, -11582.4]","[-56553.100000000006, -8892.534, -11582.4]",0.0,0.0,0.0,0,0
+1268508,54f0b4d6-fed8-4321-ba81-4741afecd950-00135b1c,<Sketch>,,,parameters,"[-51384.2, -8892.534, -11582.4]","[-51384.2, -8892.534, -11582.4]",0.0,0.0,0.0,0,0
+1268526,54f0b4d6-fed8-4321-ba81-4741afecd950-00135b2e,<Sketch>,,,parameters,"[-66610.128, -7266.934, -11582.4]","[-66610.128, -7266.934, -11582.4]",0.0,0.0,0.0,0,0
+1268532,54f0b4d6-fed8-4321-ba81-4741afecd950-00135b34,<Sketch>,,,parameters,"[-69634.1, -8994.134, -11582.4]","[-69634.1, -8994.134, -11582.4]",0.0,0.0,0.0,0,0
+1268539,54f0b4d6-fed8-4321-ba81-4741afecd950-00135b3b,<Sketch>,,,parameters,"[-69253.1, -8892.534, -11582.4]","[-69253.1, -8892.534, -11582.4]",0.0,0.0,0.0,0,0
+1268546,54f0b4d6-fed8-4321-ba81-4741afecd950-00135b42,<Sketch>,,,parameters,"[-69989.7, 2029.4660000000003, -11582.4]","[-69989.7, 2029.4660000000003, -11582.4]",0.0,0.0,0.0,0,0
+1268551,54f0b4d6-fed8-4321-ba81-4741afecd950-00135b47,<Sketch>,,,parameters,"[-72223.1575, 13053.066, -11582.4]","[-72223.1575, 13053.066, -11582.4]",0.0,0.0,0.0,0,0
+1268557,54f0b4d6-fed8-4321-ba81-4741afecd950-00135b4d,<Sketch>,,,parameters,"[24575.752, -7954.518, -11582.4]","[24575.752, -7954.518, -11582.4]",0.0,0.0,0.0,0,0
+1268562,54f0b4d6-fed8-4321-ba81-4741afecd950-00135b52,<Sketch>,,,parameters,"[22516.6005, -9890.098, -11582.4]","[22516.6005, -9890.098, -11582.4]",0.0,0.0,0.0,0,0
+1268748,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c0c,<Sketch>,,,parameters,"[27601.924, -6608.775, -11582.4]","[27601.924, -6608.775, -11582.4]",0.0,0.0,0.0,0,0
+1268753,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c11,<Sketch>,,,parameters,"[28380.8465, -6877.421, -11582.4]","[28380.8465, -6877.421, -11582.4]",0.0,0.0,0.0,0,0
+1268758,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c16,<Sketch>,,,parameters,"[34019.441999999995, -6506.279500000001, -11582.4]","[34019.441999999995, -6506.279500000001, -11582.4]",0.0,0.0,0.0,0,0
+1268763,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c1b,<Sketch>,,,parameters,"[29553.1475, -7196.755, -11582.4]","[29553.1475, -7196.755, -11582.4]",0.0,0.0,0.0,0,0
+1268768,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c20,<Sketch>,,,parameters,"[34854.7755, -6601.2585, -11582.4]","[34854.7755, -6601.2585, -11582.4]",0.0,0.0,0.0,0,0
+1268774,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c26,<Sketch>,,,parameters,"[30913.0135, -7017.725, -11582.4]","[30913.0135, -7017.725, -11582.4]",0.0,0.0,0.0,0,0
+1268779,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c2b,<Sketch>,,,parameters,"[31962.718500000003, -6405.8585, -11582.4]","[31962.718500000003, -6405.8585, -11582.4]",0.0,0.0,0.0,0,0
+1268784,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c30,<Sketch>,,,parameters,"[32616.834, -5948.5495, -11582.4]","[32616.834, -5948.5495, -11582.4]",0.0,0.0,0.0,0,0
+1268789,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c35,<Sketch>,,,parameters,"[33367.0215, -6220.978999999999, -11582.4]","[33367.0215, -6220.978999999999, -11582.4]",0.0,0.0,0.0,0,0
+1268794,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c3a,<Sketch>,,,parameters,"[34539.3215, -6540.3125, -11582.4]","[34539.3215, -6540.3125, -11582.4]",0.0,0.0,0.0,0,0
+1268799,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c3f,<Sketch>,,,parameters,"[36077.551999999996, -6452.487, -11582.4]","[36077.551999999996, -6452.487, -11582.4]",0.0,0.0,0.0,0,0
+1268804,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c44,<Sketch>,,,parameters,"[35178.244999999995, -6634.6435, -11582.4]","[35178.244999999995, -6634.6435, -11582.4]",0.0,0.0,0.0,0,0
+1268809,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c49,<Sketch>,,,parameters,"[36891.7505, -5977.6535, -11582.4]","[36891.7505, -5977.6535, -11582.4]",0.0,0.0,0.0,0,0
+1268814,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c4e,<Sketch>,,,parameters,"[42510.721999999994, -4105.6205, -11582.4]","[42510.721999999994, -4105.6205, -11582.4]",0.0,0.0,0.0,0,0
+1268819,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c53,<Sketch>,,,parameters,"[37148.0975, -5585.684, -11582.4]","[37148.0975, -5585.684, -11582.4]",0.0,0.0,0.0,0,0
+1268824,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c58,<Sketch>,,,parameters,"[41858.425, -4136.592000000001, -11582.4]","[41858.425, -4136.592000000001, -11582.4]",0.0,0.0,0.0,0,0
+1268829,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c5d,<Sketch>,,,parameters,"[42318.717000000004, -4082.098, -11582.4]","[42318.717000000004, -4082.098, -11582.4]",0.0,0.0,0.0,0,0
+1268834,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c62,<Sketch>,,,parameters,"[42745.2815, -4275.4815, -11582.4]","[42745.2815, -4275.4815, -11582.4]",0.0,0.0,0.0,0,0
+1268839,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c67,<Sketch>,,,parameters,"[41440.687000000005, -4337.424, -11582.4]","[41440.687000000005, -4337.424, -11582.4]",0.0,0.0,0.0,0,0
+1268844,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c6c,<Sketch>,,,parameters,"[41245.569, -4394.1630000000005, -11582.4]","[41245.569, -4394.1630000000005, -11582.4]",0.0,0.0,0.0,0,0
+1268849,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c71,<Sketch>,,,parameters,"[40367.54, -4649.489, -11582.4]","[40367.54, -4649.489, -11582.4]",0.0,0.0,0.0,0,0
+1268854,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c76,<Sketch>,,,parameters,"[40172.422, -4706.228, -11582.4]","[40172.422, -4706.228, -11582.4]",0.0,0.0,0.0,0,0
+1268859,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c7b,<Sketch>,,,parameters,"[39294.392, -4961.554, -11582.4]","[39294.392, -4961.554, -11582.4]",0.0,0.0,0.0,0,0
+1268864,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c80,<Sketch>,,,parameters,"[39099.2745, -5018.293, -11582.4]","[39099.2745, -5018.293, -11582.4]",0.0,0.0,0.0,0,0
+1268869,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c85,<Sketch>,,,parameters,"[38221.244999999995, -5273.619, -11582.4]","[38221.244999999995, -5273.619, -11582.4]",0.0,0.0,0.0,0,0
+1268874,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c8a,<Sketch>,,,parameters,"[38026.127, -5330.358, -11582.4]","[38026.127, -5330.358, -11582.4]",0.0,0.0,0.0,0,0
+1268879,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c8f,<Sketch>,,,parameters,"[44543.895000000004, -3911.1679999999997, -11582.4]","[44543.895000000004, -3911.1679999999997, -11582.4]",0.0,0.0,0.0,0,0
+1268884,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c94,<Sketch>,,,parameters,"[45376.450500000006, -3525.4759999999997, -11582.4]","[45376.450500000006, -3525.4759999999997, -11582.4]",0.0,0.0,0.0,0,0
+1268889,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c99,<Sketch>,,,parameters,"[46195.361000000004, -3117.5434999999998, -11582.4]","[46195.361000000004, -3117.5434999999998, -11582.4]",0.0,0.0,0.0,0,0
+1268894,54f0b4d6-fed8-4321-ba81-4741afecd950-00135c9e,<Sketch>,,,parameters,"[59848.9155, 1988.1725000000001, -11582.4]","[59848.9155, 1988.1725000000001, -11582.4]",0.0,0.0,0.0,0,0
+1268899,54f0b4d6-fed8-4321-ba81-4741afecd950-00135ca3,<Sketch>,,,parameters,"[47372.486, -2186.6005, -11582.4]","[47372.486, -2186.6005, -11582.4]",0.0,0.0,0.0,0,0
+1268904,54f0b4d6-fed8-4321-ba81-4741afecd950-00135ca8,<Sketch>,,,parameters,"[47911.049499999994, -1597.578, -11582.4]","[47911.049499999994, -1597.578, -11582.4]",0.0,0.0,0.0,0,0
+1268909,54f0b4d6-fed8-4321-ba81-4741afecd950-00135cad,<Sketch>,,,parameters,"[48702.604999999996, -1699.7455, -11582.4]","[48702.604999999996, -1699.7455, -11582.4]",0.0,0.0,0.0,0,0
+1268914,54f0b4d6-fed8-4321-ba81-4741afecd950-00135cb2,<Sketch>,,,parameters,"[50202.566, -1650.8115, -11582.4]","[50202.566, -1650.8115, -11582.4]",0.0,0.0,0.0,0,0
+1268919,54f0b4d6-fed8-4321-ba81-4741afecd950-00135cb7,<Sketch>,,,parameters,"[51347.482, -1231.745, -11582.4]","[51347.482, -1231.745, -11582.4]",0.0,0.0,0.0,0,0
+1268924,54f0b4d6-fed8-4321-ba81-4741afecd950-00135cbc,<Sketch>,,,parameters,"[52524.607, -300.8025, -11582.4]","[52524.607, -300.8025, -11582.4]",0.0,0.0,0.0,0,0
+1268934,54f0b4d6-fed8-4321-ba81-4741afecd950-00135cc6,<Sketch>,,,parameters,"[53063.1705, 288.21999999999997, -11582.4]","[53063.1705, 288.21999999999997, -11582.4]",0.0,0.0,0.0,0,0
+1268939,54f0b4d6-fed8-4321-ba81-4741afecd950-00135ccb,<Sketch>,,,parameters,"[53854.725999999995, 186.053, -11582.4]","[53854.725999999995, 186.053, -11582.4]",0.0,0.0,0.0,0,0
+1268944,54f0b4d6-fed8-4321-ba81-4741afecd950-00135cd0,<Sketch>,,,parameters,"[55354.687, 234.9865, -11582.4]","[55354.687, 234.9865, -11582.4]",0.0,0.0,0.0,0,0
+1268949,54f0b4d6-fed8-4321-ba81-4741afecd950-00135cd5,<Sketch>,,,parameters,"[56499.603, 654.053, -11582.4]","[56499.603, 654.053, -11582.4]",0.0,0.0,0.0,0,0
+1268954,54f0b4d6-fed8-4321-ba81-4741afecd950-00135cda,<Sketch>,,,parameters,"[57676.728, 1584.9955, -11582.4]","[57676.728, 1584.9955, -11582.4]",0.0,0.0,0.0,0,0
+1268959,54f0b4d6-fed8-4321-ba81-4741afecd950-00135cdf,<Sketch>,,,parameters,"[59006.847, 2071.851, -11582.4]","[59006.847, 2071.851, -11582.4]",0.0,0.0,0.0,0,0
+1268964,54f0b4d6-fed8-4321-ba81-4741afecd950-00135ce4,<Sketch>,,,parameters,"[58215.29150000001, 2174.018, -11582.4]","[58215.29150000001, 2174.018, -11582.4]",0.0,0.0,0.0,0,0
+1268969,54f0b4d6-fed8-4321-ba81-4741afecd950-00135ce9,<Sketch>,,,parameters,"[60506.808000000005, 2120.7844999999998, -11582.4]","[60506.808000000005, 2120.7844999999998, -11582.4]",0.0,0.0,0.0,0,0
+1269025,54f0b4d6-fed8-4321-ba81-4741afecd950-00135d21,<Sketch>,,,parameters,"[57087.6515, 977.4845, -11582.4]","[57087.6515, 977.4845, -11582.4]",0.0,0.0,0.0,0,0
+1269048,54f0b4d6-fed8-4321-ba81-4741afecd950-00135d38,<Sketch>,,,parameters,"[51935.53049999999, -908.3135, -11582.4]","[51935.53049999999, -908.3135, -11582.4]",0.0,0.0,0.0,0,0
+1269065,54f0b4d6-fed8-4321-ba81-4741afecd950-00135d49,<Sketch>,,,parameters,"[54696.7945, 102.37450000000001, -11582.4]","[54696.7945, 102.37450000000001, -11582.4]",0.0,0.0,0.0,0,0
+1269115,54f0b4d6-fed8-4321-ba81-4741afecd950-00135d7b,<Sketch>,,,parameters,"[64858.461500000005, 3605.4005, -11582.4]","[64858.461500000005, 3605.4005, -11582.4]",0.0,0.0,0.0,0,0
+1269132,54f0b4d6-fed8-4321-ba81-4741afecd950-00135d8c,<Sketch>,,,parameters,"[55962.066999999995, 349.11, -11582.4]","[55962.066999999995, 349.11, -11582.4]",0.0,0.0,0.0,0,0
+1269146,54f0b4d6-fed8-4321-ba81-4741afecd950-00135d9a,<Sketch>,,,parameters,"[43687.1425, -4239.663, -11582.4]","[43687.1425, -4239.663, -11582.4]",0.0,0.0,0.0,0,0
+1269164,54f0b4d6-fed8-4321-ba81-4741afecd950-00135dac,<Sketch>,,,parameters,"[46783.409499999994, -2794.112, -11582.4]","[46783.409499999994, -2794.112, -11582.4]",0.0,0.0,0.0,0,0
+1269178,54f0b4d6-fed8-4321-ba81-4741afecd950-00135dba,<Sketch>,,,parameters,"[50809.945999999996, -1536.688, -11582.4]","[50809.945999999996, -1536.688, -11582.4]",0.0,0.0,0.0,0,0
+1269201,54f0b4d6-fed8-4321-ba81-4741afecd950-00135dd1,<Sketch>,,,parameters,"[49544.673500000004, -1783.424, -11582.4]","[49544.673500000004, -1783.424, -11582.4]",0.0,0.0,0.0,0,0
+1269233,54f0b4d6-fed8-4321-ba81-4741afecd950-00135df1,<Sketch>,,,parameters,"[30246.342, -7207.971, -11582.4]","[30246.342, -7207.971, -11582.4]",0.0,0.0,0.0,0,0
+1269253,54f0b4d6-fed8-4321-ba81-4741afecd950-00135e05,<Sketch>,,,parameters,"[29033.2675, -7162.7215, -11582.4]","[29033.2675, -7162.7215, -11582.4]",0.0,0.0,0.0,0,0
+1269285,54f0b4d6-fed8-4321-ba81-4741afecd950-00135e25,<Sketch>,,,parameters,"[31406.370000000003, -6850.2965, -11582.4]","[31406.370000000003, -6850.2965, -11582.4]",0.0,0.0,0.0,0,0
+1269299,54f0b4d6-fed8-4321-ba81-4741afecd950-00135e33,<Sketch>,,,parameters,"[36998.647, -5708.4995, -11582.4]","[36998.647, -5708.4995, -11582.4]",0.0,0.0,0.0,0,0
+1269313,54f0b4d6-fed8-4321-ba81-4741afecd950-00135e41,<Sketch>,,,parameters,"[38144.963, -5375.157499999999, -11582.4]","[38144.963, -5375.157499999999, -11582.4]",0.0,0.0,0.0,0,0
+1269324,54f0b4d6-fed8-4321-ba81-4741afecd950-00135e4c,<Sketch>,,,parameters,"[39218.1105, -5063.092500000001, -11582.4]","[39218.1105, -5063.092500000001, -11582.4]",0.0,0.0,0.0,0,0
+1269350,54f0b4d6-fed8-4321-ba81-4741afecd950-00135e66,<Sketch>,,,parameters,"[40291.258, -4751.0275, -11582.4]","[40291.258, -4751.0275, -11582.4]",0.0,0.0,0.0,0,0
+1269361,54f0b4d6-fed8-4321-ba81-4741afecd950-00135e71,<Sketch>,,,parameters,"[41364.405, -4438.9625, -11582.4]","[41364.405, -4438.9625, -11582.4]",0.0,0.0,0.0,0,0
+1269393,54f0b4d6-fed8-4321-ba81-4741afecd950-00135e91,<Sketch>,,,parameters,"[40785.2775, -4448.656999999999, -11582.4]","[40785.2775, -4448.656999999999, -11582.4]",0.0,0.0,0.0,0,0
+1269410,54f0b4d6-fed8-4321-ba81-4741afecd950-00135ea2,<Sketch>,,,parameters,"[39712.13, -4760.722, -11582.4]","[39712.13, -4760.722, -11582.4]",0.0,0.0,0.0,0,0
+1269427,54f0b4d6-fed8-4321-ba81-4741afecd950-00135eb3,<Sketch>,,,parameters,"[38638.9825, -5072.787, -11582.4]","[38638.9825, -5072.787, -11582.4]",0.0,0.0,0.0,0,0
+1269441,54f0b4d6-fed8-4321-ba81-4741afecd950-00135ec1,<Sketch>,,,parameters,"[37565.835, -5384.852000000001, -11582.4]","[37565.835, -5384.852000000001, -11582.4]",0.0,0.0,0.0,0,0
+1273585,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136ef1,<Sketch>,,,parameters,"[20990.842, -23578.9905, -11582.4]","[20990.842, -23578.9905, -11582.4]",0.0,0.0,0.0,0,0
+1273590,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136ef6,<Sketch>,,,parameters,"[12324.8125, -23507.7055, -11582.4]","[12324.8125, -23507.7055, -11582.4]",0.0,0.0,0.0,0,0
+1273595,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136efb,<Sketch>,,,parameters,"[11149.562, -23158.1725, -11582.4]","[11149.562, -23158.1725, -11582.4]",0.0,0.0,0.0,0,0
+1273600,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136f00,<Sketch>,,,parameters,"[13537.271, -23325.137499999997, -11582.4]","[13537.271, -23325.137499999997, -11582.4]",0.0,0.0,0.0,0,0
+1273605,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136f05,<Sketch>,,,parameters,"[28393.916, -24554.980499999998, -11582.4]","[28393.916, -24554.980499999998, -11582.4]",0.0,0.0,0.0,0,0
+1273611,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136f0b,<Sketch>,,,parameters,"[31158.7235, -24737.9885, -11582.4]","[31158.7235, -24737.9885, -11582.4]",0.0,0.0,0.0,0,0
+1273616,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136f10,<Sketch>,,,parameters,"[30075.672, -31148.785499999998, -11582.4]","[30075.672, -31148.785499999998, -11582.4]",0.0,0.0,0.0,0,0
+1273621,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136f15,<Sketch>,,,parameters,"[31094.34, -25036.184, -11582.4]","[31094.34, -25036.184, -11582.4]",0.0,0.0,0.0,0,0
+1273627,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136f1b,<Sketch>,,,parameters,"[27444.023, -30807.089999999997, -11582.4]","[27444.023, -30807.089999999997, -11582.4]",0.0,0.0,0.0,0,0
+1273632,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136f20,<Sketch>,,,parameters,"[27785.3445, -36930.6455, -11582.4]","[27785.3445, -36930.6455, -11582.4]",0.0,0.0,0.0,0,0
+1273712,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136f70,<Sketch>,,,parameters,"[5046.348, -22464.042999999998, -11582.4]","[5046.348, -22464.042999999998, -11582.4]",0.0,0.0,0.0,0,0
+1273718,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136f76,<Sketch>,,,parameters,"[-1401.338, -22329.155, -11582.4]","[-1401.338, -22329.155, -11582.4]",0.0,0.0,0.0,0,0
+1273736,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136f88,<Sketch>,,,parameters,"[33348.521, -25097.5645, -11582.4]","[33348.521, -25097.5645, -11582.4]",0.0,0.0,0.0,0,0
+1273741,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136f8d,<Sketch>,,,parameters,"[56502.238, -31130.913500000002, -11582.4]","[56502.238, -31130.913500000002, -11582.4]",0.0,0.0,0.0,0,0
+1273746,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136f92,<Sketch>,,,parameters,"[58962.041, -31709.2405, -11582.4]","[58962.041, -31709.2405, -11582.4]",0.0,0.0,0.0,0,0
+1273751,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136f97,<Sketch>,,,parameters,"[63975.17600000001, -33114.8305, -11582.4]","[63975.17600000001, -33114.8305, -11582.4]",0.0,0.0,0.0,0,0
+1273761,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136fa1,<Sketch>,,,parameters,"[67622.557, -34722.111999999994, -11582.4]","[67622.557, -34722.111999999994, -11582.4]",0.0,0.0,0.0,0,0
+1273766,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136fa6,<Sketch>,,,parameters,"[60170.3295, -31950.279499999997, -11582.4]","[60170.3295, -31950.279499999997, -11582.4]",0.0,0.0,0.0,0,0
+1273771,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136fab,<Sketch>,,,parameters,"[57766.520000000004, -31432.305, -11582.4]","[57766.520000000004, -31432.305, -11582.4]",0.0,0.0,0.0,0,0
+1273787,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136fbb,<Sketch>,,,parameters,"[70591.96849999999, -36034.344, -11582.4]","[70591.96849999999, -36034.344, -11582.4]",0.0,0.0,0.0,0,0
+1273792,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136fc0,<Sketch>,,,parameters,"[69328.0405, -35611.763999999996, -11582.4]","[69328.0405, -35611.763999999996, -11582.4]",0.0,0.0,0.0,0,0
+1273797,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136fc5,<Sketch>,,,parameters,"[68422.101, -35316.509, -11582.4]","[68422.101, -35316.509, -11582.4]",0.0,0.0,0.0,0,0
+1273821,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136fdd,<Sketch>,,,parameters,"[54760.962, -30862.854, -11582.4]","[54760.962, -30862.854, -11582.4]",0.0,0.0,0.0,0,0
+1273826,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136fe2,<Sketch>,,,parameters,"[55059.551999999996, -30639.323, -11582.4]","[55059.551999999996, -30639.323, -11582.4]",0.0,0.0,0.0,0,0
+1273842,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136ff2,<Sketch>,,,parameters,"[31530.4315, -24519.724000000002, -11582.4]","[31530.4315, -24519.724000000002, -11582.4]",0.0,0.0,0.0,0,0
+1273848,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136ff8,<Sketch>,,,parameters,"[31812.631, -24645.610500000003, -11582.4]","[31812.631, -24645.610500000003, -11582.4]",0.0,0.0,0.0,0,0
+1273853,3cf2a709-38c0-4427-8caf-5564a3b26f85-00136ffd,<Sketch>,,,parameters,"[34909.985, -25451.1895, -11582.4]","[34909.985, -25451.1895, -11582.4]",0.0,0.0,0.0,0,0
+1273858,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137002,<Sketch>,,,parameters,"[35499.956999999995, -25604.633, -11582.4]","[35499.956999999995, -25604.633, -11582.4]",0.0,0.0,0.0,0,0
+1273863,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137007,<Sketch>,,,parameters,"[39777.255999999994, -26717.0995, -11582.4]","[39777.255999999994, -26717.0995, -11582.4]",0.0,0.0,0.0,0,0
+1273868,3cf2a709-38c0-4427-8caf-5564a3b26f85-0013700c,<Sketch>,,,parameters,"[40303.293000000005, -27116.364999999998, -11582.4]","[40303.293000000005, -27116.364999999998, -11582.4]",0.0,0.0,0.0,0,0
+1273873,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137011,<Sketch>,,,parameters,"[44279.654500000004, -28780.4425, -11582.4]","[44279.654500000004, -28780.4425, -11582.4]",0.0,0.0,0.0,0,0
+1273899,3cf2a709-38c0-4427-8caf-5564a3b26f85-0013702b,<Sketch>,,,parameters,"[44804.8065, -27972.206, -11582.4]","[44804.8065, -27972.206, -11582.4]",0.0,0.0,0.0,0,0
+1273920,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137040,<Sketch>,,,parameters,"[51294.5005, -29660.0855, -11582.4]","[51294.5005, -29660.0855, -11582.4]",0.0,0.0,0.0,0,0
+1273947,3cf2a709-38c0-4427-8caf-5564a3b26f85-0013705b,<Sketch>,,,parameters,"[40085.028999999995, -26744.657, -11582.4]","[40085.028999999995, -26744.657, -11582.4]",0.0,0.0,0.0,0,0
+1273958,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137066,<Sketch>,,,parameters,"[35217.758, -25478.747000000003, -11582.4]","[35217.758, -25478.747000000003, -11582.4]",0.0,0.0,0.0,0,0
+1273975,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137077,<Sketch>,,,parameters,"[47212.868, -28703.489500000003, -11582.4]","[47212.868, -28703.489500000003, -11582.4]",0.0,0.0,0.0,0,0
+1273993,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137089,<Sketch>,,,parameters,"[45087.005999999994, -28098.092, -11582.4]","[45087.005999999994, -28098.092, -11582.4]",0.0,0.0,0.0,0,0
+1273998,3cf2a709-38c0-4427-8caf-5564a3b26f85-0013708e,<Sketch>,,,parameters,"[49364.304000000004, -29210.5585, -11582.4]","[49364.304000000004, -29210.5585, -11582.4]",0.0,0.0,0.0,0,0
+1274016,3cf2a709-38c0-4427-8caf-5564a3b26f85-001370a0,<Sketch>,,,parameters,"[52981.745, -31043.7355, -11582.4]","[52981.745, -31043.7355, -11582.4]",0.0,0.0,0.0,0,0
+1274022,3cf2a709-38c0-4427-8caf-5564a3b26f85-001370a6,<Sketch>,,,parameters,"[41259.02250000001, -27679.877, -11582.4]","[41259.02250000001, -27679.877, -11582.4]",0.0,0.0,0.0,0,0
+1274029,3cf2a709-38c0-4427-8caf-5564a3b26f85-001370ad,<Sketch>,,,parameters,"[37625.8195, -26210.0305, -11582.4]","[37625.8195, -26210.0305, -11582.4]",0.0,0.0,0.0,0,0
+1274318,3cf2a709-38c0-4427-8caf-5564a3b26f85-001371ce,<Sketch>,,,parameters,"[-2591.616, -21094.8445, -11582.4]","[-2591.616, -21094.8445, -11582.4]",0.0,0.0,0.0,0,0
+1274421,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137235,<Sketch>,,,parameters,"[7095.0555, -38571.992, -11582.4]","[7095.0555, -38571.992, -11582.4]",0.0,0.0,0.0,0,0
+1274426,3cf2a709-38c0-4427-8caf-5564a3b26f85-0013723a,<Sketch>,,,parameters,"[3565.2565, -22360.475, -11582.4]","[3565.2565, -22360.475, -11582.4]",0.0,0.0,0.0,0,0
+1274431,3cf2a709-38c0-4427-8caf-5564a3b26f85-0013723f,<Sketch>,,,parameters,"[-2284.0665, -38232.118, -11582.4]","[-2284.0665, -38232.118, -11582.4]",0.0,0.0,0.0,0,0
+1274437,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137245,<Sketch>,,,parameters,"[-1401.338, -22329.155, -11582.4]","[-1401.338, -22329.155, -11582.4]",0.0,0.0,0.0,0,0
+1274681,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137339,<Sketch>,,,parameters,"[-12949.457, -20759.839, -11582.4]","[-12949.457, -20759.839, -11582.4]",0.0,0.0,0.0,0,0
+1274740,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137374,<Sketch>,,,parameters,"[-11866.0725, -33248.118, -11582.4]","[-11866.0725, -33248.118, -11582.4]",0.0,0.0,0.0,0,0
+1275307,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375ab,<Sketch>,,,parameters,"[-11725.3965, -29304.7255, -11582.4]","[-11725.3965, -29304.7255, -11582.4]",0.0,0.0,0.0,0,0
+1275308,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375ac,<Sketch>,,,parameters,"[-44439.343, -18188.7655, -11582.4]","[-44439.343, -18188.7655, -11582.4]",0.0,0.0,0.0,0,0
+1275309,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375ad,<Sketch>,,,parameters,"[70374.1195, -29309.034, -11582.4]","[70374.1195, -29309.034, -11582.4]",0.0,0.0,0.0,0,0
+1275310,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375ae,<Sketch>,,,parameters,"[68478.5435, -28954.214500000002, -11582.4]","[68478.5435, -28954.214500000002, -11582.4]",0.0,0.0,0.0,0,0
+1275311,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375af,<Sketch>,,,parameters,"[66751.237, -28590.356, -11582.4]","[66751.237, -28590.356, -11582.4]",0.0,0.0,0.0,0,0
+1275312,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375b0,<Sketch>,,,parameters,"[63783.959, -27916.095999999998, -11582.4]","[63783.959, -27916.095999999998, -11582.4]",0.0,0.0,0.0,0,0
+1275313,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375b1,<Sketch>,,,parameters,"[61163.028000000006, -27272.233500000002, -11582.4]","[61163.028000000006, -27272.233500000002, -11582.4]",0.0,0.0,0.0,0,0
+1275314,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375b2,<Sketch>,,,parameters,"[59834.1285, -26933.025999999998, -11582.4]","[59834.1285, -26933.025999999998, -11582.4]",0.0,0.0,0.0,0,0
+1275315,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375b3,<Sketch>,,,parameters,"[59120.7835, -26750.9415, -11582.4]","[59120.7835, -26750.9415, -11582.4]",0.0,0.0,0.0,0,0
+1275316,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375b4,<Sketch>,,,parameters,"[57337.1075, -26295.65, -11582.4]","[57337.1075, -26295.65, -11582.4]",0.0,0.0,0.0,0,0
+1275317,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375b5,<Sketch>,,,parameters,"[55563.8485, -25843.0175, -11582.4]","[55563.8485, -25843.0175, -11582.4]",0.0,0.0,0.0,0,0
+1275318,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375b6,<Sketch>,,,parameters,"[54240.1345, -25505.133, -11582.4]","[54240.1345, -25505.133, -11582.4]",0.0,0.0,0.0,0,0
+1275319,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375b7,<Sketch>,,,parameters,"[52917.2295, -25167.4555, -11582.4]","[52917.2295, -25167.4555, -11582.4]",0.0,0.0,0.0,0,0
+1275320,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375b8,<Sketch>,,,parameters,"[51589.195, -24828.468999999997, -11582.4]","[51589.195, -24828.468999999997, -11582.4]",0.0,0.0,0.0,0,0
+1275321,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375b9,<Sketch>,,,parameters,"[49477.4945, -24289.447500000002, -11582.4]","[49477.4945, -24289.447500000002, -11582.4]",0.0,0.0,0.0,0,0
+1275322,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375ba,<Sketch>,,,parameters,"[47123.7035, -23688.631500000003, -11582.4]","[47123.7035, -23688.631500000003, -11582.4]",0.0,0.0,0.0,0,0
+1275323,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375bb,<Sketch>,,,parameters,"[43358.1875, -22727.466500000002, -11582.4]","[43358.1875, -22727.466500000002, -11582.4]",0.0,0.0,0.0,0,0
+1275324,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375bc,<Sketch>,,,parameters,"[40741.409, -22061.578, -11582.4]","[40741.409, -22061.578, -11582.4]",0.0,0.0,0.0,0,0
+1275325,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375bd,<Sketch>,,,parameters,"[39775.8465, -21837.2945, -11582.4]","[39775.8465, -21837.2945, -11582.4]",0.0,0.0,0.0,0,0
+1275326,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375be,<Sketch>,,,parameters,"[37925.425, -21451.5925, -11582.4]","[37925.425, -21451.5925, -11582.4]",0.0,0.0,0.0,0,0
+1275327,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375bf,<Sketch>,,,parameters,"[35677.5215, -21100.8155, -11582.4]","[35677.5215, -21100.8155, -11582.4]",0.0,0.0,0.0,0,0
+1275328,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375c0,<Sketch>,,,parameters,"[33709.6605, -20863.891, -11582.4]","[33709.6605, -20863.891, -11582.4]",0.0,0.0,0.0,0,0
+1275329,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375c1,<Sketch>,,,parameters,"[32025.542499999996, -20741.2655, -11582.4]","[32025.542499999996, -20741.2655, -11582.4]",0.0,0.0,0.0,0,0
+1275330,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375c2,<Sketch>,,,parameters,"[15008.795999999998, -20156.5055, -11582.4]","[15008.795999999998, -20156.5055, -11582.4]",0.0,0.0,0.0,0,0
+1275331,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375c3,<Sketch>,,,parameters,"[-5146.5380000000005, -50076.095, -11582.4]","[-5146.5380000000005, -50076.095, -11582.4]",0.0,0.0,0.0,0,0
+1275332,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375c4,<Sketch>,,,parameters,"[-39854.021, -64357.308999999994, -11582.4]","[-39854.021, -64357.308999999994, -11582.4]",0.0,0.0,0.0,0,0
+1275333,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375c5,<Sketch>,,,parameters,"[-26879.0625, -73707.53, -11582.4]","[-26879.0625, -73707.53, -11582.4]",0.0,0.0,0.0,0,0
+1275334,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375c6,<Sketch>,,,parameters,"[-13039.546999999999, -66142.64050000001, -11582.4]","[-13039.546999999999, -66142.64050000001, -11582.4]",0.0,0.0,0.0,0,0
+1275335,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375c7,<Sketch>,,,parameters,"[-26014.5055, -56792.4195, -11582.4]","[-26014.5055, -56792.4195, -11582.4]",0.0,0.0,0.0,0,0
+1275336,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375c8,<Sketch>,,,parameters,"[-2591.616, -21094.8445, -11582.4]","[-2591.616, -21094.8445, -11582.4]",0.0,0.0,0.0,0,0
+1275337,3cf2a709-38c0-4427-8caf-5564a3b26f85-001375c9,<Sketch>,,,parameters,"[-12949.457, -20759.839, -11582.4]","[-12949.457, -20759.839, -11582.4]",0.0,0.0,0.0,0,0
+1275448,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137638,<Sketch>,,,parameters,"[-27952.7, -29596.3565, -11582.4]","[-27952.7, -29596.3565, -11582.4]",0.0,0.0,0.0,0,0
+1275453,3cf2a709-38c0-4427-8caf-5564a3b26f85-0013763d,<Sketch>,,,parameters,"[-23075.9, -41620.205, -11582.4]","[-23075.9, -41620.205, -11582.4]",0.0,0.0,0.0,0,0
+1275590,3cf2a709-38c0-4427-8caf-5564a3b26f85-001376c6,<Sketch>,,,parameters,"[-42160.2405, -53815.562999999995, -11582.4]","[-42160.2405, -53815.562999999995, -11582.4]",0.0,0.0,0.0,0,0
+1275608,3cf2a709-38c0-4427-8caf-5564a3b26f85-001376d8,<Sketch>,,,parameters,"[-16488.881, -46497.005, -11582.4]","[-16488.881, -46497.005, -11582.4]",0.0,0.0,0.0,0,0
+1275675,3cf2a709-38c0-4427-8caf-5564a3b26f85-0013771b,<Sketch>,,,parameters,"[59040.096000000005, -17753.0725, -11582.4]","[59040.096000000005, -17753.0725, -11582.4]",0.0,0.0,0.0,0,0
+1275724,3cf2a709-38c0-4427-8caf-5564a3b26f85-0013774c,<Sketch>,,,parameters,"[58790.058000000005, -12773.2325, -11582.4]","[58790.058000000005, -12773.2325, -11582.4]",0.0,0.0,0.0,0,0
+1275899,3cf2a709-38c0-4427-8caf-5564a3b26f85-001377fb,<Sketch>,,,parameters,"[-49365.8525, -11349.7775, -11582.4]","[-49365.8525, -11349.7775, -11582.4]",0.0,0.0,0.0,0,0
+1275900,3cf2a709-38c0-4427-8caf-5564a3b26f85-001377fc,<Sketch>,,,parameters,"[-11205.1835, -11969.6135, -11582.4]","[-11205.1835, -11969.6135, -11582.4]",0.0,0.0,0.0,0,0
+1275901,3cf2a709-38c0-4427-8caf-5564a3b26f85-001377fd,<Sketch>,,,parameters,"[58561.0095, -2160.0105000000003, -11582.4]","[58561.0095, -2160.0105000000003, -11582.4]",0.0,0.0,0.0,0,0
+1275902,3cf2a709-38c0-4427-8caf-5564a3b26f85-001377fe,<Sketch>,,,parameters,"[23569.678499999998, -9683.493999999999, -11582.4]","[23569.678499999998, -9683.493999999999, -11582.4]",0.0,0.0,0.0,0,0
+1276611,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137ac3,Sub-divisions,Toposolid,"Grass 1' - 0""","category,level,parameters",,,,188.304,188.304,422,422
+1276612,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137ac4,<Sketch>,,,parameters,"[-74456.615, -45182.517, -11582.4]","[-74456.615, -45182.517, -11582.4]",0.0,0.0,0.0,0,0
+1276628,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137ad4,<Sketch>,,,parameters,"[-45797.3865, -21856.104, -11582.4]","[-45797.3865, -21856.104, -11582.4]",0.0,0.0,0.0,0,0
+1276629,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137ad5,<Sketch>,,,parameters,"[-63737.8815, -24144.999000000003, -11582.4]","[-63737.8815, -24144.999000000003, -11582.4]",0.0,0.0,0.0,0,0
+1276630,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137ad6,<Sketch>,,,parameters,"[-67153.2335, -26950.5455, -11582.4]","[-67153.2335, -26950.5455, -11582.4]",0.0,0.0,0.0,0,0
+1276631,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137ad7,<Sketch>,,,parameters,"[-70947.697, -47467.918, -11582.4]","[-70947.697, -47467.918, -11582.4]",0.0,0.0,0.0,0,0
+1276632,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137ad8,<Sketch>,,,parameters,"[-61965.069, -68279.9445, -11582.4]","[-61965.069, -68279.9445, -11582.4]",0.0,0.0,0.0,0,0
+1276633,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137ad9,<Sketch>,,,parameters,"[-52171.0925, -54427.676, -11582.4]","[-52171.0925, -54427.676, -11582.4]",0.0,0.0,0.0,0,0
+1276634,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137ada,<Sketch>,,,parameters,"[-44598.6835, -40513.587499999994, -11582.4]","[-44598.6835, -40513.587499999994, -11582.4]",0.0,0.0,0.0,0,0
+1276635,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137adb,<Sketch>,,,parameters,"[-37477.816, -45254.553499999995, -11582.4]","[-37477.816, -45254.553499999995, -11582.4]",0.0,0.0,0.0,0,0
+1276636,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137adc,<Sketch>,,,parameters,"[-46133.9175, -60707.0255, -11582.4]","[-46133.9175, -60707.0255, -11582.4]",0.0,0.0,0.0,0,0
+1276637,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137add,<Sketch>,,,parameters,"[-45669.2925, -68019.2305, -11582.4]","[-45669.2925, -68019.2305, -11582.4]",0.0,0.0,0.0,0,0
+1276638,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137ade,<Sketch>,,,parameters,"[-53464.105500000005, -71758.457, -11582.4]","[-53464.105500000005, -71758.457, -11582.4]",0.0,0.0,0.0,0,0
+1276639,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137adf,<Sketch>,,,parameters,"[-67793.262, -70915.36249999999, -11582.4]","[-67793.262, -70915.36249999999, -11582.4]",0.0,0.0,0.0,0,0
+1276641,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137ae1,<Sketch>,,,parameters,"[-51204.6575, -20404.568, -11582.4]","[-51204.6575, -20404.568, -11582.4]",0.0,0.0,0.0,0,0
+1276673,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137b01,<Sketch>,,,parameters,"[-27952.7, -21811.7595, -11582.4]","[-27952.7, -21811.7595, -11582.4]",0.0,0.0,0.0,0,0
+1276675,3cf2a709-38c0-4427-8caf-5564a3b26f85-00137b03,<Sketch>,,,parameters,"[-42160.2405, -53815.562999999995, -11582.4]","[-42160.2405, -53815.562999999995, -11582.4]",0.0,0.0,0.0,0,0
+1282078,f2a5d534-7058-4ab6-bbee-5cd81f4096da-0013901e,Views,Section,Building Section,parameters,,,,0.0,0.0,0,0
+1285196,5fb50897-f18f-4f94-b901-7ac46884584e-00139c4c,<Sketch>,,,parameters,"[53480.8965, -32223.359, -11582.4]","[53480.8965, -32223.359, -11582.4]",0.0,0.0,0.0,0,0
+1285201,5fb50897-f18f-4f94-b901-7ac46884584e-00139c51,<Sketch>,,,parameters,"[42138.0305, -28538.375500000002, -11582.4]","[42138.0305, -28538.375500000002, -11582.4]",0.0,0.0,0.0,0,0
+1285221,5fb50897-f18f-4f94-b901-7ac46884584e-00139c65,<Sketch>,,,parameters,"[54478.054, -31734.095, -11582.4]","[54478.054, -31734.095, -11582.4]",0.0,0.0,0.0,0,0
+1285248,5fb50897-f18f-4f94-b901-7ac46884584e-00139c80,<Sketch>,,,parameters,"[52797.166, -31940.550499999998, -11582.4]","[52797.166, -31940.550499999998, -11582.4]",0.0,0.0,0.0,0,0
+1285253,5fb50897-f18f-4f94-b901-7ac46884584e-00139c85,<Sketch>,,,parameters,"[52829.965, -32001.571, -11582.4]","[52829.965, -32001.571, -11582.4]",0.0,0.0,0.0,0,0
+1285258,5fb50897-f18f-4f94-b901-7ac46884584e-00139c8a,<Sketch>,,,parameters,"[54157.402, -32346.819, -11582.4]","[54157.402, -32346.819, -11582.4]",0.0,0.0,0.0,0,0
+1285302,5fb50897-f18f-4f94-b901-7ac46884584e-00139cb6,<Sketch>,,,parameters,"[54219.3535, -32310.442, -11582.4]","[54219.3535, -32310.442, -11582.4]",0.0,0.0,0.0,0,0
+1285308,5fb50897-f18f-4f94-b901-7ac46884584e-00139cbc,<Sketch>,,,parameters,"[43016.0465, -29501.5965, -11582.4]","[43016.0465, -29501.5965, -11582.4]",0.0,0.0,0.0,0,0
+1285317,5fb50897-f18f-4f94-b901-7ac46884584e-00139cc5,<Sketch>,,,parameters,"[42070.6245, -29150.725, -11582.4]","[42070.6245, -29150.725, -11582.4]",0.0,0.0,0.0,0,0
+1285325,5fb50897-f18f-4f94-b901-7ac46884584e-00139ccd,<Sketch>,,,parameters,"[42143.875, -29222.266499999998, -11582.4]","[42143.875, -29222.266499999998, -11582.4]",0.0,0.0,0.0,0,0
+1285330,5fb50897-f18f-4f94-b901-7ac46884584e-00139cd2,<Sketch>,,,parameters,"[43913.792, -29682.5975, -11582.4]","[43913.792, -29682.5975, -11582.4]",0.0,0.0,0.0,0,0
+1285377,5fb50897-f18f-4f94-b901-7ac46884584e-00139d01,<Sketch>,,,parameters,"[43988.034, -29649.417, -11582.4]","[43988.034, -29649.417, -11582.4]",0.0,0.0,0.0,0,0
+1296346,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c7da,Sub-divisions,Toposolid,"Asphalt, Pavement, Light Grey 0' - 7""","category,level,parameters",,,,19.885,19.885,119,119
+1296378,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c7fa,<Sketch>,,,parameters,"[-40360.2465, -71960.4755, -11582.4]","[-40360.2465, -71960.4755, -11582.4]",0.0,0.0,0.0,0,0
+1296379,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c7fb,<Sketch>,,,parameters,"[-26879.0625, -73707.53, -11582.4]","[-26879.0625, -73707.53, -11582.4]",0.0,0.0,0.0,0,0
+1296380,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c7fc,<Sketch>,,,parameters,"[-13039.546999999999, -66142.64050000001, -11582.4]","[-13039.546999999999, -66142.64050000001, -11582.4]",0.0,0.0,0.0,0,0
+1296381,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c7fd,<Sketch>,,,parameters,"[-14561.4765, -57554.9725, -11582.4]","[-14561.4765, -57554.9725, -11582.4]",0.0,0.0,0.0,0,0
+1296441,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c839,<Sketch>,,,parameters,"[-17411.5095, -71315.23250000001, -11582.4]","[-17411.5095, -71315.23250000001, -11582.4]",0.0,0.0,0.0,0,0
+1296442,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c83a,<Sketch>,,,parameters,"[-17408.0695, -72028.236, -11582.4]","[-17408.0695, -72028.236, -11582.4]",0.0,0.0,0.0,0,0
+1296443,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c83b,<Sketch>,,,parameters,"[-17921.982, -70359.513, -11582.4]","[-17921.982, -70359.513, -11582.4]",0.0,0.0,0.0,0,0
+1296444,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c83c,<Sketch>,,,parameters,"[-18440.891000000003, -69530.513, -11582.4]","[-18440.891000000003, -69530.513, -11582.4]",0.0,0.0,0.0,0,0
+1296445,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c83d,<Sketch>,,,parameters,"[-17816.658000000003, -68777.6245, -11582.4]","[-17816.658000000003, -68777.6245, -11582.4]",0.0,0.0,0.0,0,0
+1296446,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c83e,<Sketch>,,,parameters,"[-17185.6755, -67923.36, -11582.4]","[-17185.6755, -67923.36, -11582.4]",0.0,0.0,0.0,0,0
+1296447,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c83f,<Sketch>,,,parameters,"[-17089.4275, -67242.45, -11582.4]","[-17089.4275, -67242.45, -11582.4]",0.0,0.0,0.0,0,0
+1296448,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c840,<Sketch>,,,parameters,"[-17377.631, -72335.7375, -11582.4]","[-17377.631, -72335.7375, -11582.4]",0.0,0.0,0.0,0,0
+1296449,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c841,<Sketch>,,,parameters,"[-17279.259, -66843.73999999999, -11582.4]","[-17279.259, -66843.73999999999, -11582.4]",0.0,0.0,0.0,0,0
+1296450,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c842,<Sketch>,,,parameters,"[-17504.872, -66217.769, -11582.4]","[-17504.872, -66217.769, -11582.4]",0.0,0.0,0.0,0,0
+1296451,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c843,<Sketch>,,,parameters,"[-17198.263, -65627.2335, -11582.4]","[-17198.263, -65627.2335, -11582.4]",0.0,0.0,0.0,0,0
+1296452,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c844,<Sketch>,,,parameters,"[-19215.89, -72416.9945, -11582.4]","[-19215.89, -72416.9945, -11582.4]",0.0,0.0,0.0,0,0
+1296453,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c845,<Sketch>,,,parameters,"[-37712.472, -71236.3885, -11582.4]","[-37712.472, -71236.3885, -11582.4]",0.0,0.0,0.0,0,0
+1296454,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c846,<Sketch>,,,parameters,"[-36901.4675, -71290.3855, -11582.4]","[-36901.4675, -71290.3855, -11582.4]",0.0,0.0,0.0,0,0
+1296455,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c847,<Sketch>,,,parameters,"[-36495.9655, -71317.3845, -11582.4]","[-36495.9655, -71317.3845, -11582.4]",0.0,0.0,0.0,0,0
+1296456,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c848,<Sketch>,,,parameters,"[-35684.961, -71371.38200000001, -11582.4]","[-35684.961, -71371.38200000001, -11582.4]",0.0,0.0,0.0,0,0
+1296457,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c849,<Sketch>,,,parameters,"[-17778.038, -72614.553, -11582.4]","[-17778.038, -72614.553, -11582.4]",0.0,0.0,0.0,0,0
+1296458,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c84a,<Sketch>,,,parameters,"[-18154.8215, -72538.554, -11582.4]","[-18154.8215, -72538.554, -11582.4]",0.0,0.0,0.0,0,0
+1296459,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c84b,<Sketch>,,,parameters,"[-20283.708, -72396.811, -11582.4]","[-20283.708, -72396.811, -11582.4]",0.0,0.0,0.0,0,0
+1296460,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c84c,<Sketch>,,,parameters,"[-28284.546, -71864.10800000001, -11582.4]","[-28284.546, -71864.10800000001, -11582.4]",0.0,0.0,0.0,0,0
+1296461,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c84d,<Sketch>,,,parameters,"[-27372.166, -71924.85500000001, -11582.4]","[-27372.166, -71924.85500000001, -11582.4]",0.0,0.0,0.0,0,0
+1296462,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c84e,<Sketch>,,,parameters,"[-27824.981, -71843.7935, -11582.4]","[-27824.981, -71843.7935, -11582.4]",0.0,0.0,0.0,0,0
+1296463,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c84f,<Sketch>,,,parameters,"[-31988.1285, -71668.433, -11582.4]","[-31988.1285, -71668.433, -11582.4]",0.0,0.0,0.0,0,0
+1296464,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c850,<Sketch>,,,parameters,"[-23831.311999999998, -72211.52100000001, -11582.4]","[-23831.311999999998, -72211.52100000001, -11582.4]",0.0,0.0,0.0,0,0
+1296465,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c851,<Sketch>,,,parameters,"[-39009.8925, -71200.91750000001, -11582.4]","[-39009.8925, -71200.91750000001, -11582.4]",0.0,0.0,0.0,0,0
+1296466,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c852,<Sketch>,,,parameters,"[-36702.091, -71354.57250000001, -11582.4]","[-36702.091, -71354.57250000001, -11582.4]",0.0,0.0,0.0,0,0
+1296467,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c853,<Sketch>,,,parameters,"[-37303.595, -71212.6995, -11582.4]","[-37303.595, -71212.6995, -11582.4]",0.0,0.0,0.0,0,0
+1296468,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c854,<Sketch>,,,parameters,"[-36087.0885, -71293.6955, -11582.4]","[-36087.0885, -71293.6955, -11582.4]",0.0,0.0,0.0,0,0
+1296469,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c855,<Sketch>,,,parameters,"[-17025.944000000003, -67053.6415, -11582.4]","[-17025.944000000003, -67053.6415, -11582.4]",0.0,0.0,0.0,0,0
+1296470,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c856,<Sketch>,,,parameters,"[-17926.05, -60691.179000000004, -11582.4]","[-17926.05, -60691.179000000004, -11582.4]",0.0,0.0,0.0,0,0
+1296471,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c857,<Sketch>,,,parameters,"[-17753.802499999998, -59633.485499999995, -11582.4]","[-17753.802499999998, -59633.485499999995, -11582.4]",0.0,0.0,0.0,0,0
+1296472,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c858,<Sketch>,,,parameters,"[-17135.425, -59521.92, -11582.4]","[-17135.425, -59521.92, -11582.4]",0.0,0.0,0.0,0,0
+1296473,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c859,<Sketch>,,,parameters,"[-17297.4175, -61954.9335, -11582.4]","[-17297.4175, -61954.9335, -11582.4]",0.0,0.0,0.0,0,0
+1296474,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c85a,<Sketch>,,,parameters,"[-17814.614999999998, -59782.174, -11582.4]","[-17814.614999999998, -59782.174, -11582.4]",0.0,0.0,0.0,0,0
+1296475,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c85b,<Sketch>,,,parameters,"[-17936.1095, -61606.934, -11582.4]","[-17936.1095, -61606.934, -11582.4]",0.0,0.0,0.0,0,0
+1296476,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c85c,<Sketch>,,,parameters,"[-17895.546499999997, -61762.372, -11582.4]","[-17895.546499999997, -61762.372, -11582.4]",0.0,0.0,0.0,0,0
+1296477,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c85d,<Sketch>,,,parameters,"[-16456.300499999998, -58497.975, -11582.4]","[-16456.300499999998, -58497.975, -11582.4]",0.0,0.0,0.0,0,0
+1296478,17d2c711-56fc-45d8-8433-9a266a35bf24-0013c85e,<Sketch>,,,parameters,"[-16810.658, -63820.1915, -11582.4]","[-16810.658, -63820.1915, -11582.4]",0.0,0.0,0.0,0,0
+1320892,865967e1-f477-446d-9386-b92d7ec2043e-001427bc,Toposolid,Toposolid,Water,parameters,,,,24371.91,24371.91,1679,1679
+1320895,865967e1-f477-446d-9386-b92d7ec2043e-001427bf,<Sketch>,,,parameters,"[-74456.615, 41722.0335, 0.0]","[-74456.615, 41722.0335, 0.0]",0.0,0.0,0.0,0,0
+1320900,865967e1-f477-446d-9386-b92d7ec2043e-001427c4,<Sketch>,,,parameters,"[-8220.490000000002, 59571.488, 0.0]","[-8220.490000000002, 59571.488, 0.0]",0.0,0.0,0.0,0,0
+1320905,865967e1-f477-446d-9386-b92d7ec2043e-001427c9,<Sketch>,,,parameters,"[64931.509999999995, 56196.0665, 0.0]","[64931.509999999995, 56196.0665, 0.0]",0.0,0.0,0.0,0,0
+1320910,865967e1-f477-446d-9386-b92d7ec2043e-001427ce,<Sketch>,,,parameters,"[71847.385, 43461.898, 0.0]","[71847.385, 43461.898, 0.0]",0.0,0.0,0.0,0,0
+1320970,865967e1-f477-446d-9386-b92d7ec2043e-0014280a,<Sketch>,,,parameters,"[-1304.6150000000052, 28987.864999999998, 0.0]","[-1304.6150000000052, 28987.864999999998, 0.0]",0.0,0.0,0.0,0,0
+1321312,865967e1-f477-446d-9386-b92d7ec2043e-00142960,<Sketch>,,,parameters,"[-13231.4935, -37325.215, -11582.4]","[-13231.4935, -37325.215, -11582.4]",0.0,0.0,0.0,0,0
+1321319,865967e1-f477-446d-9386-b92d7ec2043e-00142967,<Sketch>,,,parameters,"[-14633.8495, -42437.6605, -11582.4]","[-14633.8495, -42437.6605, -11582.4]",0.0,0.0,0.0,0,0
+1321340,865967e1-f477-446d-9386-b92d7ec2043e-0014297c,<Sketch>,,,parameters,"[-13231.4935, -37325.215, -11582.4]","[-13231.4935, -37325.215, -11582.4]",0.0,0.0,0.0,0,0
+1324207,a5cbd2e4-cd4b-4e3c-bf04-c1b704e61bd8-001434af,<none>,Floor Plan,Architectural Plan,parameters,,,,0.0,0.0,0,0
+1324880,5b4b93af-7563-4698-8c2d-a5fb06ba5553-00143750,<Sketch>,,,parameters,"[-33985.2, -10189.972, -11582.4]","[-33985.2, -10189.972, -11582.4]",0.0,0.0,0.0,0,0
+1324933,5b4b93af-7563-4698-8c2d-a5fb06ba5553-00143785,<Sketch>,,,parameters,"[34003.3175, -9245.4935, -11582.4]","[34003.3175, -9245.4935, -11582.4]",0.0,0.0,0.0,0,0
+1330290,7dc62ac0-f50d-4da0-8388-740fb2d843b5-00144c72,Viewports,Viewport,No Title,parameters,,,,0.0,0.0,0,0
+1330908,e4e0db2f-f83d-46c5-bc6a-23ee84039628-00144edc,Views,Section,Building Section,parameters,,,,0.0,0.0,0,0
+1332010,34e2864d-1c94-4046-9a24-043fc6c3a5dd-0014532a,<Sketch>,,,parameters,"[-27343.1, -30476.071, 0.0]","[-27343.1, -30476.071, 0.0]",0.0,0.0,0.0,0,0
+1332011,34e2864d-1c94-4046-9a24-043fc6c3a5dd-0014532b,<Sketch>,,,parameters,"[-23685.5, -24208.737, 0.0]","[-23685.5, -24208.737, 0.0]",0.0,0.0,0.0,0,0
+1332013,34e2864d-1c94-4046-9a24-043fc6c3a5dd-0014532d,<Sketch>,,,parameters,"[-20027.9, -29256.871, 0.0]","[-20027.9, -29256.871, 0.0]",0.0,0.0,0.0,0,0
+1333522,34e2864d-1c94-4046-9a24-043fc6c3a5dd-00145912,<Sketch>,,,parameters,"[-23685.5, -35524.205, 0.0]","[-23685.5, -35524.205, 0.0]",0.0,0.0,0.0,0,0
+1334875,6ca52b9a-52e9-43a5-85e0-7aeb4854ea54-00145e5b,Views,Section,Building Section,parameters,,,,0.0,0.0,0,0
+1340686,5f739297-73ab-4c6b-8271-fb1feffe2faa-0014750e,<Sketch>,,,parameters,"[-23685.5, -35524.205, 0.0]","[-23685.5, -35524.205, 0.0]",0.0,0.0,0.0,0,0
+1340740,5f739297-73ab-4c6b-8271-fb1feffe2faa-00147544,<Sketch>,,,parameters,"[-17258.468500000003, -36341.6605, -0.0]","[-17258.468500000003, -36341.6605, -0.0]",0.0,0.0,0.0,0,0
+1340745,5f739297-73ab-4c6b-8271-fb1feffe2faa-00147549,<Sketch>,,,parameters,"[-22771.1, -41315.405, -0.0]","[-22771.1, -41315.405, -0.0]",0.0,0.0,0.0,0,0
+1340750,5f739297-73ab-4c6b-8271-fb1feffe2faa-0014754e,<Sketch>,,,parameters,"[-16483.444499999998, -45887.405, -0.0]","[-16483.444499999998, -45887.405, -0.0]",0.0,0.0,0.0,0,0
+1340755,5f739297-73ab-4c6b-8271-fb1feffe2faa-00147553,<Sketch>,,,parameters,"[-14628.413, -42132.860499999995, 0.0]","[-14628.413, -42132.860499999995, 0.0]",0.0,0.0,0.0,0,0
+1348136,43c88fe8-39ef-4a78-8252-147446b4600a-00149228,<Sketch>,,,parameters,"[-14579.869999999999, -38087.365999999995, -11582.4]","[-14579.869999999999, -38087.365999999995, -11582.4]",0.0,0.0,0.0,0,0
+1348202,43c88fe8-39ef-4a78-8252-147446b4600a-0014926a,<Sketch>,,,parameters,"[-14410.401000000002, -21928.213, -11582.4]","[-14410.401000000002, -21928.213, -11582.4]",0.0,0.0,0.0,0,0
+1348276,43c88fe8-39ef-4a78-8252-147446b4600a-001492b4,Sub-divisions,Toposolid,"Grass 1' - 0""","category,level,parameters",,,,28.024,28.024,55,55
+1348279,43c88fe8-39ef-4a78-8252-147446b4600a-001492b7,<Sketch>,,,parameters,"[-17366.412, -21524.6175, -11582.4]","[-17366.412, -21524.6175, -11582.4]",0.0,0.0,0.0,0,0
+1348284,43c88fe8-39ef-4a78-8252-147446b4600a-001492bc,<Sketch>,,,parameters,"[-14410.401000000002, -21928.213, -11582.4]","[-14410.401000000002, -21928.213, -11582.4]",0.0,0.0,0.0,0,0
+1348291,43c88fe8-39ef-4a78-8252-147446b4600a-001492c3,<Sketch>,,,parameters,"[-14404.7095, -30340.161999999997, -11582.4]","[-14404.7095, -30340.161999999997, -11582.4]",0.0,0.0,0.0,0,0
+1348297,43c88fe8-39ef-4a78-8252-147446b4600a-001492c9,<Sketch>,,,parameters,"[-20027.9, -27870.7635, -11582.4]","[-20027.9, -27870.7635, -11582.4]",0.0,0.0,0.0,0,0
+1348302,43c88fe8-39ef-4a78-8252-147446b4600a-001492ce,<Sketch>,,,parameters,"[-17360.7205, -36370.808, -11582.4]","[-17360.7205, -36370.808, -11582.4]",0.0,0.0,0.0,0,0
+1348324,43c88fe8-39ef-4a78-8252-147446b4600a-001492e4,<Sketch>,,,parameters,"[-22923.5, -41467.805, 0.0]","[-22923.5, -41467.805, 0.0]",0.0,0.0,0.0,0,0
+1348347,43c88fe8-39ef-4a78-8252-147446b4600a-001492fb,<Sketch>,,,parameters,"[-17741.9, -36286.205, 0.0]","[-17741.9, -36286.205, 0.0]",0.0,0.0,0.0,0,0
+1348434,43c88fe8-39ef-4a78-8252-147446b4600a-00149352,Railing Rail Path Extension Lines,,,parameters,"[-22923.5, -41467.805, 50.8]","[-22923.5, -41467.805, 50.8]",0.0,0.0,0.0,0,0
+1348438,43c88fe8-39ef-4a78-8252-147446b4600a-00149356,Railing Rail Path Extension Lines,,,parameters,"[-17741.9, -36286.205, 50.8]","[-17741.9, -36286.205, 50.8]",0.0,0.0,0.0,0,0
+1351813,3fd76fed-9074-4e92-9655-28c36921728d-0014a085,<none>,Drafting View,Detail,parameters,,,,0.0,0.0,0,0
+1352175,3fd76fed-9074-4e92-9655-28c36921728d-0014a1ef,<none>,Drafting View,Detail,parameters,,,,0.0,0.0,0,0
+1352271,3fd76fed-9074-4e92-9655-28c36921728d-0014a24f,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+1352274,3fd76fed-9074-4e92-9655-28c36921728d-0014a252,Title Blocks,E1 30 x 42 Horizontal_Snowdon,E1 30 x 42 Horizontal_Snowdon,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+1352286,3fd76fed-9074-4e92-9655-28c36921728d-0014a25e,Viewports,Viewport,No Title,parameters,,,,0.0,0.0,0,0
+1352804,3fd76fed-9074-4e92-9655-28c36921728d-0014a464,Viewports,Viewport,No Title,parameters,,,,0.0,0.0,0,0
+1389260,779daa6e-8982-444f-a890-8ee3ed371407-001532cc,Lines,,,parameters,"[23502.892999999996, 36976.313500000004, 0.0]","[23502.892999999996, 36976.313500000004, 0.0]",0.0,0.0,0.0,0,0
+1391109,51b8824e-b8fb-4ca2-9e66-8317e41e72e2-00153a05,Toposolid,Toposolid,Gravel,parameters,,,,1737.789,1737.789,13,13
+1391130,51b8824e-b8fb-4ca2-9e66-8317e41e72e2-00153a1a,<Sketch>,,,parameters,"[-74456.615, 23555.661, -241401.6]","[-74456.615, 23555.661, -241401.6]",0.0,0.0,0.0,0,0
+1391135,51b8824e-b8fb-4ca2-9e66-8317e41e72e2-00153a1f,<Sketch>,,,parameters,"[71847.385, 32929.5165, -241401.6]","[71847.385, 32929.5165, -241401.6]",0.0,0.0,0.0,0,0
+1391140,51b8824e-b8fb-4ca2-9e66-8317e41e72e2-00153a24,<Sketch>,,,parameters,"[-1304.6150000000052, 31833.877500000002, -241401.6]","[-1304.6150000000052, 31833.877500000002, -241401.6]",0.0,0.0,0.0,0,0
+1391146,51b8824e-b8fb-4ca2-9e66-8317e41e72e2-00153a2a,<Sketch>,,,parameters,"[-1304.6150000000052, 24651.300000000003, -241401.6]","[-1304.6150000000052, 24651.300000000003, -241401.6]",0.0,0.0,0.0,0,0
+1391240,ec451ab1-939a-4364-9141-c81664bde550-00153a88,<Sketch>,,,parameters,"[-1344.6824999999953, 26485.029499999997, -241401.6]","[-1344.6824999999953, 26485.029499999997, -241401.6]",0.0,0.0,0.0,0,0
+1391436,ec451ab1-939a-4364-9141-c81664bde550-00153b4c,<Sketch>,,,parameters,"[-1282.351499999997, 30002.628000000004, 0.0]","[-1282.351499999997, 30002.628000000004, 0.0]",0.0,0.0,0.0,0,0
+1391494,ec451ab1-939a-4364-9141-c81664bde550-00153b86,Railing Rail Path Extension Lines,,,parameters,"[-57937.268500000006, 26674.9385, -491.97400000000005]","[-57937.268500000006, 26674.9385, -491.97400000000005]",0.0,0.0,0.0,0,0
+1391495,ec451ab1-939a-4364-9141-c81664bde550-00153b87,Railing Rail Path Extension Lines,,,parameters,"[-57882.1905, 25101.158499999998, -452.711]","[-57882.1905, 25101.158499999998, -452.711]",0.0,0.0,0.0,0,0
+1391530,ec451ab1-939a-4364-9141-c81664bde550-00153baa,Railing Rail Path Extension Lines,,,parameters,"[49665.2425, 33475.8545, 18.689500000000002]","[49665.2425, 33475.8545, 18.689500000000002]",0.0,0.0,0.0,0,0
+1391531,ec451ab1-939a-4364-9141-c81664bde550-00153bab,Railing Rail Path Extension Lines,,,parameters,"[49807.1025, 31907.559, 37.7505]","[49807.1025, 31907.559, 37.7505]",0.0,0.0,0.0,0,0
+1392179,ec451ab1-939a-4364-9141-c81664bde550-00153e33,Railing Rail Path Extension Lines,,,parameters,"[49206.1065, 29919.7195, 58.592]","[49206.1065, 29919.7195, 58.592]",0.0,0.0,0.0,0,0
+1392180,ec451ab1-939a-4364-9141-c81664bde550-00153e34,Railing Rail Path Extension Lines,,,parameters,"[49347.342, 28351.372, 77.2575]","[49347.342, 28351.372, 77.2575]",0.0,0.0,0.0,0,0
+1392345,ec451ab1-939a-4364-9141-c81664bde550-00153ed9,Material Assets,,,parameters,,,,0.0,0.0,0,0
+1392623,ec451ab1-939a-4364-9141-c81664bde550-00153fef,Planting,RPC Tree - Deciduous,Red Maple - 30',parameters,"[-71065.894, -22172.004, -3071.195]","[-71065.894, -22172.004, -3071.195]",0.0,0.0,0.0,0,0
+1392660,ec451ab1-939a-4364-9141-c81664bde550-00154014,Planting,RPC Tree - Deciduous,Red Maple - 30',parameters,"[-67936.414, -25056.069, -3048.0]","[-67936.414, -25056.069, -3048.0]",0.0,0.0,0.0,0,0
+1392705,ec451ab1-939a-4364-9141-c81664bde550-00154041,Planting,RPC Tree - Deciduous,Red Maple - 30',parameters,"[-49001.451, -45124.299, -2257.428]","[-49001.451, -45124.299, -2257.428]",0.0,0.0,0.0,0,0
+1392736,ec451ab1-939a-4364-9141-c81664bde550-00154060,Planting,RPC Tree - Deciduous,Scarlet Oak - 42',parameters,"[-44180.366, -42543.018, -2255.939]","[-44180.366, -42543.018, -2255.939]",0.0,0.0,0.0,0,0
+1392789,ec451ab1-939a-4364-9141-c81664bde550-00154095,Planting,RPC Tree - Deciduous,Red Ash - 25',parameters,"[-48368.72, -53556.705, -2126.303]","[-48368.72, -53556.705, -2126.303]",0.0,0.0,0.0,0,0
+1392842,ec451ab1-939a-4364-9141-c81664bde550-001540ca,Planting,RPC Tree - Deciduous,Red Maple - 30',parameters,"[-48902.193, -64378.537, -1900.832]","[-48902.193, -64378.537, -1900.832]",0.0,0.0,0.0,0,0
+1419863,365a655e-877c-4a58-910b-36bcabb2e2a5-0015aa57,Site,Union Station,Union Station,parameters,"[44772.255, 4849.596, -0.0]","[44772.255, 4849.596, -0.0]",0.0,15310.363,15310.363,1057,1057
+1422143,e7481c07-070a-4b50-bea2-d2aabfcfc967-0015b33f,Floors,Floor,Excavation,parameters,,,,184.675,184.675,13,13
+1422147,e7481c07-070a-4b50-bea2-d2aabfcfc967-0015b343,<Sketch>,,,parameters,"[-33985.2, 2057.4000000000005, 0.0]","[-33985.2, 2057.4000000000005, 0.0]",0.0,0.0,0.0,0,0
+1422148,e7481c07-070a-4b50-bea2-d2aabfcfc967-0015b344,<Sketch>,,,parameters,"[-20002.5, -8915.4, 0.0]","[-20002.5, -8915.4, 0.0]",0.0,0.0,0.0,0,0
+1422149,e7481c07-070a-4b50-bea2-d2aabfcfc967-0015b345,<Sketch>,,,parameters,"[-6019.8, -9259.567, 0.0]","[-6019.8, -9259.567, 0.0]",0.0,0.0,0.0,0,0
+1422150,e7481c07-070a-4b50-bea2-d2aabfcfc967-0015b346,<Sketch>,,,parameters,"[3285.649, -9603.734, 0.0]","[3285.649, -9603.734, 0.0]",0.0,0.0,0.0,0,0
+1422151,e7481c07-070a-4b50-bea2-d2aabfcfc967-0015b347,<Sketch>,,,parameters,"[17268.195, -8987.9825, 0.0]","[17268.195, -8987.9825, 0.0]",0.0,0.0,0.0,0,0
+1422152,e7481c07-070a-4b50-bea2-d2aabfcfc967-0015b348,<Sketch>,,,parameters,"[20536.45, 2328.9845000000005, 0.0]","[20536.45, 2328.9845000000005, 0.0]",0.0,0.0,0.0,0,0
+1422184,e7481c07-070a-4b50-bea2-d2aabfcfc967-0015b368,<Sketch>,,,parameters,"[3563.054, 13030.2, 0.0]","[3563.054, 13030.2, 0.0]",0.0,0.0,0.0,0,0
+1422340,e7481c07-070a-4b50-bea2-d2aabfcfc967-0015b404,<Sketch>,,,parameters,"[23351.212, 2548.0740000000005, 0.0]","[23351.212, 2548.0740000000005, 0.0]",0.0,0.0,0.0,0,0
+1422345,e7481c07-070a-4b50-bea2-d2aabfcfc967-0015b409,<Sketch>,,,parameters,"[20526.5635, 2404.077, 0.0]","[20526.5635, 2404.077, 0.0]",0.0,0.0,0.0,0,0
+1422350,e7481c07-070a-4b50-bea2-d2aabfcfc967-0015b40e,<Sketch>,,,parameters,"[20549.411, 13030.2, 0.0]","[20549.411, 13030.2, 0.0]",0.0,0.0,0.0,0,0
+1422375,e7481c07-070a-4b50-bea2-d2aabfcfc967-0015b427,<Sketch>,,,parameters,"[22109.049, -8198.053, 0.0]","[22109.049, -8198.053, 0.0]",0.0,0.0,0.0,0,0
+1422380,e7481c07-070a-4b50-bea2-d2aabfcfc967-0015b42c,<Sketch>,,,parameters,"[22297.787, -8213.896, 0.0]","[22297.787, -8213.896, 0.0]",0.0,0.0,0.0,0,0
+1422385,e7481c07-070a-4b50-bea2-d2aabfcfc967-0015b431,<Sketch>,,,parameters,"[23517.1025, -8093.892, 0.0]","[23517.1025, -8093.892, 0.0]",0.0,0.0,0.0,0,0
+1422648,e7481c07-070a-4b50-bea2-d2aabfcfc967-0015b538,Views,Section,Building Section,parameters,,,,0.0,0.0,0,0
+1423442,b28abb06-1033-4dc8-9ec4-bfe3957ac35b-0015b852,Floors,Floor,Sidewalk,parameters,,,,58.453,58.453,14,14
+1423443,b28abb06-1033-4dc8-9ec4-bfe3957ac35b-0015b853,<Sketch>,,,parameters,"[436.40250000000015, 17602.153, 0.0]","[436.40250000000015, 17602.153, 0.0]",0.0,0.0,0.0,0,0
+1423444,b28abb06-1033-4dc8-9ec4-bfe3957ac35b-0015b854,<Sketch>,,,parameters,"[-20496.5, 15316.1765, 0.0]","[-20496.5, 15316.1765, 0.0]",0.0,0.0,0.0,0,0
+1423445,b28abb06-1033-4dc8-9ec4-bfe3957ac35b-0015b855,<Sketch>,,,parameters,"[21670.2595, 15316.1765, 0.0]","[21670.2595, 15316.1765, 0.0]",0.0,0.0,0.0,0,0
+1423447,b28abb06-1033-4dc8-9ec4-bfe3957ac35b-0015b857,<Sketch>,,,parameters,"[4984.857, 13030.2, 0.0]","[4984.857, 13030.2, 0.0]",0.0,0.0,0.0,0,0
+1423448,b28abb06-1033-4dc8-9ec4-bfe3957ac35b-0015b858,<Sketch>,,,parameters,"[-17906.35, 13030.2, 0.0]","[-17906.35, 13030.2, 0.0]",0.0,0.0,0.0,0,0
+1423449,b28abb06-1033-4dc8-9ec4-bfe3957ac35b-0015b859,<Sketch>,,,parameters,"[-15316.2, 13182.6, 0.0]","[-15316.2, 13182.6, 0.0]",0.0,0.0,0.0,0,0
+1423450,b28abb06-1033-4dc8-9ec4-bfe3957ac35b-0015b85a,<Sketch>,,,parameters,"[-13658.85, 13335.0, 0.0]","[-13658.85, 13335.0, 0.0]",0.0,0.0,0.0,0,0
+1423451,b28abb06-1033-4dc8-9ec4-bfe3957ac35b-0015b85b,<Sketch>,,,parameters,"[-12001.5, 13182.6, 0.0]","[-12001.5, 13182.6, 0.0]",0.0,0.0,0.0,0,0
+1423627,00dabb0f-bc5c-49d7-9f52-7912dfc31b88-0015b90b,<Sketch>,,,parameters,"[-15316.2, 13182.6, 0.0]","[-15316.2, 13182.6, 0.0]",0.0,0.0,0.0,0,0
+1423633,00dabb0f-bc5c-49d7-9f52-7912dfc31b88-0015b911,<Sketch>,,,parameters,"[-13658.85, 13335.0, 0.0]","[-13658.85, 13335.0, 0.0]",0.0,0.0,0.0,0,0
+1423639,00dabb0f-bc5c-49d7-9f52-7912dfc31b88-0015b917,<Sketch>,,,parameters,"[-12001.5, 13182.6, 0.0]","[-12001.5, 13182.6, 0.0]",0.0,0.0,0.0,0,0
+1423663,00dabb0f-bc5c-49d7-9f52-7912dfc31b88-0015b92f,<Sketch>,,,parameters,"[-24650.699999999997, 13030.2, 0.0]","[-24650.699999999997, 13030.2, 0.0]",0.0,0.0,0.0,0,0
+1428799,9ebc341f-52e5-4115-9ea2-d191767fb19e-0015cd3f,Planting,RPC Tree - Deciduous,Scarlet Oak - 42',parameters,"[1308.1, -70271.405, -914.4]","[1308.1, -70271.405, -914.4]",0.0,0.0,0.0,0,0
+1428852,9ebc341f-52e5-4115-9ea2-d191767fb19e-0015cd74,Planting,RPC Tree - Deciduous,Scarlet Oak - 42',parameters,"[61963.282, -69509.622, 4234.775]","[61963.282, -69509.622, 4234.775]",0.0,0.0,0.0,0,0
+1428887,9ebc341f-52e5-4115-9ea2-d191767fb19e-0015cd97,Planting,RPC Tree - Deciduous,Scarlet Oak - 42',parameters,"[50685.888, -54879.008, 247.181]","[50685.888, -54879.008, 247.181]",0.0,0.0,0.0,0,0
+1429005,9ebc341f-52e5-4115-9ea2-d191767fb19e-0015ce0d,Planting,RPC Tree - Deciduous,Red Maple - 30',parameters,"[8470.953, -73319.405, -1279.851]","[8470.953, -73319.405, -1279.851]",0.0,0.0,0.0,0,0
+1429040,9ebc341f-52e5-4115-9ea2-d191767fb19e-0015ce30,Planting,RPC Tree - Deciduous,Red Maple - 30',parameters,"[13196.085, -64480.118, -1751.897]","[13196.085, -64480.118, -1751.897]",0.0,0.0,0.0,0,0
+1429085,9ebc341f-52e5-4115-9ea2-d191767fb19e-0015ce5d,Planting,RPC Tree - Deciduous,Red Maple - 30',parameters,"[55264.034, -70270.799, 1752.052]","[55264.034, -70270.799, 1752.052]",0.0,0.0,0.0,0,0
+1429122,9ebc341f-52e5-4115-9ea2-d191767fb19e-0015ce82,Planting,RPC Tree - Deciduous,Red Maple - 30',parameters,"[44742.487, -59451.005, -475.612]","[44742.487, -59451.005, -475.612]",0.0,0.0,0.0,0,0
+1429287,9ebc341f-52e5-4115-9ea2-d191767fb19e-0015cf27,Planting,RPC Tree - Deciduous,Red Maple - 30',parameters,"[44285.082, -71338.013, -452.206]","[44285.082, -71338.013, -452.206]",0.0,0.0,0.0,0,0
+1460624,5c06295f-eb73-4d7c-b399-ceccb0739bca-00164990,Toposolid,Toposolid,Grassland,parameters,,,,652.443,652.443,41,41
+1473861,d6b38347-76d6-4d29-b748-40d87154568d-00167d45,<none>,Schedule,Schedule,parameters,,,,0.0,0.0,0,0
+1473864,d6b38347-76d6-4d29-b748-40d87154568d-00167d48,Schedule Graphics,,,parameters,,,,0.0,0.0,0,0
+1473866,d6b38347-76d6-4d29-b748-40d87154568d-00167d4a,<none>,Schedule,Schedule,parameters,,,,0.0,0.0,0,0
+1473869,d6b38347-76d6-4d29-b748-40d87154568d-00167d4d,Schedule Graphics,,,parameters,,,,0.0,0.0,0,0

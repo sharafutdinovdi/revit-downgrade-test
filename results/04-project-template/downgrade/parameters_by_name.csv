@@ -1,0 +1,36 @@
+parameterName,kind,count
+Lighting Schedule,changed,158
+Occupancy Schedule,changed,158
+Power Schedule,changed,158
+Shear perpendicular to grain,missing,40
+Tension perpendicular to grain,added,40
+Sheet Collection,missing,15
+Referencing Sheet Collection,missing,13
+Sheet Name,missing,11
+Saved Position,missing,9
+View Anchor,missing,9
+View Position X,missing,9
+View Position Y,missing,9
+Reference Label,added,8
+Analytical Grid Cell Size,missing,1
+Building Envelope,missing,1
+Building Infiltration Class,missing,1
+Building Operating Schedule,missing,1
+Building Service,missing,1
+Building Type,missing,1
+Conceptual Types,missing,1
+Detailed Elements,missing,1
+Export Category,missing,1
+Export Complexity,missing,1
+Glazing is Shaded,missing,1
+HVAC System,missing,1
+Other Options,added,1
+Outdoor Air Information,missing,1
+Schematic Types,missing,1
+Shade Depth,missing,1
+Skylight Width & Depth,missing,1
+Sliver Space Tolerance,missing,1
+Target Percentage Glazing,missing,1
+Target Percentage Skylights,missing,1
+Target Sill Height,missing,1
+Use Only Elements Visible In Current View,missing,1

@@ -1,0 +1,339 @@
+{
+  "errors": [
+    {
+      "step": "lengthChangeParameter", 
+      "error": "Family parameter has a formula: Nominal Diameter 1"
+    }
+  ], 
+  "lengthChange": {
+    "before": 0.0, 
+    "volumeBeforeM3": 0.00039355006916404835, 
+    "volumeAfterM3": 0.00039355006916404835, 
+    "volumeDeltaM3": 0.0, 
+    "typeName": "Standard", 
+    "after": 0.25, 
+    "dependentParametersChanged": {
+      "Default Elevation": {
+        "formula": null, 
+        "before": "0' - 0\"", 
+        "name": "Default Elevation", 
+        "after": "0' - 3\""
+      }
+    }, 
+    "parameterName": "Default Elevation"
+  }, 
+  "persistedAfterReopen": {}, 
+  "isFamilyDocument": true, 
+  "saved": true, 
+  "inspectionRolledBack": true, 
+  "savedFile": "Tee Reducing Double Vent - PVC - Sch 40 - DWV_R2023__probe.rfa", 
+  "lookupTables": [
+    {
+      "name": "Tee Reducing Double Vent - PVC - Sch 40 - DWV", 
+      "numberOfRows": 5, 
+      "numberOfColumns": 11
+    }
+  ], 
+  "steps": {}, 
+  "types": {
+    "Standard": {
+      "volumeM3": 0.00039355006916404835, 
+      "parameters": {
+        "Socket Outside Diameter 3": {
+          "value": 0.18558333333333335, 
+          "valueString": "2 29/128\""
+        }, 
+        "Socket Depth 3": {
+          "value": 0.057250000000000009, 
+          "valueString": "11/16\""
+        }, 
+        "Nominal Diameter 3": {
+          "value": 0.125, 
+          "valueString": "1 1/2\""
+        }, 
+        "Fitting Outside Diameter 2": {
+          "value": 0.15833333333333335, 
+          "valueString": "1 115/128\""
+        }, 
+        "Socket Bottom to Socket Bottom Run": {
+          "value": 0.19791666666666669, 
+          "valueString": "2 3/8\""
+        }, 
+        "IsCustom": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Wall Thickness 1": {
+          "value": 0.013000000000000001, 
+          "valueString": "5/32\""
+        }, 
+        "Model": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Center to Socket Bottom Branch Label": {
+          "value": 0.125, 
+          "valueString": "1 1/2\""
+        }, 
+        "Type Image": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Length 6": {
+          "value": 0.098958333333333343, 
+          "valueString": "1 3/16\""
+        }, 
+        "Use Annotation Scale": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Nominal Radius 3": {
+          "value": 0.0625, 
+          "valueString": "3/4\""
+        }, 
+        "Description": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Socket Outside Radius 1": {
+          "value": 0.11258333333333334, 
+          "valueString": "1 45/128\""
+        }, 
+        "Socket Outside Radius 3": {
+          "value": 0.092791666666666675, 
+          "valueString": "1 29/256\""
+        }, 
+        "Socket Outside Radius 2": {
+          "value": 0.092791666666666675, 
+          "valueString": "1 29/256\""
+        }, 
+        "Length 1": {
+          "value": 0.16145833333333365, 
+          "valueString": "1 15/16\""
+        }, 
+        "Cost": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Loss Method": {
+          "value": 0, 
+          "valueString": null
+        }, 
+        "Length 9": {
+          "value": 0.098958333333333343, 
+          "valueString": "1 3/16\""
+        }, 
+        "Max Socket Outside Radius 123": {
+          "value": 0.11258333333333334, 
+          "valueString": "1 45/128\""
+        }, 
+        "Export Type to IFC As": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Fitting Outside Radius 2": {
+          "value": 0.079166666666666677, 
+          "valueString": "243/256\""
+        }, 
+        "Wall Thickness 3": {
+          "value": 0.013000000000000001, 
+          "valueString": "5/32\""
+        }, 
+        "Socket Entrance Diameter 1": {
+          "value": 0.19916666666666669, 
+          "valueString": "2 25/64\""
+        }, 
+        "Length 4": {
+          "value": 0.18225000000000002, 
+          "valueString": "2 3/16\""
+        }, 
+        "Nominal Diameter 2": {
+          "value": 0.125, 
+          "valueString": "1 1/2\""
+        }, 
+        "Angle 2": {
+          "value": 1.570796326794895, 
+          "valueString": "90.00°"
+        }, 
+        "Angle 1": {
+          "value": 1.570796326794895, 
+          "valueString": "90.00°"
+        }, 
+        "Manufacturer": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Center to Socket Bottom Run Label 2": {
+          "value": 0.098958333333333343, 
+          "valueString": "1 3/16\""
+        }, 
+        "Max Angle 12": {
+          "value": 1.570796326794895, 
+          "valueString": "90.00°"
+        }, 
+        "Keynote": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Length 7": {
+          "value": 0.098958333333333343, 
+          "valueString": "1 3/16\""
+        }, 
+        "Center to Socket Bottom Run Label 1": {
+          "value": 0.098958333333333343, 
+          "valueString": "1 3/16\""
+        }, 
+        "K Coefficient Table": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Socket Entrance Diameter 3": {
+          "value": 0.15958333333333335, 
+          "valueString": "1 117/128\""
+        }, 
+        "Tick Size 2": {
+          "value": 0.063333333333333339, 
+          "valueString": "195/256\""
+        }, 
+        "Tick Size 3": {
+          "value": 0.063333333333333339, 
+          "valueString": "195/256\""
+        }, 
+        "Length 2": {
+          "value": 0.18225000000000002, 
+          "valueString": "2 3/16\""
+        }, 
+        "Tick Size 1": {
+          "value": 0.079166666666666677, 
+          "valueString": "243/256\""
+        }, 
+        "Lookup Table Name": {
+          "value": "Tee Reducing Double Vent - PVC - Sch 40 - DWV", 
+          "valueString": null
+        }, 
+        "Socket Depth 2": {
+          "value": 0.057250000000000009, 
+          "valueString": "11/16\""
+        }, 
+        "Max Socket Outside Radius 12": {
+          "value": 0.11258333333333334, 
+          "valueString": "1 45/128\""
+        }, 
+        "Fitting Outside Diameter 3": {
+          "value": 0.15833333333333335, 
+          "valueString": "1 115/128\""
+        }, 
+        "Center to Socket Bottom Run": {
+          "value": 0.098958333333333343, 
+          "valueString": "1 3/16\""
+        }, 
+        "Min Angle 12": {
+          "value": 1.570796326794895, 
+          "valueString": "90.00°"
+        }, 
+        "Type Comments": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Fitting Outside Radius 3": {
+          "value": 0.079166666666666677, 
+          "valueString": "243/256\""
+        }, 
+        "Type IFC Predefined Type": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Wall Thickness 2": {
+          "value": 0.013000000000000001, 
+          "valueString": "5/32\""
+        }, 
+        "Default Elevation": {
+          "value": 0.0, 
+          "valueString": "0' - 0\""
+        }, 
+        "Length 5": {
+          "value": 0.11258333333333354, 
+          "valueString": "1 45/128\""
+        }, 
+        "Length 11": {
+          "value": 0.12499999999999985, 
+          "valueString": "1 1/2\""
+        }, 
+        "Max Nominal Diameter 123": {
+          "value": 0.16666666666666669, 
+          "valueString": "2\""
+        }, 
+        "Nominal Diameter 1": {
+          "value": 0.16666666666666669, 
+          "valueString": "2\""
+        }, 
+        "Socket Depth 1": {
+          "value": 0.0625, 
+          "valueString": "3/4\""
+        }, 
+        "Nominal Radius 2": {
+          "value": 0.0625, 
+          "valueString": "3/4\""
+        }, 
+        "Length 10": {
+          "value": 0.12499999999999985, 
+          "valueString": "1 1/2\""
+        }, 
+        "Max Nominal Diameter 12": {
+          "value": 0.16666666666666669, 
+          "valueString": "2\""
+        }, 
+        "URL": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Fitting Outside Diameter 1": {
+          "value": 0.19791666666666669, 
+          "valueString": "2 3/8\""
+        }, 
+        "Length 8": {
+          "value": 0.12499999999999985, 
+          "valueString": "1 1/2\""
+        }, 
+        "Assembly Code": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "K Coefficient": {
+          "value": null, 
+          "valueString": null
+        }, 
+        "Fitting Outside Radius 1": {
+          "value": 0.098958333333333343, 
+          "valueString": "1 3/16\""
+        }, 
+        "Nominal Radius 1": {
+          "value": 0.083333333333333343, 
+          "valueString": "1\""
+        }, 
+        "Socket Entrance Diameter 2": {
+          "value": 0.15958333333333335, 
+          "valueString": "1 117/128\""
+        }, 
+        "Center to Socket Bottom Branch": {
+          "value": 0.125, 
+          "valueString": "1 1/2\""
+        }, 
+        "Length 3": {
+          "value": 0.16145833333333365, 
+          "valueString": "1 15/16\""
+        }, 
+        "Socket Outside Diameter 1": {
+          "value": 0.22516666666666668, 
+          "valueString": "2 45/64\""
+        }, 
+        "Socket Outside Diameter 2": {
+          "value": 0.18558333333333335, 
+          "valueString": "2 29/128\""
+        }
+      }
+    }
+  }, 
+  "reopened": true, 
+  "reopenSkipped": false
+}

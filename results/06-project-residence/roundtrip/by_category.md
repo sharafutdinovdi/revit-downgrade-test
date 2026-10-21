@@ -1,0 +1,116 @@
+| Category | 2027 | roundtrip | Matched | Missing | Added | Geometry changed | Parameters changed |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| <Insulation Batting Lines> | 21 | 21 | 21 | 0 | 0 | 0 | 0 |
+| <Room Separation> | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
+| <Sketch> | 1757 | 1757 | 1757 | 0 | 0 | 0 | 1 |
+| <none> | 5623 | 5646 | 5403 | 220 | 243 | 0 | 51 |
+| Analytical Spaces | 30 | 30 | 30 | 0 | 0 | 0 | 30 |
+| Analytical Surfaces | 280 | 280 | 280 | 0 | 0 | 0 | 235 |
+| Area Based Load Type | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
+| Area Schemes | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
+| Array | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Automatic Sketch Dimensions | 1359 | 1359 | 1359 | 0 | 0 | 0 | 0 |
+| Balusters | 4 | 4 | 4 | 0 | 0 | 0 | 0 |
+| Building Type Settings | 33 | 33 | 33 | 0 | 0 | 0 | 33 |
+| Callout Heads | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Cameras | 29 | 29 | 29 | 0 | 0 | 0 | 3 |
+| Casework | 28 | 28 | 28 | 0 | 0 | 0 | 0 |
+| Ceiling Tags | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Ceilings | 52 | 52 | 52 | 0 | 0 | 0 | 0 |
+| Color Fill Schema | 15 | 15 | 15 | 0 | 0 | 0 | 0 |
+| Constraints | 32 | 32 | 32 | 0 | 0 | 0 | 0 |
+| Curtain Panels | 6 | 6 | 6 | 0 | 0 | 0 | 0 |
+| Curtain Wall Grids | 4 | 4 | 4 | 0 | 0 | 0 | 0 |
+| Design Option Sets | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Design Options | 3 | 3 | 3 | 0 | 0 | 0 | 0 |
+| Detail Groups | 16 | 16 | 16 | 0 | 0 | 0 | 0 |
+| Detail Items | 377 | 377 | 377 | 0 | 0 | 0 | 0 |
+| Dimensions | 370 | 370 | 370 | 0 | 0 | 0 | 0 |
+| Door Tags | 110 | 110 | 110 | 0 | 0 | 0 | 0 |
+| Doors | 40 | 40 | 40 | 0 | 0 | 0 | 0 |
+| Electrical Demand Factor Definitions | 29 | 29 | 29 | 0 | 0 | 0 | 0 |
+| Electrical Equipment | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Electrical Fixtures | 127 | 127 | 127 | 0 | 0 | 0 | 0 |
+| Electrical Load Classification Parameter Element | 186 | 186 | 186 | 0 | 0 | 0 | 0 |
+| Electrical Load Classifications | 31 | 31 | 31 | 0 | 0 | 0 | 0 |
+| Elevation Marks | 7 | 7 | 7 | 0 | 0 | 0 | 0 |
+| Elevations | 20 | 20 | 20 | 0 | 0 | 0 | 20 |
+| Entourage | 3 | 3 | 3 | 0 | 0 | 0 | 0 |
+| Fascias | 25 | 25 | 25 | 0 | 0 | 0 | 0 |
+| Floors | 19 | 19 | 19 | 0 | 0 | 0 | 4 |
+| Furniture | 52 | 52 | 52 | 0 | 0 | 0 | 0 |
+| Generic Annotations | 127 | 127 | 127 | 0 | 0 | 0 | 0 |
+| Generic Models | 272 | 272 | 272 | 0 | 0 | 0 | 0 |
+| Gutters | 47 | 47 | 47 | 0 | 0 | 0 | 0 |
+| HVAC Load Schedules | 54 | 54 | 27 | 27 | 27 | 0 | 0 |
+| Handrails | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
+| Hardscape | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
+| Internal Origin | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Legend Components | 454 | 454 | 454 | 0 | 0 | 0 | 0 |
+| Level Heads | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Lighting Fixtures | 55 | 55 | 55 | 0 | 0 | 0 | 0 |
+| Lines | 539 | 539 | 539 | 0 | 0 | 0 | 0 |
+| Material Assets | 112 | 112 | 112 | 0 | 0 | 0 | 0 |
+| Mechanical Equipment | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Model Groups | 9 | 9 | 9 | 0 | 0 | 0 | 0 |
+| Panel Schedule Templates - Branch Panel | 8 | 8 | 8 | 0 | 0 | 0 | 0 |
+| Panel Schedule Templates - Data Panel | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Panel Schedule Templates - Switchboard | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Phases | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
+| Pipe Segments | 18 | 18 | 18 | 0 | 0 | 0 | 0 |
+| Plan Region | 6 | 6 | 6 | 0 | 0 | 0 | 0 |
+| Planting | 42 | 42 | 42 | 0 | 0 | 0 | 0 |
+| Plumbing Equipment | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Plumbing Fixtures | 7 | 7 | 7 | 0 | 0 | 0 | 0 |
+| Primary Contours | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
+| Project Base Point | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Project Information | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Property Line Segments | 5 | 5 | 5 | 0 | 0 | 0 | 0 |
+| Property Lines | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Railing Rail Path Extension Lines | 4 | 4 | 4 | 0 | 0 | 0 | 0 |
+| Railings | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
+| Raster Images | 15 | 15 | 15 | 0 | 0 | 0 | 0 |
+| Reference Planes | 171 | 171 | 171 | 0 | 0 | 0 | 0 |
+| Revision | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
+| Revision Cloud Tags | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Revision Numbering Sequences | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
+| Roof opening cut | 8 | 8 | 8 | 0 | 0 | 0 | 0 |
+| Roofs | 23 | 23 | 23 | 0 | 0 | 0 | 0 |
+| Room Tags | 79 | 79 | 79 | 0 | 0 | 0 | 0 |
+| Rooms | 30 | 30 | 30 | 0 | 0 | 0 | 0 |
+| Runs | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Schedule Graphics | 30 | 30 | 9 | 21 | 21 | 0 | 0 |
+| Scope Boxes | 3 | 3 | 3 | 0 | 0 | 0 | 0 |
+| Section Boxes | 29 | 29 | 29 | 0 | 0 | 0 | 0 |
+| Section Marks | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Shared Site | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
+| Sheet Collections | 3 | 0 | 0 | 3 | 0 | 0 | 0 |
+| Site | 4 | 4 | 4 | 0 | 0 | 0 | 0 |
+| Slab Edges | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Space Type Settings | 125 | 125 | 125 | 0 | 0 | 0 | 125 |
+| Specialty Equipment | 28 | 28 | 28 | 0 | 0 | 0 | 0 |
+| Split Face | 5 | 5 | 5 | 0 | 0 | 0 | 0 |
+| Spot Elevation Symbols | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Spot Elevations | 71 | 71 | 71 | 0 | 0 | 0 | 0 |
+| Spot Slopes | 184 | 184 | 184 | 0 | 0 | 0 | 0 |
+| Stair Paths | 3 | 3 | 3 | 0 | 0 | 0 | 0 |
+| Stairs | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Structural Framing | 8 | 8 | 8 | 0 | 0 | 0 | 0 |
+| Structural Load Cases | 8 | 8 | 8 | 0 | 0 | 0 | 0 |
+| Sub-divisions | 1 | 0 | 1 | 0 | 0 | 0 | 1 |
+| Sun Path | 250 | 250 | 250 | 0 | 0 | 0 | 0 |
+| Supports | 38 | 38 | 38 | 0 | 0 | 0 | 0 |
+| Survey Point | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+| Text Notes | 396 | 396 | 396 | 0 | 0 | 0 | 0 |
+| Title Blocks | 22 | 22 | 22 | 0 | 0 | 0 | 22 |
+| Top Rails | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
+| Toposolid | 2 | 3 | 2 | 0 | 0 | 1 | 1 |
+| View Saved Positions | 6 | 0 | 0 | 6 | 0 | 0 | 0 |
+| Viewports | 84 | 84 | 84 | 0 | 0 | 0 | 47 |
+| Views | 50 | 50 | 50 | 0 | 0 | 0 | 32 |
+| Wall Sweeps | 36 | 36 | 36 | 0 | 0 | 0 | 0 |
+| Walls | 186 | 186 | 186 | 0 | 0 | 11 | 0 |
+| Window Tags | 144 | 144 | 144 | 0 | 0 | 0 | 0 |
+| Windows | 66 | 66 | 66 | 0 | 0 | 0 | 0 |
+| Work Plane Grid | 119 | 119 | 119 | 0 | 0 | 0 | 0 |
+| Zone Equipment | 1 | 1 | 1 | 0 | 0 | 0 | 0 |

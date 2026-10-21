@@ -1,0 +1,30 @@
+parameterName,kind,count
+Originating Element,changed,235
+Sheet Collection,changed,162
+Lighting Schedule,changed,158
+Occupancy Schedule,changed,158
+Power Schedule,changed,158
+Referencing Sheet Collection,changed,82
+Saved Position,changed,48
+View Anchor,changed,46
+View Position X,changed,46
+View Position Y,changed,46
+File Path,changed,44
+Composed Name,changed,30
+Number,changed,30
+Energy analysis zone data json,missing,7
+Schematic,changed,7
+JSON data for Analytical Constructions,changed,6
+Excavation Volume on Toposolid,changed,5
+Level,added,2
+Referencing Sheet,changed,2
+Area,changed,1
+Height Offset From Level,added,1
+JSON data for Window Types,changed,1
+Related to Mass,added,1
+Sub-divide Offset,missing,1
+Thickness,added,1
+Total Excavation Volume,changed,1
+Use Only Elements Visible In Current View,changed,1
+Volume,changed,1
+Wall offset,changed,1

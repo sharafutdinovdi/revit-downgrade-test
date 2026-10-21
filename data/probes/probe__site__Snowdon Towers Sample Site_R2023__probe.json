@@ -1,0 +1,138 @@
+{
+  "errors": [
+    {
+      "step": "instanceComments", 
+      "error": "No instance comments parameter found"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Can't cut joined element.", 
+      "severity": "Error"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Can't cut joined element.", 
+      "severity": "Error"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Highlighted elements are joined but do not intersect.", 
+      "severity": "Warning"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Highlighted elements are joined but do not intersect.", 
+      "severity": "Warning"
+    }, 
+    {
+      "step": "transactionFailure", 
+      "error": "Highlighted elements are joined but do not intersect.", 
+      "severity": "Warning"
+    }
+  ], 
+  "reopenedToposolidBboxMinMm": [
+    -74356.615391559724, 
+    -77588.512028045079, 
+    -17881.600000000002
+  ], 
+  "persistedAfterReopen": {
+    "wallComments": true, 
+    "toposolidComments": true, 
+    "moveWall": true, 
+    "createWall": true, 
+    "copyInstance": true, 
+    "instanceComments": false, 
+    "moveToposolid": true
+  }, 
+  "isFamilyDocument": false, 
+  "saved": true, 
+  "savedFile": "Snowdon Towers Sample Site_R2023__probe.rvt", 
+  "reopenedWallLocation": {
+    "endMm": [
+      -20548.899703399005, 
+      13030.153261402182, 
+      0.0
+    ], 
+    "startMm": [
+      -20548.89970342553, 
+      17754.553261402263, 
+      0.0
+    ]
+  }, 
+  "warningsCount": 9, 
+  "movedWallLocation": {
+    "endMm": [
+      -20548.899703399005, 
+      13030.153261402182, 
+      0.0
+    ], 
+    "startMm": [
+      -20548.89970342553, 
+      17754.553261402263, 
+      0.0
+    ]
+  }, 
+  "steps": {
+    "wallComments": {
+      "succeeded": true, 
+      "value": "probe-20261020T224416824000Z", 
+      "elementId": 1139388
+    }, 
+    "toposolidComments": {
+      "succeeded": true, 
+      "value": "probe-20261020T224416824000Z", 
+      "elementId": 1264746
+    }, 
+    "moveWall": {
+      "succeeded": true, 
+      "location": {
+        "endMm": [
+          -20548.899703399005, 
+          13030.153261402182, 
+          0.0
+        ], 
+        "startMm": [
+          -20548.89970342553, 
+          17754.553261402263, 
+          0.0
+        ]
+      }, 
+      "elementId": 1139388
+    }, 
+    "createWall": {
+      "succeeded": true, 
+      "elementId": 1473884
+    }, 
+    "copyInstance": {
+      "succeeded": true, 
+      "elementIds": [
+        1473885
+      ], 
+      "sourceId": 359507
+    }, 
+    "instanceComments": {
+      "succeeded": false
+    }, 
+    "moveToposolid": {
+      "succeeded": true, 
+      "bboxMinBeforeMm": [
+        -74456.615391559724, 
+        -77588.512028045079, 
+        -17881.600000000002
+      ], 
+      "bboxMinAfterMm": [
+        -74356.615391559724, 
+        -77588.512028045079, 
+        -17881.600000000002
+      ], 
+      "elementId": 1264746
+    }
+  }, 
+  "reopenedComments": {
+    "wallComments": "probe-20261020T224416824000Z", 
+    "toposolidComments": "probe-20261020T224416824000Z"
+  }, 
+  "transactionCommitted": true, 
+  "reopened": true, 
+  "reopenSkipped": false
+}

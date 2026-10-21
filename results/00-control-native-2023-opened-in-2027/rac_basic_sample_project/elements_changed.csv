@@ -1,0 +1,627 @@
+elementId,uniqueId,category,family,type,changes,locationBefore,locationAfter,locationDistanceMm,volumeM3Before,volumeM3After,faceCountBefore,faceCountAfter
+231,e3e052f9-0156-11d5-9301-0000863f27ad-000000e7,<none>,,,parameters,,,,0.0,0.0,0,0
+313,e3e052f9-0156-11d5-9301-0000863f27ad-00000139,<none>,Floor Plan,Floor Plan,parameters,,,,0.0,0.0,0,0
+8142,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fce,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+8152,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fd8,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+8174,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fee,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+8175,f9c62406-7c50-11d5-93b8-0000863f27ad-00001fef,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+8208,f9c62406-7c50-11d5-93b8-0000863f27ad-00002010,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+8231,f9c62406-7c50-11d5-93b8-0000863f27ad-00002027,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+8252,f9c62406-7c50-11d5-93b8-0000863f27ad-0000203c,<none>,Floor Plan,Floor Plan,parameters,,,,0.0,0.0,0,0
+69852,ae2fa8e5-0195-4f7a-b1fa-be87416d34f4-000110dc,<none>,,,parameters,,,,0.0,0.0,0,0
+98746,627ad902-4aae-46a6-beef-a49c31eda294-000181ba,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+98977,627ad902-4aae-46a6-beef-a49c31eda294-000182a1,Views,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+105557,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c55,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105558,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c56,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105559,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c57,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105560,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c58,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105561,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c59,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105562,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5a,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105563,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5b,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105564,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5c,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105565,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5d,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105566,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5e,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105567,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c5f,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105568,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c60,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105569,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c61,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105570,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c62,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105571,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c63,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105572,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c64,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105573,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c65,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105574,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c66,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105575,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c67,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105576,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c68,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105577,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c69,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105578,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6a,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105579,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6b,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105580,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6c,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105581,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6d,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105582,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6e,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105583,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c6f,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105584,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c70,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105585,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c71,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105586,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c72,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105587,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c73,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105588,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c74,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105589,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c75,Building Type Settings,,,parameters,,,,0.0,0.0,0,0
+105590,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c76,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105591,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c77,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105592,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c78,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105593,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c79,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105594,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7a,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105595,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7b,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105596,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7c,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105597,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7d,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105598,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7e,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105599,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c7f,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105600,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c80,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105601,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c81,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105602,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c82,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105603,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c83,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105604,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c84,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105605,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c85,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105606,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c86,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105607,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c87,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105608,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c88,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105609,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c89,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105610,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8a,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105611,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8b,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105612,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8c,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105613,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8d,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105614,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8e,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105615,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c8f,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105616,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c90,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105617,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c91,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105618,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c92,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105619,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c93,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105620,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c94,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105621,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c95,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105622,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c96,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105623,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c97,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105624,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c98,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105625,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c99,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105626,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9a,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105627,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9b,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105628,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9c,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105629,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9d,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105630,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9e,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105631,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019c9f,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105632,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca0,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105633,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca1,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105634,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca2,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105635,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca3,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105636,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca4,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105637,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca5,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105638,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca6,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105639,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca7,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105640,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca8,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105641,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ca9,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105642,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019caa,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105643,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cab,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105644,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cac,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105645,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cad,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105646,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cae,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105647,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019caf,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105648,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb0,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105649,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb1,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105650,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb2,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105651,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb3,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105652,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb4,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105653,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb5,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105654,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb6,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105655,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb7,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105656,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb8,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105657,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cb9,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105658,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cba,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105659,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbb,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105660,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbc,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105661,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbd,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105662,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbe,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105663,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cbf,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105664,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc0,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105665,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc1,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105666,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc2,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105667,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc3,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105668,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc4,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105669,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc5,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105670,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc6,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105671,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc7,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105672,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc8,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105673,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cc9,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105674,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cca,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105675,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ccb,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105676,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ccc,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105677,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ccd,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105678,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cce,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105679,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ccf,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105680,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd0,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105681,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd1,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105682,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd2,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105683,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd3,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105684,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd4,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105685,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd5,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105686,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd6,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105687,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd7,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105688,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd8,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105689,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cd9,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105690,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cda,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105691,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cdb,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105692,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cdc,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105693,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cdd,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105694,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cde,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105695,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cdf,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105696,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce0,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105697,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce1,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105698,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce2,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105699,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce3,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105700,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce4,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105701,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce5,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105702,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce6,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105703,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce7,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105704,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce8,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105705,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ce9,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105706,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cea,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105707,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ceb,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105708,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cec,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105709,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019ced,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105710,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cee,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105711,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cef,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105712,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cf0,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105713,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cf1,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+105714,307239b9-bc24-4011-89fc-8995bb8a8eaf-00019cf2,Space Type Settings,,,parameters,,,,0.0,0.0,0,0
+115988,3fd56013-b5d2-4097-9cfb-42ee8d6381e5-0001c514,<none>,,,parameters,,,,0.0,0.0,0,0
+174475,88566e0d-6daf-48ce-b050-ac0348546712-0002a98b,Material Assets,,,parameters,,,,0.0,0.0,0,0
+174478,88566e0d-6daf-48ce-b050-ac0348546712-0002a98e,Material Assets,,,parameters,,,,0.0,0.0,0,0
+174481,88566e0d-6daf-48ce-b050-ac0348546712-0002a991,Material Assets,,,parameters,,,,0.0,0.0,0,0
+174484,88566e0d-6daf-48ce-b050-ac0348546712-0002a994,Material Assets,,,parameters,,,,0.0,0.0,0,0
+174487,88566e0d-6daf-48ce-b050-ac0348546712-0002a997,Material Assets,,,parameters,,,,0.0,0.0,0,0
+174490,88566e0d-6daf-48ce-b050-ac0348546712-0002a99a,Material Assets,,,parameters,,,,0.0,0.0,0,0
+174503,88566e0d-6daf-48ce-b050-ac0348546712-0002a9a7,Material Assets,,,parameters,,,,0.0,0.0,0,0
+174509,88566e0d-6daf-48ce-b050-ac0348546712-0002a9ad,Material Assets,,,parameters,,,,0.0,0.0,0,0
+174515,88566e0d-6daf-48ce-b050-ac0348546712-0002a9b3,Material Assets,,,parameters,,,,0.0,0.0,0,0
+174548,88566e0d-6daf-48ce-b050-ac0348546712-0002a9d4,Material Assets,,,parameters,,,,0.0,0.0,0,0
+174577,88566e0d-6daf-48ce-b050-ac0348546712-0002a9f1,Material Assets,,,parameters,,,,0.0,0.0,0,0
+174580,88566e0d-6daf-48ce-b050-ac0348546712-0002a9f4,Material Assets,,,parameters,,,,0.0,0.0,0,0
+174586,88566e0d-6daf-48ce-b050-ac0348546712-0002a9fa,Material Assets,,,parameters,,,,0.0,0.0,0,0
+174589,88566e0d-6daf-48ce-b050-ac0348546712-0002a9fd,Material Assets,,,parameters,,,,0.0,0.0,0,0
+174592,88566e0d-6daf-48ce-b050-ac0348546712-0002aa00,Material Assets,,,parameters,,,,0.0,0.0,0,0
+174595,88566e0d-6daf-48ce-b050-ac0348546712-0002aa03,Material Assets,,,parameters,,,,0.0,0.0,0,0
+174598,88566e0d-6daf-48ce-b050-ac0348546712-0002aa06,Material Assets,,,parameters,,,,0.0,0.0,0,0
+194585,7e2dea61-83d7-4761-899d-6d75bcc2154c-0002f819,Material Assets,,,parameters,,,,0.0,0.0,0,0
+198694,ef57b02a-5e81-49e7-93bb-ae5f002d921c-00030826,Walls,Basic Wall,SIP 202mm Wall - conc clad,parameters,"[13162.932, -201.59400000000005, 3000.0]","[13162.932, -201.59400000000005, 3000.0]",0.0,4.516,4.516,13,13
+198749,ef57b02a-5e81-49e7-93bb-ae5f002d921c-0003085d,Walls,Basic Wall,Wall - Timber Clad,parameters,"[6960.932, -1051.594, 0.0]","[6960.932, -1051.594, 0.0]",0.0,1.214,1.214,15,15
+211850,88b03b05-80d3-484f-8022-471f61604c8d-00033b8a,Plumbing Fixtures,Sink-Offset-Kohler-Vault-3823_4,Steel-Stainless-NA,parameters,"[3337.832, -262.594, 940.758]","[3337.832, -262.594, 940.758]",0.0,0.004,0.004,91,91
+213811,88b03b05-80d3-484f-8022-471f61604c8d-00034333,Plumbing Fixtures,Faucet-8inch_Reach-Kohler-Purist-7507,Chrome-Polished_Chrome-CP,parameters,"[3412.123, -324.371, 940.758]","[3412.123, -324.371, 940.758]",0.0,0.0,0.0,92,92
+234869,88b03b05-80d3-484f-8022-471f61604c8d-00039575,Walls,Basic Wall,Wall - Timber Clad,parameters,"[10001.932, -972.094, 3000.0]","[10001.932, -972.094, 3000.0]",0.0,4.338,4.338,7,7
+243253,a6aa132d-ccd7-408f-b2f9-ed67350c8c3a-0003b635,Views,Section,Building Section,parameters,,,,0.0,0.0,0,0
+245426,ad0aad84-b47a-45ab-9e4a-7bfad0caa3be-0003beb2,<none>,Floor Plan,Floor Plan,parameters,,,,0.0,0.0,0,0
+247013,ad0aad84-b47a-45ab-9e4a-7bfad0caa3be-0003c4e5,Views,Section,Building Section,parameters,,,,0.0,0.0,0,0
+288364,32c6aad3-999a-4b41-9ecd-2451f2cb35d0-0004666c,Material Assets,,,parameters,,,,0.0,0.0,0,0
+382618,6d3acd40-53b7-41b4-9d96-72e9eaf4bc89-0005d69a,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+382621,6d3acd40-53b7-41b4-9d96-72e9eaf4bc89-0005d69d,Title Blocks,A1 metric,A1 metric,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+382629,6d3acd40-53b7-41b4-9d96-72e9eaf4bc89-0005d6a5,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+386108,6d3acd40-53b7-41b4-9d96-72e9eaf4bc89-0005e43c,Material Assets,,,parameters,,,,0.0,0.0,0,0
+414482,ef4ad1cb-015c-4bb6-9030-e7bb82f1dd34-00065312,Structural Columns,M_Concrete-Round-Column with Drop Caps,M_1000,parameters,"[-438.068, -201.594, -1800.0]","[-438.068, -201.594, -1800.0]",0.0,4.101,4.101,14,14
+415653,ef4ad1cb-015c-4bb6-9030-e7bb82f1dd34-000657a5,<Sketch>,,,parameters,"[13061.932, 147.40599999999995, 0.0]","[13061.932, 147.40599999999995, 0.0]",0.0,0.0,0.0,0,0
+415660,ef4ad1cb-015c-4bb6-9030-e7bb82f1dd34-000657ac,<Sketch>,,,parameters,"[10061.932, -2852.594, 0.0]","[10061.932, -2852.594, 0.0]",0.0,0.0,0.0,0,0
+415667,ef4ad1cb-015c-4bb6-9030-e7bb82f1dd34-000657b3,<Sketch>,,,parameters,"[4061.9320000000002, 2798.406, 0.0]","[4061.9320000000002, 2798.406, 0.0]",0.0,0.0,0.0,0,0
+415674,ef4ad1cb-015c-4bb6-9030-e7bb82f1dd34-000657ba,<Sketch>,,,parameters,"[2561.9320000000002, -3201.594, 0.0]","[2561.9320000000002, -3201.594, 0.0]",0.0,0.0,0.0,0,0
+415681,ef4ad1cb-015c-4bb6-9030-e7bb82f1dd34-000657c1,<Sketch>,,,parameters,"[-4938.068, -201.59400000000005, 0.0]","[-4938.068, -201.59400000000005, 0.0]",0.0,0.0,0.0,0,0
+415742,ef4ad1cb-015c-4bb6-9030-e7bb82f1dd34-000657fe,<Sketch>,,,parameters,"[11561.932, -2503.594, 0.0]","[11561.932, -2503.594, 0.0]",0.0,0.0,0.0,0,0
+418079,72678df9-14a3-4aee-a80e-94a8e55a0926-0006611f,Walls,Basic Wall,Wall - Timber Clad,parameters,"[8461.932, 2899.406, 0.0]","[8461.932, 2899.406, 0.0]",0.0,1.745,1.745,6,6
+418186,d85573c2-f8d5-46ae-966a-ac82fa18f500-0006618a,<Sketch>,,,parameters,"[3464.5579999999995, 2798.406, 3000.0]","[3464.5579999999995, 2798.406, 3000.0]",0.0,0.0,0.0,0,0
+418197,d85573c2-f8d5-46ae-966a-ac82fa18f500-00066195,<Sketch>,,,parameters,"[3332.4320000000002, -3201.594, 3000.0]","[3332.4320000000002, -3201.594, 3000.0]",0.0,0.0,0.0,0,0
+418203,d85573c2-f8d5-46ae-966a-ac82fa18f500-0006619b,<Sketch>,,,parameters,"[-4938.068, -201.59400000000005, 3000.0]","[-4938.068, -201.59400000000005, 3000.0]",0.0,0.0,0.0,0,0
+418977,d85573c2-f8d5-46ae-966a-ac82fa18f500-000664a1,Site,M_Wind Power Generator,9 Meters High,parameters,"[15733.661, 2890.571, 500.0]","[15733.661, 2890.571, 500.0]",0.0,0.239,0.239,65,65
+418985,d85573c2-f8d5-46ae-966a-ac82fa18f500-000664a9,Site,M_Wind Power Generator,9 Meters High,parameters,"[18128.218, 1083.336, 500.0]","[18128.218, 1083.336, 500.0]",0.0,0.239,0.239,65,65
+420270,81595c38-a4c2-4a22-9ddf-5884d5e7382c-000669ae,Plumbing Fixtures,Bathtub-TOTO-Nexus-FBF794S,01 Cotton,parameters,"[-1038.068, -3100.594, 3000.0]","[-1038.068, -3100.594, 3000.0]",0.0,0.256,0.256,56,56
+422243,59371552-5800-43eb-9ba3-609565158fc5-00067163,Walls,Basic Wall,Wall - Timber Clad,parameters,"[8481.432, 1238.406, 0.0]","[8481.432, 1238.406, 0.0]",0.0,1.209,1.209,9,9
+423099,59371552-5800-43eb-9ba3-609565158fc5-000674bb,Walls,Curtain Wall,SH_Curtain wall,parameters,"[11561.932, 2848.406, 0.0]","[11561.932, 2848.406, 0.0]",0.0,0.427,0.427,0,0
+424922,59371552-5800-43eb-9ba3-609565158fc5-00067bda,Walls,Basic Wall,Interior - 165 Partition (1-hr),parameters,"[8481.432, -744.144, 0.0]","[8481.432, -744.144, 0.0]",0.0,0.988,0.988,9,9
+425745,7fcc8dca-3132-4323-9d41-faf5184b4f26-00067f11,Walls,Basic Wall,Interior - 165 Partition (1-hr),parameters,"[7642.482, -2023.3690000000001, 0.0]","[7642.482, -2023.3690000000001, 0.0]",0.0,1.059,1.059,6,6
+427092,c85e5be0-d8d5-4148-836f-b55e711ef373-00068454,Walls,Basic Wall,Wall - Timber Clad,parameters,"[13162.932, -8492.594000000001, 0.0]","[13162.932, -8492.594000000001, 0.0]",0.0,12.343,12.343,10,10
+428588,c85e5be0-d8d5-4148-836f-b55e711ef373-00068a2c,Walls,Basic Wall,SIP 202mm Wall - conc clad,parameters,"[3311.9320000000002, 2899.406, 3000.0]","[3311.9320000000002, 2899.406, 3000.0]",0.0,8.095,8.095,18,18
+428745,c85e5be0-d8d5-4148-836f-b55e711ef373-00068ac9,Walls,Basic Wall,SIP 202mm Wall - conc clad,parameters,"[3311.9320000000002, -3302.594, 3000.0]","[3311.9320000000002, -3302.594, 3000.0]",0.0,8.15,8.15,30,30
+428797,c85e5be0-d8d5-4148-836f-b55e711ef373-00068afd,Walls,Curtain Wall,SH_Curtain wall,parameters,"[-4888.068, -201.59400000000005, 3000.0]","[-4888.068, -201.59400000000005, 3000.0]",0.0,0.662,0.662,0,0
+429964,2fc77d67-1af0-4a43-aa66-c544d411df04-00068f8c,Walls,Basic Wall,Interior - Partition,parameters,"[1061.932, -201.59400000000005, 3000.0]","[1061.932, -201.59400000000005, 3000.0]",0.0,2.977,2.977,10,10
+430064,2fc77d67-1af0-4a43-aa66-c544d411df04-00068ff0,Walls,Basic Wall,Interior - Partition,parameters,"[4311.932000000001, 1358.406, 3000.0]","[4311.932000000001, 1358.406, 3000.0]",0.0,4.468,4.468,31,31
+430318,2fc77d67-1af0-4a43-aa66-c544d411df04-000690ee,Walls,Basic Wall,Interior - Partition,parameters,"[4121.932, -53.59400000000005, 3000.0]","[4121.932, -53.59400000000005, 3000.0]",0.0,1.563,1.563,10,10
+430361,2fc77d67-1af0-4a43-aa66-c544d411df04-00069119,Walls,Basic Wall,Interior - Partition,parameters,"[5561.932, -1465.594, 3000.0]","[5561.932, -1465.594, 3000.0]",0.0,1.519,1.519,6,6
+430412,2fc77d67-1af0-4a43-aa66-c544d411df04-0006914c,Walls,Basic Wall,Interior - Partition,parameters,"[7001.932, -2224.094, 3000.0]","[7001.932, -2224.094, 3000.0]",0.0,0.797,0.797,9,9
+430859,2fc77d67-1af0-4a43-aa66-c544d411df04-0006930b,Walls,Basic Wall,Interior - Partition,parameters,"[-1378.068, -972.094, 3000.0]","[-1378.068, -972.094, 3000.0]",0.0,2.222,2.222,14,14
+493612,17836a3c-e764-47fa-a2e0-08216444f621-0007882c,Walls,Basic Wall,CL_W1,parameters,"[-11488.068, 1472.4375, 0.0]","[-11488.068, 1472.4375, 0.0]",0.0,6.801,6.801,6,6
+493697,17836a3c-e764-47fa-a2e0-08216444f621-00078881,Walls,Basic Wall,CL_W1,parameters,"[-975.0599999999995, 6286.469, 0.0]","[-975.0599999999995, 6286.469, 0.0]",0.0,20.833,20.833,6,6
+493790,17836a3c-e764-47fa-a2e0-08216444f621-000788de,Walls,Basic Wall,CL_W1,parameters,"[15823.7145, 1542.4375, 0.0]","[15823.7145, 1542.4375, 0.0]",0.0,15.451,15.451,6,6
+493879,17836a3c-e764-47fa-a2e0-08216444f621-00078937,Walls,Basic Wall,Foundation - 300mm Concrete,parameters,"[17636.2065, -3201.594, 0.0]","[17636.2065, -3201.594, 0.0]",0.0,9.062,9.062,8,8
+497540,6dd03812-90e2-4279-9751-5fbc3584962d-00079784,Walls,Basic Wall,Interior - Partition,parameters,"[-158.06799999999998, 38.406, 3000.0]","[-158.06799999999998, 38.406, 3000.0]",0.0,1.61,1.61,6,6
+499496,1ac40ecd-9b56-404a-8189-99248e0832e3-00079f28,Generic Models,Walvit_Hung Bowl_604118 W,Walvit,parameters,"[-817.965, -461.594, 3000.0]","[-817.965, -461.594, 3000.0]",0.0,0.017,0.017,266,266
+503702,96cdd175-e436-4cac-a08f-bf0fabb86ac5-0007af96,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+503705,96cdd175-e436-4cac-a08f-bf0fabb86ac5-0007af99,Title Blocks,A1 metric,A1 metric,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+506386,96834e54-f091-4317-9b1a-bbe8b647201d-0007ba12,Walls,Basic Wall,Interior - Partition,parameters,"[-188.06799999999998, -981.594, 3000.0]","[-188.06799999999998, -981.594, 3000.0]",0.0,0.728,0.728,6,6
+506797,96834e54-f091-4317-9b1a-bbe8b647201d-0007bbad,Walls,Basic Wall,Interior - Partition,parameters,"[-188.068, -471.59400000000005, 3000.0]","[-188.068, -471.59400000000005, 3000.0]",0.0,0.598,0.598,7,7
+512277,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d115,Structural Foundations,M_Pile Cap-600 Pile,600 x 600 x 900mm,parameters,"[10061.932, -9201.594, -797.0]","[10061.932, -9201.594, -797.0]",0.0,0.108,0.108,6,6
+512279,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d117,Structural Foundations,M_Pile-Steel Pipe,600mm Diameter,parameters,"[10061.932, -9201.594, -1099.0]","[10061.932, -9201.594, -1099.0]",0.0,0.424,0.424,4,4
+512297,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d129,Structural Foundations,M_Pile Cap-600 Pile,600 x 600 x 900mm,parameters,"[10061.932, -6201.594, -800.0]","[10061.932, -6201.594, -800.0]",0.0,0.108,0.108,6,6
+512299,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d12b,Structural Foundations,M_Pile-Steel Pipe,600mm Diameter,parameters,"[10061.932, -6201.594, -1102.0]","[10061.932, -6201.594, -1102.0]",0.0,0.424,0.424,4,4
+512319,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d13f,Structural Foundations,M_Pile Cap-600 Pile,600 x 600 x 900mm,parameters,"[12761.932, -12201.594, -800.0]","[12761.932, -12201.594, -800.0]",0.0,0.108,0.108,6,6
+512321,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d141,Structural Foundations,M_Pile-Steel Pipe,600mm Diameter,parameters,"[12761.932, -12201.594, -1102.0]","[12761.932, -12201.594, -1102.0]",0.0,0.424,0.424,4,4
+512394,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d18a,Structural Foundations,M_Pile Cap-600 Pile,600 x 600 x 900mm,parameters,"[7361.932, -12201.594, -800.0]","[7361.932, -12201.594, -800.0]",0.0,0.108,0.108,6,6
+512396,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d18c,Structural Foundations,M_Pile-Steel Pipe,600mm Diameter,parameters,"[7361.932, -12201.594, -1102.0]","[7361.932, -12201.594, -1102.0]",0.0,0.424,0.424,4,4
+512445,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d1bd,Structural Foundations,M_Pile Cap-600 Pile,600 x 600 x 900mm,parameters,"[12761.932, -9201.594, -800.0]","[12761.932, -9201.594, -800.0]",0.0,0.108,0.108,6,6
+512447,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d1bf,Structural Foundations,M_Pile-Steel Pipe,600mm Diameter,parameters,"[12761.932, -9201.594, -1102.0]","[12761.932, -9201.594, -1102.0]",0.0,0.424,0.424,4,4
+512449,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d1c1,Structural Foundations,M_Pile Cap-600 Pile,600 x 600 x 900mm,parameters,"[7361.932, -9201.594, -800.0]","[7361.932, -9201.594, -800.0]",0.0,0.108,0.108,6,6
+512451,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d1c3,Structural Foundations,M_Pile-Steel Pipe,600mm Diameter,parameters,"[7361.932, -9201.594, -1102.0]","[7361.932, -9201.594, -1102.0]",0.0,0.424,0.424,4,4
+512469,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d1d5,Structural Foundations,M_Pile Cap-600 Pile,600 x 600 x 900mm,parameters,"[12761.932, -6201.594, -800.0]","[12761.932, -6201.594, -800.0]",0.0,0.108,0.108,6,6
+512471,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d1d7,Structural Foundations,M_Pile-Steel Pipe,600mm Diameter,parameters,"[12761.932, -6201.594, -1102.0]","[12761.932, -6201.594, -1102.0]",0.0,0.424,0.424,4,4
+512473,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d1d9,Structural Foundations,M_Pile Cap-600 Pile,600 x 600 x 900mm,parameters,"[7361.932, -6201.594, -800.0]","[7361.932, -6201.594, -800.0]",0.0,0.108,0.108,6,6
+512475,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d1db,Structural Foundations,M_Pile-Steel Pipe,600mm Diameter,parameters,"[7361.932, -6201.594, -1102.0]","[7361.932, -6201.594, -1102.0]",0.0,0.424,0.424,4,4
+512522,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d20a,Structural Foundations,M_Pile Cap-600 Pile,600 x 600 x 900mm,parameters,"[12761.932, -15201.594, -800.0]","[12761.932, -15201.594, -800.0]",0.0,0.108,0.108,6,6
+512524,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d20c,Structural Foundations,M_Pile-Steel Pipe,600mm Diameter,parameters,"[12761.932, -15201.594, -1102.0]","[12761.932, -15201.594, -1102.0]",0.0,0.424,0.424,4,4
+512526,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d20e,Structural Foundations,M_Pile Cap-600 Pile,600 x 600 x 900mm,parameters,"[7361.932, -15201.594, -800.0]","[7361.932, -15201.594, -800.0]",0.0,0.108,0.108,6,6
+512528,656284ae-d84a-4c5c-ae16-d638fa151c7e-0007d210,Structural Foundations,M_Pile-Steel Pipe,600mm Diameter,parameters,"[7361.932, -15201.594, -1102.0]","[7361.932, -15201.594, -1102.0]",0.0,0.424,0.424,4,4
+512686,1970f67d-62ee-4fc6-9008-0a9f00762fe0-0007d2ae,<Sketch>,,,parameters,"[10061.932, -15201.594, 0.0]","[10061.932, -15201.594, 0.0]",0.0,0.0,0.0,0,0
+512688,1970f67d-62ee-4fc6-9008-0a9f00762fe0-0007d2b0,<Sketch>,,,parameters,"[11481.432, -2503.594, 0.0]","[11481.432, -2503.594, 0.0]",0.0,0.0,0.0,0,0
+512689,1970f67d-62ee-4fc6-9008-0a9f00762fe0-0007d2b1,<Sketch>,,,parameters,"[13061.932, -8852.594, 0.0]","[13061.932, -8852.594, 0.0]",0.0,0.0,0.0,0,0
+530178,c95e858d-9206-4eac-9a88-fccee0e2b73b-00081702,Walls,Basic Wall,SIP 202mm Wall - conc clad,parameters,"[-6539.068, -201.59400000000005, 3000.0]","[-6539.068, -201.59400000000005, 3000.0]",0.0,1.195,1.195,12,12
+549038,5e8712a2-e372-44b6-9e73-0aaa430558ee-000860ae,<Sketch>,,,parameters,"[-5688.068, 2798.406, 3000.0]","[-5688.068, 2798.406, 3000.0]",0.0,0.0,0.0,0,0
+549039,5e8712a2-e372-44b6-9e73-0aaa430558ee-000860af,<Sketch>,,,parameters,"[-6438.068, -201.59400000000005, 3000.0]","[-6438.068, -201.59400000000005, 3000.0]",0.0,0.0,0.0,0,0
+549040,5e8712a2-e372-44b6-9e73-0aaa430558ee-000860b0,<Sketch>,,,parameters,"[-5688.068, -3201.594, 3000.0]","[-5688.068, -3201.594, 3000.0]",0.0,0.0,0.0,0,0
+549041,5e8712a2-e372-44b6-9e73-0aaa430558ee-000860b1,<Sketch>,,,parameters,"[-4938.068, -201.59400000000005, 3000.0]","[-4938.068, -201.59400000000005, 3000.0]",0.0,0.0,0.0,0,0
+550258,5e8712a2-e372-44b6-9e73-0aaa430558ee-00086572,<Sketch>,,,parameters,"[10062.432, -18201.594, 0.0]","[10062.432, -18201.594, 0.0]",0.0,0.0,0.0,0,0
+550259,5e8712a2-e372-44b6-9e73-0aaa430558ee-00086573,<Sketch>,,,parameters,"[7061.932, -16701.594, 0.0]","[7061.932, -16701.594, 0.0]",0.0,0.0,0.0,0,0
+550260,5e8712a2-e372-44b6-9e73-0aaa430558ee-00086574,<Sketch>,,,parameters,"[10062.432, -15201.594, 0.0]","[10062.432, -15201.594, 0.0]",0.0,0.0,0.0,0,0
+550261,5e8712a2-e372-44b6-9e73-0aaa430558ee-00086575,<Sketch>,,,parameters,"[13062.932, -16701.594, 0.0]","[13062.932, -16701.594, 0.0]",0.0,0.0,0.0,0,0
+554644,6935fb4c-680f-4619-8a02-08c35d35e531-00087694,Site,M_Wind Power Generator,9 Meters High,parameters,"[20522.775, -723.898, 500.0]","[20522.775, -723.898, 500.0]",0.0,0.239,0.239,65,65
+581337,7f28cee1-b998-4a37-89e2-f58405cbbc56-0008ded9,Material Assets,,,parameters,,,,0.0,0.0,0,0
+581340,7f28cee1-b998-4a37-89e2-f58405cbbc56-0008dedc,Material Assets,,,parameters,,,,0.0,0.0,0,0
+599841,fe746f97-9f89-4685-8fa8-a4525719f180-00092721,Walls,Basic Wall,Retaining - 300mm Concrete,parameters,"[-438.068, 18288.406, 3000.0]","[-438.068, 18288.406, 3000.0]",0.0,7.599,7.599,6,6
+599906,fe746f97-9f89-4685-8fa8-a4525719f180-00092762,Walls,Basic Wall,Retaining - 300mm Concrete,parameters,"[6412.932000000001, 21863.406, 3000.0]","[6412.932000000001, 21863.406, 3000.0]",0.0,13.976,13.976,6,6
+599951,fe746f97-9f89-4685-8fa8-a4525719f180-0009278f,Walls,Basic Wall,Retaining - 300mm Concrete,parameters,"[13263.932, 19788.406, 3000.0]","[13263.932, 19788.406, 3000.0]",0.0,4.233,4.233,6,6
+600684,e9d71ae9-50a0-4fd0-b533-dbc08decd09f-00092a6c,Material Assets,,,parameters,,,,0.0,0.0,0,0
+626057,5b7ac240-e9a7-43b2-b6bf-246956549a40-00098d89,<Sketch>,,,parameters,"[-8143.067999999999, -3201.594, 0.0]","[-8143.067999999999, -3201.594, 0.0]",0.0,0.0,0.0,0,0
+626058,5b7ac240-e9a7-43b2-b6bf-246956549a40-00098d8a,<Sketch>,,,parameters,"[-11348.068, -201.59400000000005, 0.0]","[-11348.068, -201.59400000000005, 0.0]",0.0,0.0,0.0,0,0
+626059,5b7ac240-e9a7-43b2-b6bf-246956549a40-00098d8b,<Sketch>,,,parameters,"[-8143.067999999999, 2798.406, 0.0]","[-8143.067999999999, 2798.406, 0.0]",0.0,0.0,0.0,0,0
+626060,5b7ac240-e9a7-43b2-b6bf-246956549a40-00098d8c,<Sketch>,,,parameters,"[-4938.068, -201.59400000000005, 0.0]","[-4938.068, -201.59400000000005, 0.0]",0.0,0.0,0.0,0,0
+627064,5b7ac240-e9a7-43b2-b6bf-246956549a40-00099178,Walls,Basic Wall,CL_W1,parameters,"[856.9320000000007, 2938.406, 0.0]","[856.9320000000007, 2938.406, 0.0]",0.0,10.252,10.252,6,6
+627729,5b7ac240-e9a7-43b2-b6bf-246956549a40-00099411,Walls,Basic Wall,CL_W1,parameters,"[13201.932, 159.78549999999996, 0.0]","[13201.932, 159.78549999999996, 0.0]",0.0,2.687,2.687,6,6
+628405,5b7ac240-e9a7-43b2-b6bf-246956549a40-000996b5,Material Assets,,,parameters,,,,0.0,0.0,0,0
+628523,5b7ac240-e9a7-43b2-b6bf-246956549a40-0009972b,Walls,Basic Wall,CL_W1,parameters,"[-2263.5679999999998, -3341.594, 0.0]","[-2263.5679999999998, -3341.594, 0.0]",0.0,7.732,7.732,6,6
+647912,66314231-2860-4f9f-87a8-f581c5b96b2f-0009e2e8,<Sketch>,,,parameters,"[-928.5109999999995, 6146.469, 0.0]","[-928.5109999999995, 6146.469, 0.0]",0.0,0.0,0.0,0,0
+647917,66314231-2860-4f9f-87a8-f581c5b96b2f-0009e2ed,<Sketch>,,,parameters,"[-11348.068, 4612.4375, 0.0]","[-11348.068, 4612.4375, 0.0]",0.0,0.0,0.0,0,0
+647923,66314231-2860-4f9f-87a8-f581c5b96b2f-0009e2f3,<Sketch>,,,parameters,"[856.9320000000007, 3078.406, 0.0]","[856.9320000000007, 3078.406, 0.0]",0.0,0.0,0.0,0,0
+647930,66314231-2860-4f9f-87a8-f581c5b96b2f-0009e2fa,<Sketch>,,,parameters,"[13061.932, 3264.9175, 0.0]","[13061.932, 3264.9175, 0.0]",0.0,0.0,0.0,0,0
+647938,66314231-2860-4f9f-87a8-f581c5b96b2f-0009e302,<Sketch>,,,parameters,"[11276.489000000001, 4798.9490000000005, 0.0]","[11276.489000000001, 4798.9490000000005, 0.0]",0.0,0.0,0.0,0,0
+655533,87beca50-3847-4f14-8281-4eb8890e91b0-000a00ad,Walls,Basic Wall,Wall - Timber Clad,parameters,"[10061.932, -15302.594, 2700.0]","[10061.932, -15302.594, 2700.0]",0.0,0.667,0.667,6,6
+668628,a3bcf3f5-e669-4d93-9730-faa0d5bf737d-000a33d4,<Stair/Ramp Sketch: Boundary>,,,parameters,"[12336.860499999999, 2798.406, 0.0]","[12336.860499999999, 2798.406, 0.0]",0.0,0.0,0.0,0,0
+668629,a3bcf3f5-e669-4d93-9730-faa0d5bf737d-000a33d5,<Stair/Ramp Sketch: Boundary>,,,parameters,"[13061.919, -201.59400000000005, 0.0]","[13061.919, -201.59400000000005, 0.0]",0.0,0.0,0.0,0,0
+668630,a3bcf3f5-e669-4d93-9730-faa0d5bf737d-000a33d6,<Stair/Ramp Sketch: Boundary>,,,parameters,"[12331.9955, -3201.594, 0.0]","[12331.9955, -3201.594, 0.0]",0.0,0.0,0.0,0,0
+668631,a3bcf3f5-e669-4d93-9730-faa0d5bf737d-000a33d7,<Stair/Ramp Sketch: Boundary>,,,parameters,"[11739.063, 1508.639, 0.0]","[11739.063, 1508.639, 0.0]",0.0,0.0,0.0,0,0
+668632,a3bcf3f5-e669-4d93-9730-faa0d5bf737d-000a33d8,<Stair/Ramp Sketch: Boundary>,,,parameters,"[11866.324, -206.04600000000005, 0.0]","[11866.324, -206.04600000000005, 0.0]",0.0,0.0,0.0,0,0
+668633,a3bcf3f5-e669-4d93-9730-faa0d5bf737d-000a33d9,<Stair/Ramp Sketch: Boundary>,,,parameters,"[11734.198, -1920.731, 0.0]","[11734.198, -1920.731, 0.0]",0.0,0.0,0.0,0,0
+674370,89b7d9e7-00a9-45d9-8498-e33a7de65df7-000a4a42,Generic Models,Miele Washing Machine W 5820 WPS,Miele Washing Machine W 5820 WPS,parameters,"[8026.932, -1336.594, 0.0]","[8026.932, -1336.594, 0.0]",0.0,0.249,0.249,218,218
+677695,89b7d9e7-00a9-45d9-8498-e33a7de65df7-000a573f,Specialty Equipment,Miele Tumble Dryer T 7944 C,Miele Tumble Dryer T 7944 C,parameters,"[8026.932, -2036.594, 0.0]","[8026.932, -2036.594, 0.0]",0.0,0.047,0.047,324,324
+679009,89b7d9e7-00a9-45d9-8498-e33a7de65df7-000a5c61,Specialty Equipment,Miele Built-in Rangehood DA 2210,Rangehood DA-2210,parameters,"[3141.932, -2615.594, 1950.0]","[3141.932, -2615.594, 1950.0]",0.0,0.067,0.067,258,258
+680539,89b7d9e7-00a9-45d9-8498-e33a7de65df7-000a625b,Generic Models,Miele Induction Cooktop KM 6350 LPT,Miele Induction Cooktop 6350 LPT,parameters,"[3336.932, -2671.594, -113.636]","[3336.932, -2671.594, -113.636]",0.0,0.013,0.013,225,225
+684791,89b7d9e7-00a9-45d9-8498-e33a7de65df7-000a72f7,Specialty Equipment,Miele MasterCool KF 1911 Vi,Miele Fridge/Freezer KF 1911 Vi,parameters,"[7150.932, -1906.594, 0.0]","[7150.932, -1906.594, 0.0]",0.0,0.36,0.36,174,174
+686184,89b7d9e7-00a9-45d9-8498-e33a7de65df7-000a7868,Specialty Equipment,Miele Oven H 5681 BP,Miele Oven H 5681 BP,parameters,"[7057.482, -1149.094, 850.0]","[7057.482, -1149.094, 850.0]",0.0,0.089,0.089,195,195
+688386,89b7d9e7-00a9-45d9-8498-e33a7de65df7-000a8102,Material Assets,,,parameters,,,,0.0,0.0,0,0
+690080,89b7d9e7-00a9-45d9-8498-e33a7de65df7-000a87a0,Casework,4500_Kitchen Island_DW,4500_Kitchen Island_DW,parameters,"[3336.932, -226.594, 0.0]","[3336.932, -226.594, 0.0]",0.0,2.329,2.329,127,127
+690286,dedc028f-9d29-465a-b17d-d65c9c0d9b4a-000a886e,Casework,4500_Kitchen Island,4500_Kitchen Island,parameters,"[3336.932, -2976.594, 0.0]","[3336.932, -2976.594, 0.0]",0.0,2.772,2.772,128,128
+693257,f9b0887c-fa64-4a05-bfea-7b28c0d4a171-000a9409,Electrical Circuits,,,parameters,,,,0.0,0.0,0,0
+694796,f9b0887c-fa64-4a05-bfea-7b28c0d4a171-000a9a0c,Generic Models,Miele Built-under Dishwasher G 4101 U CS,Miele Built-under Dishwasher G 4101 U CS,parameters,"[2586.932, -566.594, 0.0]","[2586.932, -566.594, 0.0]",0.0,0.286,0.286,143,143
+696998,f9b0887c-fa64-4a05-bfea-7b28c0d4a171-000aa2a6,Specialty Equipment,Miele Built-in Microwave M 8260-2,Miele Microwave M 8260-2,parameters,"[7103.982, -1149.094, 1453.0]","[7103.982, -1149.094, 1453.0]",0.0,0.027,0.027,139,139
+697615,f714ef06-3fa3-4b95-b3e7-bbbd1e6eda49-000aa50f,<Sketch>,,,parameters,"[210.9319999999998, -3341.594, 0.0]","[210.9319999999998, -3341.594, 0.0]",0.0,0.0,0.0,0,0
+697616,f714ef06-3fa3-4b95-b3e7-bbbd1e6eda49-000aa510,<Sketch>,,,parameters,"[-6438.068, -201.59400000000005, 0.0]","[-6438.068, -201.59400000000005, 0.0]",0.0,0.0,0.0,0,0
+697617,f714ef06-3fa3-4b95-b3e7-bbbd1e6eda49-000aa511,<Sketch>,,,parameters,"[210.9319999999998, 2938.406, 0.0]","[210.9319999999998, 2938.406, 0.0]",0.0,0.0,0.0,0,0
+697618,f714ef06-3fa3-4b95-b3e7-bbbd1e6eda49-000aa512,<Sketch>,,,parameters,"[6859.932, -201.59400000000005, 0.0]","[6859.932, -201.59400000000005, 0.0]",0.0,0.0,0.0,0,0
+698859,f714ef06-3fa3-4b95-b3e7-bbbd1e6eda49-000aa9eb,Plumbing Fixtures,Lavatory-TOTO-Luminist_Rectangle_Vessel_LLT151,Standard,parameters,"[-188.068, -1201.594, 3750.0]","[-188.068, -1201.594, 3750.0]",0.0,0.004,0.004,53,53
+699849,632394c2-b156-41ec-bb3d-3c4e91306cb2-000aadc9,Cameras,3D View,3D View,parameters,,,,0.0,0.0,0,0
+704015,555aa063-b8a7-4b4f-ae07-ad835f8857bb-000abe0f,Material Assets,,,parameters,,,,0.0,0.0,0,0
+704057,555aa063-b8a7-4b4f-ae07-ad835f8857bb-000abe39,<Sketch>,,,parameters,"[10061.932, -15201.594, 0.0]","[10061.932, -15201.594, 0.0]",0.0,0.0,0.0,0,0
+704058,555aa063-b8a7-4b4f-ae07-ad835f8857bb-000abe3a,<Sketch>,,,parameters,"[7061.932, -9302.594, 0.0]","[7061.932, -9302.594, 0.0]",0.0,0.0,0.0,0,0
+704059,555aa063-b8a7-4b4f-ae07-ad835f8857bb-000abe3b,<Sketch>,,,parameters,"[10061.932, -3403.594, 0.0]","[10061.932, -3403.594, 0.0]",0.0,0.0,0.0,0,0
+704060,555aa063-b8a7-4b4f-ae07-ad835f8857bb-000abe3c,<Sketch>,,,parameters,"[13061.932, -9302.594, 0.0]","[13061.932, -9302.594, 0.0]",0.0,0.0,0.0,0,0
+704275,555aa063-b8a7-4b4f-ae07-ad835f8857bb-000abf13,Walls,Curtain Wall,SH_Curtain wall,parameters,"[10061.932, -15201.594, -550.0]","[10061.932, -15201.594, -550.0]",0.0,0.405,0.405,0,0
+704288,555aa063-b8a7-4b4f-ae07-ad835f8857bb-000abf20,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[13021.932, -15201.594, 2150.0]","[13021.932, -15201.594, 2150.0]",0.0,0.006,0.006,6,6
+704289,555aa063-b8a7-4b4f-ae07-ad835f8857bb-000abf21,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[8541.932, -15201.594, 2150.0]","[8541.932, -15201.594, 2150.0]",0.0,0.006,0.006,6,6
+704290,555aa063-b8a7-4b4f-ae07-ad835f8857bb-000abf22,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[10041.932, -15201.594, 2150.0]","[10041.932, -15201.594, 2150.0]",0.0,0.006,0.006,6,6
+704291,555aa063-b8a7-4b4f-ae07-ad835f8857bb-000abf23,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[11541.932, -15201.594, 2150.0]","[11541.932, -15201.594, 2150.0]",0.0,0.006,0.006,6,6
+704293,555aa063-b8a7-4b4f-ae07-ad835f8857bb-000abf25,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[8581.932, -15201.594, -550.0]","[8581.932, -15201.594, -550.0]",0.0,0.006,0.006,6,6
+704294,555aa063-b8a7-4b4f-ae07-ad835f8857bb-000abf26,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[10081.932, -15201.594, -550.0]","[10081.932, -15201.594, -550.0]",0.0,0.006,0.006,6,6
+704296,555aa063-b8a7-4b4f-ae07-ad835f8857bb-000abf28,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[13061.932, -15201.594, -550.0]","[13061.932, -15201.594, -550.0]",0.0,0.008,0.008,5,5
+704297,555aa063-b8a7-4b4f-ae07-ad835f8857bb-000abf29,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[7061.932, -15201.594, 2150.0]","[7061.932, -15201.594, 2150.0]",0.0,0.002,0.002,5,5
+704298,555aa063-b8a7-4b4f-ae07-ad835f8857bb-000abf2a,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[8561.932, -15201.594, -550.0]","[8561.932, -15201.594, -550.0]",0.0,0.008,0.008,5,5
+704299,555aa063-b8a7-4b4f-ae07-ad835f8857bb-000abf2b,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[10061.932, -15201.594, -550.0]","[10061.932, -15201.594, -550.0]",0.0,0.008,0.008,5,5
+704300,555aa063-b8a7-4b4f-ae07-ad835f8857bb-000abf2c,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[11561.932, -15201.594, -550.0]","[11561.932, -15201.594, -550.0]",0.0,0.008,0.008,5,5
+707722,e2eeab38-f437-4dce-846b-cb64191c9fcc-000acc8a,Walls,Curtain Wall,SH_Curtain wall,parameters,"[13111.932, 2158.906, 0.0]","[13111.932, 2158.906, 0.0]",0.0,0.197,0.197,0,0
+708088,e2eeab38-f437-4dce-846b-cb64191c9fcc-000acdf8,Walls,Curtain Wall,SH_Curtain wall,parameters,"[13126.932, -2562.094, 3000.0]","[13126.932, -2562.094, 3000.0]",0.0,0.093,0.093,0,0
+708090,e2eeab38-f437-4dce-846b-cb64191c9fcc-000acdfa,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[13126.932, -1861.594, 5700.0]","[13126.932, -1861.594, 5700.0]",0.0,0.005,0.005,6,6
+708091,e2eeab38-f437-4dce-846b-cb64191c9fcc-000acdfb,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[13126.932, -3161.594, 3000.0]","[13126.932, -3161.594, 3000.0]",0.0,0.005,0.005,6,6
+708092,e2eeab38-f437-4dce-846b-cb64191c9fcc-000acdfc,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[13126.932, -1821.594, 3000.0]","[13126.932, -1821.594, 3000.0]",0.0,0.011,0.011,6,6
+708093,e2eeab38-f437-4dce-846b-cb64191c9fcc-000acdfd,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[13126.932, -3201.594, 5700.0]","[13126.932, -3201.594, 5700.0]",0.0,0.011,0.011,6,6
+708715,e2eeab38-f437-4dce-846b-cb64191c9fcc-000ad06b,Structural Columns,M_L-Anglel-Column,L127X127X9.5,parameters,"[13096.832, 2833.306, 0.0]","[13096.832, 2833.306, 0.0]",0.0,0.014,0.014,9,9
+709245,e2eeab38-f437-4dce-846b-cb64191c9fcc-000ad27d,Walls,Curtain Wall,SH_Curtain wall,parameters,"[11506.932, -3266.594, 3000.0]","[11506.932, -3266.594, 3000.0]",0.0,0.196,0.196,0,0
+709249,e2eeab38-f437-4dce-846b-cb64191c9fcc-000ad281,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[12971.932, -3266.594, 5700.0]","[12971.932, -3266.594, 5700.0]",0.0,0.005,0.005,6,6
+709251,e2eeab38-f437-4dce-846b-cb64191c9fcc-000ad283,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[13011.932, -3266.594, 3000.0]","[13011.932, -3266.594, 3000.0]",0.0,0.011,0.011,6,6
+709253,e2eeab38-f437-4dce-846b-cb64191c9fcc-000ad285,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[10102.932, -3266.594, 5700.0]","[10102.932, -3266.594, 5700.0]",0.0,0.011,0.011,6,6
+709258,e2eeab38-f437-4dce-846b-cb64191c9fcc-000ad28a,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[11582.932, -3266.594, 5700.0]","[11582.932, -3266.594, 5700.0]",0.0,0.006,0.006,6,6
+709259,e2eeab38-f437-4dce-846b-cb64191c9fcc-000ad28b,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[11622.932, -3266.594, 3000.0]","[11622.932, -3266.594, 3000.0]",0.0,0.005,0.005,6,6
+709261,e2eeab38-f437-4dce-846b-cb64191c9fcc-000ad28d,Curtain Wall Mullions,Rectangular Mullion,64 x 128 rectangular,"level,parameters","[11602.932, -3266.594, 3000.0]","[11602.932, -3266.594, 3000.0]",0.0,0.011,0.011,6,6
+709725,e2eeab38-f437-4dce-846b-cb64191c9fcc-000ad45d,Structural Columns,M_L-Anglel-Column,L127X127X9.5,parameters,"[13096.832, -3236.494, 0.0]","[13096.832, -3236.494, 0.0]",0.0,0.007,0.007,9,9
+725402,57f8477a-60e4-4504-911c-957c1b7fc5d4-000b119a,<Stair/Ramp Sketch: Boundary>,,,parameters,"[10061.932, -5301.594, 3000.0]","[10061.932, -5301.594, 3000.0]",0.0,0.0,0.0,0,0
+725403,57f8477a-60e4-4504-911c-957c1b7fc5d4-000b119b,<Stair/Ramp Sketch: Boundary>,,,parameters,"[7061.932, -4309.094, 3000.0]","[7061.932, -4309.094, 3000.0]",0.0,0.0,0.0,0,0
+725404,57f8477a-60e4-4504-911c-957c1b7fc5d4-000b119c,<Stair/Ramp Sketch: Boundary>,,,parameters,"[10061.932, -3316.594, 3000.0]","[10061.932, -3316.594, 3000.0]",0.0,0.0,0.0,0,0
+725405,57f8477a-60e4-4504-911c-957c1b7fc5d4-000b119d,<Stair/Ramp Sketch: Boundary>,,,parameters,"[13061.932, -4309.094, 3000.0]","[13061.932, -4309.094, 3000.0]",0.0,0.0,0.0,0,0
+735739,57f8477a-60e4-4504-911c-957c1b7fc5d4-000b39fb,Furniture,Seating - Artemis - Lounge chair,Seating - Artemis - Lounge chair,"bbox,parameters","[8333.214, -8661.594, -550.0]","[8333.214, -8661.594, -550.0]",0.0,0.021,0.021,126,126
+736435,80c6b7e4-2dd7-4a4e-ae16-489c86c3eac2-000b3cb3,Furniture,Seating - Artemis - Lounge chair,Seating - Artemis - Lounge chair,"bbox,parameters","[8333.214, -9821.594, -550.0]","[8333.214, -9821.594, -550.0]",0.0,0.021,0.021,126,126
+736510,80c6b7e4-2dd7-4a4e-ae16-489c86c3eac2-000b3cfe,Cameras,3D View,3D View,parameters,,,,0.0,0.0,0,0
+744827,35c4319b-4fde-4c5b-9035-66ab717d35a2-000b5d7b,Cameras,3D View,3D View,parameters,,,,0.0,0.0,0,0
+745997,a03add59-4d19-48e3-b25b-2f947f402211-000b620d,Walls,Basic Wall,Retaining - 300mm Concrete,parameters,"[4681.932000000001, 14713.406, 3000.0]","[4681.932000000001, 14713.406, 3000.0]",0.0,7.987,7.987,6,6
+746235,a03add59-4d19-48e3-b25b-2f947f402211-000b62fb,Walls,Basic Wall,Retaining - 300mm Concrete,parameters,"[15454.8555, 14713.406, 3000.0]","[15454.8555, 14713.406, 3000.0]",0.0,5.987,5.987,6,6
+746589,a03add59-4d19-48e3-b25b-2f947f402211-000b645d,Walls,Basic Wall,Retaining - 300mm Concrete,parameters,"[15763.932, 17713.406, 3000.0]","[15763.932, 17713.406, 3000.0]",0.0,4.017,4.017,6,6
+746634,a03add59-4d19-48e3-b25b-2f947f402211-000b648a,Walls,Basic Wall,Retaining - 300mm Concrete,parameters,"[20515.597999999998, 19013.406, 3000.0]","[20515.597999999998, 19013.406, 3000.0]",0.0,3.822,3.822,6,6
+746766,a03add59-4d19-48e3-b25b-2f947f402211-000b650e,Walls,Basic Wall,Retaining - 300mm Concrete,parameters,"[22140.332499999997, 16487.3455, 3000.0]","[22140.332499999997, 16487.3455, 3000.0]",0.0,5.301,5.301,6,6
+757198,df146ad3-a574-4183-b3dd-a6f6589001b3-000b8dce,Lighting Fixtures,Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr,Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr,parameters,"[11460.332, -10900.594, 2150.0]","[11460.332, -10900.594, 2150.0]",0.0,31.783,31.783,86,86
+764703,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bab1f,<Sketch>,,,parameters,"[10821.932, 2913.406, 3000.0]","[10821.932, 2913.406, 3000.0]",0.0,0.0,0.0,0,0
+764704,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bab20,<Sketch>,,,parameters,"[11991.932, 7393.406000000001, 3000.0]","[11991.932, 7393.406000000001, 3000.0]",0.0,0.0,0.0,0,0
+764705,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bab21,<Sketch>,,,parameters,"[10821.932, 14863.406, 3000.0]","[10821.932, 14863.406, 3000.0]",0.0,0.0,0.0,0,0
+764706,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bab22,<Sketch>,,,parameters,"[9651.932, 7393.406000000001, 3000.0]","[9651.932, 7393.406000000001, 3000.0]",0.0,0.0,0.0,0,0
+765523,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bae53,Walls,Basic Wall,Retaining - 300mm Concrete,parameters,"[9801.932, 13293.406, 3000.0]","[9801.932, 13293.406, 3000.0]",0.0,2.502,2.502,6,6
+765620,c82e0dd9-31e8-407e-a294-c30431c2fda3-000baeb4,Walls,Basic Wall,Retaining - 300mm Concrete,parameters,"[11841.932, 13293.406, 3000.0]","[11841.932, 13293.406, 3000.0]",0.0,2.502,2.502,6,6
+766603,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bb28b,<Sketch>,,,parameters,"[6412.932000000001, 21713.406, 3000.0]","[6412.932000000001, 21713.406, 3000.0]",0.0,0.0,0.0,0,0
+766606,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bb28e,<Sketch>,,,parameters,"[13113.932, 19638.406, 3000.0]","[13113.932, 19638.406, 3000.0]",0.0,0.0,0.0,0,0
+766609,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bb291,<Sketch>,,,parameters,"[15709.028, 17563.406, 3000.0]","[15709.028, 17563.406, 3000.0]",0.0,0.0,0.0,0,0
+766612,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bb294,<Sketch>,,,parameters,"[20596.834499999997, 18887.103, 3000.0]","[20596.834499999997, 18887.103, 3000.0]",0.0,0.0,0.0,0,0
+766615,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bb297,<Sketch>,,,parameters,"[22059.095999999998, 16613.6485, 3000.0]","[22059.095999999998, 16613.6485, 3000.0]",0.0,0.0,0.0,0,0
+766618,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bb29a,<Sketch>,,,parameters,"[9369.7595, 14863.406, 3000.0]","[9369.7595, 14863.406, 3000.0]",0.0,0.0,0.0,0,0
+766621,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bb29d,<Sketch>,,,parameters,"[-288.068, 18288.406, 3000.0]","[-288.068, 18288.406, 3000.0]",0.0,0.0,0.0,0,0
+766625,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bb2a1,<Sketch>,,,parameters,"[23990.074999999997, 19287.3455, 3000.0]","[23990.074999999997, 19287.3455, 3000.0]",0.0,0.0,0.0,0,0
+767153,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bb4b1,Structural Foundations,M_Pile Cap-600 Pile,600 x 600 x 900mm,parameters,"[10821.932, 8863.406, 2900.0]","[10821.932, 8863.406, 2900.0]",0.0,0.108,0.108,6,6
+767156,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bb4b4,Structural Foundations,M_Pile-Steel Pipe,600mm Diameter,parameters,"[10821.932, 8863.406, 2598.0]","[10821.932, 8863.406, 2598.0]",0.0,0.424,0.424,4,4
+767797,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bb735,Lighting Fixtures,Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr,Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr,parameters,"[8663.532, -10900.594, 2150.0]","[8663.532, -10900.594, 2150.0]",0.0,31.783,31.783,86,86
+767856,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bb770,Lighting Fixtures,Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr,Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr,parameters,"[11460.332, -9681.394, 2150.0]","[11460.332, -9681.394, 2150.0]",0.0,31.783,31.783,86,86
+767857,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bb771,Lighting Fixtures,Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr,Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr,parameters,"[8663.532, -9681.394, 2150.0]","[8663.532, -9681.394, 2150.0]",0.0,31.783,31.783,86,86
+767870,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bb77e,Lighting Fixtures,Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr,Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr,parameters,"[11460.332, -10036.794, 2150.0]","[11460.332, -10036.794, 2150.0]",0.0,31.783,31.783,86,86
+767871,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bb77f,Lighting Fixtures,Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr,Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr,parameters,"[8663.532, -10036.794, 2150.0]","[8663.532, -10036.794, 2150.0]",0.0,31.783,31.783,86,86
+767916,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bb7ac,Lighting Fixtures,Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr,Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr,parameters,"[11460.332, -8816.794, 2150.0]","[11460.332, -8816.794, 2150.0]",0.0,31.783,31.783,86,86
+767917,c82e0dd9-31e8-407e-a294-c30431c2fda3-000bb7ad,Lighting Fixtures,Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr,Trck_BswySystms_Cooper_RSA_Profile Series_AR111 Closed Back Integral Xfmr,parameters,"[8663.532, -8816.794, 2150.0]","[8663.532, -8816.794, 2150.0]",0.0,31.783,31.783,86,86
+768442,3195d1cb-ca2c-4181-b9c0-51da296667aa-000bb9ba,Walls,Basic Wall,Interior - Partition,parameters,"[5561.932, -1145.594, 3000.0]","[5561.932, -1145.594, 3000.0]",0.0,1.621,1.621,6,6
+771512,6b82e759-7289-4bd7-940f-c23c16efef48-000bc5b8,Views,Section,Building Section,parameters,,,,0.0,0.0,0,0
+778316,05305b4b-b8cf-4c6b-ab67-2f5e121c1c6f-000be04c,Electrical Equipment,Photovoltaic-Panel-SolarWorld-SunModule-(235-240),SunModule SW 245 Silver Mono - 10 Deg. Angle,parameters,"[-18327.563, 4475.09, 1100.256]","[-18327.563, 4475.09, 1100.256]",0.0,0.066,0.066,668,668
+778420,05305b4b-b8cf-4c6b-ab67-2f5e121c1c6f-000be0b4,Plumbing Fixtures,DC_Tankworks_PLM_5000L,5000L 3500x900x1860,parameters,"[15478.334, -2186.694, -1500.0]","[15478.334, -2186.694, -1500.0]",0.0,5.542,5.542,202,202
+778575,05305b4b-b8cf-4c6b-ab67-2f5e121c1c6f-000be14f,Plumbing Fixtures,DC_Tankworks_PLM_5000L,5000L 3500x900x1860,parameters,"[15478.334, -971.594, -1500.0]","[15478.334, -971.594, -1500.0]",0.0,5.542,5.542,202,202
+800280,d5881ba7-c6fb-4696-aebc-8d7ab6f02f63-000c3618,Electrical Equipment,Photovoltaic-Panel-SolarWorld-SunModule-(235-240),SunModule SW 245 Silver Mono - 10 Deg. Angle,parameters,"[-16730.292, 3271.46, 959.218]","[-16730.292, 3271.46, 959.218]",0.0,0.066,0.066,668,668
+800325,d5881ba7-c6fb-4696-aebc-8d7ab6f02f63-000c3645,Electrical Equipment,Photovoltaic-Panel-SolarWorld-SunModule-(235-240),SunModule SW 245 Silver Mono - 10 Deg. Angle,parameters,"[-15133.021, 2067.829, 816.357]","[-15133.021, 2067.829, 816.357]",0.0,0.066,0.066,668,668
+800329,d5881ba7-c6fb-4696-aebc-8d7ab6f02f63-000c3649,Electrical Equipment,Photovoltaic-Panel-SolarWorld-SunModule-(235-240),SunModule SW 245 Silver Mono - 10 Deg. Angle,parameters,"[-13535.75, 864.199, 643.04]","[-13535.75, 864.199, 643.04]",0.0,0.066,0.066,668,668
+800340,d5881ba7-c6fb-4696-aebc-8d7ab6f02f63-000c3654,Electrical Equipment,Photovoltaic-Panel-SolarWorld-SunModule-(235-240),SunModule SW 245 Silver Mono - 10 Deg. Angle,parameters,"[-19230.285, 3277.136, 847.404]","[-19230.285, 3277.136, 847.404]",0.0,0.066,0.066,668,668
+800342,d5881ba7-c6fb-4696-aebc-8d7ab6f02f63-000c3656,Electrical Equipment,Photovoltaic-Panel-SolarWorld-SunModule-(235-240),SunModule SW 245 Silver Mono - 10 Deg. Angle,parameters,"[-17633.014, 2073.506, 750.829]","[-17633.014, 2073.506, 750.829]",0.0,0.066,0.066,668,668
+800348,d5881ba7-c6fb-4696-aebc-8d7ab6f02f63-000c365c,Electrical Equipment,Photovoltaic-Panel-SolarWorld-SunModule-(235-240),SunModule SW 245 Silver Mono - 10 Deg. Angle,parameters,"[-16035.743, 869.876, 604.629]","[-16035.743, 869.876, 604.629]",0.0,0.066,0.066,668,668
+800350,d5881ba7-c6fb-4696-aebc-8d7ab6f02f63-000c365e,Electrical Equipment,Photovoltaic-Panel-SolarWorld-SunModule-(235-240),SunModule SW 245 Silver Mono - 10 Deg. Angle,parameters,"[-14438.472, -333.754, 424.516]","[-14438.472, -333.754, 424.516]",0.0,0.066,0.066,668,668
+800381,d5881ba7-c6fb-4696-aebc-8d7ab6f02f63-000c367d,Electrical Equipment,Photovoltaic-Panel-SolarWorld-SunModule-(235-240),SunModule SW 245 Silver Mono - 10 Deg. Angle,parameters,"[-20133.008, 2079.183, 607.313]","[-20133.008, 2079.183, 607.313]",0.0,0.066,0.066,668,668
+800383,d5881ba7-c6fb-4696-aebc-8d7ab6f02f63-000c367f,Electrical Equipment,Photovoltaic-Panel-SolarWorld-SunModule-(235-240),SunModule SW 245 Silver Mono - 10 Deg. Angle,parameters,"[-18535.737, 875.553, 528.352]","[-18535.737, 875.553, 528.352]",0.0,0.066,0.066,668,668
+800389,d5881ba7-c6fb-4696-aebc-8d7ab6f02f63-000c3685,Electrical Equipment,Photovoltaic-Panel-SolarWorld-SunModule-(235-240),SunModule SW 245 Silver Mono - 10 Deg. Angle,parameters,"[-16938.466, -328.077, 386.106]","[-16938.466, -328.077, 386.106]",0.0,0.066,0.066,668,668
+800391,d5881ba7-c6fb-4696-aebc-8d7ab6f02f63-000c3687,Electrical Equipment,Photovoltaic-Panel-SolarWorld-SunModule-(235-240),SunModule SW 245 Silver Mono - 10 Deg. Angle,parameters,"[-15341.195, -1531.707, 219.714]","[-15341.195, -1531.707, 219.714]",0.0,0.066,0.066,668,668
+802782,7a9742ef-a202-4792-8cca-27795de41a16-000c3fde,Lighting Fixtures,SH_Lighting-Pendant-Litecontrol-Mod66-8_Foot_09,P-D-66N28T8,parameters,"[2959.932, -1601.594, 2710.454]","[2959.932, -1601.594, 2710.454]",0.0,0.053,0.053,42,42
+812954,dfbec04d-911c-4c55-a13d-583fb360e818-000c679a,Lighting Fixtures,SH_Lighting-Pendant-Litecontrol-Mod66-8_Foot_09,P-D-66N28T8,parameters,"[-2395.268, -201.594, 2710.454]","[-2395.268, -201.594, 2710.454]",0.0,0.053,0.053,42,42
+845266,f565bef9-7d27-4781-b8d4-60f4a6034d87-000ce5d2,Walls,Basic Wall,Wall - Timber Clad,parameters,"[10001.932, -991.594, 0.0]","[10001.932, -991.594, 0.0]",0.0,2.755,2.755,8,8
+846939,98e2f96c-ccbd-4abb-a697-e7e5136106ee-000cec5b,Walls,Curtain Wall,SH_Curtain wall,parameters,"[1011.4319999999998, -3201.594, 0.0]","[1011.4319999999998, -3201.594, 0.0]",0.0,0.796,0.796,0,0
+847436,98e2f96c-ccbd-4abb-a697-e7e5136106ee-000cee4c,Walls,Curtain Wall,SH_Curtain wall,parameters,"[-4938.068, -151.09400000000005, 0.0]","[-4938.068, -151.09400000000005, 0.0]",0.0,0.412,0.412,0,0
+849032,98e2f96c-ccbd-4abb-a697-e7e5136106ee-000cf488,Walls,Basic Wall,Wall - Timber Clad,parameters,"[6960.932, -10802.594000000001, 0.0]","[6960.932, -10802.594000000001, 0.0]",0.0,8.636,8.636,12,12
+857192,e6ac360b-aaed-4c3b-a130-36b4c2ac9d13-000d1468,Room Tags,M_Room Tag,Room Tag With Area,parameters,"[-3057.337, 1061.369, 0.0]","[-3057.337, 1061.369, 0.0]",0.0,0.0,0.0,0,0
+857195,e6ac360b-aaed-4c3b-a130-36b4c2ac9d13-000d146b,Room Tags,M_Room Tag,Room Tag,parameters,"[-130.783, -2437.005, 0.0]","[-130.783, -2437.005, 0.0]",0.0,0.0,0.0,0,0
+857198,e6ac360b-aaed-4c3b-a130-36b4c2ac9d13-000d146e,Room Tags,M_Room Tag,Room Tag With Area,parameters,"[2528.99, -1254.716, 0.0]","[2528.99, -1254.716, 0.0]",0.0,0.0,0.0,0,0
+857201,e6ac360b-aaed-4c3b-a130-36b4c2ac9d13-000d1471,Room Tags,M_Room Tag,Room Tag,parameters,"[5920.542, -3284.478, 0.0]","[5920.542, -3284.478, 0.0]",0.0,0.0,0.0,0,0
+857204,e6ac360b-aaed-4c3b-a130-36b4c2ac9d13-000d1474,Room Tags,M_Room Tag,Room Tag,parameters,"[5251.183, -970.039, 0.0]","[5251.183, -970.039, 0.0]",0.0,0.0,0.0,0,0
+857207,e6ac360b-aaed-4c3b-a130-36b4c2ac9d13-000d1477,Room Tags,M_Room Tag,Room Tag With Area,parameters,"[8778.628, -1188.979, 0.0]","[8778.628, -1188.979, 0.0]",0.0,0.0,0.0,0,0
+857209,e6ac360b-aaed-4c3b-a130-36b4c2ac9d13-000d1479,Rooms,,,parameters,"[8778.628, 1744.224, 3000.0]","[8778.628, 1744.224, 3000.0]",0.0,123.456,123.456,12,12
+857210,e6ac360b-aaed-4c3b-a130-36b4c2ac9d13-000d147a,Room Tags,M_Room Tag,Room Tag With Area,parameters,"[11189.166, 1637.076, 0.0]","[11189.166, 1637.076, 0.0]",0.0,0.0,0.0,0,0
+857279,e6ac360b-aaed-4c3b-a130-36b4c2ac9d13-000d14bf,Rooms,,,parameters,"[12.808, 229.196, 0.0]","[12.808, 229.196, 0.0]",0.0,195.925,195.925,21,21
+857293,e6ac360b-aaed-4c3b-a130-36b4c2ac9d13-000d14cd,Room Tags,M_Room Tag,Room Tag,parameters,"[9203.736, -3083.179, 0.0]","[9203.736, -3083.179, 0.0]",0.0,0.0,0.0,0,0
+857347,e6ac360b-aaed-4c3b-a130-36b4c2ac9d13-000d1503,Room Tags,M_Room Tag,Room Tag,parameters,"[9077.855, -590.541, 1200.0]","[9077.855, -590.541, 1200.0]",0.0,0.0,0.0,0,0
+857426,e6ac360b-aaed-4c3b-a130-36b4c2ac9d13-000d1552,Room Tags,M_Room Tag,Room Tag With Area,parameters,"[601.897, 1276.471, 0.0]","[601.897, 1276.471, 0.0]",0.0,0.0,0.0,0,0
+857546,e6ac360b-aaed-4c3b-a130-36b4c2ac9d13-000d15ca,Room Tags,M_Room Tag,Room Tag With Area,parameters,"[10981.621, 662.19, 0.0]","[10981.621, 662.19, 0.0]",0.0,0.0,0.0,0,0
+857553,e6ac360b-aaed-4c3b-a130-36b4c2ac9d13-000d15d1,Room Tags,M_Room Tag,Room Tag With Area,parameters,"[10051.39, -7871.316, 0.0]","[10051.39, -7871.316, 0.0]",0.0,0.0,0.0,0,0
+906885,b3a4a465-08e5-441a-bd3e-d967e546d52e-000dd685,Walls,Basic Wall,Interior - 165 Partition (1-hr),parameters,"[8290.021, 247.13099999999997, 0.0]","[8290.021, 247.13099999999997, 0.0]",0.0,0.802,0.802,6,6
+906923,b3a4a465-08e5-441a-bd3e-d967e546d52e-000dd6ab,Room Tags,M_Room Tag,Room Tag,parameters,"[7734.291, -590.541, 0.0]","[7734.291, -590.541, 0.0]",0.0,0.0,0.0,0,0
+931195,61899441-b6bc-4178-a60a-6f238edde2f4-000e357b,<Sketch>,,,parameters,"[11735.058, -1920.731, 3000.0]","[11735.058, -1920.731, 3000.0]",0.0,0.0,0.0,0,0
+931201,61899441-b6bc-4178-a60a-6f238edde2f4-000e3581,<Sketch>,,,parameters,"[11867.184, 438.8375, 3000.0]","[11867.184, 438.8375, 3000.0]",0.0,0.0,0.0,0,0
+931280,61899441-b6bc-4178-a60a-6f238edde2f4-000e35d0,<Sketch>,,,parameters,"[11602.932, -2561.1625, 3000.0]","[11602.932, -2561.1625, 3000.0]",0.0,0.0,0.0,0,0
+931339,61899441-b6bc-4178-a60a-6f238edde2f4-000e360b,<Sketch>,,,parameters,"[9951.932, 13368.406, 3000.0]","[9951.932, 13368.406, 3000.0]",0.0,0.0,0.0,0,0
+931345,61899441-b6bc-4178-a60a-6f238edde2f4-000e3611,<Sketch>,,,parameters,"[9801.932, 11873.406, 3000.0]","[9801.932, 11873.406, 3000.0]",0.0,0.0,0.0,0,0
+931351,61899441-b6bc-4178-a60a-6f238edde2f4-000e3617,<Sketch>,,,parameters,"[11841.932, 11873.406, 3000.0]","[11841.932, 11873.406, 3000.0]",0.0,0.0,0.0,0,0
+931357,61899441-b6bc-4178-a60a-6f238edde2f4-000e361d,<Sketch>,,,parameters,"[11691.932, 13368.406, 3000.0]","[11691.932, 13368.406, 3000.0]",0.0,0.0,0.0,0,0
+935747,111f9a9a-997b-4ec8-8a29-3d1f7a7179e8-000e4743,Generic Models,Walvit_Hung Bowl_604118 W,Walvit,parameters,"[8942.467, -260.594, -0.0]","[8942.467, -260.594, -0.0]",0.0,0.017,0.017,266,266
+936823,bac06658-19d8-494b-b87a-559081499f8f-000e4b77,Plumbing Fixtures,Lavatory-TOTO-Luminist_Rectangle_Vessel_LLT151,Standard,parameters,"[8532.571, 767.406, 750.0]","[8532.571, 767.406, 750.0]",0.0,0.004,0.004,53,53
+937138,bac06658-19d8-494b-b87a-559081499f8f-000e4cb2,Plumbing Fixtures,M_Shower Stall-2D,small,parameters,"[-128.068, -921.594, 3000.0]","[-128.068, -921.594, 3000.0]",0.0,0.0,0.0,0,0
+937571,bac06658-19d8-494b-b87a-559081499f8f-000e4e63,Generic Models,Walvit_Hung Bowl_604118 W,Walvit,parameters,"[5920.546, -2095.49, 3000.0]","[5920.546, -2095.49, 3000.0]",0.0,0.017,0.017,266,266
+937572,bac06658-19d8-494b-b87a-559081499f8f-000e4e64,Plumbing Fixtures,M_Shower Stall-2D,M_Shower Stall-2D,parameters,"[4565.646, -1525.594, 3000.0]","[4565.646, -1525.594, 3000.0]",0.0,0.0,0.0,0,0
+937573,bac06658-19d8-494b-b87a-559081499f8f-000e4e65,Plumbing Fixtures,Lavatory-TOTO-Luminist_Rectangle_Vessel_LLT151,Standard,parameters,"[6570.546, -1685.594, 3750.0]","[6570.546, -1685.594, 3750.0]",0.0,0.004,0.004,53,53
+937935,bac06658-19d8-494b-b87a-559081499f8f-000e4fcf,Walls,Basic Wall,Interior - Partition,parameters,"[4505.646, -2384.094, 3000.0]","[4505.646, -2384.094, 3000.0]",0.0,0.749,0.749,6,6
+938761,bac06658-19d8-494b-b87a-559081499f8f-000e5309,Generic Models,Walvit_Hung Bowl_604118 W,Walvit,parameters,"[5201.932, -515.698, 3000.0]","[5201.932, -515.698, 3000.0]",0.0,0.017,0.017,266,266
+938762,bac06658-19d8-494b-b87a-559081499f8f-000e530a,Plumbing Fixtures,M_Shower Stall-2D,M_Shower Stall-2D,parameters,"[6556.832, -1085.594, 3000.0]","[6556.832, -1085.594, 3000.0]",0.0,0.0,0.0,0,0
+938763,bac06658-19d8-494b-b87a-559081499f8f-000e530b,Plumbing Fixtures,Lavatory-TOTO-Luminist_Rectangle_Vessel_LLT151,Standard,parameters,"[4551.932, -925.594, 3750.0]","[4551.932, -925.594, 3750.0]",0.0,0.004,0.004,53,53
+938974,bac06658-19d8-494b-b87a-559081499f8f-000e53de,Walls,Basic Wall,Interior - Partition,parameters,"[6616.832, 106.40599999999995, 3000.0]","[6616.832, 106.40599999999995, 3000.0]",0.0,1.514,1.514,7,7
+939084,bac06658-19d8-494b-b87a-559081499f8f-000e544c,Walls,Basic Wall,Interior - Partition,parameters,"[5369.382, 650.406, 3000.0]","[5369.382, 650.406, 3000.0]",0.0,1.202,1.202,10,10
+940326,bac06658-19d8-494b-b87a-559081499f8f-000e5926,Room Tags,M_Room Tag,Room Tag,parameters,"[5398.119, 952.119, 4200.0]","[5398.119, 952.119, 4200.0]",0.0,0.0,0.0,0,0
+940871,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5b47,Window Tags,M_Window Tag,M_Window Tag,parameters,,,,0.0,0.0,0,0
+940907,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5b6b,Window Tags,M_Window Tag,M_Window Tag,parameters,,,,0.0,0.0,0,0
+940913,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5b71,Window Tags,M_Window Tag,M_Window Tag,parameters,,,,0.0,0.0,0,0
+940917,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5b75,Window Tags,M_Window Tag,M_Window Tag,parameters,,,,0.0,0.0,0,0
+940919,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5b77,Window Tags,M_Window Tag,M_Window Tag,parameters,,,,0.0,0.0,0,0
+940931,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5b83,Window Tags,M_Window Tag,M_Window Tag,parameters,,,,0.0,0.0,0,0
+940933,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5b85,Window Tags,M_Window Tag,M_Window Tag,parameters,,,,0.0,0.0,0,0
+940956,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5b9c,Door Tags,M_Door Tag,M_Door Tag,parameters,,,,0.0,0.0,0,0
+940961,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5ba1,Door Tags,M_Door Tag,M_Door Tag,parameters,,,,0.0,0.0,0,0
+940964,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5ba4,Door Tags,M_Door Tag,M_Door Tag,parameters,,,,0.0,0.0,0,0
+940969,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5ba9,Door Tags,M_Door Tag,M_Door Tag,parameters,,,,0.0,0.0,0,0
+940981,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5bb5,Door Tags,M_Door Tag,M_Door Tag,parameters,,,,0.0,0.0,0,0
+940988,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5bbc,Door Tags,M_Door Tag,M_Door Tag,parameters,,,,0.0,0.0,0,0
+940996,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5bc4,Door Tags,M_Door Tag,M_Door Tag,parameters,,,,0.0,0.0,0,0
+941002,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5bca,Door Tags,M_Door Tag,M_Door Tag,parameters,,,,0.0,0.0,0,0
+941009,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5bd1,Door Tags,M_Door Tag,M_Door Tag,parameters,,,,0.0,0.0,0,0
+941015,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5bd7,Door Tags,M_Door Tag,M_Door Tag,parameters,,,,0.0,0.0,0,0
+941135,78e9eb69-8d35-4a8d-b6a4-a44b58d40be2-000e5c4f,Door Tags,M_Door Tag,M_Door Tag,parameters,,,,0.0,0.0,0,0
+941201,08acd680-f6cc-4858-a2f4-c949eb38da6e-000e5c91,Window Tags,M_Window Tag,M_Window Tag,parameters,,,,0.0,0.0,0,0
+941203,08acd680-f6cc-4858-a2f4-c949eb38da6e-000e5c93,Window Tags,M_Window Tag,M_Window Tag,parameters,,,,0.0,0.0,0,0
+941204,08acd680-f6cc-4858-a2f4-c949eb38da6e-000e5c94,Window Tags,M_Window Tag,M_Window Tag,parameters,,,,0.0,0.0,0,0
+941206,08acd680-f6cc-4858-a2f4-c949eb38da6e-000e5c96,Window Tags,M_Window Tag,M_Window Tag,parameters,,,,0.0,0.0,0,0
+941210,08acd680-f6cc-4858-a2f4-c949eb38da6e-000e5c9a,Window Tags,M_Window Tag,M_Window Tag,parameters,,,,0.0,0.0,0,0
+941211,08acd680-f6cc-4858-a2f4-c949eb38da6e-000e5c9b,Window Tags,M_Window Tag,M_Window Tag,parameters,,,,0.0,0.0,0,0
+941212,08acd680-f6cc-4858-a2f4-c949eb38da6e-000e5c9c,Window Tags,M_Window Tag,M_Window Tag,parameters,,,,0.0,0.0,0,0
+941213,08acd680-f6cc-4858-a2f4-c949eb38da6e-000e5c9d,Window Tags,M_Window Tag,M_Window Tag,parameters,,,,0.0,0.0,0,0
+941252,08acd680-f6cc-4858-a2f4-c949eb38da6e-000e5cc4,Door Tags,M_Door Tag,M_Door Tag,parameters,,,,0.0,0.0,0,0
+941262,08acd680-f6cc-4858-a2f4-c949eb38da6e-000e5cce,Door Tags,M_Door Tag,M_Door Tag,parameters,,,,0.0,0.0,0,0
+941265,08acd680-f6cc-4858-a2f4-c949eb38da6e-000e5cd1,Door Tags,M_Door Tag,M_Door Tag,parameters,,,,0.0,0.0,0,0
+941271,08acd680-f6cc-4858-a2f4-c949eb38da6e-000e5cd7,Door Tags,M_Door Tag,M_Door Tag,parameters,,,,0.0,0.0,0,0
+941275,08acd680-f6cc-4858-a2f4-c949eb38da6e-000e5cdb,Door Tags,M_Door Tag,M_Door Tag,parameters,,,,0.0,0.0,0,0
+946164,ae8b4e75-e47d-473a-8255-a4634e701f79-000e6ff4,Planting,RPC Tree - Deciduous,Scarlet Oak - 42',parameters,"[-7204.163, 20738.313, 4404.511]","[-7204.163, 20738.313, 4404.511]",0.0,0.0,0.0,0,0
+946385,ae8b4e75-e47d-473a-8255-a4634e701f79-000e70d1,Planting,RPC Tree - Deciduous,Honey Locust - 25',parameters,"[-10581.058, 19580.302, 4044.442]","[-10581.058, 19580.302, 4044.442]",0.0,0.0,0.0,0,0
+946484,ae8b4e75-e47d-473a-8255-a4634e701f79-000e7134,Planting,RPC Tree - Deciduous,Red Maple - 30',parameters,"[-8704.718, 16894.317, 3693.533]","[-8704.718, 16894.317, 3693.533]",0.0,0.0,0.0,0,0
+946631,ae8b4e75-e47d-473a-8255-a4634e701f79-000e71c7,Planting,RPC Tree - Deciduous,Red Ash - 25',parameters,"[-2740.842, 9997.431, 2633.269]","[-2740.842, 9997.431, 2633.269]",0.0,0.0,0.0,0,0
+946708,ae8b4e75-e47d-473a-8255-a4634e701f79-000e7214,Planting,RPC Tree - Deciduous,Honey Locust - 25',parameters,"[-4938.068, 12066.533, 2951.371]","[-4938.068, 12066.533, 2951.371]",0.0,0.0,0.0,0,0
+946759,ae8b4e75-e47d-473a-8255-a4634e701f79-000e7247,Planting,RPC Tree - Deciduous,Lombardy Poplar - 40',parameters,"[-6640.068, 9807.903, 2485.245]","[-6640.068, 9807.903, 2485.245]",0.0,0.0,0.0,0,0
+946816,ae8b4e75-e47d-473a-8255-a4634e701f79-000e7280,Planting,RPC Tree - Deciduous,Honey Locust - 25',parameters,"[23018.558, -10346.449, 374.556]","[23018.558, -10346.449, 374.556]",0.0,0.0,0.0,0,0
+946835,ae8b4e75-e47d-473a-8255-a4634e701f79-000e7293,Planting,RPC Tree - Deciduous,Scarlet Oak - 42',parameters,"[22561.126, -13535.254, 157.869]","[22561.126, -13535.254, 157.869]",0.0,0.0,0.0,0,0
+946912,ae8b4e75-e47d-473a-8255-a4634e701f79-000e72e0,Planting,RPC Tree - Deciduous,Honey Locust - 25',parameters,"[24277.708, -16242.193, 288.634]","[24277.708, -16242.193, 288.634]",0.0,0.0,0.0,0,0
+946949,ae8b4e75-e47d-473a-8255-a4634e701f79-000e7305,Planting,RPC Tree - Deciduous,Honey Locust - 25',parameters,"[24775.214, -19585.235, 260.399]","[24775.214, -19585.235, 260.399]",0.0,0.0,0.0,0,0
+947002,ae8b4e75-e47d-473a-8255-a4634e701f79-000e733a,Planting,RPC Tree - Deciduous,Red Maple - 30',parameters,"[23842.523, -22698.587, 38.154]","[23842.523, -22698.587, 38.154]",0.0,0.0,0.0,0,0
+947057,ae8b4e75-e47d-473a-8255-a4634e701f79-000e7371,Planting,RPC Tree - Deciduous,Honey Locust - 25',parameters,"[23120.106, -25263.691, -92.501]","[23120.106, -25263.691, -92.501]",0.0,0.0,0.0,0,0
+947108,ae8b4e75-e47d-473a-8255-a4634e701f79-000e73a4,Planting,RPC Tree - Deciduous,Largetooth Aspen - 25',parameters,"[24429.093, -28511.527, 142.325]","[24429.093, -28511.527, 142.325]",0.0,0.0,0.0,0,0
+947273,ae8b4e75-e47d-473a-8255-a4634e701f79-000e7449,Planting,RPC Tree - Deciduous,Hawthorn - 25',parameters,"[19760.024, -39692.51, -267.993]","[19760.024, -39692.51, -267.993]",0.0,0.0,0.0,0,0
+947330,ae8b4e75-e47d-473a-8255-a4634e701f79-000e7482,Planting,RPC Tree - Deciduous,Honey Locust - 25',parameters,"[17127.212, -41524.729, -539.812]","[17127.212, -41524.729, -539.812]",0.0,0.0,0.0,0,0
+947379,ae8b4e75-e47d-473a-8255-a4634e701f79-000e74b3,Planting,RPC Tree - Deciduous,Honey Locust - 25',parameters,"[19523.119, -43330.175, -51.218]","[19523.119, -43330.175, -51.218]",0.0,0.0,0.0,0,0
+947884,ae8b4e75-e47d-473a-8255-a4634e701f79-000e76ac,<Sketch>,,,parameters,"[7819.079500000001, -45033.614499999996, 0.0]","[7819.079500000001, -45033.614499999996, 0.0]",0.0,0.0,0.0,0,0
+948595,ae8b4e75-e47d-473a-8255-a4634e701f79-000e7973,Property Line Segment Tags,Property Line Tag,Degress Minutes Seconds,parameters,,,,0.0,0.0,0,0
+948601,ae8b4e75-e47d-473a-8255-a4634e701f79-000e7979,Property Line Segment Tags,Property Line Tag,Degress Minutes Seconds,parameters,,,,0.0,0.0,0,0
+948606,ae8b4e75-e47d-473a-8255-a4634e701f79-000e797e,Property Line Segment Tags,Property Line Tag,Degress Minutes Seconds,parameters,,,,0.0,0.0,0,0
+948608,ae8b4e75-e47d-473a-8255-a4634e701f79-000e7980,Property Line Segment Tags,Property Line Tag,Degress Minutes Seconds,parameters,,,,0.0,0.0,0,0
+948610,ae8b4e75-e47d-473a-8255-a4634e701f79-000e7982,Property Line Segment Tags,Property Line Tag,Degress Minutes Seconds,parameters,,,,0.0,0.0,0,0
+948616,ae8b4e75-e47d-473a-8255-a4634e701f79-000e7988,Property Line Segment Tags,Property Line Tag,Degress Minutes Seconds,parameters,,,,0.0,0.0,0,0
+950367,ae8b4e75-e47d-473a-8255-a4634e701f79-000e805f,Entourage,M_RPC Beetle,M_RPC Beetle,parameters,"[4061.932, 16363.406, 2999.84]","[4061.932, 16363.406, 2999.84]",0.0,0.0,0.0,0,0
+950797,a4024583-c2b5-464e-976c-413241616a69-000e820d,Cameras,3D View,3D View,parameters,,,,0.0,0.0,0,0
+950804,a4024583-c2b5-464e-976c-413241616a69-000e8214,Cameras,3D View,3D View,parameters,,,,0.0,0.0,0,0
+954641,5ba82f05-9759-4b6e-8b19-8f869f7ed622-000e9111,Entourage,RPC Female,YinYin,parameters,"[11212.558, -17801.594, -550.0]","[11212.558, -17801.594, -550.0]",0.0,0.0,0.0,0,0
+954779,5ba82f05-9759-4b6e-8b19-8f869f7ed622-000e919b,Entourage,RPC Male,Alex,parameters,"[7694.742, -11101.594, 2550.0]","[7694.742, -11101.594, 2550.0]",0.0,0.0,0.0,0,0
+954992,5ba82f05-9759-4b6e-8b19-8f869f7ed622-000e9270,Entourage,RPC Female,YinYin,parameters,"[-5992.049, 590.406, 3000.0]","[-5992.049, 590.406, 3000.0]",0.0,0.0,0.0,0,0
+955125,5ba82f05-9759-4b6e-8b19-8f869f7ed622-000e92f5,Entourage,RPC Female,YinYin,parameters,"[11033.119, 4678.406, 3000.0]","[11033.119, 4678.406, 3000.0]",0.0,0.0,0.0,0,0
+958041,f11061a0-4a15-4ce6-9ed0-20da98b45046-000e9e59,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+958045,f11061a0-4a15-4ce6-9ed0-20da98b45046-000e9e5d,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+958185,f11061a0-4a15-4ce6-9ed0-20da98b45046-000e9ee9,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+958188,f11061a0-4a15-4ce6-9ed0-20da98b45046-000e9eec,Title Blocks,A1 metric,A1 metric,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+958196,f11061a0-4a15-4ce6-9ed0-20da98b45046-000e9ef4,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+958212,f11061a0-4a15-4ce6-9ed0-20da98b45046-000e9f04,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+958225,f11061a0-4a15-4ce6-9ed0-20da98b45046-000e9f11,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+958252,f11061a0-4a15-4ce6-9ed0-20da98b45046-000e9f2c,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+958255,f11061a0-4a15-4ce6-9ed0-20da98b45046-000e9f2f,Title Blocks,A1 metric,A1 metric,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+958263,f11061a0-4a15-4ce6-9ed0-20da98b45046-000e9f37,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+958265,f11061a0-4a15-4ce6-9ed0-20da98b45046-000e9f39,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+958267,8f0c17c0-bae8-45be-b6ac-f0f910f0d87c-000e9f3b,Views,Section,Wall Section,parameters,,,,0.0,0.0,0,0
+958301,8f0c17c0-bae8-45be-b6ac-f0f910f0d87c-000e9f5d,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+958302,8f0c17c0-bae8-45be-b6ac-f0f910f0d87c-000e9f5e,Views,Detail View,Detail,parameters,,,,0.0,0.0,0,0
+958315,8f0c17c0-bae8-45be-b6ac-f0f910f0d87c-000e9f6b,Views,Detail View,Detail,parameters,,,,0.0,0.0,0,0
+958328,8f0c17c0-bae8-45be-b6ac-f0f910f0d87c-000e9f78,Views,Detail View,Detail,parameters,,,,0.0,0.0,0,0
+958341,8f0c17c0-bae8-45be-b6ac-f0f910f0d87c-000e9f85,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+958386,8f0c17c0-bae8-45be-b6ac-f0f910f0d87c-000e9fb2,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+958387,8f0c17c0-bae8-45be-b6ac-f0f910f0d87c-000e9fb3,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+958460,8f0c17c0-bae8-45be-b6ac-f0f910f0d87c-000e9ffc,Views,Detail View,Detail,parameters,,,,0.0,0.0,0,0
+958475,8f0c17c0-bae8-45be-b6ac-f0f910f0d87c-000ea00b,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+959069,e9248f2e-7bb7-4baf-8541-afac7b6872de-000ea25d,Cameras,3D View,3D View,parameters,,,,0.0,0.0,0,0
+959136,e9248f2e-7bb7-4baf-8541-afac7b6872de-000ea2a0,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+959139,e9248f2e-7bb7-4baf-8541-afac7b6872de-000ea2a3,Title Blocks,A1 metric,A1 metric,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+959147,e9248f2e-7bb7-4baf-8541-afac7b6872de-000ea2ab,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+959149,e9248f2e-7bb7-4baf-8541-afac7b6872de-000ea2ad,Viewports,Viewport,Title w Line,parameters,,,,0.0,0.0,0,0
+959432,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea3c8,Planting Tags,Planting Tag,Boxed,parameters,,,,0.0,0.0,0,0
+959437,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea3cd,Planting Tags,Planting Tag,Boxed,parameters,,,,0.0,0.0,0,0
+959440,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea3d0,Planting Tags,Planting Tag,Boxed,parameters,,,,0.0,0.0,0,0
+959450,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea3da,Planting Tags,Planting Tag,Boxed,parameters,,,,0.0,0.0,0,0
+959452,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea3dc,Planting Tags,Planting Tag,Boxed,parameters,,,,0.0,0.0,0,0
+959455,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea3df,Planting Tags,Planting Tag,Boxed,parameters,,,,0.0,0.0,0,0
+959459,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea3e3,Planting Tags,Planting Tag,Boxed,parameters,,,,0.0,0.0,0,0
+959464,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea3e8,Planting Tags,Planting Tag,Boxed,parameters,,,,0.0,0.0,0,0
+959469,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea3ed,Planting Tags,Planting Tag,Boxed,parameters,,,,0.0,0.0,0,0
+959474,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea3f2,Planting Tags,Planting Tag,Boxed,parameters,,,,0.0,0.0,0,0
+959479,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea3f7,Planting Tags,Planting Tag,Boxed,parameters,,,,0.0,0.0,0,0
+959480,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea3f8,Planting Tags,Planting Tag,Boxed,parameters,,,,0.0,0.0,0,0
+959482,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea3fa,Planting Tags,Planting Tag,Boxed,parameters,,,,0.0,0.0,0,0
+959484,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea3fc,Planting Tags,Planting Tag,Boxed,parameters,,,,0.0,0.0,0,0
+959486,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea3fe,Planting Tags,Planting Tag,Boxed,parameters,,,,0.0,0.0,0,0
+959488,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea400,Planting Tags,Planting Tag,Boxed,parameters,,,,0.0,0.0,0,0
+959490,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea402,Planting Tags,Planting Tag,Boxed,parameters,,,,0.0,0.0,0,0
+959492,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea404,<none>,Schedule,Schedule,parameters,,,,0.0,0.0,0,0
+959497,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea409,Schedule Graphics,,,parameters,,,,0.0,0.0,0,0
+959511,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea417,<none>,Sheet,Sheet,parameters,,,,0.0,0.0,0,0
+959514,666da4f5-76ba-443a-9fe6-0bcd8a1bcfe9-000ea41a,Title Blocks,A1 metric,A1 metric,parameters,"[0.0, 0.0, 0.0]","[0.0, 0.0, 0.0]",0.0,0.0,0.0,0,0
+960066,1ee397e5-f3e7-4a90-8412-3f9d5b6c781a-000ea642,<none>,Rendering,Rendering,parameters,,,,0.0,0.0,0,0
+960073,1ee397e5-f3e7-4a90-8412-3f9d5b6c781a-000ea649,Viewports,Viewport,No Title,parameters,,,,0.0,0.0,0,0
+960078,1ee397e5-f3e7-4a90-8412-3f9d5b6c781a-000ea64e,<none>,Rendering,Rendering,parameters,,,,0.0,0.0,0,0
+960086,1ee397e5-f3e7-4a90-8412-3f9d5b6c781a-000ea656,Viewports,Viewport,No Title,parameters,,,,0.0,0.0,0,0
+960619,44745acb-ebea-4fb9-a091-88d28bd746c7-000ea86b,Cameras,3D View,3D View,parameters,,,,0.0,0.0,0,0
+961284,2ba32631-f822-47b9-b461-09f7d797885a-000eab04,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+961492,c7e790a2-7b6f-41a6-8df5-871fda84f725-000eabd4,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+961502,c7e790a2-7b6f-41a6-8df5-871fda84f725-000eabde,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+961512,c7e790a2-7b6f-41a6-8df5-871fda84f725-000eabe8,Elevations,Elevation,Building Elevation,parameters,,,,0.0,0.0,0,0
+970088,1f5552e7-b9d7-4742-a31b-da36eaf0502b-000ecd68,<none>,Schedule,Schedule,parameters,,,,0.0,0.0,0,0
+970093,1f5552e7-b9d7-4742-a31b-da36eaf0502b-000ecd6d,Schedule Graphics,,,parameters,,,,0.0,0.0,0,0
+976338,ab343b7e-3705-4b87-bacc-33c06a6cee1d-000ee5d2,<Sketch>,,,parameters,"[7061.932, -9199.094, 0.0]","[7061.932, -9199.094, 0.0]",0.0,0.0,0.0,0,0
+976365,ab343b7e-3705-4b87-bacc-33c06a6cee1d-000ee5ed,<Sketch>,,,parameters,"[9900.932, -2850.094, 0.0]","[9900.932, -2850.094, 0.0]",0.0,0.0,0.0,0,0
+976683,ab343b7e-3705-4b87-bacc-33c06a6cee1d-000ee72b,<Sketch>,,,parameters,"[8481.432, -3196.594, 0.0]","[8481.432, -3196.594, 0.0]",0.0,0.0,0.0,0,0
+976752,ab343b7e-3705-4b87-bacc-33c06a6cee1d-000ee770,Walls,Basic Wall,Interior - Partition,parameters,"[11582.432, -2503.594, -800.0]","[11582.432, -2503.594, -800.0]",0.0,0.284,0.284,6,6
+977133,ab343b7e-3705-4b87-bacc-33c06a6cee1d-000ee8ed,Walls,Basic Wall,Cavity wall_sliders,parameters,"[8531.932, -3341.594, 0.0]","[8531.932, -3341.594, 0.0]",0.0,2.623,2.623,7,7
+977377,ab343b7e-3705-4b87-bacc-33c06a6cee1d-000ee9e1,Walls,Curtain Wall,SH_Curtain wall,parameters,"[961.9319999999998, 2899.406, 0.0]","[961.9319999999998, 2899.406, 0.0]",0.0,0.796,0.796,0,0
+981963,6b947320-bbcc-4f13-964d-b6403cf5dd5c-000efbcb,Furniture,Seat - Single with Island,Model with Island,parameters,"[12361.932, -9681.594, -550.0]","[12361.932, -9681.594, -550.0]",0.0,1.876,1.876,162,162
+982762,6b947320-bbcc-4f13-964d-b6403cf5dd5c-000efeea,Furniture,Sofa - Ottoman,W600XD600,parameters,"[10061.932, -9221.594, -550.0]","[10061.932, -9221.594, -550.0]",0.0,0.12,0.12,15,15
+983030,99975ae8-4923-4142-9a90-6d9603fcba60-000efff6,Furniture,Sofa - Ottoman,W600XD600 2,parameters,"[10061.932, -8571.594, -550.0]","[10061.932, -8571.594, -550.0]",0.0,0.12,0.12,15,15
+983156,99975ae8-4923-4142-9a90-6d9603fcba60-000f0074,Furniture,Sofa - Ottoman,W600XD600,parameters,"[10061.932, -7921.594, -550.0]","[10061.932, -7921.594, -550.0]",0.0,0.12,0.12,15,15
+983164,99975ae8-4923-4142-9a90-6d9603fcba60-000f007c,Furniture,Sofa - Ottoman,W600XD600,parameters,"[10061.932, -7271.594, -550.0]","[10061.932, -7271.594, -550.0]",0.0,0.12,0.12,15,15
+983236,99975ae8-4923-4142-9a90-6d9603fcba60-000f00c4,Furniture,Sofa - Ottoman,W600XD600,parameters,"[9411.932, -7271.594, -550.0]","[9411.932, -7271.594, -550.0]",0.0,0.12,0.12,15,15
+983306,99975ae8-4923-4142-9a90-6d9603fcba60-000f010a,Furniture,Sofa - Ottoman,W600XD600 2,parameters,"[9411.932, -6621.594, -550.0]","[9411.932, -6621.594, -550.0]",0.0,0.12,0.12,15,15
+983388,99975ae8-4923-4142-9a90-6d9603fcba60-000f015c,Furniture,Sofa - Ottoman,W600XD600,parameters,"[9411.932, -5971.594, -550.0]","[9411.932, -5971.594, -550.0]",0.0,0.12,0.12,15,15
+984486,99975ae8-4923-4142-9a90-6d9603fcba60-000f05a6,Furniture,Cabinet 1,W1500XD400XH530,parameters,"[8540.932, -3751.594, -550.0]","[8540.932, -3751.594, -550.0]",0.0,0.158,0.158,122,122
+985756,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f0a9c,Furniture,M_TV - Flat Screen,0810mm,parameters,"[8540.932, -3586.525, -20.0]","[8540.932, -3586.525, -20.0]",0.0,0.049,0.049,39,39
+986988,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f0f6c,Specialty Equipment,Vase (3)-with Flower,Vase (3)-with Flower,parameters,"[9191.992, -3826.218, -20.0]","[9191.992, -3826.218, -20.0]",0.0,0.002,0.002,42,42
+987054,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f0fae,Furniture,Side Table 2 (2),Side Table 2 (2),parameters,"[11821.932, -7301.594, -550.0]","[11821.932, -7301.594, -550.0]",0.0,0.015,0.015,26,26
+987167,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f101f,Furniture,Side Table 2 (2),Side Table 2 (2),parameters,"[11821.164, -11736.594, -550.0]","[11821.164, -11736.594, -550.0]",0.0,0.015,0.015,26,26
+988128,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f13e0,Furniture,Bar Chair,Bar Chair,parameters,"[5359.932, 17.406, 0.0]","[5359.932, 17.406, 0.0]",0.0,0.003,0.003,36,36
+988396,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f14ec,Furniture,Bar Chair,Bar Chair,parameters,"[3999.932, 17.406, 0.0]","[3999.932, 17.406, 0.0]",0.0,0.003,0.003,36,36
+988459,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f152b,Furniture,Bar Chair,Bar Chair,parameters,"[4679.932, 17.406, 0.0]","[4679.932, 17.406, 0.0]",0.0,0.003,0.003,36,36
+988462,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f152e,Furniture,Bar Chair,Bar Chair,parameters,"[2659.932, 17.406, 0.0]","[2659.932, 17.406, 0.0]",0.0,0.003,0.003,36,36
+988603,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f15bb,Furniture,Bar Chair,Bar Chair,parameters,"[1319.932, 17.406, 0.0]","[1319.932, 17.406, 0.0]",0.0,0.003,0.003,36,36
+988640,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f15e0,Furniture,Bar Chair,Bar Chair,parameters,"[1989.932, 17.406, 0.0]","[1989.932, 17.406, 0.0]",0.0,0.003,0.003,36,36
+989344,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f18a0,Furniture,Table-Dining 01 (M),1800 x 900 mm,parameters,"[-2538.068, -1101.594, 0.0]","[-2538.068, -1101.594, 0.0]",0.0,0.072,0.072,74,74
+989521,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f1951,Furniture,Table-Dining 01 (M),1800 x 900 mm,parameters,"[-2538.068, 698.406, 0.0]","[-2538.068, 698.406, 0.0]",0.0,0.072,0.072,74,74
+990317,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f1c6d,Furniture,Dining Chair (3),Dining Chair (3),parameters,"[-3298.068, 1058.406, 0.0]","[-3298.068, 1058.406, 0.0]",0.0,0.003,0.003,53,53
+990596,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f1d84,Furniture,Dining Chair (3),Dining Chair (3),parameters,"[-3298.068, 238.406, 0.0]","[-3298.068, 238.406, 0.0]",0.0,0.003,0.003,53,53
+990620,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f1d9c,Furniture,Dining Chair (3),Dining Chair (3),parameters,"[-1778.068, 1058.406, 0.0]","[-1778.068, 1058.406, 0.0]",0.0,0.003,0.003,53,53
+990621,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f1d9d,Furniture,Dining Chair (3),Dining Chair (3),parameters,"[-1778.068, 238.406, 0.0]","[-1778.068, 238.406, 0.0]",0.0,0.003,0.003,53,53
+990645,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f1db5,Furniture,Dining Chair (3),Dining Chair (3),parameters,"[-3298.068, -1461.594, 0.0]","[-3298.068, -1461.594, 0.0]",0.0,0.003,0.003,53,53
+990646,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f1db6,Furniture,Dining Chair (3),Dining Chair (3),parameters,"[-3298.068, -641.594, 0.0]","[-3298.068, -641.594, 0.0]",0.0,0.003,0.003,53,53
+990647,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f1db7,Furniture,Dining Chair (3),Dining Chair (3),parameters,"[-1778.068, -1461.594, 0.0]","[-1778.068, -1461.594, 0.0]",0.0,0.003,0.003,53,53
+990648,705e25a1-127e-4d76-b5f5-4e766ef073a3-000f1db8,Furniture,Dining Chair (3),Dining Chair (3),parameters,"[-1778.068, -641.594, 0.0]","[-1778.068, -641.594, 0.0]",0.0,0.003,0.003,53,53
+993091,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f2743,Specialty Equipment,Wine Bottles,Wine Bottles,parameters,"[-2538.068, -1601.594, 750.0]","[-2538.068, -1601.594, 750.0]",0.0,0.002,0.002,28,28
+993980,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f2abc,Generic Models,aalto vase - tall,White,parameters,"[1219.932, -422.594, 945.0]","[1219.932, -422.594, 945.0]",0.0,0.001,0.001,35,35
+994782,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f2dde,Generic Models,White Porcelain Plate,Fine China - Plate,parameters,"[-2828.068, -1456.42, 750.0]","[-2828.068, -1456.42, 750.0]",0.0,0.0,0.0,14,14
+996881,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f3611,Generic Models,Water Glass,Water Glass,parameters,"[-2678.068, -1342.829, 750.0]","[-2678.068, -1342.829, 750.0]",0.0,0.001,0.001,20,20
+997032,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f36a8,Generic Models,White Porcelain Plate,Fine China - Plate,parameters,"[-2828.068, -636.42, 750.0]","[-2828.068, -636.42, 750.0]",0.0,0.0,0.0,14,14
+997033,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f36a9,Generic Models,Water Glass,Water Glass,parameters,"[-2678.068, -522.829, 750.0]","[-2678.068, -522.829, 750.0]",0.0,0.001,0.001,20,20
+997050,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f36ba,Generic Models,White Porcelain Plate,Fine China - Plate,parameters,"[-2828.068, 243.58, 750.0]","[-2828.068, 243.58, 750.0]",0.0,0.0,0.0,14,14
+997051,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f36bb,Generic Models,Water Glass,Water Glass,parameters,"[-2678.068, 357.171, 750.0]","[-2678.068, 357.171, 750.0]",0.0,0.001,0.001,20,20
+997068,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f36cc,Generic Models,White Porcelain Plate,Fine China - Plate,parameters,"[-2828.068, 1063.58, 750.0]","[-2828.068, 1063.58, 750.0]",0.0,0.0,0.0,14,14
+997069,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f36cd,Generic Models,Water Glass,Water Glass,parameters,"[-2678.068, 1177.171, 750.0]","[-2678.068, 1177.171, 750.0]",0.0,0.001,0.001,20,20
+997114,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f36fa,Generic Models,White Porcelain Plate,Fine China - Plate,parameters,"[-2248.068, -1456.42, 750.0]","[-2248.068, -1456.42, 750.0]",0.0,0.0,0.0,14,14
+997115,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f36fb,Generic Models,Water Glass,Water Glass,parameters,"[-2378.068, -1601.594, 750.0]","[-2378.068, -1601.594, 750.0]",0.0,0.001,0.001,20,20
+997116,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f36fc,Generic Models,White Porcelain Plate,Fine China - Plate,parameters,"[-2248.068, -636.42, 750.0]","[-2248.068, -636.42, 750.0]",0.0,0.0,0.0,14,14
+997117,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f36fd,Generic Models,Water Glass,Water Glass,parameters,"[-2398.068, -741.594, 750.0]","[-2398.068, -741.594, 750.0]",0.0,0.001,0.001,20,20
+997118,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f36fe,Generic Models,White Porcelain Plate,Fine China - Plate,parameters,"[-2248.068, 243.58, 750.0]","[-2248.068, 243.58, 750.0]",0.0,0.0,0.0,14,14
+997119,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f36ff,Generic Models,Water Glass,Water Glass,parameters,"[-2398.068, 98.406, 750.0]","[-2398.068, 98.406, 750.0]",0.0,0.001,0.001,20,20
+997120,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f3700,Generic Models,White Porcelain Plate,Fine China - Plate,parameters,"[-2248.068, 1063.58, 750.0]","[-2248.068, 1063.58, 750.0]",0.0,0.0,0.0,14,14
+997121,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f3701,Generic Models,Water Glass,Water Glass,parameters,"[-2398.068, 938.406, 750.0]","[-2398.068, 938.406, 750.0]",0.0,0.001,0.001,20,20
+998191,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f3b2f,<none>,Rendering,Rendering,parameters,,,,0.0,0.0,0,0
+998198,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f3b36,Viewports,Viewport,No Title,parameters,,,,0.0,0.0,0,0
+998204,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f3b3c,<none>,Rendering,Rendering,parameters,,,,0.0,0.0,0,0
+998211,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f3b43,Viewports,Viewport,No Title,parameters,,,,0.0,0.0,0,0
+998216,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f3b48,<none>,Rendering,Rendering,parameters,,,,0.0,0.0,0,0
+998223,17d64ad0-d78d-4987-a236-e3b1011abdd3-000f3b4f,Viewports,Viewport,No Title,parameters,,,,0.0,0.0,0,0
+1103396,d804a0e2-78cf-4bea-a301-5bc65ea2ef3a-0010d624,Analytical Nodes,,,parameters,,,,0.0,0.0,0,0
+1103398,d804a0e2-78cf-4bea-a301-5bc65ea2ef3a-0010d626,Analytical Nodes,,,parameters,,,,0.0,0.0,0,0
+1103400,d804a0e2-78cf-4bea-a301-5bc65ea2ef3a-0010d628,Analytical Nodes,,,parameters,,,,0.0,0.0,0,0
+1103402,d804a0e2-78cf-4bea-a301-5bc65ea2ef3a-0010d62a,Analytical Nodes,,,parameters,,,,0.0,0.0,0,0

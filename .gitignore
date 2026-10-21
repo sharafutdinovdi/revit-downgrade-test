@@ -1,0 +1,7 @@
+data/**/*.rvt
+data/**/*.rfa
+data/**/*.rte
+data/**/*.rft
+__pycache__/
+.pytest_cache/
+out/

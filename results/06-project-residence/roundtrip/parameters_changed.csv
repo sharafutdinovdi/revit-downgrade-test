@@ -1,0 +1,1283 @@
+elementId,uniqueId,category,family,type,parameterName,before,after,kind
+31,933c4a06-93b8-11d3-80f8-00c04f8efc32-0000001f,<none>,Floor Plan,Architectural Plan,Saved Position,1322341,-1,changed
+31,933c4a06-93b8-11d3-80f8-00c04f8efc32-0000001f,<none>,Floor Plan,Architectural Plan,Sheet Collection,2884526,-1,changed
+31,933c4a06-93b8-11d3-80f8-00c04f8efc32-0000001f,<none>,Floor Plan,Architectural Plan,Sheet Collection,2884526,-1,changed
+31,933c4a06-93b8-11d3-80f8-00c04f8efc32-0000001f,<none>,Floor Plan,Architectural Plan,View Anchor,2,0,changed
+31,933c4a06-93b8-11d3-80f8-00c04f8efc32-0000001f,<none>,Floor Plan,Architectural Plan,View Position X,57.773,272.95,changed
+31,933c4a06-93b8-11d3-80f8-00c04f8efc32-0000001f,<none>,Floor Plan,Architectural Plan,View Position Y,715.832,355.6,changed
+35,933c4a06-93b8-11d3-80f8-00c04f8efc32-00000023,<none>,Ceiling Plan,Architectural Ceiling Plan,Saved Position,1322341,-1,changed
+35,933c4a06-93b8-11d3-80f8-00c04f8efc32-00000023,<none>,Ceiling Plan,Architectural Ceiling Plan,View Anchor,2,0,changed
+35,933c4a06-93b8-11d3-80f8-00c04f8efc32-00000023,<none>,Ceiling Plan,Architectural Ceiling Plan,View Position X,57.773,272.95,changed
+35,933c4a06-93b8-11d3-80f8-00c04f8efc32-00000023,<none>,Ceiling Plan,Architectural Ceiling Plan,View Position Y,715.832,355.6,changed
+29152,5f835dbc-9347-11d5-93d5-0000863f27ad-000071e0,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,2884526,-1,changed
+29152,5f835dbc-9347-11d5-93d5-0000863f27ad-000071e0,Elevations,Elevation,Building Elevation,Sheet Collection,2884526,-1,changed
+29153,5f835dbc-9347-11d5-93d5-0000863f27ad-000071e1,Views,Elevation,Building Elevation,Referencing Sheet Collection,2884526,-1,changed
+29153,5f835dbc-9347-11d5-93d5-0000863f27ad-000071e1,Views,Elevation,Building Elevation,Saved Position,2099341,-1,changed
+29153,5f835dbc-9347-11d5-93d5-0000863f27ad-000071e1,Views,Elevation,Building Elevation,Sheet Collection,2884526,-1,changed
+29153,5f835dbc-9347-11d5-93d5-0000863f27ad-000071e1,Views,Elevation,Building Elevation,Sheet Collection,2884526,-1,changed
+29153,5f835dbc-9347-11d5-93d5-0000863f27ad-000071e1,Views,Elevation,Building Elevation,View Anchor,1,0,changed
+29153,5f835dbc-9347-11d5-93d5-0000863f27ad-000071e1,Views,Elevation,Building Elevation,View Position X,360.936,293.923,changed
+29153,5f835dbc-9347-11d5-93d5-0000863f27ad-000071e1,Views,Elevation,Building Elevation,View Position Y,570.435,497.922,changed
+29157,5f835dbc-9347-11d5-93d5-0000863f27ad-000071e5,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,2884526,-1,changed
+29157,5f835dbc-9347-11d5-93d5-0000863f27ad-000071e5,Elevations,Elevation,Building Elevation,Sheet Collection,2884526,-1,changed
+29162,5f835dbc-9347-11d5-93d5-0000863f27ad-000071ea,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,2884526,-1,changed
+29162,5f835dbc-9347-11d5-93d5-0000863f27ad-000071ea,Elevations,Elevation,Building Elevation,Sheet Collection,2884526,-1,changed
+29167,5f835dbc-9347-11d5-93d5-0000863f27ad-000071ef,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,2884526,-1,changed
+29167,5f835dbc-9347-11d5-93d5-0000863f27ad-000071ef,Elevations,Elevation,Building Elevation,Sheet Collection,2884526,-1,changed
+29176,5f835dbc-9347-11d5-93d5-0000863f27ad-000071f8,Views,Elevation,Building Elevation,Referencing Sheet Collection,2884526,-1,changed
+29176,5f835dbc-9347-11d5-93d5-0000863f27ad-000071f8,Views,Elevation,Building Elevation,Saved Position,2099344,-1,changed
+29176,5f835dbc-9347-11d5-93d5-0000863f27ad-000071f8,Views,Elevation,Building Elevation,Sheet Collection,2884526,-1,changed
+29176,5f835dbc-9347-11d5-93d5-0000863f27ad-000071f8,Views,Elevation,Building Elevation,Sheet Collection,2884526,-1,changed
+29176,5f835dbc-9347-11d5-93d5-0000863f27ad-000071f8,Views,Elevation,Building Elevation,View Anchor,1,0,changed
+29176,5f835dbc-9347-11d5-93d5-0000863f27ad-000071f8,Views,Elevation,Building Elevation,View Position X,820.313,773.929,changed
+29176,5f835dbc-9347-11d5-93d5-0000863f27ad-000071f8,Views,Elevation,Building Elevation,View Position Y,227.983,155.47,changed
+29185,5f835dbc-9347-11d5-93d5-0000863f27ad-00007201,Views,Elevation,Building Elevation,Referencing Sheet Collection,2884526,-1,changed
+29185,5f835dbc-9347-11d5-93d5-0000863f27ad-00007201,Views,Elevation,Building Elevation,Saved Position,2099342,-1,changed
+29185,5f835dbc-9347-11d5-93d5-0000863f27ad-00007201,Views,Elevation,Building Elevation,Sheet Collection,2884526,-1,changed
+29185,5f835dbc-9347-11d5-93d5-0000863f27ad-00007201,Views,Elevation,Building Elevation,Sheet Collection,2884526,-1,changed
+29185,5f835dbc-9347-11d5-93d5-0000863f27ad-00007201,Views,Elevation,Building Elevation,View Anchor,1,0,changed
+29185,5f835dbc-9347-11d5-93d5-0000863f27ad-00007201,Views,Elevation,Building Elevation,View Position X,358.246,408.222,changed
+29185,5f835dbc-9347-11d5-93d5-0000863f27ad-00007201,Views,Elevation,Building Elevation,View Position Y,227.983,155.47,changed
+29194,5f835dbc-9347-11d5-93d5-0000863f27ad-0000720a,Views,Elevation,Building Elevation,Referencing Sheet Collection,2884526,-1,changed
+29194,5f835dbc-9347-11d5-93d5-0000863f27ad-0000720a,Views,Elevation,Building Elevation,Saved Position,2099343,-1,changed
+29194,5f835dbc-9347-11d5-93d5-0000863f27ad-0000720a,Views,Elevation,Building Elevation,Sheet Collection,2884526,-1,changed
+29194,5f835dbc-9347-11d5-93d5-0000863f27ad-0000720a,Views,Elevation,Building Elevation,Sheet Collection,2884526,-1,changed
+29194,5f835dbc-9347-11d5-93d5-0000863f27ad-0000720a,Views,Elevation,Building Elevation,View Anchor,1,0,changed
+29194,5f835dbc-9347-11d5-93d5-0000863f27ad-0000720a,Views,Elevation,Building Elevation,View Position X,817.611,860.08,changed
+29194,5f835dbc-9347-11d5-93d5-0000863f27ad-0000720a,Views,Elevation,Building Elevation,View Position Y,570.435,497.922,changed
+29236,d98f349a-9aef-11d5-93e2-0000863f27ad-00007234,<none>,Floor Plan,Roof Plan,Saved Position,1322341,-1,changed
+29236,d98f349a-9aef-11d5-93e2-0000863f27ad-00007234,<none>,Floor Plan,Roof Plan,Sheet Collection,2884526,-1,changed
+29236,d98f349a-9aef-11d5-93e2-0000863f27ad-00007234,<none>,Floor Plan,Roof Plan,Sheet Collection,2884526,-1,changed
+29236,d98f349a-9aef-11d5-93e2-0000863f27ad-00007234,<none>,Floor Plan,Roof Plan,View Anchor,2,0,changed
+29236,d98f349a-9aef-11d5-93e2-0000863f27ad-00007234,<none>,Floor Plan,Roof Plan,View Position X,57.773,272.95,changed
+29236,d98f349a-9aef-11d5-93e2-0000863f27ad-00007234,<none>,Floor Plan,Roof Plan,View Position Y,715.832,355.6,changed
+137421,afa12384-935a-4c35-855a-9f34dd2153ec-000218cd,Building Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137421,afa12384-935a-4c35-855a-9f34dd2153ec-000218cd,Building Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137421,afa12384-935a-4c35-855a-9f34dd2153ec-000218cd,Building Type Settings,,,Power Schedule,1205848,2952188,changed
+137422,afa12384-935a-4c35-855a-9f34dd2153ec-000218ce,Building Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137422,afa12384-935a-4c35-855a-9f34dd2153ec-000218ce,Building Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137422,afa12384-935a-4c35-855a-9f34dd2153ec-000218ce,Building Type Settings,,,Power Schedule,1205848,2952188,changed
+137423,afa12384-935a-4c35-855a-9f34dd2153ec-000218cf,Building Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137423,afa12384-935a-4c35-855a-9f34dd2153ec-000218cf,Building Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137423,afa12384-935a-4c35-855a-9f34dd2153ec-000218cf,Building Type Settings,,,Power Schedule,1205846,2952186,changed
+137424,afa12384-935a-4c35-855a-9f34dd2153ec-000218d0,Building Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137424,afa12384-935a-4c35-855a-9f34dd2153ec-000218d0,Building Type Settings,,,Occupancy Schedule,1205842,2952182,changed
+137424,afa12384-935a-4c35-855a-9f34dd2153ec-000218d0,Building Type Settings,,,Power Schedule,1205848,2952188,changed
+137425,afa12384-935a-4c35-855a-9f34dd2153ec-000218d1,Building Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137425,afa12384-935a-4c35-855a-9f34dd2153ec-000218d1,Building Type Settings,,,Occupancy Schedule,1205842,2952182,changed
+137425,afa12384-935a-4c35-855a-9f34dd2153ec-000218d1,Building Type Settings,,,Power Schedule,1205848,2952188,changed
+137426,afa12384-935a-4c35-855a-9f34dd2153ec-000218d2,Building Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137426,afa12384-935a-4c35-855a-9f34dd2153ec-000218d2,Building Type Settings,,,Occupancy Schedule,1205842,2952182,changed
+137426,afa12384-935a-4c35-855a-9f34dd2153ec-000218d2,Building Type Settings,,,Power Schedule,1205848,2952188,changed
+137427,afa12384-935a-4c35-855a-9f34dd2153ec-000218d3,Building Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137427,afa12384-935a-4c35-855a-9f34dd2153ec-000218d3,Building Type Settings,,,Occupancy Schedule,1205841,2952181,changed
+137427,afa12384-935a-4c35-855a-9f34dd2153ec-000218d3,Building Type Settings,,,Power Schedule,1205846,2952186,changed
+137428,afa12384-935a-4c35-855a-9f34dd2153ec-000218d4,Building Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137428,afa12384-935a-4c35-855a-9f34dd2153ec-000218d4,Building Type Settings,,,Occupancy Schedule,1205843,2952183,changed
+137428,afa12384-935a-4c35-855a-9f34dd2153ec-000218d4,Building Type Settings,,,Power Schedule,1205848,2952188,changed
+137429,afa12384-935a-4c35-855a-9f34dd2153ec-000218d5,Building Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137429,afa12384-935a-4c35-855a-9f34dd2153ec-000218d5,Building Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137429,afa12384-935a-4c35-855a-9f34dd2153ec-000218d5,Building Type Settings,,,Power Schedule,1205846,2952186,changed
+137430,afa12384-935a-4c35-855a-9f34dd2153ec-000218d6,Building Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137430,afa12384-935a-4c35-855a-9f34dd2153ec-000218d6,Building Type Settings,,,Occupancy Schedule,1205844,2952184,changed
+137430,afa12384-935a-4c35-855a-9f34dd2153ec-000218d6,Building Type Settings,,,Power Schedule,1205848,2952188,changed
+137431,afa12384-935a-4c35-855a-9f34dd2153ec-000218d7,Building Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137431,afa12384-935a-4c35-855a-9f34dd2153ec-000218d7,Building Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137431,afa12384-935a-4c35-855a-9f34dd2153ec-000218d7,Building Type Settings,,,Power Schedule,1205846,2952186,changed
+137432,afa12384-935a-4c35-855a-9f34dd2153ec-000218d8,Building Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137432,afa12384-935a-4c35-855a-9f34dd2153ec-000218d8,Building Type Settings,,,Occupancy Schedule,1205839,2952179,changed
+137432,afa12384-935a-4c35-855a-9f34dd2153ec-000218d8,Building Type Settings,,,Power Schedule,1205846,2952186,changed
+137433,afa12384-935a-4c35-855a-9f34dd2153ec-000218d9,Building Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137433,afa12384-935a-4c35-855a-9f34dd2153ec-000218d9,Building Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137433,afa12384-935a-4c35-855a-9f34dd2153ec-000218d9,Building Type Settings,,,Power Schedule,1205846,2952186,changed
+137434,afa12384-935a-4c35-855a-9f34dd2153ec-000218da,Building Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137434,afa12384-935a-4c35-855a-9f34dd2153ec-000218da,Building Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137434,afa12384-935a-4c35-855a-9f34dd2153ec-000218da,Building Type Settings,,,Power Schedule,1205846,2952186,changed
+137435,afa12384-935a-4c35-855a-9f34dd2153ec-000218db,Building Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137435,afa12384-935a-4c35-855a-9f34dd2153ec-000218db,Building Type Settings,,,Occupancy Schedule,1205839,2952179,changed
+137435,afa12384-935a-4c35-855a-9f34dd2153ec-000218db,Building Type Settings,,,Power Schedule,1205846,2952186,changed
+137436,afa12384-935a-4c35-855a-9f34dd2153ec-000218dc,Building Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137436,afa12384-935a-4c35-855a-9f34dd2153ec-000218dc,Building Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137436,afa12384-935a-4c35-855a-9f34dd2153ec-000218dc,Building Type Settings,,,Power Schedule,1205848,2952188,changed
+137437,afa12384-935a-4c35-855a-9f34dd2153ec-000218dd,Building Type Settings,,,Lighting Schedule,1205847,2952187,changed
+137437,afa12384-935a-4c35-855a-9f34dd2153ec-000218dd,Building Type Settings,,,Occupancy Schedule,1205841,2952181,changed
+137437,afa12384-935a-4c35-855a-9f34dd2153ec-000218dd,Building Type Settings,,,Power Schedule,1205847,2952187,changed
+137438,afa12384-935a-4c35-855a-9f34dd2153ec-000218de,Building Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137438,afa12384-935a-4c35-855a-9f34dd2153ec-000218de,Building Type Settings,,,Occupancy Schedule,1205843,2952183,changed
+137438,afa12384-935a-4c35-855a-9f34dd2153ec-000218de,Building Type Settings,,,Power Schedule,1205848,2952188,changed
+137439,afa12384-935a-4c35-855a-9f34dd2153ec-000218df,Building Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137439,afa12384-935a-4c35-855a-9f34dd2153ec-000218df,Building Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137439,afa12384-935a-4c35-855a-9f34dd2153ec-000218df,Building Type Settings,,,Power Schedule,1205846,2952186,changed
+137440,afa12384-935a-4c35-855a-9f34dd2153ec-000218e0,Building Type Settings,,,Lighting Schedule,1205850,2952190,changed
+137440,afa12384-935a-4c35-855a-9f34dd2153ec-000218e0,Building Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137440,afa12384-935a-4c35-855a-9f34dd2153ec-000218e0,Building Type Settings,,,Power Schedule,1205850,2952190,changed
+137441,afa12384-935a-4c35-855a-9f34dd2153ec-000218e1,Building Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137441,afa12384-935a-4c35-855a-9f34dd2153ec-000218e1,Building Type Settings,,,Occupancy Schedule,1205842,2952182,changed
+137441,afa12384-935a-4c35-855a-9f34dd2153ec-000218e1,Building Type Settings,,,Power Schedule,1205846,2952186,changed
+137442,afa12384-935a-4c35-855a-9f34dd2153ec-000218e2,Building Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137442,afa12384-935a-4c35-855a-9f34dd2153ec-000218e2,Building Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137442,afa12384-935a-4c35-855a-9f34dd2153ec-000218e2,Building Type Settings,,,Power Schedule,1205848,2952188,changed
+137443,afa12384-935a-4c35-855a-9f34dd2153ec-000218e3,Building Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137443,afa12384-935a-4c35-855a-9f34dd2153ec-000218e3,Building Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137443,afa12384-935a-4c35-855a-9f34dd2153ec-000218e3,Building Type Settings,,,Power Schedule,1205846,2952186,changed
+137444,afa12384-935a-4c35-855a-9f34dd2153ec-000218e4,Building Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137444,afa12384-935a-4c35-855a-9f34dd2153ec-000218e4,Building Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137444,afa12384-935a-4c35-855a-9f34dd2153ec-000218e4,Building Type Settings,,,Power Schedule,1205846,2952186,changed
+137445,afa12384-935a-4c35-855a-9f34dd2153ec-000218e5,Building Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137445,afa12384-935a-4c35-855a-9f34dd2153ec-000218e5,Building Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137445,afa12384-935a-4c35-855a-9f34dd2153ec-000218e5,Building Type Settings,,,Power Schedule,1205848,2952188,changed
+137446,afa12384-935a-4c35-855a-9f34dd2153ec-000218e6,Building Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137446,afa12384-935a-4c35-855a-9f34dd2153ec-000218e6,Building Type Settings,,,Occupancy Schedule,1205843,2952183,changed
+137446,afa12384-935a-4c35-855a-9f34dd2153ec-000218e6,Building Type Settings,,,Power Schedule,1205848,2952188,changed
+137447,afa12384-935a-4c35-855a-9f34dd2153ec-000218e7,Building Type Settings,,,Lighting Schedule,1205849,2952189,changed
+137447,afa12384-935a-4c35-855a-9f34dd2153ec-000218e7,Building Type Settings,,,Occupancy Schedule,1205844,2952184,changed
+137447,afa12384-935a-4c35-855a-9f34dd2153ec-000218e7,Building Type Settings,,,Power Schedule,1205849,2952189,changed
+137448,afa12384-935a-4c35-855a-9f34dd2153ec-000218e8,Building Type Settings,,,Lighting Schedule,1205847,2952187,changed
+137448,afa12384-935a-4c35-855a-9f34dd2153ec-000218e8,Building Type Settings,,,Occupancy Schedule,1205841,2952181,changed
+137448,afa12384-935a-4c35-855a-9f34dd2153ec-000218e8,Building Type Settings,,,Power Schedule,1205847,2952187,changed
+137449,afa12384-935a-4c35-855a-9f34dd2153ec-000218e9,Building Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137449,afa12384-935a-4c35-855a-9f34dd2153ec-000218e9,Building Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137449,afa12384-935a-4c35-855a-9f34dd2153ec-000218e9,Building Type Settings,,,Power Schedule,1205848,2952188,changed
+137450,afa12384-935a-4c35-855a-9f34dd2153ec-000218ea,Building Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137450,afa12384-935a-4c35-855a-9f34dd2153ec-000218ea,Building Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137450,afa12384-935a-4c35-855a-9f34dd2153ec-000218ea,Building Type Settings,,,Power Schedule,1205846,2952186,changed
+137451,afa12384-935a-4c35-855a-9f34dd2153ec-000218eb,Building Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137451,afa12384-935a-4c35-855a-9f34dd2153ec-000218eb,Building Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137451,afa12384-935a-4c35-855a-9f34dd2153ec-000218eb,Building Type Settings,,,Power Schedule,1205848,2952188,changed
+137452,afa12384-935a-4c35-855a-9f34dd2153ec-000218ec,Building Type Settings,,,Lighting Schedule,1205850,2952190,changed
+137452,afa12384-935a-4c35-855a-9f34dd2153ec-000218ec,Building Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137452,afa12384-935a-4c35-855a-9f34dd2153ec-000218ec,Building Type Settings,,,Power Schedule,1205850,2952190,changed
+137453,afa12384-935a-4c35-855a-9f34dd2153ec-000218ed,Building Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137453,afa12384-935a-4c35-855a-9f34dd2153ec-000218ed,Building Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137453,afa12384-935a-4c35-855a-9f34dd2153ec-000218ed,Building Type Settings,,,Power Schedule,1205846,2952186,changed
+137454,afa12384-935a-4c35-855a-9f34dd2153ec-000218ee,Space Type Settings,,,Lighting Schedule,1205850,2952190,changed
+137454,afa12384-935a-4c35-855a-9f34dd2153ec-000218ee,Space Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137454,afa12384-935a-4c35-855a-9f34dd2153ec-000218ee,Space Type Settings,,,Power Schedule,1205850,2952190,changed
+137455,afa12384-935a-4c35-855a-9f34dd2153ec-000218ef,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137455,afa12384-935a-4c35-855a-9f34dd2153ec-000218ef,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137455,afa12384-935a-4c35-855a-9f34dd2153ec-000218ef,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137456,afa12384-935a-4c35-855a-9f34dd2153ec-000218f0,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137456,afa12384-935a-4c35-855a-9f34dd2153ec-000218f0,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137456,afa12384-935a-4c35-855a-9f34dd2153ec-000218f0,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137457,afa12384-935a-4c35-855a-9f34dd2153ec-000218f1,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137457,afa12384-935a-4c35-855a-9f34dd2153ec-000218f1,Space Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137457,afa12384-935a-4c35-855a-9f34dd2153ec-000218f1,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137458,afa12384-935a-4c35-855a-9f34dd2153ec-000218f2,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137458,afa12384-935a-4c35-855a-9f34dd2153ec-000218f2,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137458,afa12384-935a-4c35-855a-9f34dd2153ec-000218f2,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137459,afa12384-935a-4c35-855a-9f34dd2153ec-000218f3,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137459,afa12384-935a-4c35-855a-9f34dd2153ec-000218f3,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137459,afa12384-935a-4c35-855a-9f34dd2153ec-000218f3,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137460,afa12384-935a-4c35-855a-9f34dd2153ec-000218f4,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137460,afa12384-935a-4c35-855a-9f34dd2153ec-000218f4,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137460,afa12384-935a-4c35-855a-9f34dd2153ec-000218f4,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137461,afa12384-935a-4c35-855a-9f34dd2153ec-000218f5,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137461,afa12384-935a-4c35-855a-9f34dd2153ec-000218f5,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137461,afa12384-935a-4c35-855a-9f34dd2153ec-000218f5,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137462,afa12384-935a-4c35-855a-9f34dd2153ec-000218f6,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137462,afa12384-935a-4c35-855a-9f34dd2153ec-000218f6,Space Type Settings,,,Occupancy Schedule,1205836,2952176,changed
+137462,afa12384-935a-4c35-855a-9f34dd2153ec-000218f6,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137463,afa12384-935a-4c35-855a-9f34dd2153ec-000218f7,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137463,afa12384-935a-4c35-855a-9f34dd2153ec-000218f7,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137463,afa12384-935a-4c35-855a-9f34dd2153ec-000218f7,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137464,afa12384-935a-4c35-855a-9f34dd2153ec-000218f8,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137464,afa12384-935a-4c35-855a-9f34dd2153ec-000218f8,Space Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137464,afa12384-935a-4c35-855a-9f34dd2153ec-000218f8,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137465,afa12384-935a-4c35-855a-9f34dd2153ec-000218f9,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137465,afa12384-935a-4c35-855a-9f34dd2153ec-000218f9,Space Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137465,afa12384-935a-4c35-855a-9f34dd2153ec-000218f9,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137466,afa12384-935a-4c35-855a-9f34dd2153ec-000218fa,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137466,afa12384-935a-4c35-855a-9f34dd2153ec-000218fa,Space Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137466,afa12384-935a-4c35-855a-9f34dd2153ec-000218fa,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137467,afa12384-935a-4c35-855a-9f34dd2153ec-000218fb,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137467,afa12384-935a-4c35-855a-9f34dd2153ec-000218fb,Space Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137467,afa12384-935a-4c35-855a-9f34dd2153ec-000218fb,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137468,afa12384-935a-4c35-855a-9f34dd2153ec-000218fc,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137468,afa12384-935a-4c35-855a-9f34dd2153ec-000218fc,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137468,afa12384-935a-4c35-855a-9f34dd2153ec-000218fc,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137469,afa12384-935a-4c35-855a-9f34dd2153ec-000218fd,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137469,afa12384-935a-4c35-855a-9f34dd2153ec-000218fd,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137469,afa12384-935a-4c35-855a-9f34dd2153ec-000218fd,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137470,afa12384-935a-4c35-855a-9f34dd2153ec-000218fe,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137470,afa12384-935a-4c35-855a-9f34dd2153ec-000218fe,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137470,afa12384-935a-4c35-855a-9f34dd2153ec-000218fe,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137471,afa12384-935a-4c35-855a-9f34dd2153ec-000218ff,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137471,afa12384-935a-4c35-855a-9f34dd2153ec-000218ff,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137471,afa12384-935a-4c35-855a-9f34dd2153ec-000218ff,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137472,afa12384-935a-4c35-855a-9f34dd2153ec-00021900,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137472,afa12384-935a-4c35-855a-9f34dd2153ec-00021900,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137472,afa12384-935a-4c35-855a-9f34dd2153ec-00021900,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137473,afa12384-935a-4c35-855a-9f34dd2153ec-00021901,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137473,afa12384-935a-4c35-855a-9f34dd2153ec-00021901,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137473,afa12384-935a-4c35-855a-9f34dd2153ec-00021901,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137474,afa12384-935a-4c35-855a-9f34dd2153ec-00021902,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137474,afa12384-935a-4c35-855a-9f34dd2153ec-00021902,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137474,afa12384-935a-4c35-855a-9f34dd2153ec-00021902,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137475,afa12384-935a-4c35-855a-9f34dd2153ec-00021903,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137475,afa12384-935a-4c35-855a-9f34dd2153ec-00021903,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137475,afa12384-935a-4c35-855a-9f34dd2153ec-00021903,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137476,afa12384-935a-4c35-855a-9f34dd2153ec-00021904,Space Type Settings,,,Lighting Schedule,1205849,2952189,changed
+137476,afa12384-935a-4c35-855a-9f34dd2153ec-00021904,Space Type Settings,,,Occupancy Schedule,1205852,2952192,changed
+137476,afa12384-935a-4c35-855a-9f34dd2153ec-00021904,Space Type Settings,,,Power Schedule,1205849,2952189,changed
+137477,afa12384-935a-4c35-855a-9f34dd2153ec-00021905,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137477,afa12384-935a-4c35-855a-9f34dd2153ec-00021905,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137477,afa12384-935a-4c35-855a-9f34dd2153ec-00021905,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137478,afa12384-935a-4c35-855a-9f34dd2153ec-00021906,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137478,afa12384-935a-4c35-855a-9f34dd2153ec-00021906,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137478,afa12384-935a-4c35-855a-9f34dd2153ec-00021906,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137479,afa12384-935a-4c35-855a-9f34dd2153ec-00021907,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137479,afa12384-935a-4c35-855a-9f34dd2153ec-00021907,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137479,afa12384-935a-4c35-855a-9f34dd2153ec-00021907,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137480,afa12384-935a-4c35-855a-9f34dd2153ec-00021908,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137480,afa12384-935a-4c35-855a-9f34dd2153ec-00021908,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137480,afa12384-935a-4c35-855a-9f34dd2153ec-00021908,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137481,afa12384-935a-4c35-855a-9f34dd2153ec-00021909,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137481,afa12384-935a-4c35-855a-9f34dd2153ec-00021909,Space Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137481,afa12384-935a-4c35-855a-9f34dd2153ec-00021909,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137482,afa12384-935a-4c35-855a-9f34dd2153ec-0002190a,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137482,afa12384-935a-4c35-855a-9f34dd2153ec-0002190a,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137482,afa12384-935a-4c35-855a-9f34dd2153ec-0002190a,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137483,afa12384-935a-4c35-855a-9f34dd2153ec-0002190b,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137483,afa12384-935a-4c35-855a-9f34dd2153ec-0002190b,Space Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137483,afa12384-935a-4c35-855a-9f34dd2153ec-0002190b,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137484,afa12384-935a-4c35-855a-9f34dd2153ec-0002190c,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137484,afa12384-935a-4c35-855a-9f34dd2153ec-0002190c,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137484,afa12384-935a-4c35-855a-9f34dd2153ec-0002190c,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137485,afa12384-935a-4c35-855a-9f34dd2153ec-0002190d,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137485,afa12384-935a-4c35-855a-9f34dd2153ec-0002190d,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137485,afa12384-935a-4c35-855a-9f34dd2153ec-0002190d,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137486,afa12384-935a-4c35-855a-9f34dd2153ec-0002190e,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137486,afa12384-935a-4c35-855a-9f34dd2153ec-0002190e,Space Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137486,afa12384-935a-4c35-855a-9f34dd2153ec-0002190e,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137487,afa12384-935a-4c35-855a-9f34dd2153ec-0002190f,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137487,afa12384-935a-4c35-855a-9f34dd2153ec-0002190f,Space Type Settings,,,Occupancy Schedule,1205842,2952182,changed
+137487,afa12384-935a-4c35-855a-9f34dd2153ec-0002190f,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137488,afa12384-935a-4c35-855a-9f34dd2153ec-00021910,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137488,afa12384-935a-4c35-855a-9f34dd2153ec-00021910,Space Type Settings,,,Occupancy Schedule,1205842,2952182,changed
+137488,afa12384-935a-4c35-855a-9f34dd2153ec-00021910,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137489,afa12384-935a-4c35-855a-9f34dd2153ec-00021911,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137489,afa12384-935a-4c35-855a-9f34dd2153ec-00021911,Space Type Settings,,,Occupancy Schedule,1205842,2952182,changed
+137489,afa12384-935a-4c35-855a-9f34dd2153ec-00021911,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137490,afa12384-935a-4c35-855a-9f34dd2153ec-00021912,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137490,afa12384-935a-4c35-855a-9f34dd2153ec-00021912,Space Type Settings,,,Occupancy Schedule,1205842,2952182,changed
+137490,afa12384-935a-4c35-855a-9f34dd2153ec-00021912,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137491,afa12384-935a-4c35-855a-9f34dd2153ec-00021913,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137491,afa12384-935a-4c35-855a-9f34dd2153ec-00021913,Space Type Settings,,,Occupancy Schedule,1205839,2952179,changed
+137491,afa12384-935a-4c35-855a-9f34dd2153ec-00021913,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137492,afa12384-935a-4c35-855a-9f34dd2153ec-00021914,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137492,afa12384-935a-4c35-855a-9f34dd2153ec-00021914,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137492,afa12384-935a-4c35-855a-9f34dd2153ec-00021914,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137493,afa12384-935a-4c35-855a-9f34dd2153ec-00021915,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137493,afa12384-935a-4c35-855a-9f34dd2153ec-00021915,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137493,afa12384-935a-4c35-855a-9f34dd2153ec-00021915,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137494,afa12384-935a-4c35-855a-9f34dd2153ec-00021916,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137494,afa12384-935a-4c35-855a-9f34dd2153ec-00021916,Space Type Settings,,,Occupancy Schedule,1205842,2952182,changed
+137494,afa12384-935a-4c35-855a-9f34dd2153ec-00021916,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137495,afa12384-935a-4c35-855a-9f34dd2153ec-00021917,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137495,afa12384-935a-4c35-855a-9f34dd2153ec-00021917,Space Type Settings,,,Occupancy Schedule,1205841,2952181,changed
+137495,afa12384-935a-4c35-855a-9f34dd2153ec-00021917,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137496,afa12384-935a-4c35-855a-9f34dd2153ec-00021918,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137496,afa12384-935a-4c35-855a-9f34dd2153ec-00021918,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137496,afa12384-935a-4c35-855a-9f34dd2153ec-00021918,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137497,afa12384-935a-4c35-855a-9f34dd2153ec-00021919,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137497,afa12384-935a-4c35-855a-9f34dd2153ec-00021919,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137497,afa12384-935a-4c35-855a-9f34dd2153ec-00021919,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137498,afa12384-935a-4c35-855a-9f34dd2153ec-0002191a,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137498,afa12384-935a-4c35-855a-9f34dd2153ec-0002191a,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137498,afa12384-935a-4c35-855a-9f34dd2153ec-0002191a,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137499,afa12384-935a-4c35-855a-9f34dd2153ec-0002191b,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137499,afa12384-935a-4c35-855a-9f34dd2153ec-0002191b,Space Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137499,afa12384-935a-4c35-855a-9f34dd2153ec-0002191b,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137500,afa12384-935a-4c35-855a-9f34dd2153ec-0002191c,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137500,afa12384-935a-4c35-855a-9f34dd2153ec-0002191c,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137500,afa12384-935a-4c35-855a-9f34dd2153ec-0002191c,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137501,afa12384-935a-4c35-855a-9f34dd2153ec-0002191d,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137501,afa12384-935a-4c35-855a-9f34dd2153ec-0002191d,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137501,afa12384-935a-4c35-855a-9f34dd2153ec-0002191d,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137502,afa12384-935a-4c35-855a-9f34dd2153ec-0002191e,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137502,afa12384-935a-4c35-855a-9f34dd2153ec-0002191e,Space Type Settings,,,Occupancy Schedule,1205842,2952182,changed
+137502,afa12384-935a-4c35-855a-9f34dd2153ec-0002191e,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137503,afa12384-935a-4c35-855a-9f34dd2153ec-0002191f,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137503,afa12384-935a-4c35-855a-9f34dd2153ec-0002191f,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137503,afa12384-935a-4c35-855a-9f34dd2153ec-0002191f,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137504,afa12384-935a-4c35-855a-9f34dd2153ec-00021920,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137504,afa12384-935a-4c35-855a-9f34dd2153ec-00021920,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137504,afa12384-935a-4c35-855a-9f34dd2153ec-00021920,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137505,afa12384-935a-4c35-855a-9f34dd2153ec-00021921,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137505,afa12384-935a-4c35-855a-9f34dd2153ec-00021921,Space Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137505,afa12384-935a-4c35-855a-9f34dd2153ec-00021921,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137506,afa12384-935a-4c35-855a-9f34dd2153ec-00021922,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137506,afa12384-935a-4c35-855a-9f34dd2153ec-00021922,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137506,afa12384-935a-4c35-855a-9f34dd2153ec-00021922,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137507,afa12384-935a-4c35-855a-9f34dd2153ec-00021923,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137507,afa12384-935a-4c35-855a-9f34dd2153ec-00021923,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137507,afa12384-935a-4c35-855a-9f34dd2153ec-00021923,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137508,afa12384-935a-4c35-855a-9f34dd2153ec-00021924,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137508,afa12384-935a-4c35-855a-9f34dd2153ec-00021924,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137508,afa12384-935a-4c35-855a-9f34dd2153ec-00021924,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137509,afa12384-935a-4c35-855a-9f34dd2153ec-00021925,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137509,afa12384-935a-4c35-855a-9f34dd2153ec-00021925,Space Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137509,afa12384-935a-4c35-855a-9f34dd2153ec-00021925,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137510,afa12384-935a-4c35-855a-9f34dd2153ec-00021926,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137510,afa12384-935a-4c35-855a-9f34dd2153ec-00021926,Space Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137510,afa12384-935a-4c35-855a-9f34dd2153ec-00021926,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137511,afa12384-935a-4c35-855a-9f34dd2153ec-00021927,Space Type Settings,,,Lighting Schedule,1205850,2952190,changed
+137511,afa12384-935a-4c35-855a-9f34dd2153ec-00021927,Space Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137511,afa12384-935a-4c35-855a-9f34dd2153ec-00021927,Space Type Settings,,,Power Schedule,1205850,2952190,changed
+137512,afa12384-935a-4c35-855a-9f34dd2153ec-00021928,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137512,afa12384-935a-4c35-855a-9f34dd2153ec-00021928,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137512,afa12384-935a-4c35-855a-9f34dd2153ec-00021928,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137513,afa12384-935a-4c35-855a-9f34dd2153ec-00021929,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137513,afa12384-935a-4c35-855a-9f34dd2153ec-00021929,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137513,afa12384-935a-4c35-855a-9f34dd2153ec-00021929,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137514,afa12384-935a-4c35-855a-9f34dd2153ec-0002192a,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137514,afa12384-935a-4c35-855a-9f34dd2153ec-0002192a,Space Type Settings,,,Occupancy Schedule,1205842,2952182,changed
+137514,afa12384-935a-4c35-855a-9f34dd2153ec-0002192a,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137515,afa12384-935a-4c35-855a-9f34dd2153ec-0002192b,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137515,afa12384-935a-4c35-855a-9f34dd2153ec-0002192b,Space Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137515,afa12384-935a-4c35-855a-9f34dd2153ec-0002192b,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137516,afa12384-935a-4c35-855a-9f34dd2153ec-0002192c,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137516,afa12384-935a-4c35-855a-9f34dd2153ec-0002192c,Space Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137516,afa12384-935a-4c35-855a-9f34dd2153ec-0002192c,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137517,afa12384-935a-4c35-855a-9f34dd2153ec-0002192d,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137517,afa12384-935a-4c35-855a-9f34dd2153ec-0002192d,Space Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137517,afa12384-935a-4c35-855a-9f34dd2153ec-0002192d,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137518,afa12384-935a-4c35-855a-9f34dd2153ec-0002192e,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137518,afa12384-935a-4c35-855a-9f34dd2153ec-0002192e,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137518,afa12384-935a-4c35-855a-9f34dd2153ec-0002192e,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137519,afa12384-935a-4c35-855a-9f34dd2153ec-0002192f,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137519,afa12384-935a-4c35-855a-9f34dd2153ec-0002192f,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137519,afa12384-935a-4c35-855a-9f34dd2153ec-0002192f,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137520,afa12384-935a-4c35-855a-9f34dd2153ec-00021930,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137520,afa12384-935a-4c35-855a-9f34dd2153ec-00021930,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137520,afa12384-935a-4c35-855a-9f34dd2153ec-00021930,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137521,afa12384-935a-4c35-855a-9f34dd2153ec-00021931,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137521,afa12384-935a-4c35-855a-9f34dd2153ec-00021931,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137521,afa12384-935a-4c35-855a-9f34dd2153ec-00021931,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137522,afa12384-935a-4c35-855a-9f34dd2153ec-00021932,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137522,afa12384-935a-4c35-855a-9f34dd2153ec-00021932,Space Type Settings,,,Occupancy Schedule,1205839,2952179,changed
+137522,afa12384-935a-4c35-855a-9f34dd2153ec-00021932,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137523,afa12384-935a-4c35-855a-9f34dd2153ec-00021933,Space Type Settings,,,Lighting Schedule,1205850,2952190,changed
+137523,afa12384-935a-4c35-855a-9f34dd2153ec-00021933,Space Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137523,afa12384-935a-4c35-855a-9f34dd2153ec-00021933,Space Type Settings,,,Power Schedule,1205850,2952190,changed
+137524,afa12384-935a-4c35-855a-9f34dd2153ec-00021934,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137524,afa12384-935a-4c35-855a-9f34dd2153ec-00021934,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137524,afa12384-935a-4c35-855a-9f34dd2153ec-00021934,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137525,afa12384-935a-4c35-855a-9f34dd2153ec-00021935,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137525,afa12384-935a-4c35-855a-9f34dd2153ec-00021935,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137525,afa12384-935a-4c35-855a-9f34dd2153ec-00021935,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137526,afa12384-935a-4c35-855a-9f34dd2153ec-00021936,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137526,afa12384-935a-4c35-855a-9f34dd2153ec-00021936,Space Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137526,afa12384-935a-4c35-855a-9f34dd2153ec-00021936,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137527,afa12384-935a-4c35-855a-9f34dd2153ec-00021937,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137527,afa12384-935a-4c35-855a-9f34dd2153ec-00021937,Space Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137527,afa12384-935a-4c35-855a-9f34dd2153ec-00021937,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137528,afa12384-935a-4c35-855a-9f34dd2153ec-00021938,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137528,afa12384-935a-4c35-855a-9f34dd2153ec-00021938,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137528,afa12384-935a-4c35-855a-9f34dd2153ec-00021938,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137529,afa12384-935a-4c35-855a-9f34dd2153ec-00021939,Space Type Settings,,,Lighting Schedule,1205847,2952187,changed
+137529,afa12384-935a-4c35-855a-9f34dd2153ec-00021939,Space Type Settings,,,Occupancy Schedule,1205839,2952179,changed
+137529,afa12384-935a-4c35-855a-9f34dd2153ec-00021939,Space Type Settings,,,Power Schedule,1205847,2952187,changed
+137530,afa12384-935a-4c35-855a-9f34dd2153ec-0002193a,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137530,afa12384-935a-4c35-855a-9f34dd2153ec-0002193a,Space Type Settings,,,Occupancy Schedule,1205839,2952179,changed
+137530,afa12384-935a-4c35-855a-9f34dd2153ec-0002193a,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137531,afa12384-935a-4c35-855a-9f34dd2153ec-0002193b,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137531,afa12384-935a-4c35-855a-9f34dd2153ec-0002193b,Space Type Settings,,,Occupancy Schedule,1205839,2952179,changed
+137531,afa12384-935a-4c35-855a-9f34dd2153ec-0002193b,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137532,afa12384-935a-4c35-855a-9f34dd2153ec-0002193c,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137532,afa12384-935a-4c35-855a-9f34dd2153ec-0002193c,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137532,afa12384-935a-4c35-855a-9f34dd2153ec-0002193c,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137533,afa12384-935a-4c35-855a-9f34dd2153ec-0002193d,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137533,afa12384-935a-4c35-855a-9f34dd2153ec-0002193d,Space Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137533,afa12384-935a-4c35-855a-9f34dd2153ec-0002193d,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137534,afa12384-935a-4c35-855a-9f34dd2153ec-0002193e,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137534,afa12384-935a-4c35-855a-9f34dd2153ec-0002193e,Space Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137534,afa12384-935a-4c35-855a-9f34dd2153ec-0002193e,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137535,afa12384-935a-4c35-855a-9f34dd2153ec-0002193f,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137535,afa12384-935a-4c35-855a-9f34dd2153ec-0002193f,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137535,afa12384-935a-4c35-855a-9f34dd2153ec-0002193f,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137536,afa12384-935a-4c35-855a-9f34dd2153ec-00021940,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137536,afa12384-935a-4c35-855a-9f34dd2153ec-00021940,Space Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137536,afa12384-935a-4c35-855a-9f34dd2153ec-00021940,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137537,afa12384-935a-4c35-855a-9f34dd2153ec-00021941,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137537,afa12384-935a-4c35-855a-9f34dd2153ec-00021941,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137537,afa12384-935a-4c35-855a-9f34dd2153ec-00021941,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137538,afa12384-935a-4c35-855a-9f34dd2153ec-00021942,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137538,afa12384-935a-4c35-855a-9f34dd2153ec-00021942,Space Type Settings,,,Occupancy Schedule,1205839,2952179,changed
+137538,afa12384-935a-4c35-855a-9f34dd2153ec-00021942,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137539,afa12384-935a-4c35-855a-9f34dd2153ec-00021943,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137539,afa12384-935a-4c35-855a-9f34dd2153ec-00021943,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137539,afa12384-935a-4c35-855a-9f34dd2153ec-00021943,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137540,afa12384-935a-4c35-855a-9f34dd2153ec-00021944,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137540,afa12384-935a-4c35-855a-9f34dd2153ec-00021944,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137540,afa12384-935a-4c35-855a-9f34dd2153ec-00021944,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137541,afa12384-935a-4c35-855a-9f34dd2153ec-00021945,Space Type Settings,,,Lighting Schedule,1205850,2952190,changed
+137541,afa12384-935a-4c35-855a-9f34dd2153ec-00021945,Space Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137541,afa12384-935a-4c35-855a-9f34dd2153ec-00021945,Space Type Settings,,,Power Schedule,1205850,2952190,changed
+137542,afa12384-935a-4c35-855a-9f34dd2153ec-00021946,Space Type Settings,,,Lighting Schedule,1205850,2952190,changed
+137542,afa12384-935a-4c35-855a-9f34dd2153ec-00021946,Space Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137542,afa12384-935a-4c35-855a-9f34dd2153ec-00021946,Space Type Settings,,,Power Schedule,1205850,2952190,changed
+137543,afa12384-935a-4c35-855a-9f34dd2153ec-00021947,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137543,afa12384-935a-4c35-855a-9f34dd2153ec-00021947,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137543,afa12384-935a-4c35-855a-9f34dd2153ec-00021947,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137544,afa12384-935a-4c35-855a-9f34dd2153ec-00021948,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137544,afa12384-935a-4c35-855a-9f34dd2153ec-00021948,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137544,afa12384-935a-4c35-855a-9f34dd2153ec-00021948,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137545,afa12384-935a-4c35-855a-9f34dd2153ec-00021949,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137545,afa12384-935a-4c35-855a-9f34dd2153ec-00021949,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137545,afa12384-935a-4c35-855a-9f34dd2153ec-00021949,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137546,afa12384-935a-4c35-855a-9f34dd2153ec-0002194a,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137546,afa12384-935a-4c35-855a-9f34dd2153ec-0002194a,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137546,afa12384-935a-4c35-855a-9f34dd2153ec-0002194a,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137547,afa12384-935a-4c35-855a-9f34dd2153ec-0002194b,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137547,afa12384-935a-4c35-855a-9f34dd2153ec-0002194b,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137547,afa12384-935a-4c35-855a-9f34dd2153ec-0002194b,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137548,afa12384-935a-4c35-855a-9f34dd2153ec-0002194c,Space Type Settings,,,Lighting Schedule,1205850,2952190,changed
+137548,afa12384-935a-4c35-855a-9f34dd2153ec-0002194c,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137548,afa12384-935a-4c35-855a-9f34dd2153ec-0002194c,Space Type Settings,,,Power Schedule,1205850,2952190,changed
+137549,afa12384-935a-4c35-855a-9f34dd2153ec-0002194d,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137549,afa12384-935a-4c35-855a-9f34dd2153ec-0002194d,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137549,afa12384-935a-4c35-855a-9f34dd2153ec-0002194d,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137550,afa12384-935a-4c35-855a-9f34dd2153ec-0002194e,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137550,afa12384-935a-4c35-855a-9f34dd2153ec-0002194e,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137550,afa12384-935a-4c35-855a-9f34dd2153ec-0002194e,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137551,afa12384-935a-4c35-855a-9f34dd2153ec-0002194f,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137551,afa12384-935a-4c35-855a-9f34dd2153ec-0002194f,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137551,afa12384-935a-4c35-855a-9f34dd2153ec-0002194f,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137552,afa12384-935a-4c35-855a-9f34dd2153ec-00021950,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137552,afa12384-935a-4c35-855a-9f34dd2153ec-00021950,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137552,afa12384-935a-4c35-855a-9f34dd2153ec-00021950,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137553,afa12384-935a-4c35-855a-9f34dd2153ec-00021951,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137553,afa12384-935a-4c35-855a-9f34dd2153ec-00021951,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137553,afa12384-935a-4c35-855a-9f34dd2153ec-00021951,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137554,afa12384-935a-4c35-855a-9f34dd2153ec-00021952,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137554,afa12384-935a-4c35-855a-9f34dd2153ec-00021952,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137554,afa12384-935a-4c35-855a-9f34dd2153ec-00021952,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137555,afa12384-935a-4c35-855a-9f34dd2153ec-00021953,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137555,afa12384-935a-4c35-855a-9f34dd2153ec-00021953,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137555,afa12384-935a-4c35-855a-9f34dd2153ec-00021953,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137556,afa12384-935a-4c35-855a-9f34dd2153ec-00021954,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137556,afa12384-935a-4c35-855a-9f34dd2153ec-00021954,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137556,afa12384-935a-4c35-855a-9f34dd2153ec-00021954,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137557,afa12384-935a-4c35-855a-9f34dd2153ec-00021955,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137557,afa12384-935a-4c35-855a-9f34dd2153ec-00021955,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137557,afa12384-935a-4c35-855a-9f34dd2153ec-00021955,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137558,afa12384-935a-4c35-855a-9f34dd2153ec-00021956,Space Type Settings,,,Lighting Schedule,1205826,2952166,changed
+137558,afa12384-935a-4c35-855a-9f34dd2153ec-00021956,Space Type Settings,,,Occupancy Schedule,1205826,2952166,changed
+137558,afa12384-935a-4c35-855a-9f34dd2153ec-00021956,Space Type Settings,,,Power Schedule,1205826,2952166,changed
+137559,afa12384-935a-4c35-855a-9f34dd2153ec-00021957,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137559,afa12384-935a-4c35-855a-9f34dd2153ec-00021957,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137559,afa12384-935a-4c35-855a-9f34dd2153ec-00021957,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137560,afa12384-935a-4c35-855a-9f34dd2153ec-00021958,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137560,afa12384-935a-4c35-855a-9f34dd2153ec-00021958,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137560,afa12384-935a-4c35-855a-9f34dd2153ec-00021958,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137561,afa12384-935a-4c35-855a-9f34dd2153ec-00021959,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137561,afa12384-935a-4c35-855a-9f34dd2153ec-00021959,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137561,afa12384-935a-4c35-855a-9f34dd2153ec-00021959,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137562,afa12384-935a-4c35-855a-9f34dd2153ec-0002195a,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137562,afa12384-935a-4c35-855a-9f34dd2153ec-0002195a,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137562,afa12384-935a-4c35-855a-9f34dd2153ec-0002195a,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137563,afa12384-935a-4c35-855a-9f34dd2153ec-0002195b,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137563,afa12384-935a-4c35-855a-9f34dd2153ec-0002195b,Space Type Settings,,,Occupancy Schedule,1205839,2952179,changed
+137563,afa12384-935a-4c35-855a-9f34dd2153ec-0002195b,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137564,afa12384-935a-4c35-855a-9f34dd2153ec-0002195c,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137564,afa12384-935a-4c35-855a-9f34dd2153ec-0002195c,Space Type Settings,,,Occupancy Schedule,1205839,2952179,changed
+137564,afa12384-935a-4c35-855a-9f34dd2153ec-0002195c,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137565,afa12384-935a-4c35-855a-9f34dd2153ec-0002195d,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137565,afa12384-935a-4c35-855a-9f34dd2153ec-0002195d,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137565,afa12384-935a-4c35-855a-9f34dd2153ec-0002195d,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137566,afa12384-935a-4c35-855a-9f34dd2153ec-0002195e,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137566,afa12384-935a-4c35-855a-9f34dd2153ec-0002195e,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137566,afa12384-935a-4c35-855a-9f34dd2153ec-0002195e,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137567,afa12384-935a-4c35-855a-9f34dd2153ec-0002195f,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137567,afa12384-935a-4c35-855a-9f34dd2153ec-0002195f,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137567,afa12384-935a-4c35-855a-9f34dd2153ec-0002195f,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137568,afa12384-935a-4c35-855a-9f34dd2153ec-00021960,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137568,afa12384-935a-4c35-855a-9f34dd2153ec-00021960,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137568,afa12384-935a-4c35-855a-9f34dd2153ec-00021960,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137569,afa12384-935a-4c35-855a-9f34dd2153ec-00021961,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137569,afa12384-935a-4c35-855a-9f34dd2153ec-00021961,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137569,afa12384-935a-4c35-855a-9f34dd2153ec-00021961,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137570,afa12384-935a-4c35-855a-9f34dd2153ec-00021962,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137570,afa12384-935a-4c35-855a-9f34dd2153ec-00021962,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137570,afa12384-935a-4c35-855a-9f34dd2153ec-00021962,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137571,afa12384-935a-4c35-855a-9f34dd2153ec-00021963,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137571,afa12384-935a-4c35-855a-9f34dd2153ec-00021963,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137571,afa12384-935a-4c35-855a-9f34dd2153ec-00021963,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137572,afa12384-935a-4c35-855a-9f34dd2153ec-00021964,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137572,afa12384-935a-4c35-855a-9f34dd2153ec-00021964,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137572,afa12384-935a-4c35-855a-9f34dd2153ec-00021964,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137573,afa12384-935a-4c35-855a-9f34dd2153ec-00021965,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137573,afa12384-935a-4c35-855a-9f34dd2153ec-00021965,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137573,afa12384-935a-4c35-855a-9f34dd2153ec-00021965,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137574,afa12384-935a-4c35-855a-9f34dd2153ec-00021966,Space Type Settings,,,Lighting Schedule,1205846,2952186,changed
+137574,afa12384-935a-4c35-855a-9f34dd2153ec-00021966,Space Type Settings,,,Occupancy Schedule,1205840,2952180,changed
+137574,afa12384-935a-4c35-855a-9f34dd2153ec-00021966,Space Type Settings,,,Power Schedule,1205846,2952186,changed
+137575,afa12384-935a-4c35-855a-9f34dd2153ec-00021967,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137575,afa12384-935a-4c35-855a-9f34dd2153ec-00021967,Space Type Settings,,,Occupancy Schedule,1205851,2952191,changed
+137575,afa12384-935a-4c35-855a-9f34dd2153ec-00021967,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137576,afa12384-935a-4c35-855a-9f34dd2153ec-00021968,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137576,afa12384-935a-4c35-855a-9f34dd2153ec-00021968,Space Type Settings,,,Occupancy Schedule,1205838,2952178,changed
+137576,afa12384-935a-4c35-855a-9f34dd2153ec-00021968,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+137577,afa12384-935a-4c35-855a-9f34dd2153ec-00021969,Space Type Settings,,,Lighting Schedule,1205850,2952190,changed
+137577,afa12384-935a-4c35-855a-9f34dd2153ec-00021969,Space Type Settings,,,Occupancy Schedule,1205845,2952185,changed
+137577,afa12384-935a-4c35-855a-9f34dd2153ec-00021969,Space Type Settings,,,Power Schedule,1205850,2952190,changed
+137578,afa12384-935a-4c35-855a-9f34dd2153ec-0002196a,Space Type Settings,,,Lighting Schedule,1205848,2952188,changed
+137578,afa12384-935a-4c35-855a-9f34dd2153ec-0002196a,Space Type Settings,,,Occupancy Schedule,1205837,2952177,changed
+137578,afa12384-935a-4c35-855a-9f34dd2153ec-0002196a,Space Type Settings,,,Power Schedule,1205848,2952188,changed
+147648,81e8c055-feb8-47ec-83c2-0a9c04e72d9b-000240c0,<none>,,,Use Only Elements Visible In Current View,1,0,changed
+359503,6b9d0ab2-a90b-4bab-9042-0933c471b66b-00057c4f,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+359503,6b9d0ab2-a90b-4bab-9042-0933c471b66b-00057c4f,<none>,Sheet,Sheet,Sheet Collection,2884526,-1,changed
+359503,6b9d0ab2-a90b-4bab-9042-0933c471b66b-00057c4f,<none>,Sheet,Sheet,Sheet Collection,2884526,-1,changed
+359507,6b9d0ab2-a90b-4bab-9042-0933c471b66b-00057c53,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+359507,6b9d0ab2-a90b-4bab-9042-0933c471b66b-00057c53,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,Sheet Collection,2884526,-1,changed
+359517,6b9d0ab2-a90b-4bab-9042-0933c471b66b-00057c5d,Viewports,Viewport,Title Only,Saved Position,1322341,-1,changed
+359517,6b9d0ab2-a90b-4bab-9042-0933c471b66b-00057c5d,Viewports,Viewport,Title Only,Sheet Collection,2884526,-1,changed
+359517,6b9d0ab2-a90b-4bab-9042-0933c471b66b-00057c5d,Viewports,Viewport,Title Only,Sheet Collection,2884526,-1,changed
+359517,6b9d0ab2-a90b-4bab-9042-0933c471b66b-00057c5d,Viewports,Viewport,Title Only,View Anchor,2,0,changed
+359517,6b9d0ab2-a90b-4bab-9042-0933c471b66b-00057c5d,Viewports,Viewport,Title Only,View Position X,57.773,272.95,changed
+359517,6b9d0ab2-a90b-4bab-9042-0933c471b66b-00057c5d,Viewports,Viewport,Title Only,View Position Y,715.832,355.6,changed
+1248670,d981e43c-c914-4f17-9d3c-8d49fef2226e-00130d9e,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1248674,d981e43c-c914-4f17-9d3c-8d49fef2226e-00130da2,Title Blocks,TLB_TFCF_Cover_30x42,TLB_TFCF_Cover_30x42,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1249314,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-00131022,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1249318,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-00131026,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1249342,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-0013103e,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1249342,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-0013103e,<none>,Sheet,Sheet,Sheet Collection,2884526,-1,changed
+1249342,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-0013103e,<none>,Sheet,Sheet,Sheet Collection,2884526,-1,changed
+1249346,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-00131042,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1249346,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-00131042,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,Sheet Collection,2884526,-1,changed
+1249370,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-0013105a,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1249405,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-0013107d,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1249410,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-00131082,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1249410,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-00131082,<none>,Sheet,Sheet,Sheet Collection,2884526,-1,changed
+1249410,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-00131082,<none>,Sheet,Sheet,Sheet Collection,2884526,-1,changed
+1249415,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-00131087,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1249420,f4a41876-bbc3-4ad0-ac30-6924b6bac5d0-0013108c,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1252620,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d0c,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1252620,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d0c,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,Sheet Collection,2884526,-1,changed
+1252629,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d15,Viewports,Viewport,Title Only,Saved Position,1322341,-1,changed
+1252629,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d15,Viewports,Viewport,Title Only,Sheet Collection,2884526,-1,changed
+1252629,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d15,Viewports,Viewport,Title Only,Sheet Collection,2884526,-1,changed
+1252629,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d15,Viewports,Viewport,Title Only,View Anchor,2,0,changed
+1252629,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d15,Viewports,Viewport,Title Only,View Position X,57.773,272.95,changed
+1252629,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d15,Viewports,Viewport,Title Only,View Position Y,715.832,355.6,changed
+1252630,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d16,Viewports,Viewport,Title Only,Referencing Sheet Collection,2884526,-1,changed
+1252630,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d16,Viewports,Viewport,Title Only,Saved Position,2099341,-1,changed
+1252630,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d16,Viewports,Viewport,Title Only,Sheet Collection,2884526,-1,changed
+1252630,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d16,Viewports,Viewport,Title Only,Sheet Collection,2884526,-1,changed
+1252630,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d16,Viewports,Viewport,Title Only,View Anchor,1,0,changed
+1252630,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d16,Viewports,Viewport,Title Only,View Position X,360.936,293.923,changed
+1252630,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d16,Viewports,Viewport,Title Only,View Position Y,570.435,497.922,changed
+1252631,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d17,Viewports,Viewport,Title Only,Referencing Sheet Collection,2884526,-1,changed
+1252631,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d17,Viewports,Viewport,Title Only,Saved Position,2099344,-1,changed
+1252631,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d17,Viewports,Viewport,Title Only,Sheet Collection,2884526,-1,changed
+1252631,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d17,Viewports,Viewport,Title Only,Sheet Collection,2884526,-1,changed
+1252631,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d17,Viewports,Viewport,Title Only,View Anchor,1,0,changed
+1252631,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d17,Viewports,Viewport,Title Only,View Position X,820.313,773.929,changed
+1252631,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d17,Viewports,Viewport,Title Only,View Position Y,227.983,155.47,changed
+1252632,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d18,Viewports,Viewport,Title Only,Referencing Sheet Collection,2884526,-1,changed
+1252632,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d18,Viewports,Viewport,Title Only,Saved Position,2099343,-1,changed
+1252632,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d18,Viewports,Viewport,Title Only,Sheet Collection,2884526,-1,changed
+1252632,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d18,Viewports,Viewport,Title Only,Sheet Collection,2884526,-1,changed
+1252632,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d18,Viewports,Viewport,Title Only,View Anchor,1,0,changed
+1252632,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d18,Viewports,Viewport,Title Only,View Position X,817.611,860.08,changed
+1252632,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d18,Viewports,Viewport,Title Only,View Position Y,570.435,497.922,changed
+1252633,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d19,Viewports,Viewport,Title Only,Referencing Sheet Collection,2884526,-1,changed
+1252633,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d19,Viewports,Viewport,Title Only,Saved Position,2099342,-1,changed
+1252633,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d19,Viewports,Viewport,Title Only,Sheet Collection,2884526,-1,changed
+1252633,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d19,Viewports,Viewport,Title Only,Sheet Collection,2884526,-1,changed
+1252633,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d19,Viewports,Viewport,Title Only,View Anchor,1,0,changed
+1252633,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d19,Viewports,Viewport,Title Only,View Position X,358.246,408.222,changed
+1252633,ad5a4855-dd2d-46be-adcc-2a43a8ed9632-00131d19,Viewports,Viewport,Title Only,View Position Y,227.983,155.47,changed
+1254991,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-0013264f,<none>,Floor Plan,Architectural Plan,Saved Position,1322341,-1,changed
+1254991,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-0013264f,<none>,Floor Plan,Architectural Plan,Sheet Collection,2884526,-1,changed
+1254991,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-0013264f,<none>,Floor Plan,Architectural Plan,Sheet Collection,2884526,-1,changed
+1254991,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-0013264f,<none>,Floor Plan,Architectural Plan,View Anchor,2,0,changed
+1254991,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-0013264f,<none>,Floor Plan,Architectural Plan,View Position X,57.773,272.95,changed
+1254991,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-0013264f,<none>,Floor Plan,Architectural Plan,View Position Y,715.832,355.6,changed
+1255004,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-0013265c,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1255004,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-0013265c,<none>,Sheet,Sheet,Sheet Collection,2884526,-1,changed
+1255004,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-0013265c,<none>,Sheet,Sheet,Sheet Collection,2884526,-1,changed
+1255008,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-00132660,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1255008,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-00132660,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,Sheet Collection,2884526,-1,changed
+1255009,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-00132661,Viewports,Viewport,Title Only,Saved Position,1322341,-1,changed
+1255009,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-00132661,Viewports,Viewport,Title Only,Sheet Collection,2884526,-1,changed
+1255009,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-00132661,Viewports,Viewport,Title Only,Sheet Collection,2884526,-1,changed
+1255009,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-00132661,Viewports,Viewport,Title Only,View Anchor,2,0,changed
+1255009,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-00132661,Viewports,Viewport,Title Only,View Position X,57.773,272.95,changed
+1255009,8e8a0c93-8b6f-4c1e-a6b6-441542dfe04f-00132661,Viewports,Viewport,Title Only,View Position Y,715.832,355.6,changed
+1328978,03e64940-634d-4290-9377-e05befb8b6fd-00144752,<none>,Floor Plan,Roof Plan,Saved Position,1322341,-1,changed
+1328978,03e64940-634d-4290-9377-e05befb8b6fd-00144752,<none>,Floor Plan,Roof Plan,Sheet Collection,2884527,-1,changed
+1328978,03e64940-634d-4290-9377-e05befb8b6fd-00144752,<none>,Floor Plan,Roof Plan,Sheet Collection,2884527,-1,changed
+1328978,03e64940-634d-4290-9377-e05befb8b6fd-00144752,<none>,Floor Plan,Roof Plan,View Anchor,2,0,changed
+1328978,03e64940-634d-4290-9377-e05befb8b6fd-00144752,<none>,Floor Plan,Roof Plan,View Position X,57.773,272.95,changed
+1328978,03e64940-634d-4290-9377-e05befb8b6fd-00144752,<none>,Floor Plan,Roof Plan,View Position Y,715.832,355.6,changed
+1328988,03e64940-634d-4290-9377-e05befb8b6fd-0014475c,<none>,Floor Plan,Roof Plan,Saved Position,1322341,-1,changed
+1328988,03e64940-634d-4290-9377-e05befb8b6fd-0014475c,<none>,Floor Plan,Roof Plan,Sheet Collection,2884528,-1,changed
+1328988,03e64940-634d-4290-9377-e05befb8b6fd-0014475c,<none>,Floor Plan,Roof Plan,Sheet Collection,2884528,-1,changed
+1328988,03e64940-634d-4290-9377-e05befb8b6fd-0014475c,<none>,Floor Plan,Roof Plan,View Anchor,2,0,changed
+1328988,03e64940-634d-4290-9377-e05befb8b6fd-0014475c,<none>,Floor Plan,Roof Plan,View Position X,57.773,272.95,changed
+1328988,03e64940-634d-4290-9377-e05befb8b6fd-0014475c,<none>,Floor Plan,Roof Plan,View Position Y,715.832,355.6,changed
+1351419,93bc5a3b-427c-4736-8176-9cfedd2bef7c-00149efb,<none>,Floor Plan,Architectural Plan,Saved Position,1322341,-1,changed
+1351419,93bc5a3b-427c-4736-8176-9cfedd2bef7c-00149efb,<none>,Floor Plan,Architectural Plan,Sheet Collection,2884528,-1,changed
+1351419,93bc5a3b-427c-4736-8176-9cfedd2bef7c-00149efb,<none>,Floor Plan,Architectural Plan,Sheet Collection,2884528,-1,changed
+1351419,93bc5a3b-427c-4736-8176-9cfedd2bef7c-00149efb,<none>,Floor Plan,Architectural Plan,View Anchor,2,0,changed
+1351419,93bc5a3b-427c-4736-8176-9cfedd2bef7c-00149efb,<none>,Floor Plan,Architectural Plan,View Position X,57.773,272.95,changed
+1351419,93bc5a3b-427c-4736-8176-9cfedd2bef7c-00149efb,<none>,Floor Plan,Architectural Plan,View Position Y,715.832,355.6,changed
+1351476,93bc5a3b-427c-4736-8176-9cfedd2bef7c-00149f34,<none>,Floor Plan,Architectural Plan,Saved Position,1322341,-1,changed
+1351476,93bc5a3b-427c-4736-8176-9cfedd2bef7c-00149f34,<none>,Floor Plan,Architectural Plan,Sheet Collection,2884527,-1,changed
+1351476,93bc5a3b-427c-4736-8176-9cfedd2bef7c-00149f34,<none>,Floor Plan,Architectural Plan,Sheet Collection,2884527,-1,changed
+1351476,93bc5a3b-427c-4736-8176-9cfedd2bef7c-00149f34,<none>,Floor Plan,Architectural Plan,View Anchor,2,0,changed
+1351476,93bc5a3b-427c-4736-8176-9cfedd2bef7c-00149f34,<none>,Floor Plan,Architectural Plan,View Position X,57.773,272.95,changed
+1351476,93bc5a3b-427c-4736-8176-9cfedd2bef7c-00149f34,<none>,Floor Plan,Architectural Plan,View Position Y,715.832,355.6,changed
+1402528,9946db8c-a7b1-4550-b8ae-4577dfb3e660-001566a0,Views,Section,Building Section,Referencing Sheet Collection,2884526,-1,changed
+1451579,bdd98716-ce7e-41fd-a26a-cdd21a286ac3-0016263b,Elevations,Elevation,Interior Elevation,Referencing Sheet Collection,2884526,-1,changed
+1451579,bdd98716-ce7e-41fd-a26a-cdd21a286ac3-0016263b,Elevations,Elevation,Interior Elevation,Sheet Collection,2884526,-1,changed
+1451580,bdd98716-ce7e-41fd-a26a-cdd21a286ac3-0016263c,Views,Elevation,Interior Elevation,Referencing Sheet Collection,2884526,-1,changed
+1481877,5d7a6188-4ee0-4944-989f-a5d0600141c5-00169c95,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,2884528,-1,changed
+1481878,5d7a6188-4ee0-4944-989f-a5d0600141c5-00169c96,Views,Elevation,Building Elevation,Referencing Sheet Collection,2884528,-1,changed
+1623833,ce41fcb1-184e-47c1-8270-7317318941f6-0018c719,Title Blocks,TLB_TFCF_30x42 - CD w Grid,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1623840,ce41fcb1-184e-47c1-8270-7317318941f6-0018c720,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1623841,ce41fcb1-184e-47c1-8270-7317318941f6-0018c721,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1623842,ce41fcb1-184e-47c1-8270-7317318941f6-0018c722,Title Blocks,TLB_TFCF_30x42 - CD w Grid,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1809977,4ec5e200-7ca2-4b18-9279-2b0d9d4393b7-001b9e39,Elevations,Elevation,Interior Elevation,Referencing Sheet Collection,2884526,-1,changed
+1809977,4ec5e200-7ca2-4b18-9279-2b0d9d4393b7-001b9e39,Elevations,Elevation,Interior Elevation,Sheet Collection,2884526,-1,changed
+1809978,4ec5e200-7ca2-4b18-9279-2b0d9d4393b7-001b9e3a,Views,Elevation,Interior Elevation,Referencing Sheet Collection,2884526,-1,changed
+1884714,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc22a,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,2884528,-1,changed
+1884714,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc22a,Elevations,Elevation,Building Elevation,Sheet Collection,2884528,-1,changed
+1884715,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc22b,Views,Elevation,Building Elevation,Referencing Sheet Collection,2884528,-1,changed
+1884715,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc22b,Views,Elevation,Building Elevation,Saved Position,2099341,-1,changed
+1884715,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc22b,Views,Elevation,Building Elevation,Sheet Collection,2884528,-1,changed
+1884715,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc22b,Views,Elevation,Building Elevation,Sheet Collection,2884528,-1,changed
+1884715,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc22b,Views,Elevation,Building Elevation,View Anchor,1,0,changed
+1884715,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc22b,Views,Elevation,Building Elevation,View Position X,360.936,293.383,changed
+1884715,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc22b,Views,Elevation,Building Elevation,View Position Y,570.435,497.922,changed
+1884729,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc239,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,2884528,-1,changed
+1884729,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc239,Elevations,Elevation,Building Elevation,Sheet Collection,2884528,-1,changed
+1884730,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc23a,Views,Elevation,Building Elevation,Referencing Sheet Collection,2884528,-1,changed
+1884730,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc23a,Views,Elevation,Building Elevation,Saved Position,2099342,-1,changed
+1884730,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc23a,Views,Elevation,Building Elevation,Sheet Collection,2884528,-1,changed
+1884730,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc23a,Views,Elevation,Building Elevation,Sheet Collection,2884528,-1,changed
+1884730,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc23a,Views,Elevation,Building Elevation,View Anchor,1,0,changed
+1884730,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc23a,Views,Elevation,Building Elevation,View Position X,358.246,423.904,changed
+1884730,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc23a,Views,Elevation,Building Elevation,View Position Y,227.983,155.47,changed
+1884740,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc244,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1884740,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc244,<none>,Sheet,Sheet,Sheet Collection,2884528,-1,changed
+1884740,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc244,<none>,Sheet,Sheet,Sheet Collection,2884528,-1,changed
+1884744,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc248,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1884744,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc248,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,Sheet Collection,2884528,-1,changed
+1884753,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc251,Viewports,Viewport,Title Only,Referencing Sheet Collection,2884528,-1,changed
+1884753,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc251,Viewports,Viewport,Title Only,Saved Position,2099341,-1,changed
+1884753,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc251,Viewports,Viewport,Title Only,Sheet Collection,2884528,-1,changed
+1884753,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc251,Viewports,Viewport,Title Only,Sheet Collection,2884528,-1,changed
+1884753,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc251,Viewports,Viewport,Title Only,View Anchor,1,0,changed
+1884753,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc251,Viewports,Viewport,Title Only,View Position X,360.936,293.383,changed
+1884753,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc251,Viewports,Viewport,Title Only,View Position Y,570.435,497.922,changed
+1884754,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc252,Viewports,Viewport,Title Only,Referencing Sheet Collection,2884528,-1,changed
+1884754,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc252,Viewports,Viewport,Title Only,Saved Position,2099342,-1,changed
+1884754,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc252,Viewports,Viewport,Title Only,Sheet Collection,2884528,-1,changed
+1884754,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc252,Viewports,Viewport,Title Only,Sheet Collection,2884528,-1,changed
+1884754,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc252,Viewports,Viewport,Title Only,View Anchor,1,0,changed
+1884754,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc252,Viewports,Viewport,Title Only,View Position X,358.246,423.904,changed
+1884754,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc252,Viewports,Viewport,Title Only,View Position Y,227.983,155.47,changed
+1884763,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc25b,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,2884527,-1,changed
+1884763,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc25b,Elevations,Elevation,Building Elevation,Sheet Collection,2884527,-1,changed
+1884764,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc25c,Views,Elevation,Building Elevation,Referencing Sheet Collection,2884527,-1,changed
+1884764,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc25c,Views,Elevation,Building Elevation,Saved Position,2099341,-1,changed
+1884764,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc25c,Views,Elevation,Building Elevation,Sheet Collection,2884527,-1,changed
+1884764,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc25c,Views,Elevation,Building Elevation,Sheet Collection,2884527,-1,changed
+1884764,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc25c,Views,Elevation,Building Elevation,View Anchor,1,0,changed
+1884764,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc25c,Views,Elevation,Building Elevation,View Position X,360.936,292.217,changed
+1884764,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc25c,Views,Elevation,Building Elevation,View Position Y,570.435,497.922,changed
+1884778,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc26a,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,2884527,-1,changed
+1884778,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc26a,Elevations,Elevation,Building Elevation,Sheet Collection,2884527,-1,changed
+1884779,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc26b,Views,Elevation,Building Elevation,Referencing Sheet Collection,2884527,-1,changed
+1884779,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc26b,Views,Elevation,Building Elevation,Saved Position,2099342,-1,changed
+1884779,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc26b,Views,Elevation,Building Elevation,Sheet Collection,2884527,-1,changed
+1884779,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc26b,Views,Elevation,Building Elevation,Sheet Collection,2884527,-1,changed
+1884779,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc26b,Views,Elevation,Building Elevation,View Anchor,1,0,changed
+1884779,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc26b,Views,Elevation,Building Elevation,View Position X,358.246,424.508,changed
+1884779,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc26b,Views,Elevation,Building Elevation,View Position Y,227.983,155.47,changed
+1884789,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc275,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1884789,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc275,<none>,Sheet,Sheet,Sheet Collection,2884527,-1,changed
+1884789,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc275,<none>,Sheet,Sheet,Sheet Collection,2884527,-1,changed
+1884793,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc279,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1884793,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc279,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,Sheet Collection,2884527,-1,changed
+1884802,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc282,Viewports,Viewport,Title Only,Referencing Sheet Collection,2884527,-1,changed
+1884802,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc282,Viewports,Viewport,Title Only,Saved Position,2099341,-1,changed
+1884802,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc282,Viewports,Viewport,Title Only,Sheet Collection,2884527,-1,changed
+1884802,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc282,Viewports,Viewport,Title Only,Sheet Collection,2884527,-1,changed
+1884802,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc282,Viewports,Viewport,Title Only,View Anchor,1,0,changed
+1884802,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc282,Viewports,Viewport,Title Only,View Position X,360.936,292.217,changed
+1884802,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc282,Viewports,Viewport,Title Only,View Position Y,570.435,497.922,changed
+1884803,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc283,Viewports,Viewport,Title Only,Referencing Sheet Collection,2884527,-1,changed
+1884803,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc283,Viewports,Viewport,Title Only,Saved Position,2099342,-1,changed
+1884803,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc283,Viewports,Viewport,Title Only,Sheet Collection,2884527,-1,changed
+1884803,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc283,Viewports,Viewport,Title Only,Sheet Collection,2884527,-1,changed
+1884803,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc283,Viewports,Viewport,Title Only,View Anchor,1,0,changed
+1884803,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc283,Viewports,Viewport,Title Only,View Position X,358.246,424.508,changed
+1884803,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc283,Viewports,Viewport,Title Only,View Position Y,227.983,155.47,changed
+1884812,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc28c,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,2884528,-1,changed
+1884812,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc28c,Elevations,Elevation,Building Elevation,Sheet Collection,2884528,-1,changed
+1884813,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc28d,Views,Elevation,Building Elevation,Referencing Sheet Collection,2884528,-1,changed
+1884813,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc28d,Views,Elevation,Building Elevation,Saved Position,2099344,-1,changed
+1884813,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc28d,Views,Elevation,Building Elevation,Sheet Collection,2884528,-1,changed
+1884813,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc28d,Views,Elevation,Building Elevation,Sheet Collection,2884528,-1,changed
+1884813,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc28d,Views,Elevation,Building Elevation,View Anchor,1,0,changed
+1884813,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc28d,Views,Elevation,Building Elevation,View Position X,820.313,774.918,changed
+1884813,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc28d,Views,Elevation,Building Elevation,View Position Y,227.983,155.47,changed
+1884822,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc296,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,2884528,-1,changed
+1884822,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc296,Elevations,Elevation,Building Elevation,Sheet Collection,2884528,-1,changed
+1884823,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc297,Views,Elevation,Building Elevation,Referencing Sheet Collection,2884528,-1,changed
+1884823,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc297,Views,Elevation,Building Elevation,Saved Position,2099343,-1,changed
+1884823,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc297,Views,Elevation,Building Elevation,Sheet Collection,2884528,-1,changed
+1884823,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc297,Views,Elevation,Building Elevation,Sheet Collection,2884528,-1,changed
+1884823,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc297,Views,Elevation,Building Elevation,View Anchor,1,0,changed
+1884823,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc297,Views,Elevation,Building Elevation,View Position X,817.611,860.244,changed
+1884823,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc297,Views,Elevation,Building Elevation,View Position Y,570.435,497.922,changed
+1884832,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2a0,Viewports,Viewport,Title Only,Referencing Sheet Collection,2884528,-1,changed
+1884832,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2a0,Viewports,Viewport,Title Only,Saved Position,2099344,-1,changed
+1884832,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2a0,Viewports,Viewport,Title Only,Sheet Collection,2884528,-1,changed
+1884832,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2a0,Viewports,Viewport,Title Only,Sheet Collection,2884528,-1,changed
+1884832,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2a0,Viewports,Viewport,Title Only,View Anchor,1,0,changed
+1884832,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2a0,Viewports,Viewport,Title Only,View Position X,820.313,774.918,changed
+1884832,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2a0,Viewports,Viewport,Title Only,View Position Y,227.983,155.47,changed
+1884833,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2a1,Viewports,Viewport,Title Only,Referencing Sheet Collection,2884528,-1,changed
+1884833,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2a1,Viewports,Viewport,Title Only,Saved Position,2099343,-1,changed
+1884833,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2a1,Viewports,Viewport,Title Only,Sheet Collection,2884528,-1,changed
+1884833,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2a1,Viewports,Viewport,Title Only,Sheet Collection,2884528,-1,changed
+1884833,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2a1,Viewports,Viewport,Title Only,View Anchor,1,0,changed
+1884833,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2a1,Viewports,Viewport,Title Only,View Position X,817.611,860.244,changed
+1884833,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2a1,Viewports,Viewport,Title Only,View Position Y,570.435,497.922,changed
+1884856,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2b8,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,2884527,-1,changed
+1884856,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2b8,Elevations,Elevation,Building Elevation,Sheet Collection,2884527,-1,changed
+1884857,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2b9,Views,Elevation,Building Elevation,Referencing Sheet Collection,2884527,-1,changed
+1884857,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2b9,Views,Elevation,Building Elevation,Saved Position,2099344,-1,changed
+1884857,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2b9,Views,Elevation,Building Elevation,Sheet Collection,2884527,-1,changed
+1884857,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2b9,Views,Elevation,Building Elevation,Sheet Collection,2884527,-1,changed
+1884857,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2b9,Views,Elevation,Building Elevation,View Anchor,1,0,changed
+1884857,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2b9,Views,Elevation,Building Elevation,View Position X,820.313,774.813,changed
+1884857,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2b9,Views,Elevation,Building Elevation,View Position Y,227.983,155.47,changed
+1884866,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2c2,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,2884527,-1,changed
+1884866,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2c2,Elevations,Elevation,Building Elevation,Sheet Collection,2884527,-1,changed
+1884867,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2c3,Views,Elevation,Building Elevation,Referencing Sheet Collection,2884527,-1,changed
+1884867,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2c3,Views,Elevation,Building Elevation,Saved Position,2099343,-1,changed
+1884867,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2c3,Views,Elevation,Building Elevation,Sheet Collection,2884527,-1,changed
+1884867,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2c3,Views,Elevation,Building Elevation,Sheet Collection,2884527,-1,changed
+1884867,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2c3,Views,Elevation,Building Elevation,View Anchor,1,0,changed
+1884867,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2c3,Views,Elevation,Building Elevation,View Position X,817.611,860.522,changed
+1884867,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2c3,Views,Elevation,Building Elevation,View Position Y,570.435,497.922,changed
+1884876,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2cc,Viewports,Viewport,Title Only,Referencing Sheet Collection,2884527,-1,changed
+1884876,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2cc,Viewports,Viewport,Title Only,Saved Position,2099344,-1,changed
+1884876,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2cc,Viewports,Viewport,Title Only,Sheet Collection,2884527,-1,changed
+1884876,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2cc,Viewports,Viewport,Title Only,Sheet Collection,2884527,-1,changed
+1884876,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2cc,Viewports,Viewport,Title Only,View Anchor,1,0,changed
+1884876,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2cc,Viewports,Viewport,Title Only,View Position X,820.313,774.813,changed
+1884876,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2cc,Viewports,Viewport,Title Only,View Position Y,227.983,155.47,changed
+1884877,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2cd,Viewports,Viewport,Title Only,Referencing Sheet Collection,2884527,-1,changed
+1884877,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2cd,Viewports,Viewport,Title Only,Saved Position,2099343,-1,changed
+1884877,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2cd,Viewports,Viewport,Title Only,Sheet Collection,2884527,-1,changed
+1884877,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2cd,Viewports,Viewport,Title Only,Sheet Collection,2884527,-1,changed
+1884877,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2cd,Viewports,Viewport,Title Only,View Anchor,1,0,changed
+1884877,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2cd,Viewports,Viewport,Title Only,View Position X,817.611,860.522,changed
+1884877,75ea450b-550a-4d49-bccb-4e8c12e5d55d-001cc2cd,Viewports,Viewport,Title Only,View Position Y,570.435,497.922,changed
+1934770,4c2e3bc4-c692-4d51-80d9-a503a8f55fc3-001d85b2,Elevations,Elevation,Interior Elevation,Referencing Sheet Collection,2884526,-1,changed
+1934770,4c2e3bc4-c692-4d51-80d9-a503a8f55fc3-001d85b2,Elevations,Elevation,Interior Elevation,Sheet Collection,2884526,-1,changed
+1934771,4c2e3bc4-c692-4d51-80d9-a503a8f55fc3-001d85b3,Views,Elevation,Interior Elevation,Referencing Sheet Collection,2884526,-1,changed
+1945245,c3967d20-7da6-4a4e-af8c-56f9e4bb1ee9-001dae9d,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1945248,c3967d20-7da6-4a4e-af8c-56f9e4bb1ee9-001daea0,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+1974638,e901d7aa-b640-4399-bdd4-2113816d4471-001e216e,Views,Elevation,Interior Elevation,Referencing Sheet Collection,2884526,-1,changed
+2104903,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e47,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2104903,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e47,<none>,Sheet,Sheet,Sheet Collection,2884528,-1,changed
+2104903,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e47,<none>,Sheet,Sheet,Sheet Collection,2884528,-1,changed
+2104906,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e4a,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2104906,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e4a,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,Sheet Collection,2884528,-1,changed
+2104917,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e55,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2104917,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e55,<none>,Sheet,Sheet,Sheet Collection,2884527,-1,changed
+2104917,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e55,<none>,Sheet,Sheet,Sheet Collection,2884527,-1,changed
+2104920,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e58,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2104920,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e58,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,Sheet Collection,2884527,-1,changed
+2104930,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e62,Viewports,Viewport,Title w Line,Saved Position,1322341,-1,changed
+2104930,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e62,Viewports,Viewport,Title w Line,Sheet Collection,2884527,-1,changed
+2104930,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e62,Viewports,Viewport,Title w Line,Sheet Collection,2884527,-1,changed
+2104930,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e62,Viewports,Viewport,Title w Line,View Anchor,2,0,changed
+2104930,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e62,Viewports,Viewport,Title w Line,View Position X,57.773,272.95,changed
+2104930,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e62,Viewports,Viewport,Title w Line,View Position Y,715.832,355.6,changed
+2104931,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e63,Viewports,Viewport,Title w Line,Saved Position,1322341,-1,changed
+2104931,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e63,Viewports,Viewport,Title w Line,Sheet Collection,2884528,-1,changed
+2104931,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e63,Viewports,Viewport,Title w Line,Sheet Collection,2884528,-1,changed
+2104931,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e63,Viewports,Viewport,Title w Line,View Anchor,2,0,changed
+2104931,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e63,Viewports,Viewport,Title w Line,View Position X,57.773,272.95,changed
+2104931,7bc4f534-925e-4e31-8eab-01e4db9b4051-00201e63,Viewports,Viewport,Title w Line,View Position Y,715.832,355.6,changed
+2113637,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204065,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2113637,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204065,<none>,Sheet,Sheet,Sheet Collection,2884527,-1,changed
+2113637,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204065,<none>,Sheet,Sheet,Sheet Collection,2884527,-1,changed
+2113640,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204068,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2113640,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204068,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,Sheet Collection,2884527,-1,changed
+2113651,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204073,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2113651,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204073,<none>,Sheet,Sheet,Sheet Collection,2884528,-1,changed
+2113651,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204073,<none>,Sheet,Sheet,Sheet Collection,2884528,-1,changed
+2113654,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204076,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2113654,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204076,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,Sheet Collection,2884528,-1,changed
+2113664,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204080,Viewports,Viewport,Title w Line,Saved Position,1322341,-1,changed
+2113664,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204080,Viewports,Viewport,Title w Line,Sheet Collection,2884528,-1,changed
+2113664,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204080,Viewports,Viewport,Title w Line,Sheet Collection,2884528,-1,changed
+2113664,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204080,Viewports,Viewport,Title w Line,View Anchor,2,0,changed
+2113664,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204080,Viewports,Viewport,Title w Line,View Position X,57.773,272.95,changed
+2113664,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204080,Viewports,Viewport,Title w Line,View Position Y,715.832,355.6,changed
+2113665,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204081,Viewports,Viewport,Title w Line,Saved Position,1322341,-1,changed
+2113665,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204081,Viewports,Viewport,Title w Line,Sheet Collection,2884527,-1,changed
+2113665,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204081,Viewports,Viewport,Title w Line,Sheet Collection,2884527,-1,changed
+2113665,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204081,Viewports,Viewport,Title w Line,View Anchor,2,0,changed
+2113665,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204081,Viewports,Viewport,Title w Line,View Position X,57.773,272.95,changed
+2113665,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204081,Viewports,Viewport,Title w Line,View Position Y,715.832,355.6,changed
+2113670,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204086,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2113673,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204089,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2113683,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204093,Viewports,Viewport,Title w Line,Saved Position,1322341,-1,changed
+2113683,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204093,Viewports,Viewport,Title w Line,View Anchor,2,0,changed
+2113683,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204093,Viewports,Viewport,Title w Line,View Position X,57.773,272.95,changed
+2113683,07f2d329-b8bb-49df-a3ba-bd2359dfad01-00204093,Viewports,Viewport,Title w Line,View Position Y,715.832,355.6,changed
+2114254,85cf3eea-0c67-45e9-83b6-2d53ade063d3-002042ce,<none>,Ceiling Plan,Architectural Ceiling Plan,View Anchor,2,0,changed
+2114254,85cf3eea-0c67-45e9-83b6-2d53ade063d3-002042ce,<none>,Ceiling Plan,Architectural Ceiling Plan,View Position X,528.789,497.782,changed
+2114254,85cf3eea-0c67-45e9-83b6-2d53ade063d3-002042ce,<none>,Ceiling Plan,Architectural Ceiling Plan,View Position Y,247.195,355.6,changed
+2115927,85cf3eea-0c67-45e9-83b6-2d53ade063d3-00204957,Viewports,Viewport,Title w Line,View Anchor,2,0,changed
+2115927,85cf3eea-0c67-45e9-83b6-2d53ade063d3-00204957,Viewports,Viewport,Title w Line,View Position X,528.789,497.782,changed
+2115927,85cf3eea-0c67-45e9-83b6-2d53ade063d3-00204957,Viewports,Viewport,Title w Line,View Position Y,247.195,355.6,changed
+2116072,bba81d42-0a94-434c-8b81-65a24db7322a-002049e8,Views,Section,Building Section,Referencing Sheet,A2.1a,A2.1b,changed
+2116072,bba81d42-0a94-434c-8b81-65a24db7322a-002049e8,Views,Section,Building Section,Referencing Sheet Collection,2884526,-1,changed
+2116084,bba81d42-0a94-434c-8b81-65a24db7322a-002049f4,Views,Section,Building Section,Referencing Sheet Collection,2884527,-1,changed
+2116096,bba81d42-0a94-434c-8b81-65a24db7322a-00204a00,Viewports,Viewport,Title w Line,Referencing Sheet,A2.1a,A2.1b,changed
+2116096,bba81d42-0a94-434c-8b81-65a24db7322a-00204a00,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884526,-1,changed
+2116097,bba81d42-0a94-434c-8b81-65a24db7322a-00204a01,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884527,-1,changed
+2116098,bba81d42-0a94-434c-8b81-65a24db7322a-00204a02,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884526,-1,changed
+2169013,5fb731a2-7971-486c-9f4b-7633a37ae3f7-002118b5,Views,Elevation,Interior Elevation,Referencing Sheet Collection,2884526,-1,changed
+2393513,049b68f4-3b73-4f4d-901f-6a27906707e4-002485a9,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884526,-1,changed
+2393514,049b68f4-3b73-4f4d-901f-6a27906707e4-002485aa,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884526,-1,changed
+2393515,049b68f4-3b73-4f4d-901f-6a27906707e4-002485ab,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884526,-1,changed
+2393516,049b68f4-3b73-4f4d-901f-6a27906707e4-002485ac,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884526,-1,changed
+2393517,049b68f4-3b73-4f4d-901f-6a27906707e4-002485ad,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884526,-1,changed
+2670292,0dc6df93-9be1-4387-802b-ed2e79d4231d-0028bed4,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2670295,0dc6df93-9be1-4387-802b-ed2e79d4231d-0028bed7,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2701071,8bebd045-9069-4ef2-a198-e0bc3e10b352-0029370f,Elevations,Elevation,Building Elevation,Referencing Sheet Collection,2884526,-1,changed
+2701072,8bebd045-9069-4ef2-a198-e0bc3e10b352-00293710,Views,Elevation,Building Elevation,Referencing Sheet Collection,2884526,-1,changed
+2785015,69dbd822-03aa-4422-bbb6-e4c13815d286-002a7ef7,Toposolid,Toposolid,"Grassland - 16""",Total Excavation Volume,1011.562,911.97,changed
+2785015,69dbd822-03aa-4422-bbb6-e4c13815d286-002a7ef7,Toposolid,Toposolid,"Grassland - 16""",Volume,8697.539,8797.132,changed
+2785467,9174545e-0d35-43ac-9910-2fcfa6641753-002a80bb,Sub-divisions,Toposolid,"Path - 12"" Asphalt",Sub-divide Offset,-152.4,,missing
+2785467,9174545e-0d35-43ac-9910-2fcfa6641753-002a80bb,Sub-divisions,Toposolid,"Path - 12"" Asphalt",Height Offset From Level,,,added
+2785467,9174545e-0d35-43ac-9910-2fcfa6641753-002a80bb,Sub-divisions,Toposolid,"Path - 12"" Asphalt",Level,,30,added
+2785467,9174545e-0d35-43ac-9910-2fcfa6641753-002a80bb,Sub-divisions,Toposolid,"Path - 12"" Asphalt",Level,,30,added
+2785467,9174545e-0d35-43ac-9910-2fcfa6641753-002a80bb,Sub-divisions,Toposolid,"Path - 12"" Asphalt",Related to Mass,,0,added
+2785467,9174545e-0d35-43ac-9910-2fcfa6641753-002a80bb,Sub-divisions,Toposolid,"Path - 12"" Asphalt",Thickness,,304.8,added
+2785467,9174545e-0d35-43ac-9910-2fcfa6641753-002a80bb,Sub-divisions,Toposolid,"Path - 12"" Asphalt",Area,552.66,,changed
+2785467,9174545e-0d35-43ac-9910-2fcfa6641753-002a80bb,Sub-divisions,Toposolid,"Path - 12"" Asphalt",Excavation Volume on Toposolid,252.325,168.217,changed
+2786184,99be27a2-81ff-4649-b5db-1b806932ebba-002a8388,Floors,Floor,"Generic - 48""",Excavation Volume on Toposolid,283.571,275.762,changed
+2786373,99be27a2-81ff-4649-b5db-1b806932ebba-002a8445,Floors,Floor,"Generic - 48""",Excavation Volume on Toposolid,303.827,296.988,changed
+2786712,99be27a2-81ff-4649-b5db-1b806932ebba-002a8598,Floors,Floor,"Concrete 10""",Excavation Volume on Toposolid,4.36,4.341,changed
+2789713,1446d317-ed1a-48ed-be17-9659417a3c74-002a9151,<Sketch>,,,Wall offset,0.0,22.225,changed
+2790315,1446d317-ed1a-48ed-be17-9659417a3c74-002a93ab,Floors,Floor,"Concrete 6""",Excavation Volume on Toposolid,2.106,1.289,changed
+2804381,14f82e1d-3629-4549-9a48-624cad0fa56f-002aca9d,Cameras,3D View,3D View,Sheet Collection,2884526,-1,changed
+2804381,14f82e1d-3629-4549-9a48-624cad0fa56f-002aca9d,Cameras,3D View,3D View,Sheet Collection,2884526,-1,changed
+2804391,14f82e1d-3629-4549-9a48-624cad0fa56f-002acaa7,Cameras,3D View,3D View,Sheet Collection,2884528,-1,changed
+2804391,14f82e1d-3629-4549-9a48-624cad0fa56f-002acaa7,Cameras,3D View,3D View,Sheet Collection,2884528,-1,changed
+2804401,14f82e1d-3629-4549-9a48-624cad0fa56f-002acab1,Cameras,3D View,3D View,Sheet Collection,2884527,-1,changed
+2804401,14f82e1d-3629-4549-9a48-624cad0fa56f-002acab1,Cameras,3D View,3D View,Sheet Collection,2884527,-1,changed
+2805214,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002acdde,<none>,Floor Plan,Architectural Plan,Saved Position,1322341,-1,changed
+2805214,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002acdde,<none>,Floor Plan,Architectural Plan,Sheet Collection,2884528,-1,changed
+2805214,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002acdde,<none>,Floor Plan,Architectural Plan,Sheet Collection,2884528,-1,changed
+2805214,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002acdde,<none>,Floor Plan,Architectural Plan,View Anchor,2,0,changed
+2805214,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002acdde,<none>,Floor Plan,Architectural Plan,View Position X,57.773,272.95,changed
+2805214,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002acdde,<none>,Floor Plan,Architectural Plan,View Position Y,715.832,355.6,changed
+2805224,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002acde8,<none>,Floor Plan,Architectural Plan,Sheet Collection,2884527,-1,changed
+2805224,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002acde8,<none>,Floor Plan,Architectural Plan,Sheet Collection,2884527,-1,changed
+2805224,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002acde8,<none>,Floor Plan,Architectural Plan,View Anchor,2,0,changed
+2805224,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002acde8,<none>,Floor Plan,Architectural Plan,View Position X,57.773,272.95,changed
+2805224,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002acde8,<none>,Floor Plan,Architectural Plan,View Position Y,715.832,355.6,changed
+2805234,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002acdf2,Viewports,Viewport,Title w Line,Sheet Collection,2884526,-1,changed
+2805234,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002acdf2,Viewports,Viewport,Title w Line,Sheet Collection,2884526,-1,changed
+2805256,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace08,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2805256,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace08,<none>,Sheet,Sheet,Sheet Collection,2884527,-1,changed
+2805256,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace08,<none>,Sheet,Sheet,Sheet Collection,2884527,-1,changed
+2805260,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace0c,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2805260,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace0c,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,Sheet Collection,2884527,-1,changed
+2805261,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace0d,Viewports,Viewport,Title Only,Sheet Collection,2884527,-1,changed
+2805261,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace0d,Viewports,Viewport,Title Only,Sheet Collection,2884527,-1,changed
+2805261,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace0d,Viewports,Viewport,Title Only,View Anchor,2,0,changed
+2805261,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace0d,Viewports,Viewport,Title Only,View Position X,57.773,272.95,changed
+2805261,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace0d,Viewports,Viewport,Title Only,View Position Y,715.832,355.6,changed
+2805271,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace17,Viewports,Viewport,Title w Line,Sheet Collection,2884527,-1,changed
+2805271,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace17,Viewports,Viewport,Title w Line,Sheet Collection,2884527,-1,changed
+2805301,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace35,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2805301,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace35,<none>,Sheet,Sheet,Sheet Collection,2884528,-1,changed
+2805301,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace35,<none>,Sheet,Sheet,Sheet Collection,2884528,-1,changed
+2805305,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace39,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2805305,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace39,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,Sheet Collection,2884528,-1,changed
+2805306,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace3a,Viewports,Viewport,Title Only,Saved Position,1322341,-1,changed
+2805306,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace3a,Viewports,Viewport,Title Only,Sheet Collection,2884528,-1,changed
+2805306,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace3a,Viewports,Viewport,Title Only,Sheet Collection,2884528,-1,changed
+2805306,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace3a,Viewports,Viewport,Title Only,View Anchor,2,0,changed
+2805306,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace3a,Viewports,Viewport,Title Only,View Position X,57.773,272.95,changed
+2805306,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace3a,Viewports,Viewport,Title Only,View Position Y,715.832,355.6,changed
+2805316,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace44,Viewports,Viewport,Title w Line,Sheet Collection,2884528,-1,changed
+2805316,2daf960d-0ed6-4e0e-bacf-8f6ec0b6ad2b-002ace44,Viewports,Viewport,Title w Line,Sheet Collection,2884528,-1,changed
+2822774,93d78f33-c0bb-4066-b270-b1b6671eb894-002b1276,Views,Section,Building Section,Referencing Sheet Collection,2884528,-1,changed
+2824211,3a45c619-2acb-4b51-97d1-fbebdbc244ff-002b1813,Views,Section,Building Section,Referencing Sheet Collection,2884527,-1,changed
+2836757,33ce253c-5524-4498-a964-73d54094e344-002b4915,Views,Section,Building Section,Referencing Sheet Collection,2884526,-1,changed
+2839396,33ce253c-5524-4498-a964-73d54094e344-002b5364,<none>,Sheet,Sheet,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2839399,33ce253c-5524-4498-a964-73d54094e344-002b5367,Title Blocks,TLB_TFCF_30x42 - CD,TFCF_30x42 - CD,File Path,Pacific Continental Residence Sample.rvt,Pacific Continental Residence Sample_R2023.rvt,changed
+2839409,33ce253c-5524-4498-a964-73d54094e344-002b5371,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884526,-1,changed
+2839410,33ce253c-5524-4498-a964-73d54094e344-002b5372,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884528,-1,changed
+2839411,33ce253c-5524-4498-a964-73d54094e344-002b5373,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884527,-1,changed
+2899924,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c3fd4,Elevations,Elevation,Interior Elevation,Referencing Sheet Collection,2884526,-1,changed
+2899924,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c3fd4,Elevations,Elevation,Interior Elevation,Sheet Collection,2884526,-1,changed
+2899925,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c3fd5,Views,Elevation,Interior Elevation,Referencing Sheet Collection,2884526,-1,changed
+2899948,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c3fec,Views,Elevation,Interior Elevation,Referencing Sheet Collection,2884526,-1,changed
+2900592,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c4270,Views,Elevation,Interior Elevation,Referencing Sheet Collection,2884526,-1,changed
+2901399,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c4597,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884526,-1,changed
+2901400,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c4598,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884526,-1,changed
+2901401,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c4599,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884526,-1,changed
+2901402,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c459a,Elevations,Elevation,Interior Elevation,Referencing Sheet Collection,2884526,-1,changed
+2901402,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c459a,Elevations,Elevation,Interior Elevation,Sheet Collection,2884526,-1,changed
+2901403,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c459b,Views,Elevation,Interior Elevation,Referencing Sheet Collection,2884526,-1,changed
+2901424,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c45b0,Views,Elevation,Interior Elevation,Referencing Sheet Collection,2884526,-1,changed
+2901775,b9281324-c83e-4b57-9901-096e9ca1d3ec-002c470f,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884526,-1,changed
+2902363,b43093e4-805f-451a-85ea-bb741f42cbdd-002c495b,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884526,-1,changed
+2902856,b43093e4-805f-451a-85ea-bb741f42cbdd-002c4b48,<none>,Floor Plan,Site Plan,Saved Position,2902951,-1,changed
+2902856,b43093e4-805f-451a-85ea-bb741f42cbdd-002c4b48,<none>,Floor Plan,Site Plan,Sheet Collection,2884526,-1,changed
+2902856,b43093e4-805f-451a-85ea-bb741f42cbdd-002c4b48,<none>,Floor Plan,Site Plan,Sheet Collection,2884526,-1,changed
+2902950,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4ba6,Viewports,Viewport,Title w Line,Saved Position,2902951,-1,changed
+2902950,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4ba6,Viewports,Viewport,Title w Line,Sheet Collection,2884526,-1,changed
+2902950,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4ba6,Viewports,Viewport,Title w Line,Sheet Collection,2884526,-1,changed
+2902954,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4baa,<none>,Floor Plan,Site Plan,Saved Position,2902951,-1,changed
+2902954,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4baa,<none>,Floor Plan,Site Plan,Sheet Collection,2884528,-1,changed
+2902954,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4baa,<none>,Floor Plan,Site Plan,Sheet Collection,2884528,-1,changed
+2902965,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4bb5,<none>,Floor Plan,Site Plan,Saved Position,2902951,-1,changed
+2902965,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4bb5,<none>,Floor Plan,Site Plan,Sheet Collection,2884527,-1,changed
+2902965,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4bb5,<none>,Floor Plan,Site Plan,Sheet Collection,2884527,-1,changed
+2902974,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4bbe,Viewports,Viewport,Title w Line,Saved Position,2902951,-1,changed
+2902974,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4bbe,Viewports,Viewport,Title w Line,Sheet Collection,2884528,-1,changed
+2902974,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4bbe,Viewports,Viewport,Title w Line,Sheet Collection,2884528,-1,changed
+2902975,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4bbf,Viewports,Viewport,Title w Line,Saved Position,2902951,-1,changed
+2902975,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4bbf,Viewports,Viewport,Title w Line,Sheet Collection,2884527,-1,changed
+2902975,85d3bcdc-93b2-4a63-b0e8-6f683443f390-002c4bbf,Viewports,Viewport,Title w Line,Sheet Collection,2884527,-1,changed
+2905864,18eae490-c9b3-42ff-a6bb-9ce012d8483d-002c5708,Views,Section,Building Section,Referencing Sheet Collection,2884526,-1,changed
+2909810,535cdd36-61b1-4420-bed0-0b1787ad7adf-002c6672,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884526,-1,changed
+2910230,e1d9ad60-5956-4745-8d99-2c6b52056298-002c6816,Elevations,Elevation,Interior Elevation,Referencing Sheet Collection,2884526,-1,changed
+2910230,e1d9ad60-5956-4745-8d99-2c6b52056298-002c6816,Elevations,Elevation,Interior Elevation,Sheet Collection,2884526,-1,changed
+2910231,e1d9ad60-5956-4745-8d99-2c6b52056298-002c6817,Views,Elevation,Interior Elevation,Referencing Sheet Collection,2884526,-1,changed
+2910446,e1d9ad60-5956-4745-8d99-2c6b52056298-002c68ee,Viewports,Viewport,Title w Line,Referencing Sheet Collection,2884526,-1,changed
+2950598,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05c6,Analytical Spaces,,,Composed Name,02-1 Great Room,Great Room,changed
+2950598,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05c6,Analytical Spaces,,,Number,02-1,,changed
+2950599,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05c7,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950600,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05c8,Analytical Surfaces,,,Originating Element,"Window-Double-Hung : 26"" x 62"" (Muntin 2x2)",None,changed
+2950601,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05c9,Analytical Spaces,,,Composed Name,02-2 Great Room,Great Room,changed
+2950601,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05c9,Analytical Spaces,,,Number,02-2,,changed
+2950602,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05ca,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950603,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05cb,Analytical Surfaces,,,Originating Element,"Window-Double-Hung : 26"" x 62"" (Muntin 2x2)",None,changed
+2950604,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05cc,Analytical Surfaces,,,Originating Element,"Window-Double-Hung : 26"" x 62"" (Muntin 2x2)",None,changed
+2950606,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05ce,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950607,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05cf,Analytical Spaces,,,Composed Name,04 Kitchen,Kitchen,changed
+2950607,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05cf,Analytical Spaces,,,Number,04,,changed
+2950608,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d0,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950609,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d1,Analytical Surfaces,,,Originating Element,"Window-Double-Hung-Triple : 72"" x 56"" (Muntin 2x2)",None,changed
+2950610,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d2,Analytical Spaces,,,Composed Name,08 Laundry / Mud Room,Laundry / Mud Room,changed
+2950610,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d2,Analytical Spaces,,,Number,08,,changed
+2950611,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d3,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950612,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d4,Analytical Surfaces,,,Originating Element,"Door-Exterior-Single-Entry-Half Flat Glass Muntins-Wood_Clad : 36"" x 96""",None,changed
+2950613,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d5,Analytical Spaces,,,Composed Name,09 Bedroom 2,Bedroom 2,changed
+2950613,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d5,Analytical Spaces,,,Number,09,,changed
+2950614,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d6,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950615,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d7,Analytical Surfaces,,,Originating Element,"Window-Double-Hung-Double : 56"" x 62"" (Muntin 2x2)",None,changed
+2950616,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d8,Analytical Spaces,,,Composed Name,12 Bedroom 3,Bedroom 3,changed
+2950616,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d8,Analytical Spaces,,,Number,12,,changed
+2950617,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05d9,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950618,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05da,Analytical Surfaces,,,Originating Element,"Window-Double-Hung-Double : 56"" x 62"" (Muntin 2x2)",None,changed
+2950619,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05db,Analytical Spaces,,,Composed Name,13 Bathroom 2,Bathroom 2,changed
+2950619,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05db,Analytical Spaces,,,Number,13,,changed
+2950620,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05dc,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950621,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05dd,Analytical Surfaces,,,Originating Element,"Window-Double-Hung : 26"" x 36"" (Muntin 2x2)",None,changed
+2950622,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05de,Analytical Spaces,,,Composed Name,16-1 Primary Bathroom,Primary Bathroom,changed
+2950622,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05de,Analytical Spaces,,,Number,16-1,,changed
+2950623,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05df,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950624,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e0,Analytical Surfaces,,,Originating Element,"Window-Double-Hung : 26"" x 36"" (Muntin 2x2)",None,changed
+2950626,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e2,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950628,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e4,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950629,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e5,Analytical Surfaces,,,Originating Element,"Window-Double-Hung : 34"" x 62"" (Muntin 2x2)",None,changed
+2950630,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e6,Analytical Spaces,,,Composed Name,14 Primary Bedroom,Primary Bedroom,changed
+2950630,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e6,Analytical Spaces,,,Number,14,,changed
+2950631,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e7,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950632,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e8,Analytical Surfaces,,,Originating Element,"Door-Exterior-Double-Full Glass-Wood_Clad : 60"" x 96"" (Grid 2x5)",None,changed
+2950633,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e9,Analytical Spaces,,,Composed Name,15 Hallway,Hallway,changed
+2950633,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05e9,Analytical Spaces,,,Number,15,,changed
+2950634,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05ea,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950635,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05eb,Analytical Surfaces,,,Originating Element,"Window-Double-Hung : 26"" x 36"" (Muntin 2x2)",None,changed
+2950636,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05ec,Analytical Spaces,,,Composed Name,16-2 Primary Bathroom,Primary Bathroom,changed
+2950636,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05ec,Analytical Spaces,,,Number,16-2,,changed
+2950637,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05ed,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950638,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05ee,Analytical Surfaces,,,Originating Element,"Window-Double-Hung : 26"" x 36"" (Muntin 2x2)",None,changed
+2950639,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05ef,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950640,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f0,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950641,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f1,Analytical Surfaces,,,Originating Element,"Window-Double-Hung : 26"" x 62"" (Muntin 2x2)",None,changed
+2950642,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f2,Analytical Surfaces,,,Originating Element,"Window-Double-Hung : 26"" x 62"" (Muntin 2x2)",None,changed
+2950643,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f3,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950644,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f4,Analytical Surfaces,,,Originating Element,"Window-Double-Hung-Double : 56"" x 62"" (Muntin 2x2)",None,changed
+2950645,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f5,Analytical Spaces,,,Composed Name,11-1 Corridor,Corridor,changed
+2950645,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f5,Analytical Spaces,,,Number,11-1,,changed
+2950646,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f6,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950647,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f7,Analytical Surfaces,,,Originating Element,"Window-Double-Hung : 26"" x 62"" (Muntin 2x2)",None,changed
+2950648,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f8,Analytical Surfaces,,,Originating Element,"Door-Exterior-Single-Entry-Half Flat Glass Muntins-Wood_Clad : 36"" x 96""",None,changed
+2950649,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05f9,Analytical Surfaces,,,Originating Element,"Door-Exterior-Double-Full Glass-Wood_Clad : 60"" x 96"" (Grid 2x5)",None,changed
+2950650,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05fa,Analytical Surfaces,,,Originating Element,"Window-Double-Hung : 26"" x 62"" (Muntin 2x2)",None,changed
+2950651,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05fb,Analytical Spaces,,,Composed Name,07-2 Bathroom 1,Bathroom 1,changed
+2950651,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05fb,Analytical Spaces,,,Number,07-2,,changed
+2950652,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05fc,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950653,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05fd,Analytical Surfaces,,,Originating Element,"Window-Double-Hung : 26"" x 62"" (Muntin 2x2)",None,changed
+2950654,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05fe,Analytical Spaces,,,Composed Name,06 Hallway,Hallway,changed
+2950654,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05fe,Analytical Spaces,,,Number,06,,changed
+2950655,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d05ff,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950656,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0600,Analytical Surfaces,,,Originating Element,"Window-Double-Hung : 26"" x 62"" (Muntin 2x2)",None,changed
+2950657,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0601,Analytical Spaces,,,Composed Name,03 Dining,Dining,changed
+2950657,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0601,Analytical Spaces,,,Number,03,,changed
+2950658,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0602,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950659,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0603,Analytical Surfaces,,,Originating Element,"Door-Exterior-Double-Full Glass-Wood_Clad : 60"" x 96"" (Grid 2x5)",None,changed
+2950660,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0604,Analytical Spaces,,,Composed Name,05-2 Bedroom 1,Bedroom 1,changed
+2950660,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0604,Analytical Spaces,,,Number,05-2,,changed
+2950661,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0605,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950662,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0606,Analytical Surfaces,,,Originating Element,"Window-Double-Hung : 26"" x 36"" (Muntin 2x2)",None,changed
+2950663,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0607,Analytical Spaces,,,Composed Name,07-1 Bathroom 1,Bathroom 1,changed
+2950663,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0607,Analytical Spaces,,,Number,07-1,,changed
+2950664,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0608,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950665,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0609,Analytical Surfaces,,,Originating Element,"Window-Double-Hung : 26"" x 36"" (Muntin 2x2)",None,changed
+2950666,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d060a,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950667,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d060b,Analytical Spaces,,,Composed Name,2-01 Analytical Space,Analytical Space,changed
+2950667,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d060b,Analytical Spaces,,,Number,2-01,,changed
+2950668,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d060c,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950669,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d060d,Analytical Spaces,,,Composed Name,05-1 Bedroom 1,Bedroom 1,changed
+2950669,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d060d,Analytical Spaces,,,Number,05-1,,changed
+2950670,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d060e,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950671,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d060f,Analytical Surfaces,,,Originating Element,"Window-Double-Hung-Double : 56"" x 56"" (Muntin 1x2)",None,changed
+2950672,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0610,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950673,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0611,Analytical Surfaces,,,Originating Element,"Window-Double-Hung-Double : 56"" x 56"" (Muntin 1x2)",None,changed
+2950674,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0612,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950675,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0613,Analytical Spaces,,,Composed Name,10 Hallway,Hallway,changed
+2950675,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0613,Analytical Spaces,,,Number,10,,changed
+2950676,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0614,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950677,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0615,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950678,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0616,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950679,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0617,Analytical Surfaces,,,Originating Element,"Door-Interior-Single-2_Panel-Wood : 36"" x 96""",None,changed
+2950680,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0618,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 6 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950681,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0619,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950682,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d061a,Analytical Spaces,,,Composed Name,10A Closet,Closet,changed
+2950682,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d061a,Analytical Spaces,,,Number,10A,,changed
+2950683,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d061b,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950684,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d061c,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950685,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d061d,Analytical Surfaces,,,Originating Element,"Door-Interior-Single-2_Panel-Wood : 32"" x 96""",None,changed
+2950686,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d061e,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950687,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d061f,Analytical Surfaces,,,Originating Element,"Door-Interior-Single-2_Panel-Wood : 32"" x 96""",None,changed
+2950688,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0620,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950689,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0621,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 6 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950690,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0622,Analytical Spaces,,,Composed Name,2-03 Analytical Space,Analytical Space,changed
+2950690,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0622,Analytical Spaces,,,Number,2-03,,changed
+2950691,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0623,Analytical Spaces,,,Composed Name,2-02 Analytical Space,Analytical Space,changed
+2950691,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0623,Analytical Spaces,,,Number,2-02,,changed
+2950692,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0624,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 6 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950693,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0625,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950694,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0626,Analytical Spaces,,,Composed Name,15A Primary Walk-in Closet,Primary Walk-in Closet,changed
+2950694,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0626,Analytical Spaces,,,Number,15A,,changed
+2950695,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0627,Analytical Spaces,,,Composed Name,11-2 Corridor,Corridor,changed
+2950695,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0627,Analytical Spaces,,,Number,11-2,,changed
+2950696,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0628,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950697,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0629,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950698,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d062a,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950699,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d062b,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950700,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d062c,Analytical Surfaces,,,Originating Element,"Door-Interior-Single-2_Panel-Wood : 36"" x 96""",None,changed
+2950701,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d062d,Analytical Spaces,,,Composed Name,04A Closet,Closet,changed
+2950701,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d062d,Analytical Spaces,,,Number,04A,,changed
+2950702,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d062e,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950703,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d062f,Analytical Spaces,,,Composed Name,05A Closet,Closet,changed
+2950703,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d062f,Analytical Spaces,,,Number,05A,,changed
+2950704,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0630,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950705,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0631,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950706,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0632,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950707,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0633,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950708,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0634,Analytical Surfaces,,,Originating Element,"Door-Interior-Single-2_Panel-Wood : 32"" x 96""",None,changed
+2950709,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0635,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950710,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0636,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950711,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0637,Analytical Surfaces,,,Originating Element,"Door-Interior-Double-Sliding-2_Panel-Wood : 54"" x 96""",None,changed
+2950712,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0638,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950713,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0639,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950714,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d063a,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950715,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d063b,Analytical Surfaces,,,Originating Element,"Door-Interior-Single-2_Panel-Wood : 32"" x 96""",None,changed
+2950716,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d063c,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 6 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950717,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d063d,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud (Stucco) w Cap,None,changed
+2950718,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d063e,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud (Stucco) w Cap,None,changed
+2950719,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d063f,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950720,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0640,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 6 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950721,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0641,Analytical Surfaces,,,Originating Element,"Door-Interior-Single-2_Panel-Wood : 32"" x 96""",None,changed
+2950722,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0642,Analytical Spaces,,,Composed Name,01-2 Entry,Entry,changed
+2950722,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0642,Analytical Spaces,,,Number,01-2,,changed
+2950723,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0643,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 6 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950724,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0644,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud (Stucco) w Cap,None,changed
+2950725,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0645,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950726,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0646,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950727,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0647,Analytical Surfaces,,,Originating Element,"Door-Interior-Single-2_Panel-Wood : 36"" x 96""",None,changed
+2950728,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0648,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950729,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0649,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950730,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d064a,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950731,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d064b,Analytical Surfaces,,,Originating Element,"Door-Interior-Single-2_Panel-Wood : 36"" x 96""",None,changed
+2950732,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d064c,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 6 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950733,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d064d,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950734,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d064e,Analytical Surfaces,,,Originating Element,"Door-Interior-Double-Sliding-2_Panel-Wood : 48"" x 96""",None,changed
+2950735,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d064f,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950736,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0650,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950737,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0651,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950738,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0652,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950739,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0653,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950740,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0654,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950741,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0655,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950742,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0656,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950743,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0657,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950744,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0658,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950745,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0659,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950746,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d065a,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950747,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d065b,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950748,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d065c,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950749,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d065d,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950750,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d065e,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950751,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d065f,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950752,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0660,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950753,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0661,Analytical Spaces,,,Composed Name,3-01 Analytical Space,Analytical Space,changed
+2950753,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0661,Analytical Spaces,,,Number,3-01,,changed
+2950754,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0662,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950755,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0663,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950756,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0664,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950757,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0665,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950758,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0666,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950759,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0667,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950760,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0668,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950761,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0669,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950762,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d066a,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950763,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d066b,Analytical Surfaces,,,Originating Element,"Door-Interior-Single-2_Panel-Wood : 32"" x 96""",None,changed
+2950765,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d066d,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 6"" Shaft - WD Stud GWB 1 Side",None,changed
+2950766,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d066e,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 6"" Shaft - WD Stud GWB 1 Side",None,changed
+2950767,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d066f,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 6"" Shaft - WD Stud GWB 1 Side",None,changed
+2950768,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0670,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 1/8"" Shaft - WD Stud GWB 1 Side",None,changed
+2950769,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0671,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 1/8"" Shaft - WD Stud GWB 1 Side",None,changed
+2950770,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0672,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950771,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0673,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950772,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0674,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950773,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0675,Analytical Surfaces,,,Originating Element,"Compound Ceiling : 5/8"" GWB Only",None,changed
+2950774,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0676,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950776,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0678,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950777,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0679,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950778,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d067a,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950779,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d067b,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950780,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d067c,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950782,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d067e,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950783,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d067f,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950785,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0681,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950787,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0683,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950788,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0684,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950789,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0685,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950790,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0686,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950791,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0687,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950792,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0688,Analytical Surfaces,,,Originating Element,Basic Roof : Sheathing and Clay Tile,None,changed
+2950793,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0689,Analytical Spaces,,,Composed Name,01-1 Entry,Entry,changed
+2950793,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0689,Analytical Spaces,,,Number,01-1,,changed
+2950794,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d068a,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950795,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d068b,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950796,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d068c,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950797,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d068d,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950798,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d068e,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950799,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d068f,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950800,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0690,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950801,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0691,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950802,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0692,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950803,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0693,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950804,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0694,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950805,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0695,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950806,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0696,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950807,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0697,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950808,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0698,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950809,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0699,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950810,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d069a,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950811,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d069b,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950812,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d069c,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950813,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d069d,Analytical Surfaces,,,Originating Element,Turret Ceiling : Turret Ceiling,None,changed
+2950814,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d069e,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950815,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d069f,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950816,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a0,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950817,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a1,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950818,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a2,Analytical Surfaces,,,Originating Element,"Basic Wall : Interior - 4 3/4"" Partition - WD Stud GWB Both Sides",None,changed
+2950819,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a3,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950820,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a4,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950821,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a5,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950822,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a6,Analytical Surfaces,,,Originating Element,"Window-Fixed : 54"" x 44"" (Muntin 3x2)",None,changed
+2950823,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a7,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950824,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a8,Analytical Surfaces,,,Originating Element,Basic Wall : Exterior - Stucco on Wood Stud,None,changed
+2950825,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06a9,Analytical Surfaces,,,Originating Element,"Floor : Generic - 48""",None,changed
+2950826,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06aa,Analytical Surfaces,,,Originating Element,"Floor : Generic - 48""",None,changed
+2950827,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06ab,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950828,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06ac,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950829,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06ad,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950830,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06ae,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950831,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06af,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950832,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b0,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950833,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b1,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950834,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b2,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950835,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b3,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950836,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b4,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950837,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b5,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950838,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b6,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950839,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b7,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950840,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b8,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950841,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06b9,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950842,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06ba,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950843,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06bb,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950844,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06bc,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950845,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06bd,Analytical Surfaces,,,Originating Element,"Floor : Concrete 4""",None,changed
+2950846,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06be,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950847,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06bf,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950848,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c0,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950849,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c1,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950850,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c2,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950851,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c3,Analytical Surfaces,,,Originating Element,"Toposolid : Earth 30""",None,changed
+2950852,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c4,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950853,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c5,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950854,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c6,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950855,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c7,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950857,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06c9,Analytical Surfaces,,,Originating Element,"Door-Interior-Double-Sliding-2_Panel-Wood : 48"" x 96""",None,changed
+2950875,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06db,Analytical Surfaces,,,Originating Element,"Door-Exterior-Single-Entry-Arch Top-Wood_Clad : 36"" x 96""",None,changed
+2950903,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06f7,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950904,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06f8,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950905,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06f9,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950906,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06fa,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950907,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06fb,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950908,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06fc,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950909,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06fd,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950910,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06fe,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950911,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d06ff,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950912,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0700,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950913,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0701,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950914,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0702,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950915,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0703,Analytical Surfaces,,,Originating Element,"Floor : Concrete 10""",None,changed
+2950917,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0705,<none>,,,Energy analysis zone data json,"{""airSystems"":[],""hydronicLoops"":[],""zoneEquipments"":[{""cadObjectId"":""2950916-1"",""drawVentilation"":false,""name"":""Unconditioned-1"",""parameters"":[],""zoneHvacEquipmentType"":16}]}",,missing
+2950918,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0706,<none>,,,Energy analysis zone data json,"{""airSystems"":[],""hydronicLoops"":[],""zoneEquipments"":[{""cadObjectId"":""2950916-2"",""drawVentilation"":false,""name"":""Unconditioned-2"",""parameters"":[],""zoneHvacEquipmentType"":16}]}",,missing
+2950919,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0707,<none>,,,Energy analysis zone data json,"{""airSystems"":[],""hydronicLoops"":[],""zoneEquipments"":[{""cadObjectId"":""2950916-3"",""drawVentilation"":false,""name"":""Unconditioned-3"",""parameters"":[],""zoneHvacEquipmentType"":16}]}",,missing
+2950920,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0708,<none>,,,Energy analysis zone data json,"{""airSystems"":[],""hydronicLoops"":[],""zoneEquipments"":[{""cadObjectId"":""2950916-4"",""drawVentilation"":false,""name"":""Unconditioned-4"",""parameters"":[],""zoneHvacEquipmentType"":16}]}",,missing
+2950921,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0709,<none>,,,Energy analysis zone data json,"{""airSystems"":[],""hydronicLoops"":[],""zoneEquipments"":[{""cadObjectId"":""2950916-5"",""drawVentilation"":false,""name"":""Unconditioned-5"",""parameters"":[],""zoneHvacEquipmentType"":16}]}",,missing
+2950922,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d070a,<none>,,,Energy analysis zone data json,"{""airSystems"":[],""hydronicLoops"":[],""zoneEquipments"":[{""cadObjectId"":""2950916-6"",""drawVentilation"":false,""name"":""Unconditioned-6"",""parameters"":[],""zoneHvacEquipmentType"":16}]}",,missing
+2950923,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d070b,<none>,,,Energy analysis zone data json,"{""airSystems"":[],""hydronicLoops"":[],""zoneEquipments"":[]}",,missing
+2950924,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d070c,<none>,,,JSON data for Analytical Constructions,"{""absorptance"":{""value"":0.7},""description"":{""value"":""ASHRAE 90.1 compliant R13 sheathing 16 in (400 mm) on center wood framed wall [Source: GBS] ""},""heatTransferCoefficient"":{""value"":0.486858},""layers"":[{""material"":{""density"":{""value"":512.64},""description"":{""value"":""For walls""},""name"":{""value"":""Wood shingle  (WS01)""},""specificHeatCapacity"":{""value"":1256.04},""thermalConductivity"":{""value"":0.11544},""thermalResistance"":{""value"":0.15392}},""thickness"":0.017769},{""material"":{""description"":{""value"":""Permeable felt""},""name"":{""value"":""Bldg paper felt  (BP01)""},""thermalResistance"":{""value"":0.01057}},""thickness"":0.0},{""material"":{""density"":{""value"":512.64},""description"":{""value"":""Wood Sft 3/4 in (1.9 cm)""},""name"":{""value"":""Wood Sft 3/4 in  (WD01)""},""specificHeatCapacity"":{""value"":1381.644},""thermalConductivity"":{""value"":0.11544},""thermalResistance"":{""value"":0.16501}},""thickness"":0.019049},{""material"":{""density"":{""value"":129.9},""description"":{""value"":""Batt, R-13 including framing factor""},""name"":{""value"":""Minwool batt R13 w/ 2x4 frame""},""specificHeatCapacity"":{""value"":962.2999999999998},""thermalConductivity"":{""value"":0.06227},""thermalResistance"":{""value"":1.63172}},""thickness"":0.10159999999999998},{""material"":{""density"":{""value"":801.0},""description"":{""value"":""GypBd 5/8 in (1.6 cm)""},""name"":{""value"":""GypBd 5/8 in  (GP02)""},""specificHeatCapacity"":{""value"":837.3599999999999},""thermalConductivity"":{""value"":0.16026600000000002},""thermalResistance"":{""value"":0.09908}},""thickness"":0.015879}],""name"":{""value"":""R-13 wood frame wall""},""roughness"":{""value"":3},""schematic"":{""value"":true},""thermalMass"":{""value"":48284.263224474234},""thermalResistance"":{""value"":2.053986994154353}}","{""absorptance"":{""value"":0.7},""description"":{""value"":""ASHRAE 90.1 compliant R13 sheathing 16 in (400 mm) on center wood framed wall [Source: GBS] ""},""heatTransferCoefficient"":{""value"":0.486858},""layers"":[],""name"":{""value"":""R-13 wood frame wall""},""roughness"":{""value"":3},""schematic"":{""value"":false},""thermalMass"":{""value"":48284.263224474234},""thermalResistance"":{""value"":2.053986994154353}}",changed
+2950924,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d070c,<none>,,,Schematic,1,0,changed
+2950930,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0712,<none>,,,JSON data for Window Types,"{""description"":{""value"":""Pilkington RW33 double glazing (1/4 in + 1/4 in)""},""name"":{""value"":""Pilkington RW33 double glazing (1/4 in + 1/4 in)""},""solarHeatGainCoefficient"":{""value"":0.66},""solarHeatGainCoefficients"":{""0.000000"":0.76,""40.000000"":0.74,""50.000000"":0.71,""60.000000"":0.64,""70.000000"":0.5,""80.000000"":0.26},""thermalConductivity"":{""value"":2.8566},""transmittance"":{""value"":0.81}}","{""description"":{""value"":""Pilkington RW33 double glazing (1/4 in + 1/4 in)""},""name"":{""value"":""Pilkington RW33 double glazing (1/4 in + 1/4 in)""},""solarHeatGainCoefficient"":{""value"":0.66},""solarHeatGainCoefficients"":{},""thermalConductivity"":{""value"":2.8566},""transmittance"":{""value"":0.81}}",changed
+2950930,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0712,<none>,,,Schematic,1,0,changed
+2950931,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0713,<none>,,,JSON data for Analytical Constructions,"{""absorptance"":{""value"":0.7},""description"":{""value"":""R0 16 in (400 mm) on center metal framed wall, typical for interior walls [Source: GBS] ""},""heatTransferCoefficient"":{""value"":3.253685},""layers"":[{""material"":{""density"":{""value"":801.0},""description"":{""value"":""GypBd 5/8 in (1.6 cm)""},""name"":{""value"":""GypBd 5/8 in  (GP02)""},""specificHeatCapacity"":{""value"":837.3599999999999},""thermalConductivity"":{""value"":0.16026600000000002},""thermalResistance"":{""value"":0.09908}},""thickness"":0.015879},{""material"":{""description"":{""value"":""Air space proxy for air wall or no construction""},""name"":{""value"":""Air space""},""thermalResistance"":{""value"":0.10919}},""thickness"":0.0},{""material"":{""density"":{""value"":801.0},""description"":{""value"":""GypBd 5/8 in (1.6 cm)""},""name"":{""value"":""GypBd 5/8 in  (GP02)""},""specificHeatCapacity"":{""value"":837.3599999999999},""thermalConductivity"":{""value"":0.16026600000000002},""thermalResistance"":{""value"":0.09908}},""thickness"":0.015879}],""name"":{""value"":""R-0 metal frame wall""},""roughness"":{""value"":3},""schematic"":{""value"":true},""thermalMass"":{""value"":21300.89598288},""thermalResistance"":{""value"":0.30734382707606916}}","{""absorptance"":{""value"":0.7},""description"":{""value"":""R0 16 in (400 mm) on center metal framed wall, typical for interior walls [Source: GBS] ""},""heatTransferCoefficient"":{""value"":3.253685},""layers"":[],""name"":{""value"":""R-0 metal frame wall""},""roughness"":{""value"":3},""schematic"":{""value"":false},""thermalMass"":{""value"":21300.89598288},""thermalResistance"":{""value"":0.30734382707606916}}",changed
+2950931,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0713,<none>,,,Schematic,1,0,changed
+2950933,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0715,<none>,,,JSON data for Analytical Constructions,"{""description"":{""value"":""Wooden door""},""heatTransferCoefficient"":{""value"":2.1944},""layers"":[{""material"":{""density"":{""value"":608.0},""description"":{""value"":""1 1/2 in (40 mm) wood""},""name"":{""value"":""1 1/2 in wood""},""specificHeatCapacity"":{""value"":1630.0},""thermalConductivity"":{""value"":0.15},""thermalResistance"":{""value"":0.2506666666666667}},""thickness"":0.0376}],""name"":{""value"":""Wooden""},""schematic"":{""value"":true},""thermalMass"":{""value"":37263.104},""thermalResistance"":{""value"":0.4557054320087496}}","{""description"":{""value"":""Wooden door""},""heatTransferCoefficient"":{""value"":2.1944},""layers"":[],""name"":{""value"":""Wooden""},""schematic"":{""value"":false},""thermalMass"":{""value"":37263.104},""thermalResistance"":{""value"":0.4557054320087496}}",changed
+2950933,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0715,<none>,,,Schematic,1,0,changed
+2950935,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0717,<none>,,,JSON data for Analytical Constructions,"{""description"":{""value"":""4 in (100 mm) reinforced-concrete ceiling""},""heatTransferCoefficient"":{""value"":3.6842},""layers"":[{""material"":{""density"":{""value"":2299.9999999999995},""description"":{""value"":""Concrete cast dense reinforced""},""name"":{""value"":""Concrete cast dense reinforced""},""specificHeatCapacity"":{""value"":840.0000000000001},""thermalConductivity"":{""value"":1.9},""thermalResistance"":{""value"":0.05263157894736843}},""thickness"":0.10000000000000002}],""name"":{""value"":""4 in reinforced-concrete ceiling""},""schematic"":{""value"":true},""thermalMass"":{""value"":193200.00000000003},""thermalResistance"":{""value"":0.27142934694099125}}","{""description"":{""value"":""4 in (100 mm) reinforced-concrete ceiling""},""heatTransferCoefficient"":{""value"":3.6842},""layers"":[],""name"":{""value"":""4 in reinforced-concrete ceiling""},""schematic"":{""value"":false},""thermalMass"":{""value"":193200.00000000003},""thermalResistance"":{""value"":0.27142934694099125}}",changed
+2950935,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0717,<none>,,,Schematic,1,0,changed
+2950937,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0719,<none>,,,JSON data for Analytical Constructions,"{""absorptance"":{""value"":0.3},""description"":{""value"":""ASHRAE 90.1 compliant continuous R20 insulation over roof deck-Cool roof [Source: CIBSE] ""},""heatTransferCoefficient"":{""value"":0.256208},""layers"":[{""material"":{""density"":{""value"":1121.4},""description"":{""value"":""Blt-Up roof 3/8 in (1 cm)""},""name"":{""value"":""Blt-Up roof 3/8 in  (BR01)""},""specificHeatCapacity"":{""value"":1465.38},""thermalConductivity"":{""value"":0.162516},""thermalResistance"":{""value"":0.0587}},""thickness"":0.00954},{""material"":{""description"":{""value"":""Permeable felt""},""name"":{""value"":""Bldg paper felt  (BP01)""},""thermalResistance"":{""value"":0.01057}},""thickness"":0.0},{""material"":{""density"":{""value"":240.3},""description"":{""value"":""R-10.4 MinBd 3 in (7.6 cm)""},""name"":{""value"":""MinBd 3 in R-10.4  (IN24)""},""specificHeatCapacity"":{""value"":711.756},""thermalConductivity"":{""value"":0.041538},""thermalResistance"":{""value"":1.83437}},""thickness"":0.076196},{""material"":{""density"":{""value"":240.3},""description"":{""value"":""R-10.4 MinBd 3 in (7.6 cm)""},""name"":{""value"":""MinBd 3 in R-10.4  (IN24)""},""specificHeatCapacity"":{""value"":711.756},""thermalConductivity"":{""value"":0.041538},""thermalResistance"":{""value"":1.83437}},""thickness"":0.076196},{""material"":{""density"":{""value"":512.64},""description"":{""value"":""Wood Sft 3/4 in (1.9 cm)""},""name"":{""value"":""Wood Sft 3/4 in  (WD01)""},""specificHeatCapacity"":{""value"":1381.644},""thermalConductivity"":{""value"":0.11544},""thermalResistance"":{""value"":0.16501}},""thickness"":0.019049}],""name"":{""value"":""R-20 over roof deck - cool roof""},""roughness"":{""value"":3},""schematic"":{""value"":true},""thermalMass"":{""value"":55233.364135933436},""thermalResistance"":{""value"":3.90307874851683}}","{""absorptance"":{""value"":0.3},""description"":{""value"":""ASHRAE 90.1 compliant continuous R20 insulation over roof deck-Cool roof [Source: CIBSE] ""},""heatTransferCoefficient"":{""value"":0.256208},""layers"":[],""name"":{""value"":""R-20 over roof deck - cool roof""},""roughness"":{""value"":3},""schematic"":{""value"":false},""thermalMass"":{""value"":55233.364135933436},""thermalResistance"":{""value"":3.90307874851683}}",changed
+2950937,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d0719,<none>,,,Schematic,1,0,changed
+2950940,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d071c,<none>,,,JSON data for Analytical Constructions,"{""description"":{""value"":""Slab edge uninsulated [Source: GBS] ""},""heatTransferCoefficient"":{""value"":0.1688},""layers"":[{""material"":{""description"":{""value"":""Fictitious insulation place holder""},""name"":{""value"":""UG surface fictitious insulation""},""thermalResistance"":{""value"":5.28331}},""thickness"":0.0},{""material"":{""density"":{""value"":1842.3},""description"":{""value"":""Soil 8 in (20.3 cm)""},""name"":{""value"":""Soil 8 in""},""specificHeatCapacity"":{""value"":837.3599999999999},""thermalConductivity"":{""value"":1.730735},""thermalResistance"":{""value"":0.11799}},""thickness"":0.204206},{""material"":{""density"":{""value"":2242.8},""description"":{""value"":""Conc heavyweight 140lb 8 in (20.3cm)""},""name"":{""value"":""Conc heavyweight 140lb 8 in  (CC05)""},""specificHeatCapacity"":{""value"":837.3599999999999},""thermalConductivity"":{""value"":1.311205},""thermalResistance"":{""value"":0.15497}},""thickness"":0.20319999999999996},{""material"":{""description"":{""value"":""With fibrous pad""},""name"":{""value"":""Carpet fiber pad  (CP01)""},""thermalResistance"":{""value"":0.36631}},""thickness"":0.0}],""name"":{""value"":""Slab edge uninsulated""},""roughness"":{""value"":5},""schematic"":{""value"":true},""thermalMass"":{""value"":696638.0294131679},""thermalResistance"":{""value"":5.924170616113744}}","{""description"":{""value"":""Slab edge uninsulated [Source: GBS] ""},""heatTransferCoefficient"":{""value"":0.1688},""layers"":[],""name"":{""value"":""Slab edge uninsulated""},""roughness"":{""value"":5},""schematic"":{""value"":false},""thermalMass"":{""value"":696638.0294131679},""thermalResistance"":{""value"":5.924170616113744}}",changed
+2950940,0e1188f6-bf1b-49c5-8a8c-fa28e89c5fb9-002d071c,<none>,,,Schematic,1,0,changed
